@@ -44,9 +44,25 @@ fillSelect(
   elements.year,
   [...new Set(games.map((game) => game.year).filter(Boolean))].sort(collator.compare),
 );
+
+const manufacturerReadings = new Map();
+for (const game of games) {
+  if (!manufacturerReadings.has(game.manufacturer)) {
+    manufacturerReadings.set(
+      game.manufacturer,
+      game.manufacturerReading || game.manufacturer,
+    );
+  }
+}
+
 fillSelect(
   elements.manufacturer,
-  [...new Set(games.map((game) => game.manufacturer).filter(Boolean))].sort(collator.compare),
+  [...manufacturerReadings.keys()].sort((left, right) =>
+    collator.compare(
+      manufacturerReadings.get(left) || left,
+      manufacturerReadings.get(right) || right,
+    ),
+  ),
 );
 
 elements.totalCount.textContent = games.length.toLocaleString("ja-JP");
@@ -88,9 +104,23 @@ const renderRow = (game) => {
 };
 
 const compareGames = (left, right) => {
-  const primary = collator.compare(left[state.sort] || "", right[state.sort] || "");
+  const sortValue = (game, key) => {
+    if (key === "title") return game.titleReading || game.title;
+    if (key === "manufacturer") {
+      return game.manufacturerReading || game.manufacturer;
+    }
+    return game[key] || "";
+  };
+
+  const primary = collator.compare(
+    sortValue(left, state.sort),
+    sortValue(right, state.sort),
+  );
   const secondary = collator.compare(left.year || "", right.year || "") ||
-    collator.compare(left.title || "", right.title || "");
+    collator.compare(
+      left.titleReading || left.title || "",
+      right.titleReading || right.title || "",
+    );
   return (primary || secondary) * (state.direction === "asc" ? 1 : -1);
 };
 
@@ -102,7 +132,8 @@ const render = () => {
     .filter((game) => {
       if (!query) return true;
       return normalize(
-        `${game.title} ${game.year} ${game.manufacturer} ${game.name} ${game.note}`,
+        `${game.title} ${game.titleReading} ${game.year} ${game.manufacturer} ` +
+        `${game.manufacturerReading} ${game.name} ${game.note}`,
       ).includes(query);
     })
     .sort(compareGames);

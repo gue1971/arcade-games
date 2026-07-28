@@ -473,12 +473,60 @@ footer {
   }
 
   table,
+  thead,
   tbody {
     display: block;
   }
 
   thead {
+    position: sticky;
+    z-index: 15;
+    top: 49px;
+    width: 100%;
+  }
+
+  thead tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 64px 90px;
+    gap: 5px;
+    min-height: 30px;
+    padding: 0 12px;
+    border-bottom: 1px solid var(--line-strong);
+    background: var(--surface-soft);
+  }
+
+  th {
     display: none;
+    width: auto;
+    height: 30px;
+    padding: 0;
+    border-bottom: 0;
+    background: transparent;
+  }
+
+  th:nth-child(-n + 3) {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+  }
+
+  .title-column,
+  .year-column,
+  .maker-column {
+    width: auto;
+  }
+
+  th:nth-child(2) {
+    justify-content: center;
+  }
+
+  .sort-button {
+    gap: 2px;
+    min-width: 0;
+    overflow: hidden;
+    font-size: 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
   }
 
   tbody {
@@ -486,7 +534,8 @@ footer {
   }
 
   tbody tr {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 64px 90px;
     align-items: center;
     gap: 5px;
     min-height: 37px;
