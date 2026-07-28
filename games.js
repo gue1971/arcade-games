@@ -9,7 +9,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スペースインベーダー",
     "year": "1978",
-    "manufacturer": "タイトー",
+    "manufacturer": "タイトー / ミッドウェイ",
     "name": "invaders",
     "note": "Space Invaders M"
   },
@@ -44,7 +44,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ヘッドオン",
     "year": "1979",
-    "manufacturer": "Gremlin",
+    "manufacturer": "グレムリン",
     "name": "headon",
     "note": "2 players"
   },
@@ -65,7 +65,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スペースインベーダー パートII",
     "year": "1979",
-    "manufacturer": "タイトー",
+    "manufacturer": "タイトー （ミッドウェイライセンス）",
     "name": "invaddlx",
     "note": "Space Invaders Deluxe"
   },
@@ -79,7 +79,7 @@ window.ARCADE_GAMES = [
   {
     "title": "オズマウォーズ",
     "year": "1979",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "ozmawars",
     "note": "set 1"
   },
@@ -114,7 +114,7 @@ window.ARCADE_GAMES = [
   {
     "title": "海底宝探し",
     "year": "1980",
-    "manufacturer": "K.K.特機",
+    "manufacturer": "K.K.特機 （ナムコライセンス）",
     "name": "kaitein",
     "note": "namco"
   },
@@ -128,7 +128,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ミサイルコマンド",
     "year": "1980",
-    "manufacturer": "Atari",
+    "manufacturer": "アタリ",
     "name": "missile",
     "note": "set 1"
   },
@@ -147,16 +147,16 @@ window.ARCADE_GAMES = [
     "note": "日本版 set 1"
   },
   {
-    "title": "Rallys",
+    "title": "ラリーX",
     "year": "1980",
-    "manufacturer": "Nover",
+    "manufacturer": "ナムコ",
     "name": "rallyxa",
     "note": ""
   },
   {
     "title": "サスケVSコマンダ",
     "year": "1980",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "sasuke",
     "note": ""
   },
@@ -175,9 +175,9 @@ window.ARCADE_GAMES = [
     "note": "ver 3"
   },
   {
-    "title": "Battle of Atlantis",
+    "title": "バトル・オブ・アトランティス",
     "year": "1981",
-    "manufacturer": "Comsoft",
+    "manufacturer": "コムソフト",
     "name": "atlantis",
     "note": "set 1"
   },
@@ -191,14 +191,14 @@ window.ARCADE_GAMES = [
   {
     "title": "クラッシュローラー",
     "year": "1981",
-    "manufacturer": "アルファ電子",
+    "manufacturer": "アルファ電子 / クラル・サンノー電機",
     "name": "crush",
     "note": "Kural Samno"
   },
   {
     "title": "ドンキーコング",
     "year": "1981",
-    "manufacturer": "池上通信機",
+    "manufacturer": "任天堂",
     "name": "dkongjo",
     "note": "日本版 set 1"
   },
@@ -226,14 +226,14 @@ window.ARCADE_GAMES = [
   {
     "title": "クイックス",
     "year": "1981",
-    "manufacturer": "タイトーアメリカ",
+    "manufacturer": "タイトー・アメリカ",
     "name": "qix",
     "note": "set 1"
   },
   {
     "title": "クイックスII",
     "year": "1981",
-    "manufacturer": "タイトーアメリカ",
+    "manufacturer": "タイトー・アメリカ",
     "name": "qix2",
     "note": "トーナメント"
   },
@@ -247,7 +247,7 @@ window.ARCADE_GAMES = [
   {
     "title": "バンガード",
     "year": "1981",
-    "manufacturer": "不明",
+    "manufacturer": "SNK",
     "name": "vanguard",
     "note": "SN"
   },
@@ -317,7 +317,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ペンゴ",
     "year": "1982",
-    "manufacturer": "コアランド",
+    "manufacturer": "セガ",
     "name": "pengo",
     "note": "set 1 rev c"
   },
@@ -336,13 +336,6 @@ window.ARCADE_GAMES = [
     "note": "rev D"
   },
   {
-    "title": "Qバート",
-    "year": "1983",
-    "manufacturer": "不明",
-    "name": "qbert",
-    "note": ""
-  },
-  {
     "title": "スーパーパックマン",
     "year": "1982",
     "manufacturer": "ナムコ",
@@ -359,7 +352,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スイマー",
     "year": "1982",
-    "manufacturer": "テーカン（テクモ）",
+    "manufacturer": "テーカン",
     "name": "swimmer",
     "note": "set 1"
   },
@@ -401,14 +394,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ザクソン",
     "year": "1982",
-    "manufacturer": "池上通信機",
+    "manufacturer": "セガ",
     "name": "zaxxon",
     "note": "set 1"
   },
   {
     "title": "アンブッシュ",
     "year": "1983",
-    "manufacturer": "Tecfri",
+    "manufacturer": "テクフリ （日本アミューズライセンス）",
     "name": "ambushj",
     "note": "日本版 / m↑"
   },
@@ -436,7 +429,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ティップタップ",
     "year": "1983",
-    "manufacturer": "池上通信機",
+    "manufacturer": "セガ",
     "name": "congo",
     "note": "Congo Bongo (rev C 2 board stack)"
   },
@@ -471,14 +464,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ホッパーロボ",
     "year": "1983",
-    "manufacturer": "不明",
+    "manufacturer": "セガ",
     "name": "hopprobo",
     "note": ""
   },
   {
     "title": "イクシオン",
     "year": "1983",
-    "manufacturer": "不明",
+    "manufacturer": "セガ",
     "name": "ixion",
     "note": "prototype"
   },
@@ -511,9 +504,9 @@ window.ARCADE_GAMES = [
     "note": ""
   },
   {
-    "title": "Razzmatazz",
+    "title": "ラズマタズ",
     "year": "1983",
-    "manufacturer": "不明",
+    "manufacturer": "セガ",
     "name": "razmataz",
     "note": ""
   },
@@ -534,7 +527,7 @@ window.ARCADE_GAMES = [
   {
     "title": "SF-X -スペースファイターX",
     "year": "1983",
-    "manufacturer": "Skelagon",
+    "manufacturer": "日本ゲーム （東京日本物産ライセンス）",
     "name": "sfx",
     "note": ""
   },
@@ -546,7 +539,7 @@ window.ARCADE_GAMES = [
     "note": ""
   },
   {
-    "title": "Faster, Harder, More Challenging Q*bert",
+    "title": "Qバート",
     "year": "1983",
     "manufacturer": "Mylstar",
     "name": "sqbert",
@@ -583,7 +576,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ヤマト",
     "year": "1983",
-    "manufacturer": "不明",
+    "manufacturer": "セガ",
     "name": "yamato",
     "note": ""
   },
@@ -604,7 +597,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アッポー",
     "year": "1984",
-    "manufacturer": "サンリツ",
+    "manufacturer": "サンリツ / セガ",
     "name": "appoooh",
     "note": ""
   },
@@ -625,21 +618,21 @@ window.ARCADE_GAMES = [
   {
     "title": "ボンジャック",
     "year": "1984",
-    "manufacturer": "テーカン（テクモ）",
+    "manufacturer": "テーカン",
     "name": "bombjack",
     "note": "set 1"
   },
   {
     "title": "ザ・闘牛",
     "year": "1984",
-    "manufacturer": "不明",
+    "manufacturer": "コアランド / セガ",
     "name": "bullfgt",
     "note": "Bullfight (315-5065)"
   },
   {
     "title": "ザ・闘牛",
     "year": "1998",
-    "manufacturer": "コアランド",
+    "manufacturer": "コアランド / セガ",
     "name": "thetogyu",
     "note": "315-5065, 日本版"
   },
@@ -653,7 +646,7 @@ window.ARCADE_GAMES = [
   {
     "title": "チャイニーズヒーロー",
     "year": "1984",
-    "manufacturer": "不明",
+    "manufacturer": "タイヨーシステム",
     "name": "chinhero",
     "note": ""
   },
@@ -667,7 +660,7 @@ window.ARCADE_GAMES = [
   {
     "title": "バッテンオハラのスチャラカ空中戦",
     "year": "1985",
-    "manufacturer": "不明",
+    "manufacturer": "テクノスジャパン",
     "name": "dogfgt",
     "note": "Acrobatic Dog-Fight"
   },
@@ -723,14 +716,14 @@ window.ARCADE_GAMES = [
   {
     "title": "グレートソードマン",
     "year": "1984",
-    "manufacturer": "タイトー",
+    "manufacturer": "アルュメ / タイトー",
     "name": "gsword2",
     "note": "日本版"
   },
   {
     "title": "ハイパーオリンピック '84",
     "year": "1984",
-    "manufacturer": "コナミ",
+    "manufacturer": "コナミ （センチュリライセンス）",
     "name": "hyperspt",
     "note": "Hyper Sports"
   },
@@ -744,7 +737,7 @@ window.ARCADE_GAMES = [
   {
     "title": "空手道",
     "year": "1984",
-    "manufacturer": "テクノスジャパン",
+    "manufacturer": "データイースト",
     "name": "karatedo",
     "note": "日本版"
   },
@@ -758,14 +751,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ロードランナー",
     "year": "1984",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "ldrun",
     "note": "set 1"
   },
   {
     "title": "ロードランナー -バンゲリング帝国の逆襲",
     "year": "1985",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "ldrun2",
     "note": ""
   },
@@ -779,7 +772,7 @@ window.ARCADE_GAMES = [
   {
     "title": "マーブルマッドネス",
     "year": "1985",
-    "manufacturer": "Atari",
+    "manufacturer": "アタリゲームズ",
     "name": "marble",
     "note": "set 1"
   },
@@ -800,7 +793,7 @@ window.ARCADE_GAMES = [
   {
     "title": "忍者くん -魔城の冒険",
     "year": "1984",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL （タイトーライセンス）",
     "name": "ninjakun",
     "note": ""
   },
@@ -856,7 +849,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スターフォース",
     "year": "1984",
-    "manufacturer": "テーカン（テクモ）",
+    "manufacturer": "テーカン",
     "name": "starforc",
     "note": ""
   },
@@ -870,7 +863,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ヴァンガードII",
     "year": "1984",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "vangrd2",
     "note": ""
   },
@@ -889,9 +882,9 @@ window.ARCADE_GAMES = [
     "note": "315-5064"
   },
   {
-    "title": "Arm Wrestling",
+    "title": "アームレスリング",
     "year": "1985",
-    "manufacturer": "不明",
+    "manufacturer": "任天堂",
     "name": "armwrest",
     "note": ""
   },
@@ -905,7 +898,7 @@ window.ARCADE_GAMES = [
   {
     "title": "シティコネクション",
     "year": "1985",
-    "manufacturer": "エヌエムケイ（NMK）",
+    "manufacturer": "ジャレコ",
     "name": "citycon",
     "note": "set 1"
   },
@@ -947,7 +940,7 @@ window.ARCADE_GAMES = [
   {
     "title": "フラッシュギャル",
     "year": "1985",
-    "manufacturer": "九娯貿易",
+    "manufacturer": "九娯貿易 / セガ",
     "name": "flashgal",
     "note": "set 1"
   },
@@ -961,7 +954,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ガントレット",
     "year": "1986",
-    "manufacturer": "Atari",
+    "manufacturer": "アタリゲームズ",
     "name": "gauntletj",
     "note": "rev 14"
   },
@@ -989,7 +982,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ハングオン",
     "year": "1985",
-    "manufacturer": "コアランド / セガ",
+    "manufacturer": "セガ",
     "name": "hangon",
     "note": "rev A"
   },
@@ -1024,14 +1017,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ロードランナー -魔神の復活",
     "year": "1985",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "ldrun3j",
     "note": ""
   },
   {
     "title": "ロットロット",
     "year": "1985",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （徳間書店ライセンス）",
     "name": "lotlot",
     "note": ""
   },
@@ -1045,7 +1038,7 @@ window.ARCADE_GAMES = [
   {
     "title": "エキサイティングアワー",
     "year": "1985",
-    "manufacturer": "テクノスジャパン",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
     "name": "excthour",
     "note": ""
   },
@@ -1066,7 +1059,7 @@ window.ARCADE_GAMES = [
   {
     "title": "青春スキャンダル",
     "year": "1985",
-    "manufacturer": "コアランド",
+    "manufacturer": "コアランド / セガ",
     "name": "sscandal",
     "note": "日本版 315-5132"
   },
@@ -1080,7 +1073,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ピンボールアクション",
     "year": "1985",
-    "manufacturer": "テーカン（テクモ）",
+    "manufacturer": "テーカン",
     "name": "pbaction",
     "note": "set 1"
   },
@@ -1101,14 +1094,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ぺんぎんくんウォーズ",
     "year": "1985",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "pkunwarj",
     "note": "日本版"
   },
   {
     "title": "リターン・オブ・ザ・インベーダーズ",
     "year": "1985",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "タイトー",
     "name": "retofinv",
     "note": ""
   },
@@ -1129,7 +1122,7 @@ window.ARCADE_GAMES = [
   {
     "title": "北派少林 飛龍の拳",
     "year": "1985",
-    "manufacturer": "タイヨーシステム / カルチャーブレーン",
+    "manufacturer": "タイヨーシステム （タイトーライセンス）",
     "name": "hiryuken",
     "note": ""
   },
@@ -1150,7 +1143,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スペランカー",
     "year": "1985",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "spelunkrj",
     "note": "日本版"
   },
@@ -1164,7 +1157,7 @@ window.ARCADE_GAMES = [
   {
     "title": "テーカンワールドカップ",
     "year": "1985",
-    "manufacturer": "テーカン（テクモ）",
+    "manufacturer": "テーカン",
     "name": "tehkanwc",
     "note": "set 1"
   },
@@ -1178,21 +1171,21 @@ window.ARCADE_GAMES = [
   {
     "title": "タイガーヘリ",
     "year": "1985",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "tigerhj",
     "note": "日本版 set 2"
   },
   {
     "title": "T.A.N.K.",
     "year": "1985",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "tnk3j",
     "note": "日本版"
   },
   {
     "title": "侍日本一",
     "year": "1985",
-    "manufacturer": "不明",
+    "manufacturer": "カネコ / タイトー",
     "name": "tsamurai",
     "note": ""
   },
@@ -1206,7 +1199,7 @@ window.ARCADE_GAMES = [
   {
     "title": "決死の探検サバイバル ゆけゆけ！山口君",
     "year": "1985",
-    "manufacturer": "カネコ",
+    "manufacturer": "カネコ / タイトー",
     "name": "yamagchi",
     "note": ""
   },
@@ -1220,7 +1213,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スラップファイト",
     "year": "1986",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "slapfigh",
     "note": "set 1"
   },
@@ -1234,7 +1227,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アーガス",
     "year": "1986",
-    "manufacturer": "エヌエムケイ（NMK）",
+    "manufacturer": "NMK （ジャレコライセンス）",
     "name": "argus",
     "note": ""
   },
@@ -1248,21 +1241,21 @@ window.ARCADE_GAMES = [
   {
     "title": "アテナ",
     "year": "1986",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "athena",
     "note": ""
   },
   {
     "title": "バルバルークの伝説",
     "year": "1986",
-    "manufacturer": "ビック東海",
+    "manufacturer": "エイブル",
     "name": "baluba",
     "note": ""
   },
   {
     "title": "バトルレーンVol.5",
     "year": "1986",
-    "manufacturer": "不明",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
     "name": "battlane",
     "note": "set 1"
   },
@@ -1339,35 +1332,35 @@ window.ARCADE_GAMES = [
   {
     "title": "黄金の城",
     "year": "1986",
-    "manufacturer": "タイトー",
+    "manufacturer": "アルュメ / タイトー",
     "name": "ogonsiro",
     "note": "日本版"
   },
   {
     "title": "ハレーズコメット",
     "year": "1986",
-    "manufacturer": "タイトー",
+    "manufacturer": "タイトー・アメリカ （Coin-Itライセンス）",
     "name": "halleysc",
     "note": "日本版 newer"
   },
   {
     "title": "ホッピングマッピー",
     "year": "1986",
-    "manufacturer": "ナムコ（ゲームスタジオ）",
+    "manufacturer": "ナムコ",
     "name": "hopmappy",
     "note": ""
   },
   {
     "title": "怒",
     "year": "1986",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "ikari",
     "note": "Ikari Warriors (USA版)"
   },
   {
     "title": "大列車強盗",
     "year": "1986",
-    "manufacturer": "不明",
+    "manufacturer": "コナミ",
     "name": "ironhors",
     "note": ""
   },
@@ -1388,7 +1381,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ロードランナー -帝国からの脱出",
     "year": "1986",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "ldrun4",
     "note": ""
   },
@@ -1423,14 +1416,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ピタゴラスの謎",
     "year": "1987",
-    "manufacturer": "不明",
+    "manufacturer": "セガ / ナスコ",
     "name": "ridleofp",
     "note": "AAR"
   },
   {
     "title": "イシターの復活",
     "year": "1986",
-    "manufacturer": "ナムコ（ゲームスタジオ）",
+    "manufacturer": "ナムコ",
     "name": "roishtar",
     "note": ""
   },
@@ -1479,14 +1472,14 @@ window.ARCADE_GAMES = [
   {
     "title": "スペランカーII -23の鍵",
     "year": "1986",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "spelunk2",
     "note": ""
   },
   {
     "title": "S.R.D.ミッション",
     "year": "1986",
-    "manufacturer": "九娯貿易 / ウッドプレイス",
+    "manufacturer": "九娯貿易 / タイトー",
     "name": "srdmissn",
     "note": ""
   },
@@ -1521,35 +1514,35 @@ window.ARCADE_GAMES = [
   {
     "title": "バルトリック",
     "year": "1986",
-    "manufacturer": "不明",
+    "manufacturer": "NMK （ジャレコライセンス）",
     "name": "valtric",
     "note": ""
   },
   {
     "title": "怒号層圏",
     "year": "1986",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "dogosoke",
     "note": ""
   },
   {
     "title": "ワンダーボーイ",
     "year": "1986",
-    "manufacturer": "ウエストン（エスケープ）",
+    "manufacturer": "エスケープ （セガライセンス）",
     "name": "wboy",
     "note": "set 1 new encryption"
   },
   {
     "title": "WECル・マン24",
     "year": "1986",
-    "manufacturer": "コアランド",
+    "manufacturer": "コナミ",
     "name": "wecleman",
     "note": ""
   },
   {
     "title": "XXミッション",
     "year": "1986",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "xxmissio",
     "note": ""
   },
@@ -1626,7 +1619,7 @@ window.ARCADE_GAMES = [
   {
     "title": "バミューダトライアングル",
     "year": "1987",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "bermudat",
     "note": "日本版"
   },
@@ -1647,7 +1640,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ぶたさん -Pig's ＆ Bomber's",
     "year": "1987",
-    "manufacturer": "エヌエムケイ（NMK）",
+    "manufacturer": "NMK （ジャレコライセンス）",
     "name": "butasanj",
     "note": "日本版"
   },
@@ -1668,7 +1661,7 @@ window.ARCADE_GAMES = [
   {
     "title": "双截龍 ＜ダブルドラゴン＞",
     "year": "1987",
-    "manufacturer": "テクノスジャパン",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
     "name": "ddragon",
     "note": "日本版"
   },
@@ -1696,7 +1689,7 @@ window.ARCADE_GAMES = [
   {
     "title": "飛翔鮫",
     "year": "1987",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "hishouza",
     "note": "日本版"
   },
@@ -1738,7 +1731,7 @@ window.ARCADE_GAMES = [
   {
     "title": "忍者くん 阿修羅の章",
     "year": "1987",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "ninjakd2",
     "note": "Ninja Kid II (set 1)"
   },
@@ -1815,7 +1808,7 @@ window.ARCADE_GAMES = [
   {
     "title": "エクセライザー",
     "year": "1987",
-    "manufacturer": "ジャレコ",
+    "manufacturer": "ジャレコ （日本物産USAライセンス）",
     "name": "skyfox",
     "note": ""
   },
@@ -1829,7 +1822,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スーパークイックス",
     "year": "1987",
-    "manufacturer": "カネコ",
+    "manufacturer": "カネコ / タイトー",
     "name": "sqix",
     "note": "日本版/海外版, V1.2 / m↑"
   },
@@ -1843,14 +1836,14 @@ window.ARCADE_GAMES = [
   {
     "title": "タッチダウンフィーバー",
     "year": "1987",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "tdfeverj",
     "note": "日本"
   },
   {
     "title": "バトルフィールド",
     "year": "1987",
-    "manufacturer": "アルファ電子",
+    "manufacturer": "アルファ電子 （SNKライセンス）",
     "name": "btlfield",
     "note": "日本版"
   },
@@ -1864,21 +1857,21 @@ window.ARCADE_GAMES = [
   {
     "title": "究極タイガー",
     "year": "1987",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "ktiger",
     "note": "日本版"
   },
   {
     "title": "ワードナの森",
     "year": "1987",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "wardnerj",
     "note": "Wardner (海外版)"
   },
   {
     "title": "ザイボット",
     "year": "1987",
-    "manufacturer": "不明",
+    "manufacturer": "アタリゲームズ",
     "name": "xybots",
     "note": ""
   },
@@ -1892,14 +1885,14 @@ window.ARCADE_GAMES = [
   {
     "title": "エンゼルキッズ",
     "year": "1988",
-    "manufacturer": "EXAプランニング",
+    "manufacturer": "セガ / ナスコ?",
     "name": "angelkds",
     "note": "日本版"
   },
   {
     "title": "アークエリア",
     "year": "1988",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "arkarea",
     "note": ""
   },
@@ -1934,7 +1927,7 @@ window.ARCADE_GAMES = [
   {
     "title": "カプコンボーリング",
     "year": "1988",
-    "manufacturer": "Incredible Technology",
+    "manufacturer": "インクレディブルテクノロジーズ / カプコン",
     "name": "capbowl",
     "note": "set 1"
   },
@@ -1997,7 +1990,7 @@ window.ARCADE_GAMES = [
   {
     "title": "火激",
     "year": "1988",
-    "manufacturer": "カネコ",
+    "manufacturer": "カネコ / タイトー",
     "name": "kagekij",
     "note": "日本版"
   },
@@ -2039,7 +2032,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アトミックロボキッド",
     "year": "1988",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "robokidj",
     "note": "BAM set 1"
   },
@@ -2053,7 +2046,7 @@ window.ARCADE_GAMES = [
   {
     "title": "上海",
     "year": "1988",
-    "manufacturer": "サクセス",
+    "manufacturer": "サンソフト",
     "name": "shanghai",
     "note": "日本版"
   },
@@ -2067,7 +2060,7 @@ window.ARCADE_GAMES = [
   {
     "title": "テトリス",
     "year": "1988",
-    "manufacturer": "セガ / テンゲン",
+    "manufacturer": "セガ",
     "name": "tetris",
     "note": "日本版 set 4 System16A FD1094 317-0093"
   },
@@ -2081,14 +2074,14 @@ window.ARCADE_GAMES = [
   {
     "title": "達人",
     "year": "1988",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "東亜プラン / タイトー",
     "name": "truxton",
     "note": "Truxton"
   },
   {
     "title": "ツインイーグル -Revenge Joe's Brother",
     "year": "1988",
-    "manufacturer": "セタ",
+    "manufacturer": "セタ （タイトーライセンス）",
     "name": "twineagl",
     "note": ""
   },
@@ -2109,7 +2102,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ワンダーボーイIII モンスターレア",
     "year": "1988",
-    "manufacturer": "ウエストン",
+    "manufacturer": "セガ / ウエストン",
     "name": "wb3",
     "note": "set 1"
   },
@@ -2158,7 +2151,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ブロックアウト",
     "year": "1990",
-    "manufacturer": "テクノスジャパン",
+    "manufacturer": "テクノスジャパン / カリフォルニア・ドリームス",
     "name": "blockout",
     "note": "set 1"
   },
@@ -2291,7 +2284,7 @@ window.ARCADE_GAMES = [
   {
     "title": "上海II",
     "year": "1989",
-    "manufacturer": "不明",
+    "manufacturer": "サンソフト",
     "name": "shangha2",
     "note": ""
   },
@@ -2312,7 +2305,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スーパーバレーボール",
     "year": "1989",
-    "manufacturer": "不明",
+    "manufacturer": "ビデオシステム",
     "name": "svolley",
     "note": ""
   },
@@ -2333,7 +2326,7 @@ window.ARCADE_GAMES = [
   {
     "title": "大旋風",
     "year": "1989",
-    "manufacturer": "東亜プラン",
+    "manufacturer": "タイトー",
     "name": "daisenpu",
     "note": "日本版"
   },
@@ -2354,7 +2347,7 @@ window.ARCADE_GAMES = [
   {
     "title": "エア・バスター -Trouble Specialty Raid Unit",
     "year": "1990",
-    "manufacturer": "カネコ",
+    "manufacturer": "カネコ （ナムコライセンス）",
     "name": "airbustr",
     "note": "海外 阪"
   },
@@ -2375,7 +2368,7 @@ window.ARCADE_GAMES = [
   {
     "title": "オーライル",
     "year": "1990",
-    "manufacturer": "ウエストン",
+    "manufacturer": "セガ / ウエストン",
     "name": "aurail",
     "note": "USA版 set 3 unprotected"
   },
@@ -2396,21 +2389,21 @@ window.ARCADE_GAMES = [
   {
     "title": "バルダーダッシュ",
     "year": "1990",
-    "manufacturer": "不明",
+    "manufacturer": "データイースト （ファーストスターライセンス）",
     "name": "bouldash",
     "note": "1990年版"
   },
   {
     "title": "倉庫番デラックス",
     "year": "1990",
-    "manufacturer": "シンキングラビット",
+    "manufacturer": "ナムコ",
     "name": "soukobdx",
     "note": "日本版, SB1"
   },
   {
     "title": "シスコヒート",
     "year": "1990",
-    "manufacturer": "データイースト",
+    "manufacturer": "ジャレコ",
     "name": "cischeat",
     "note": ""
   },
@@ -2494,7 +2487,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ランパート",
     "year": "1991",
-    "manufacturer": "Atari",
+    "manufacturer": "アタリゲームズ",
     "name": "rampartj",
     "note": "trackball"
   },
@@ -2522,21 +2515,21 @@ window.ARCADE_GAMES = [
   {
     "title": "サンダーフォースAC",
     "year": "1990",
-    "manufacturer": "テクノソフト",
+    "manufacturer": "テクノソフト / セガ",
     "name": "tfrceacj",
     "note": "日本版"
   },
   {
     "title": "バンダイク",
     "year": "1991",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "vandyke",
     "note": "日本版"
   },
   {
     "title": "2020年スーパーベースボール",
     "year": "1991",
-    "manufacturer": "不明",
+    "manufacturer": "SNK / パラス",
     "name": "2020bb",
     "note": "set 1"
   },
@@ -2550,14 +2543,14 @@ window.ARCADE_GAMES = [
   {
     "title": "アクロバットミッション",
     "year": "1991",
-    "manufacturer": "ユーピーエル（UPL）",
+    "manufacturer": "UPL （タイトーライセンス）",
     "name": "acrobatm",
     "note": ""
   },
   {
     "title": "ASO II -ラストガーディアン-",
     "year": "1991",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "alpham2",
     "note": "Alpha Mission II"
   },
@@ -2599,7 +2592,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ボンバーマン",
     "year": "1991",
-    "manufacturer": "アイレム",
+    "manufacturer": "アイレム （ハドソンライセンス）",
     "name": "bombrman",
     "note": "日本版"
   },
@@ -2613,7 +2606,7 @@ window.ARCADE_GAMES = [
   {
     "title": "餓狼伝説 -宿命の闘い",
     "year": "1991",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "fatfury1",
     "note": "NGM-033 / NGH-033"
   },
@@ -2634,7 +2627,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ライオットシティ",
     "year": "1991",
-    "manufacturer": "ウエストン",
+    "manufacturer": "セガ / ウエストン",
     "name": "riotcity",
     "note": "日本版"
   },
@@ -2648,7 +2641,7 @@ window.ARCADE_GAMES = [
   {
     "title": "スーパーハイインパクト",
     "year": "1992",
-    "manufacturer": "不明",
+    "manufacturer": "ミッドウェイ",
     "name": "shimpact",
     "note": "rev LAT 09/80/91"
   },
@@ -2669,7 +2662,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ウルトラマン -空想特撮シリーズ",
     "year": "1991",
-    "manufacturer": "バンプレスト",
+    "manufacturer": "バンプレスト / バンダイ",
     "name": "ultraman",
     "note": "日本版"
   },
@@ -2683,7 +2676,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アーケードクラシックス",
     "year": "1992",
-    "manufacturer": "Atari",
+    "manufacturer": "アタリゲームズ",
     "name": "arcadecl",
     "note": "prototype"
   },
@@ -2697,14 +2690,14 @@ window.ARCADE_GAMES = [
   {
     "title": "バルーンブラザーズ",
     "year": "1990",
-    "manufacturer": "不明",
+    "manufacturer": "イーストテクノロジー",
     "name": "ballbros",
     "note": ""
   },
   {
     "title": "ボンバーマンワールド",
     "year": "1992",
-    "manufacturer": "ハドソン",
+    "manufacturer": "アイレム",
     "name": "bbmanwj",
     "note": "New Dyna Blaster -Global Quest"
   },
@@ -2732,7 +2725,7 @@ window.ARCADE_GAMES = [
   {
     "title": "餓狼伝説2 -新たなる闘い-",
     "year": "1992",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "fatfury2",
     "note": "NGM-047 / NGH-047"
   },
@@ -2760,14 +2753,14 @@ window.ARCADE_GAMES = [
   {
     "title": "超時空要塞マクロス",
     "year": "1992",
-    "manufacturer": "エヌエムケイ（NMK）",
+    "manufacturer": "バンプレスト",
     "name": "macross",
     "note": ""
   },
   {
     "title": "ぷよぷよ",
     "year": "1992",
-    "manufacturer": "セガ / コンパイル",
+    "manufacturer": "コンパイル / セガ",
     "name": "puyoja",
     "note": "日本版 rev A"
   },
@@ -2781,7 +2774,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アールタイプ・レオ",
     "year": "1992",
-    "manufacturer": "ナナオ",
+    "manufacturer": "アイレム",
     "name": "rtypeleo",
     "note": "日本版"
   },
@@ -2809,7 +2802,7 @@ window.ARCADE_GAMES = [
   {
     "title": "鋼鉄要塞シュトラール",
     "year": "1992",
-    "manufacturer": "エヌエムケイ（NMK） / ユーピーエル（UPL）",
+    "manufacturer": "UPL",
     "name": "strahl",
     "note": "日本版 set 1"
   },
@@ -2837,7 +2830,7 @@ window.ARCADE_GAMES = [
   {
     "title": "達人王",
     "year": "1992",
-    "manufacturer": "不明",
+    "manufacturer": "東亜プラン",
     "name": "truxton2",
     "note": "Truxton 0"
   },
@@ -2851,7 +2844,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ワールドヒーローズ",
     "year": "1992",
-    "manufacturer": "不明",
+    "manufacturer": "アルファ電子",
     "name": "wh1",
     "note": "ALNM-005"
   },
@@ -2886,7 +2879,7 @@ window.ARCADE_GAMES = [
   {
     "title": "餓狼伝説スペシャル",
     "year": "1993",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "fatfursp",
     "note": "set 1"
   },
@@ -2900,14 +2893,14 @@ window.ARCADE_GAMES = [
   {
     "title": "J.J.スコーカーズ",
     "year": "1993",
-    "manufacturer": "不明",
+    "manufacturer": "アテナ / エイブル",
     "name": "jjsquawk",
     "note": ""
   },
   {
     "title": "超時空要塞マクロスII",
     "year": "1993",
-    "manufacturer": "エヌエムケイ（NMK）",
+    "manufacturer": "バンプレスト",
     "name": "macross2",
     "note": ""
   },
@@ -2928,14 +2921,14 @@ window.ARCADE_GAMES = [
   {
     "title": "サムライスピリッツ",
     "year": "1993",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "samsho",
     "note": "NGM-045"
   },
   {
     "title": "戦国エース",
     "year": "1993",
-    "manufacturer": "彩京",
+    "manufacturer": "彩京 （バンプレストライセンス）",
     "name": "sngkace",
     "note": "日本版"
   },
@@ -2949,7 +2942,7 @@ window.ARCADE_GAMES = [
   {
     "title": "上海III",
     "year": "1993",
-    "manufacturer": "サクセス / サン電子",
+    "manufacturer": "サンソフト",
     "name": "shangha3",
     "note": "日本版"
   },
@@ -2977,21 +2970,21 @@ window.ARCADE_GAMES = [
   {
     "title": "ワールドヒーローズ2",
     "year": "1993",
-    "manufacturer": "アルファ電子",
+    "manufacturer": "ADK",
     "name": "wh2",
     "note": "ALNM-006 / ALH-006"
   },
   {
     "title": "痛快GANGAN行進曲",
     "year": "1994",
-    "manufacturer": "アルファ電子",
+    "manufacturer": "ADK / SNK",
     "name": "aodk",
     "note": "ADM-008 / ADH-008"
   },
   {
     "title": "龍虎の拳2",
     "year": "1994",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "aof2",
     "note": "Art of Fighting 2"
   },
@@ -3012,7 +3005,7 @@ window.ARCADE_GAMES = [
   {
     "title": "バトルクロード",
     "year": "1994",
-    "manufacturer": "不明",
+    "manufacturer": "彩京",
     "name": "btlkroad",
     "note": ""
   },
@@ -3068,14 +3061,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ '94",
     "year": "1994",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof94",
     "note": "NGM-055 / NGH-055"
   },
   {
     "title": "パズルボブル",
     "year": "1994",
-    "manufacturer": "不明",
+    "manufacturer": "タイトー",
     "name": "pbobble",
     "note": ""
   },
@@ -3089,14 +3082,14 @@ window.ARCADE_GAMES = [
   {
     "title": "パワースパイクスII",
     "year": "1994",
-    "manufacturer": "不明",
+    "manufacturer": "ビデオシステム",
     "name": "pspikes2",
     "note": "NGM-068"
   },
   {
     "title": "ぷよぷよ通",
     "year": "1994",
-    "manufacturer": "コンパイル",
+    "manufacturer": "コンパイル （セガライセンス）",
     "name": "puyopuy2",
     "note": "日本版"
   },
@@ -3117,7 +3110,7 @@ window.ARCADE_GAMES = [
   {
     "title": "真サムライスピリッツ -覇王丸地獄変-",
     "year": "1994",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "samsho2",
     "note": "NGM-063 / NGH-063"
   },
@@ -3145,7 +3138,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ツインイーグルII -The Rescue Mission",
     "year": "1994",
-    "manufacturer": "セタ / ビスコ",
+    "manufacturer": "セタ",
     "name": "twineag2",
     "note": ""
   },
@@ -3159,7 +3152,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ずんずん教の野望",
     "year": "1994",
-    "manufacturer": "港技研",
+    "manufacturer": "セガ",
     "name": "zunkyou",
     "note": "日本版"
   },
@@ -3194,14 +3187,14 @@ window.ARCADE_GAMES = [
   {
     "title": "首領蜂",
     "year": "1995",
-    "manufacturer": "不明",
+    "manufacturer": "ケイブ （アトラスライセンス）",
     "name": "donpachij",
     "note": "BAM"
   },
   {
     "title": "餓狼伝説3 -遥かなる闘い",
     "year": "1995",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "fatfury3",
     "note": "NGM-069 / NGH-069"
   },
@@ -3215,7 +3208,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ '95",
     "year": "1995",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof95",
     "note": "set 1"
   },
@@ -3271,7 +3264,7 @@ window.ARCADE_GAMES = [
   {
     "title": "サムライスピリッツ -斬紅郎無双剣-",
     "year": "1995",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "samsho3",
     "note": "NGM-087"
   },
@@ -3292,14 +3285,14 @@ window.ARCADE_GAMES = [
   {
     "title": "そこぬけ対戦ゲーム",
     "year": "1995",
-    "manufacturer": "不明",
+    "manufacturer": "サミー",
     "name": "sokonuke",
     "note": ""
   },
   {
     "title": "得点王3 -栄光への挑戦-",
     "year": "1995",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "ssideki3",
     "note": ""
   },
@@ -3313,21 +3306,21 @@ window.ARCADE_GAMES = [
   {
     "title": "テトリスプラス",
     "year": "1995",
-    "manufacturer": "BPS（ビーピーエス）",
+    "manufacturer": "ジャレコ / BPS",
     "name": "tetrisp",
     "note": ""
   },
   {
     "title": "闘神伝2",
     "year": "1995",
-    "manufacturer": "タカラ / タムソフト",
+    "manufacturer": "カプコン / タカラ",
     "name": "ts2j",
     "note": "日本版 951124"
   },
   {
     "title": "ワールドヒーローズパーフェクト",
     "year": "1995",
-    "manufacturer": "アルファ電子",
+    "manufacturer": "ADK / SNK",
     "name": "whp",
     "note": ""
   },
@@ -3348,7 +3341,7 @@ window.ARCADE_GAMES = [
   {
     "title": "アートオブファイティング 龍虎の拳外伝",
     "year": "1996",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "aof3",
     "note": "Art of Fighting 3"
   },
@@ -3362,28 +3355,28 @@ window.ARCADE_GAMES = [
   {
     "title": "バルキューブ",
     "year": "1996",
-    "manufacturer": "不明",
+    "manufacturer": "メトロ",
     "name": "balcube",
     "note": ""
   },
   {
     "title": "バンバンボール",
     "year": "1996",
-    "manufacturer": "不明",
+    "manufacturer": "バンプレスト / 田代邦博+グッドハウス",
     "name": "bangball",
     "note": "ver 105"
   },
   {
     "title": "ブレイカーズ",
     "year": "1996",
-    "manufacturer": "不明",
+    "manufacturer": "ビスコ",
     "name": "breakers",
     "note": ""
   },
   {
-    "title": "Back Street Soccer",
+    "title": "バックストリートサッカー",
     "year": "1996",
-    "manufacturer": "SunA",
+    "manufacturer": "SunA （ユニコライセンス）",
     "name": "bssoccer",
     "note": ""
   },
@@ -3425,14 +3418,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ '96",
     "year": "1996",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof96",
     "note": "set 1"
   },
   {
     "title": "ロジックプロ",
     "year": "1996",
-    "manufacturer": "Deniam",
+    "manufacturer": "デニアム",
     "name": "logicpro",
     "note": "日本版"
   },
@@ -3460,7 +3453,7 @@ window.ARCADE_GAMES = [
   {
     "title": "子育てクイズ・マイエンジェル",
     "year": "1996",
-    "manufacturer": "ナムコ",
+    "manufacturer": "MOSS / ナムコ",
     "name": "myangel",
     "note": "日 本 阪"
   },
@@ -3495,7 +3488,7 @@ window.ARCADE_GAMES = [
   {
     "title": "リアルバウト餓狼伝説スペシャル",
     "year": "1997",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "rbffspec",
     "note": ""
   },
@@ -3516,7 +3509,7 @@ window.ARCADE_GAMES = [
   {
     "title": "サムライスピリッツ -天草降臨-",
     "year": "1996",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "samsho4",
     "note": "Samurai Shodown IV - Amakusa's Revenge"
   },
@@ -3537,7 +3530,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ストリートファイターEX",
     "year": "1996",
-    "manufacturer": "カプコン",
+    "manufacturer": "カプコン / アリカ",
     "name": "sfexj",
     "note": "日本版 961130"
   },
@@ -3558,7 +3551,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ステークスウィナー2",
     "year": "1996",
-    "manufacturer": "不明",
+    "manufacturer": "ザウルス",
     "name": "stakwin2",
     "note": ""
   },
@@ -3607,21 +3600,21 @@ window.ARCADE_GAMES = [
   {
     "title": "怒首領蜂",
     "year": "1997",
-    "manufacturer": "ケイブ",
+    "manufacturer": "ケイブ （アトラスライセンス）",
     "name": "ddonpachj",
     "note": "海外版"
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '97",
     "year": "1997",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof97",
     "note": "set 1"
   },
   {
     "title": "ロジックプロ2",
     "year": "1997",
-    "manufacturer": "不明",
+    "manufacturer": "デニアム",
     "name": "logicpr2",
     "note": ""
   },
@@ -3635,7 +3628,7 @@ window.ARCADE_GAMES = [
   {
     "title": "子育てクイズ・マイエンジェル2",
     "year": "1997",
-    "manufacturer": "ナムコ",
+    "manufacturer": "MOSS / ナムコ",
     "name": "myangel2",
     "note": ""
   },
@@ -3656,7 +3649,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ライデンファイターズ2 -オペレーションヘルダイブ-",
     "year": "1997",
-    "manufacturer": "不明",
+    "manufacturer": "セイブ開発",
     "name": "rdft2j",
     "note": ""
   },
@@ -3670,7 +3663,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ストリートファイターEXプラス",
     "year": "1997",
-    "manufacturer": "カプコン",
+    "manufacturer": "カプコン / アリカ",
     "name": "sfexpj",
     "note": "日本版 970311 / m↑"
   },
@@ -3705,7 +3698,7 @@ window.ARCADE_GAMES = [
   {
     "title": "テトリスプラス2",
     "year": "1997",
-    "manufacturer": "不明",
+    "manufacturer": "ジャレコ",
     "name": "tp2m32",
     "note": "MegaSystem 32 ver"
   },
@@ -3733,14 +3726,14 @@ window.ARCADE_GAMES = [
   {
     "title": "アシュラブレード -Sword of Dynasty",
     "year": "1998",
-    "manufacturer": "フウキ / ヤンヤカ",
+    "manufacturer": "フウキ",
     "name": "asurabld",
     "note": "日本版"
   },
   {
     "title": "ブレイジングスター",
     "year": "1991",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "夢工房",
     "name": "blazstar",
     "note": ""
   },
@@ -3768,7 +3761,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ '98 -ドリームマッチネバーエンズ",
     "year": "1998",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof98",
     "note": "NGM-2420"
   },
@@ -3782,7 +3775,7 @@ window.ARCADE_GAMES = [
   {
     "title": "メタルスラッグ2 -Super Vehicle-001/II",
     "year": "1998",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "mslug2",
     "note": "NGM-2410 / NGH-2410"
   },
@@ -3810,7 +3803,7 @@ window.ARCADE_GAMES = [
   {
     "title": "リアルバウト餓狼伝説2 -THE NEWCOMERS-",
     "year": "1998",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "rbff2",
     "note": "NGM-2400"
   },
@@ -3838,7 +3831,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ストリートファイターEX2",
     "year": "1998",
-    "manufacturer": "不明",
+    "manufacturer": "カプコン / アリカ",
     "name": "sfex2j",
     "note": "日 本 販 980312"
   },
@@ -3852,7 +3845,7 @@ window.ARCADE_GAMES = [
   {
     "title": "テトリス ザ・グランドマスター",
     "year": "1998",
-    "manufacturer": "不明",
+    "manufacturer": "アリカ / カプコン",
     "name": "tgmj",
     "note": "BARR 980710"
   },
@@ -3873,28 +3866,28 @@ window.ARCADE_GAMES = [
   {
     "title": "キャプテントマディ",
     "year": "1999",
-    "manufacturer": "不明",
+    "manufacturer": "ビスコ",
     "name": "ctomaday",
     "note": ""
   },
   {
     "title": "武蔵巌流記",
     "year": "1999",
-    "manufacturer": "不明",
+    "manufacturer": "ビスコ",
     "name": "ganryu",
     "note": ""
   },
   {
     "title": "餓狼 -マーク・オブ・ザ・ウルヴス",
     "year": "1999",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "garou",
     "note": "set 1"
   },
   {
     "title": "ギガウィング",
     "year": "1999",
-    "manufacturer": "タクミ",
+    "manufacturer": "タクミ （カプコンライセンス）",
     "name": "gigawing",
     "note": "USA版 990222"
   },
@@ -3908,14 +3901,14 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ '99 -ミレニアムバトル",
     "year": "1999",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof99",
     "note": "set 1"
   },
   {
     "title": "ロジックプロ アドベンチャー",
     "year": "1999",
-    "manufacturer": "アミューズワールド / エイブル",
+    "manufacturer": "アミューズワールド",
     "name": "lpadv",
     "note": "日本版 / m↑"
   },
@@ -3929,14 +3922,14 @@ window.ARCADE_GAMES = [
   {
     "title": "メタルスラッグX -Super Vehicle-001",
     "year": "1999",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "mslugx",
     "note": "NGM-2500 / NGH-2500"
   },
   {
     "title": "パズルボブル2",
     "year": "1995",
-    "manufacturer": "タイトー",
+    "manufacturer": "タイトー （SNKライセンス）",
     "name": "pbobbl2n",
     "note": "Neo-Geo"
   },
@@ -3950,7 +3943,7 @@ window.ARCADE_GAMES = [
   {
     "title": "ストリートファイターEX2プラス",
     "year": "1999",
-    "manufacturer": "カプコン",
+    "manufacturer": "カプコン / アリカ",
     "name": "sfex2pj",
     "note": "日本版 990611 / m↑"
   },
@@ -3978,7 +3971,7 @@ window.ARCADE_GAMES = [
   {
     "title": "1944 -ザ・ループマスター",
     "year": "2000",
-    "manufacturer": "エイティング / ライジング",
+    "manufacturer": "エイティング / ライジング （カプコンライセンス）",
     "name": "1944j",
     "note": "USA版 000620"
   },
@@ -3992,14 +3985,14 @@ window.ARCADE_GAMES = [
   {
     "title": "クイズでアイドル！ホットデビュー",
     "year": "2000",
-    "manufacturer": "不明",
+    "manufacturer": "MOSS / 彩京",
     "name": "hotdebut",
     "note": "BARR"
   },
   {
     "title": "ザ・キング・オブ・ファイターズ 2000",
     "year": "2000",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "kof2000",
     "note": "NGM-2570 / NGH-2570"
   },
@@ -4013,42 +4006,42 @@ window.ARCADE_GAMES = [
   {
     "title": "マーズマトリックス -ハイパーソリッドシューティング-",
     "year": "2000",
-    "manufacturer": "タクミ",
+    "manufacturer": "タクミ （カプコンライセンス）",
     "name": "mmatrixj",
     "note": "日本版 000412"
   },
   {
     "title": "メタルスラッグ3",
     "year": "2000",
-    "manufacturer": "エスエヌケイ（SNK）",
+    "manufacturer": "SNK",
     "name": "mslug3",
     "note": "NGM-2560"
   },
   {
     "title": "ナイトメア・イン・ザ・ダーク",
     "year": "2001",
-    "manufacturer": "イレブン",
+    "manufacturer": "イレブン / ガバキング",
     "name": "nitd",
     "note": ""
   },
   {
     "title": "ペンギンブラザーズ",
     "year": "2000",
-    "manufacturer": "不明",
+    "manufacturer": "サブシノ",
     "name": "penbros",
     "note": "BAR"
   },
   {
     "title": "テトリスT.A. -グランドマスター2-",
     "year": "2000",
-    "manufacturer": "不明",
+    "manufacturer": "アリカ",
     "name": "tgm2",
     "note": ""
   },
   {
     "title": "テトリスT.A. -グランドマスター2プラス-",
     "year": "2000",
-    "manufacturer": "不明",
+    "manufacturer": "アリカ",
     "name": "tgm2p",
     "note": ""
   },
@@ -4062,49 +4055,49 @@ window.ARCADE_GAMES = [
   {
     "title": "ザ・キング・オブ・ファイターズ 2001",
     "year": "2001",
-    "manufacturer": "ブレッツァソフト",
+    "manufacturer": "イオリス / SNK",
     "name": "kof2001",
     "note": "set 1"
   },
   {
     "title": "プロギアの嵐",
     "year": "2001",
-    "manufacturer": "ケイブ",
+    "manufacturer": "ケイブ （カプコンライセンス）",
     "name": "progearj",
     "note": "日本版 010117"
   },
   {
     "title": "婆裟羅2",
     "year": "2001",
-    "manufacturer": "不明",
+    "manufacturer": "ビスコ",
     "name": "vasara2",
     "note": "set 1"
   },
   {
     "title": "ズパパ！",
     "year": "2001",
-    "manufacturer": "不明",
+    "manufacturer": "SNK",
     "name": "zupapa",
     "note": ""
   },
   {
     "title": "怒首領蜂 大往生 魂",
     "year": "2002",
-    "manufacturer": "ケイブ",
+    "manufacturer": "ケイブ （AMIライセンス）",
     "name": "ddpdoj",
     "note": "V201, 中華版 / m↑"
   },
   {
     "title": "ザ・キング・オブ・ファイターズ 2002 -Challenge to Ultimate Battle",
     "year": "2002",
-    "manufacturer": "ブレッツァソフト / プレイモア",
+    "manufacturer": "イオリス / プレイモア",
     "name": "kof2002",
     "note": "NGM-2650 / NGH-2650"
   },
   {
     "title": "メタルスラッグ4",
     "year": "2002",
-    "manufacturer": "メガエンタープライズ/ノイズファクトリー",
+    "manufacturer": "メガエンタープライズ / ノイズファクトリー / プレイモア",
     "name": "mslug4",
     "note": "NGM-2630"
   },
@@ -4125,7 +4118,7 @@ window.ARCADE_GAMES = [
   {
     "title": "サムライスピリッツ零スペシャル",
     "year": "2004",
-    "manufacturer": "悠紀エンタープライズ",
+    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
     "name": "samsh5sp",
     "note": "Samurai Shodown V Special (NGM-2720)"
   },
@@ -4160,14 +4153,14 @@ window.ARCADE_GAMES = [
   {
     "title": "機動戦士ガンダム",
     "year": "1993",
-    "manufacturer": "アルュメ / バンプレスト",
+    "manufacturer": "バンプレスト / アルュメ",
     "name": "msgundam",
     "note": ""
   },
   {
     "title": "ステークスウィナー -GI完全制覇への道-",
     "year": "1995",
-    "manufacturer": "ザウルス / SNK",
+    "manufacturer": "ザウルス",
     "name": "stakwin",
     "note": ""
   },
