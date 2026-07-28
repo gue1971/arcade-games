@@ -108,7 +108,7 @@ window.ARCADE_GAMES = [
     "title": "クレイジークライマー",
     "year": "1980",
     "manufacturer": "日本物産",
-    "name": "cclimber",
+    "name": "cclimberj",
     "note": "USA版"
   },
   {
@@ -122,7 +122,7 @@ window.ARCADE_GAMES = [
     "title": "キング＆バルーン",
     "year": "1980",
     "manufacturer": "ナムコ",
-    "name": "kingball",
+    "name": "kingballj",
     "note": "USA版"
   },
   {
@@ -150,7 +150,7 @@ window.ARCADE_GAMES = [
     "title": "Rallys",
     "year": "1980",
     "manufacturer": "Nover",
-    "name": "rallysa",
+    "name": "rallyxa",
     "note": ""
   },
   {
@@ -199,7 +199,7 @@ window.ARCADE_GAMES = [
     "title": "ドンキーコング",
     "year": "1981",
     "manufacturer": "池上通信機",
-    "name": "dkongjp",
+    "name": "dkongjo",
     "note": "日本版 set 1"
   },
   {
@@ -395,7 +395,7 @@ window.ARCADE_GAMES = [
     "title": "スーパーゼビウス",
     "year": "1984",
     "manufacturer": "ナムコ",
-    "name": "sxevious",
+    "name": "sxeviousj",
     "note": "BARR"
   },
   {
@@ -458,7 +458,7 @@ window.ARCADE_GAMES = [
     "title": "エキサイティングサッカー",
     "year": "1983",
     "manufacturer": "アルファ電子",
-    "name": "exctsccr",
+    "name": "exctsccrj",
     "note": "BAIR set 1"
   },
   {
@@ -500,7 +500,7 @@ window.ARCADE_GAMES = [
     "title": "マリオブラザーズ",
     "year": "1983",
     "manufacturer": "任天堂",
-    "name": "mario",
+    "name": "marioj",
     "note": "USA版 rev F"
   },
   {
@@ -808,7 +808,7 @@ window.ARCADE_GAMES = [
     "title": "パックランド",
     "year": "1984",
     "manufacturer": "ナムコ",
-    "name": "pacland",
+    "name": "paclandj",
     "note": "set 1"
   },
   {
@@ -857,7 +857,7 @@ window.ARCADE_GAMES = [
     "title": "スターフォース",
     "year": "1984",
     "manufacturer": "テーカン（テクモ）",
-    "name": "starfore",
+    "name": "starforc",
     "note": ""
   },
   {
@@ -913,14 +913,14 @@ window.ARCADE_GAMES = [
     "title": "戦場の狼",
     "year": "1985",
     "manufacturer": "カプコン",
-    "name": "commandj",
+    "name": "commandoj",
     "note": ""
   },
   {
     "title": "コップ01",
     "year": "1985",
     "manufacturer": "日本物産",
-    "name": "cop01",
+    "name": "cop01a",
     "note": ""
   },
   {
@@ -962,7 +962,7 @@ window.ARCADE_GAMES = [
     "title": "ガントレット",
     "year": "1986",
     "manufacturer": "Atari",
-    "name": "gauntlet",
+    "name": "gauntletj",
     "note": "rev 14"
   },
   {
@@ -983,7 +983,7 @@ window.ARCADE_GAMES = [
     "title": "ガンスモーク",
     "year": "1985",
     "manufacturer": "カプコン",
-    "name": "gunsmoke",
+    "name": "gunsmokej",
     "note": "海外版"
   },
   {
@@ -1449,7 +1449,7 @@ window.ARCADE_GAMES = [
     "note": "日本版"
   },
   {
-    "title": "沙羅曼蛇",
+    "title": "ソロモンの鍵",
     "year": "1986",
     "manufacturer": "コナミ",
     "name": "salamand",
@@ -1472,9 +1472,9 @@ window.ARCADE_GAMES = [
   {
     "title": "沙羅曼蛇",
     "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "salamanj",
-    "note": "ver J"
+    "manufacturer": "テクモ",
+    "name": "solomonj",
+    "note": "日本版"
   },
   {
     "title": "スペランカーII -23の鍵",
@@ -1557,7 +1557,7 @@ window.ARCADE_GAMES = [
     "title": "1943 -ミッドウェイ海戦",
     "year": "1987",
     "manufacturer": "カプコン",
-    "name": "1943",
+    "name": "1943j",
     "note": "1943 -The Battle of Midway (欧州版)"
   },
   {
@@ -1599,7 +1599,7 @@ window.ARCADE_GAMES = [
     "title": "アルカノイド -リベンジオブDOH",
     "year": "1987",
     "manufacturer": "タイトー",
-    "name": "arknid2j",
+    "name": "arknoid2j",
     "note": "日本版"
   },
   {
@@ -1648,7 +1648,7 @@ window.ARCADE_GAMES = [
     "title": "ぶたさん -Pig's ＆ Bomber's",
     "year": "1987",
     "manufacturer": "エヌエムケイ（NMK）",
-    "name": "butasan",
+    "name": "butasanj",
     "note": "日本版"
   },
   {
@@ -1704,7 +1704,7 @@ window.ARCADE_GAMES = [
     "title": "ギャラガ '88",
     "year": "1987",
     "manufacturer": "ナムコ",
-    "name": "galaga88",
+    "name": "galaga88j",
     "note": ""
   },
   {
@@ -1753,7 +1753,7 @@ window.ARCADE_GAMES = [
     "title": "パックマニア",
     "year": "1987",
     "manufacturer": "ナムコ",
-    "name": "pacmania",
+    "name": "pacmaniaj",
     "note": ""
   },
   {
@@ -1774,7 +1774,7 @@ window.ARCADE_GAMES = [
     "title": "アール・タイプ",
     "year": "1987",
     "manufacturer": "アイレム",
-    "name": "rtype",
+    "name": "rtypej",
     "note": "日本版"
   },
   {
@@ -1788,7 +1788,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイター",
     "year": "1987",
     "manufacturer": "カプコン",
-    "name": "sf",
+    "name": "sfj",
     "note": "海外版 analog buttons"
   },
   {
@@ -1802,7 +1802,7 @@ window.ARCADE_GAMES = [
     "title": "スーパーハングオン",
     "year": "1987",
     "manufacturer": "セガ",
-    "name": "shangon",
+    "name": "shangonro",
     "note": "シットダウン・アップライト筐体 / プロテクト無し / m↑"
   },
   {
@@ -1837,14 +1837,14 @@ window.ARCADE_GAMES = [
     "title": "SRD ＜スーパーリアルダーウィン＞",
     "year": "1987",
     "manufacturer": "データイースト",
-    "name": "srdarwin",
+    "name": "srdarwinj",
     "note": "海外版"
   },
   {
     "title": "タッチダウンフィーバー",
     "year": "1987",
     "manufacturer": "エスエヌケイ（SNK）",
-    "name": "tdfever",
+    "name": "tdfeverj",
     "note": "日本"
   },
   {
@@ -1872,7 +1872,7 @@ window.ARCADE_GAMES = [
     "title": "ワードナの森",
     "year": "1987",
     "manufacturer": "東亜プラン",
-    "name": "wardner",
+    "name": "wardnerj",
     "note": "Wardner (海外版)"
   },
   {
@@ -1984,14 +1984,14 @@ window.ARCADE_GAMES = [
     "title": "ギャラクシーフォースII",
     "year": "1988",
     "manufacturer": "セガ",
-    "name": "gforce2",
+    "name": "gforce2j",
     "note": "m↑"
   },
   {
     "title": "悪魔城ドラキュラ",
     "year": "1988",
     "manufacturer": "コナミ",
-    "name": "hcastlej",
+    "name": "hcastljo",
     "note": "日本版 ver P"
   },
   {
@@ -2026,7 +2026,7 @@ window.ARCADE_GAMES = [
     "title": "パワードリフト",
     "year": "1988",
     "manufacturer": "セガ",
-    "name": "pdrift",
+    "name": "pdriftj",
     "note": ""
   },
   {
@@ -2040,7 +2040,7 @@ window.ARCADE_GAMES = [
     "title": "アトミックロボキッド",
     "year": "1988",
     "manufacturer": "ユーピーエル（UPL）",
-    "name": "robokid",
+    "name": "robokidj",
     "note": "BAM set 1"
   },
   {
@@ -2103,7 +2103,7 @@ window.ARCADE_GAMES = [
     "title": "グラディウスII -ゴーファーの野望",
     "year": "1988",
     "manufacturer": "コナミ",
-    "name": "gradius2",
+    "name": "gradius2b",
     "note": "日本版 new ver."
   },
   {
@@ -2180,7 +2180,7 @@ window.ARCADE_GAMES = [
     "title": "クライムシティ",
     "year": "1989",
     "manufacturer": "タイトー",
-    "name": "crimec",
+    "name": "crimecj",
     "note": ""
   },
   {
@@ -2222,7 +2222,7 @@ window.ARCADE_GAMES = [
     "title": "ファイナルファイト",
     "year": "1989",
     "manufacturer": "カプコン",
-    "name": "ffight",
+    "name": "ffightj",
     "note": "海外版 set 1"
   },
   {
@@ -2285,7 +2285,7 @@ window.ARCADE_GAMES = [
     "title": "アール・タイプII",
     "year": "1989",
     "manufacturer": "アイレム",
-    "name": "rtype2",
+    "name": "rtype2j",
     "note": "日 本 阪"
   },
   {
@@ -2369,7 +2369,7 @@ window.ARCADE_GAMES = [
     "title": "エイリアンズ",
     "year": "1990",
     "manufacturer": "コナミ",
-    "name": "aliens",
+    "name": "aliensj",
     "note": "海外版 set 1"
   },
   {
@@ -2383,7 +2383,7 @@ window.ARCADE_GAMES = [
     "title": "ボナンザブラザーズ",
     "year": "1990",
     "manufacturer": "セガ",
-    "name": "bnzabros",
+    "name": "bnzabrosj",
     "note": "BAIR floppy DS3-5000-07b based"
   },
   {
@@ -2425,7 +2425,7 @@ window.ARCADE_GAMES = [
     "title": "コラムスII -The Voyage Through Time",
     "year": "1990",
     "manufacturer": "セガ",
-    "name": "columns2j",
+    "name": "column2j",
     "note": "日本版"
   },
   {
@@ -2495,7 +2495,7 @@ window.ARCADE_GAMES = [
     "title": "ランパート",
     "year": "1991",
     "manufacturer": "Atari",
-    "name": "rampart",
+    "name": "rampartj",
     "note": "trackball"
   },
   {
@@ -2642,7 +2642,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイターII -ザ・ワールドウォーリアー-",
     "year": "1991",
     "manufacturer": "カプコン",
-    "name": "sf2",
+    "name": "sf2j",
     "note": "BARR 911210"
   },
   {
@@ -2656,7 +2656,7 @@ window.ARCADE_GAMES = [
     "title": "タンクフォース",
     "year": "1991",
     "manufacturer": "ナムコ",
-    "name": "tankfrcj",
+    "name": "tankfrcej",
     "note": "日本版"
   },
   {
@@ -2705,14 +2705,14 @@ window.ARCADE_GAMES = [
     "title": "ボンバーマンワールド",
     "year": "1992",
     "manufacturer": "ハドソン",
-    "name": "bbmanw",
+    "name": "bbmanwj",
     "note": "New Dyna Blaster -Global Quest"
   },
   {
     "title": "コズモギャング・ザ・パズル",
     "year": "1992",
     "manufacturer": "ナムコ",
-    "name": "cgangpzl",
+    "name": "cgangpzlj",
     "note": ""
   },
   {
@@ -2740,7 +2740,7 @@ window.ARCADE_GAMES = [
     "title": "ファイナル・スターフォース",
     "year": "1992",
     "manufacturer": "テクモ",
-    "name": "fstarfrc",
+    "name": "fstarfrcj",
     "note": "USA版"
   },
   {
@@ -2754,7 +2754,7 @@ window.ARCADE_GAMES = [
     "title": "グリッドシーカー",
     "year": "1992",
     "manufacturer": "タイトー",
-    "name": "gseeker",
+    "name": "gseekerj",
     "note": "ver 13J"
   },
   {
@@ -2782,7 +2782,7 @@ window.ARCADE_GAMES = [
     "title": "アールタイプ・レオ",
     "year": "1992",
     "manufacturer": "ナナオ",
-    "name": "rtypelej",
+    "name": "rtypeleo",
     "note": "日本版"
   },
   {
@@ -2796,7 +2796,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイターII' ターボ -ハイパーファイティング-",
     "year": "1992",
     "manufacturer": "カプコン",
-    "name": "sf2hf",
+    "name": "sf2hfj",
     "note": "BABAR 921209"
   },
   {
@@ -2824,7 +2824,7 @@ window.ARCADE_GAMES = [
     "title": "スーパーワールドスタジアム'92 一般版",
     "year": "1992",
     "manufacturer": "ナムコ",
-    "name": "sws92e",
+    "name": "sws92g",
     "note": "日本版"
   },
   {
@@ -3195,7 +3195,7 @@ window.ARCADE_GAMES = [
     "title": "首領蜂",
     "year": "1995",
     "manufacturer": "不明",
-    "name": "donpachi",
+    "name": "donpachij",
     "note": "BAM"
   },
   {
@@ -3230,7 +3230,7 @@ window.ARCADE_GAMES = [
     "title": "マーヴルスーパーヒーローズ",
     "year": "1995",
     "manufacturer": "カプコン",
-    "name": "msh",
+    "name": "mshj",
     "note": "BARR 951117"
   },
   {
@@ -3398,7 +3398,7 @@ window.ARCADE_GAMES = [
     "title": "ダンジョンズ＆ドラゴンズ -シャドーオーバーミスタラ",
     "year": "1996",
     "manufacturer": "カプコン",
-    "name": "ddsom",
+    "name": "ddsomj",
     "note": "欧州版 960619"
   },
   {
@@ -3566,7 +3566,7 @@ window.ARCADE_GAMES = [
     "title": "スターグラディエイター",
     "year": "1996",
     "manufacturer": "カプコン",
-    "name": "starglad",
+    "name": "stargladj",
     "note": "日 本 販 960627"
   },
   {
@@ -3580,7 +3580,7 @@ window.ARCADE_GAMES = [
     "title": "戦国ブレード -Sengoku Ace Episode II",
     "year": "1996",
     "manufacturer": "彩京",
-    "name": "tengai",
+    "name": "tengaij",
     "note": "Tengai (海外版)"
   },
   {
@@ -3608,7 +3608,7 @@ window.ARCADE_GAMES = [
     "title": "怒首領蜂",
     "year": "1997",
     "manufacturer": "ケイブ",
-    "name": "ddonpach",
+    "name": "ddonpachj",
     "note": "海外版"
   },
   {
@@ -3657,7 +3657,7 @@ window.ARCADE_GAMES = [
     "title": "ライデンファイターズ2 -オペレーションヘルダイブ-",
     "year": "1997",
     "manufacturer": "不明",
-    "name": "rdft2",
+    "name": "rdft2j",
     "note": ""
   },
   {
@@ -3678,7 +3678,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイターIII -ニュージェネレーション-",
     "year": "1997",
     "manufacturer": "カプコン",
-    "name": "sfiii",
+    "name": "sfiiin",
     "note": "アジ ア 孤 970204 NO CD"
   },
   {
@@ -3692,7 +3692,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
     "year": "1997",
     "manufacturer": "カプコン",
-    "name": "sfiii2",
+    "name": "sfiii2n",
     "note": "PSI PHB 970930 NO CD"
   },
   {
@@ -3706,7 +3706,7 @@ window.ARCADE_GAMES = [
     "title": "テトリスプラス2",
     "year": "1997",
     "manufacturer": "不明",
-    "name": "tetrisp2",
+    "name": "tp2m32",
     "note": "MegaSystem 32 ver"
   },
   {
@@ -3787,11 +3787,11 @@ window.ARCADE_GAMES = [
     "note": "NGM-2410 / NGH-2410"
   },
   {
-    "title": "Multistar 3",
+    "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
     "year": "1998",
-    "manufacturer": "IGT",
-    "name": "ms3",
-    "note": "BRAG 980128"
+    "manufacturer": "カプコン",
+    "name": "mvscj",
+    "note": "日本版 980123"
   },
   {
     "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
@@ -3801,11 +3801,11 @@ window.ARCADE_GAMES = [
     "note": "日本版 980112"
   },
   {
-    "title": "スターソルジャー -バニシングアース-",
+    "title": "スターグラディエイター2 -ナイトメア オブ ビルシュタイン",
     "year": "1998",
-    "manufacturer": "不明",
-    "name": "starsldr",
-    "note": "BRM 980916"
+    "manufacturer": "カプコン",
+    "name": "stargld2",
+    "note": "日本版 980316"
   },
   {
     "title": "リアルバウト餓狼伝説2 -THE NEWCOMERS-",
@@ -3818,7 +3818,7 @@ window.ARCADE_GAMES = [
     "title": "ライデンファイターズJET",
     "year": "1998",
     "manufacturer": "セイブ開発",
-    "name": "rfjet",
+    "name": "rfjetj",
     "note": "BAD"
   },
   {
@@ -3839,7 +3839,7 @@ window.ARCADE_GAMES = [
     "title": "ストリートファイターEX2",
     "year": "1998",
     "manufacturer": "不明",
-    "name": "sfex2",
+    "name": "sfex2j",
     "note": "日 本 販 980312"
   },
   {
@@ -3979,7 +3979,7 @@ window.ARCADE_GAMES = [
     "title": "1944 -ザ・ループマスター",
     "year": "2000",
     "manufacturer": "エイティング / ライジング",
-    "name": "1944",
+    "name": "1944j",
     "note": "USA版 000620"
   },
   {
@@ -4091,7 +4091,7 @@ window.ARCADE_GAMES = [
     "title": "怒首領蜂 大往生 魂",
     "year": "2002",
     "manufacturer": "ケイブ",
-    "name": "ddpdojt",
+    "name": "ddpdoj",
     "note": "V201, 中華版 / m↑"
   },
   {
@@ -4119,7 +4119,7 @@ window.ARCADE_GAMES = [
     "title": "ハイパーストリートファイターII -アニバーサリーエディション-",
     "year": "2004",
     "manufacturer": "カプコン",
-    "name": "hsf2",
+    "name": "hsf2j",
     "note": "日 本 孤 031222"
   },
   {
@@ -4128,5 +4128,68 @@ window.ARCADE_GAMES = [
     "manufacturer": "悠紀エンタープライズ",
     "name": "samsh5sp",
     "note": "Samurai Shodown V Special (NGM-2720)"
+  },
+  {
+    "title": "虎への道",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "toramich",
+    "note": "日本版"
+  },
+  {
+    "title": "アサルト",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "assaultj",
+    "note": "日本版"
+  },
+  {
+    "title": "大魔界村",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "daimakai",
+    "note": "日本版"
+  },
+  {
+    "title": "ならず者戦闘部隊 ブラッディウルフ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "battlera",
+    "note": "海外版"
+  },
+  {
+    "title": "機動戦士ガンダム",
+    "year": "1993",
+    "manufacturer": "アルュメ / バンプレスト",
+    "name": "msgundam",
+    "note": ""
+  },
+  {
+    "title": "ステークスウィナー -GI完全制覇への道-",
+    "year": "1995",
+    "manufacturer": "ザウルス / SNK",
+    "name": "stakwin",
+    "note": ""
+  },
+  {
+    "title": "バンビィード",
+    "year": "2000",
+    "manufacturer": "ビスコ",
+    "name": "bangbead",
+    "note": ""
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ2003",
+    "year": "2003",
+    "manufacturer": "SNKプレイモア",
+    "name": "kf2k3pcb",
+    "note": "日本版 JAMMA PCB"
+  },
+  {
+    "title": "サムライスピリッツ零",
+    "year": "2003",
+    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
+    "name": "samsho5",
+    "note": "NGM-2700"
   }
 ];

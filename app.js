@@ -61,8 +61,19 @@ const makeCell = (value, label, className = "") => {
 
 const renderRow = (game) => {
   const row = document.createElement("tr");
+  const titleCell = makeCell("", "ゲーム名", "game-title");
+  const titleLink = document.createElement("a");
+  const searchQuery = `${game.title} ${game.manufacturer} ${game.year}`;
+  titleLink.className = "game-title-link";
+  titleLink.textContent = game.title;
+  titleLink.href = `https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`;
+  titleLink.target = "_blank";
+  titleLink.rel = "noopener noreferrer";
+  titleLink.setAttribute("aria-label", `${game.title}をGoogleで検索`);
+  titleCell.append(titleLink);
+
   row.append(
-    makeCell(game.title, "ゲーム名", "game-title"),
+    titleCell,
     makeCell("", "製造年"),
     makeCell(game.manufacturer, "製造元"),
     makeCell(game.name, "名前", "machine-name"),
