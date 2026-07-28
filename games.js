@@ -5380,5 +5380,14 @@ window.ARCADE_GAMES = [
     "note": "NGM-2700",
     "titleReading": "さむらいすぴりっつれい",
     "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
+  },
+  {
+    "title": "ガルディア",
+    "year": "1986",
+    "manufacturer": "セガ / コアランド",
+    "name": "gardia",
+    "note": "317-0006",
+    "titleReading": "がるでぃあ",
+    "manufacturerReading": "せがこあらんど"
   }
 ];
