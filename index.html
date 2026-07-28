@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="製造年・製造元で絞り込めるアーケードゲーム一覧">
+    <title>アーケードゲームリスト</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <h1>アーケードゲームリスト</h1>
+        <div class="total-count" aria-label="収録ゲーム数">
+          <strong id="total-count">590</strong>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="ゲームを絞り込む">
+        <div class="controls-inner">
+          <label class="search-field">
+            <span>検索</span>
+            <input id="search" type="search" placeholder="" autocomplete="off">
+          </label>
+
+          <label>
+            <span>製造年</span>
+            <select id="year-filter">
+              <option value="">製造年</option>
+            </select>
+          </label>
+
+          <label>
+            <span>製造元</span>
+            <select id="manufacturer-filter">
+              <option value="">製造元</option>
+            </select>
+          </label>
+
+          <button id="reset-filters" class="reset-button" type="button" disabled>
+            解除
+          </button>
+        </div>
+      </section>
+
+      <section class="list-section" aria-labelledby="result-heading">
+        <div class="result-bar">
+          <h2 id="result-heading">
+            <strong id="result-count">590</strong>
+            <span>件</span>
+          </h2>
+          <p id="result-description" aria-live="polite">全590件を表示</p>
+        </div>
+
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col" class="title-column">
+                  <button class="sort-button" type="button" data-sort="title" aria-pressed="false">
+                    ゲーム名 <span aria-hidden="true">↕</span>
+                  </button>
+                </th>
+                <th scope="col" class="year-column">
+                  <button class="sort-button is-active" type="button" data-sort="year" aria-pressed="true">
+                    製造年 <span aria-hidden="true">↑</span>
+                  </button>
+                </th>
+                <th scope="col" class="maker-column">
+                  <button class="sort-button" type="button" data-sort="manufacturer" aria-pressed="false">
+                    製造元 <span aria-hidden="true">↕</span>
+                  </button>
+                </th>
+                <th scope="col" class="name-column">
+                  <button class="sort-button" type="button" data-sort="name" aria-pressed="false">
+                    名前 <span aria-hidden="true">↕</span>
+                  </button>
+                </th>
+                <th scope="col" class="note-column">メモ</th>
+              </tr>
+            </thead>
+            <tbody id="game-list"></tbody>
+          </table>
+
+          <div id="empty-state" class="empty-state" hidden>
+            <p>条件に一致するゲームがありません。</p>
+            <button type="button">絞り込みを解除</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>全590タイトル収録</p>
+    </footer>
+
+    <script src="games.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
