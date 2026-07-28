@@ -540,10 +540,10 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "Qバート",
-    "year": "1983",
-    "manufacturer": "Mylstar",
-    "name": "sqbert",
-    "note": "Faster Harder More Challenging QXbert (prototype)"
+    "year": "1982",
+    "manufacturer": "ゴットリーブ",
+    "name": "qbert",
+    "note": "USA版 set 1"
   },
   {
     "title": "スタージャッカー",
