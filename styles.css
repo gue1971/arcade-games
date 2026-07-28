@@ -72,6 +72,88 @@ h1 {
   letter-spacing: -0.035em;
 }
 
+.header-summary,
+.favorite-tools {
+  display: flex;
+  align-items: center;
+}
+
+.header-summary {
+  flex: 0 0 auto;
+  gap: 12px;
+}
+
+.favorite-tools {
+  gap: 5px;
+}
+
+.favorites-only-button,
+.favorite-file-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  color: #56615d;
+  background: var(--surface-soft);
+}
+
+.favorites-only-button {
+  gap: 5px;
+  padding: 4px 9px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.favorites-only-button strong {
+  min-width: 1.2em;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.favorite-tool-star {
+  color: #8a918e;
+  font-size: 17px;
+  line-height: 1;
+}
+
+.favorites-only-button:hover,
+.favorites-only-button.is-active {
+  border-color: #e2b64f;
+  color: #6a4b00;
+  background: #fff8df;
+}
+
+.favorites-only-button.is-active .favorite-tool-star {
+  color: #d49800;
+}
+
+.favorite-file-button {
+  width: 34px;
+  padding: 0;
+}
+
+.favorite-file-button:hover {
+  border-color: #9eb9b1;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.favorite-file-button svg {
+  width: 17px;
+  height: 17px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.favorite-file-input {
+  display: none;
+}
+
 .total-count {
   display: flex;
   align-items: baseline;
@@ -295,7 +377,37 @@ tbody tr:hover td {
   letter-spacing: -0.012em;
 }
 
+.game-title-content {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.favorite-star {
+  flex: 0 0 auto;
+  width: 22px;
+  height: 26px;
+  padding: 0;
+  border: 0;
+  color: #9aa19e;
+  background: transparent;
+  font-size: 19px;
+  line-height: 1;
+}
+
+.favorite-star:hover {
+  color: #d49800;
+  transform: scale(1.08);
+}
+
+.favorite-star.is-favorite {
+  color: #d49800;
+}
+
 .game-title-link {
+  flex: 1 1 auto;
+  min-width: 0;
   display: block;
   overflow: hidden;
   color: inherit;
@@ -364,6 +476,35 @@ tbody tr:hover td {
   text-underline-offset: 3px;
 }
 
+.favorite-status {
+  position: fixed;
+  z-index: 50;
+  right: 18px;
+  bottom: 18px;
+  max-width: min(360px, calc(100% - 36px));
+  padding: 10px 14px;
+  margin: 0;
+  border-radius: 9px;
+  color: #ffffff;
+  background: var(--accent-dark);
+  box-shadow: 0 12px 28px rgb(10 45 38 / 22%);
+  font-size: 12px;
+  font-weight: 700;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.favorite-status.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.favorite-status.is-error {
+  background: #8d342d;
+}
+
 footer {
   padding-block: 0 36px;
   color: var(--muted);
@@ -402,18 +543,48 @@ footer {
 
   .header-inner {
     min-height: 54px;
-    gap: 8px;
+    gap: 6px;
   }
 
   h1 {
+    min-width: 0;
     overflow: hidden;
-    font-size: 18px;
+    font-size: 17px;
     white-space: nowrap;
     text-overflow: ellipsis;
   }
 
+  .header-summary {
+    gap: 7px;
+  }
+
+  .favorite-tools {
+    gap: 3px;
+  }
+
+  .favorites-only-button {
+    min-height: 30px;
+    gap: 3px;
+    padding: 3px 6px;
+  }
+
+  .favorite-label {
+    display: none;
+  }
+
+  .favorite-file-button {
+    width: 30px;
+    min-height: 30px;
+    border-radius: 8px;
+  }
+
+  .favorite-file-button svg {
+    width: 15px;
+    height: 15px;
+  }
+
   .total-count strong {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .controls {
@@ -570,6 +741,16 @@ footer {
     font-size: 13px;
     white-space: nowrap;
     text-overflow: ellipsis;
+  }
+
+  .game-title-content {
+    gap: 4px;
+  }
+
+  .favorite-star {
+    width: 19px;
+    height: 23px;
+    font-size: 17px;
   }
 
   td:nth-child(2) {
