@@ -82,7 +82,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "スペースインベーダー パートII",
-    "year": "1979",
+    "year": "1980",
     "manufacturer": "タイトー （ミッドウェイライセンス）",
     "name": "invaddlx",
     "note": "Space Invaders Deluxe",
@@ -91,7 +91,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ディープスキャン",
-    "year": "1980",
+    "year": "1979",
     "manufacturer": "セガ",
     "name": "invds",
     "note": "",
@@ -334,7 +334,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "アルペンスキー",
-    "year": "1981",
+    "year": "1982",
     "manufacturer": "タイトー",
     "name": "alpine",
     "note": "set 1",
@@ -343,7 +343,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "アミダー",
-    "year": "1981",
+    "year": "1982",
     "manufacturer": "コナミ",
     "name": "amidar",
     "note": "",
@@ -532,7 +532,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ちゃっくんぽっぷ",
-    "year": "1984",
+    "year": "1983",
     "manufacturer": "タイトー",
     "name": "chaknpop",
     "note": "",
@@ -757,7 +757,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "40-0 ＜フォーティラブ＞",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "タイトー",
     "name": "40love",
     "note": "",
@@ -811,7 +811,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ザ・闘牛",
-    "year": "1998",
+    "year": "1984",
     "manufacturer": "コアランド / セガ",
     "name": "thetogyu",
     "note": "315-5065, 日本版",
@@ -847,7 +847,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "バッテンオハラのスチャラカ空中戦",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "テクノスジャパン",
     "name": "dogfgt",
     "note": "Acrobatic Dog-Fight",
@@ -856,7 +856,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "スーパーピエロ",
-    "year": "1987",
+    "year": "1984",
     "manufacturer": "ユニバーサル",
     "name": "dorunrun",
     "note": "Do! Run Run (set 1)",
@@ -874,7 +874,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ドラゴンバスター",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "ナムコ",
     "name": "drgnbstr",
     "note": "",
@@ -973,7 +973,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ロードランナー -バンゲリング帝国の逆襲",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "アイレム （ブローダーバンドライセンス）",
     "name": "ldrun2",
     "note": "",
@@ -982,7 +982,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "影の伝説",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "タイトー",
     "name": "lkage",
     "note": "",
@@ -991,7 +991,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "マーブルマッドネス",
-    "year": "1985",
+    "year": "1984",
     "manufacturer": "アタリゲームズ",
     "name": "marble",
     "note": "set 1",
@@ -1225,7 +1225,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ガントレット",
-    "year": "1986",
+    "year": "1985",
     "manufacturer": "アタリゲームズ",
     "name": "gauntletj",
     "note": "rev 14",
@@ -1639,7 +1639,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ダライアス",
-    "year": "1987",
+    "year": "1986",
     "manufacturer": "タイトー",
     "name": "dariusj",
     "note": "日本版",
@@ -1648,7 +1648,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ダライアス",
-    "year": "1987",
+    "year": "1986",
     "manufacturer": "タイトー",
     "name": "dariuse",
     "note": "日本版 Extra ver",
@@ -1819,7 +1819,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ピタゴラスの謎",
-    "year": "1987",
+    "year": "1986",
     "manufacturer": "セガ / ナスコ",
     "name": "ridleofp",
     "note": "AAR",
@@ -1999,7 +1999,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "1943改 -ミッドウェイ海戦",
-    "year": "1988",
+    "year": "1987",
     "manufacturer": "カプコン",
     "name": "1943kai",
     "note": "日本版",
@@ -2233,7 +2233,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ニンジャウォーリアーズ",
-    "year": "1988",
+    "year": "1987",
     "manufacturer": "タイトー",
     "name": "ninjawj",
     "note": "日本版",
@@ -2377,7 +2377,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "フルスロットル",
-    "year": "1998",
+    "year": "1987",
     "manufacturer": "タイトー",
     "name": "fullthrl",
     "note": "日本版",
@@ -2386,7 +2386,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "究極タイガー",
-    "year": "1987",
+    "year": "1989",
     "manufacturer": "東亜プラン / タイトー",
     "name": "ktiger",
     "note": "日本版",
@@ -2503,7 +2503,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ファンタジーゾーンII -オパオパの涙-",
-    "year": "1987",
+    "year": "1988",
     "manufacturer": "セガ",
     "name": "fantzn2",
     "note": "MG-8123 317-0057",
@@ -2512,7 +2512,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ファイティングホーク",
-    "year": "1989",
+    "year": "1988",
     "manufacturer": "タイトー",
     "name": "fhawkj",
     "note": "日本版",
@@ -2602,7 +2602,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "フェリオス",
-    "year": "1989",
+    "year": "1988",
     "manufacturer": "ナムコ",
     "name": "phelios",
     "note": "日本版",
@@ -2764,7 +2764,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ブロックアウト",
-    "year": "1990",
+    "year": "1989",
     "manufacturer": "テクノスジャパン / カリフォルニア・ドリームス",
     "name": "blockout",
     "note": "set 1",
@@ -2782,7 +2782,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "キャメルトライ",
-    "year": "1990",
+    "year": "1989",
     "manufacturer": "タイトー",
     "name": "cameltry",
     "note": "USA版",
@@ -2863,7 +2863,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ゴールデンアックス",
-    "year": "1985",
+    "year": "1989",
     "manufacturer": "セガ",
     "name": "goldnaxej",
     "note": "set 4, 日本版 / FD1094 317-0121 / m↑",
@@ -2881,7 +2881,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ファイティングファンタジー",
-    "year": "1998",
+    "year": "1989",
     "manufacturer": "データイースト",
     "name": "ffantasy",
     "note": "日本版 rev 2",
@@ -2899,7 +2899,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "マーベルランド",
-    "year": "1990",
+    "year": "1989",
     "manufacturer": "ナムコ",
     "name": "marvland",
     "note": "USA版",
@@ -3124,7 +3124,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ハットトリックヒーロー",
-    "year": "1991",
+    "year": "1990",
     "manufacturer": "タイトー",
     "name": "hthero",
     "note": "日本版",
@@ -3196,7 +3196,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ランパート",
-    "year": "1991",
+    "year": "1990",
     "manufacturer": "アタリゲームズ",
     "name": "rampartj",
     "note": "trackball",
@@ -3205,7 +3205,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ローリングサンダー2",
-    "year": "1991",
+    "year": "1990",
     "manufacturer": "ナムコ",
     "name": "rthun2j",
     "note": "日本版",
@@ -3241,7 +3241,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "バンダイク",
-    "year": "1991",
+    "year": "1990",
     "manufacturer": "UPL",
     "name": "vandyke",
     "note": "日本版",
@@ -3259,7 +3259,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "64番街",
-    "year": "1992",
+    "year": "1991",
     "manufacturer": "ジャレコ",
     "name": "64street",
     "note": "64th. Street -A Detective Story- (海外版)",
@@ -3394,7 +3394,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "スーパーハイインパクト",
-    "year": "1992",
+    "year": "1991",
     "manufacturer": "ミッドウェイ",
     "name": "shimpact",
     "note": "rev LAT 09/80/91",
@@ -3457,7 +3457,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "バルーンブラザーズ",
-    "year": "1990",
+    "year": "1992",
     "manufacturer": "イーストテクノロジー",
     "name": "ballbros",
     "note": "",
@@ -3484,7 +3484,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ダークエッジ",
-    "year": "1993",
+    "year": "1992",
     "manufacturer": "セガ",
     "name": "darkedgej",
     "note": "日本版 / m↑",
@@ -3592,7 +3592,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "セガソニック・ザ・ヘッジホッグ",
-    "year": "1993",
+    "year": "1992",
     "manufacturer": "セガ",
     "name": "sonic",
     "note": "BARR rev C",
@@ -3628,7 +3628,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "パズル＆アクション タントア～ル",
-    "year": "1993",
+    "year": "1992",
     "manufacturer": "セガ",
     "name": "tantr",
     "note": "日本版",
@@ -3673,7 +3673,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "バツグン",
-    "year": "1994",
+    "year": "1993",
     "manufacturer": "東亜プラン",
     "name": "batsugun",
     "note": "",
@@ -3745,7 +3745,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "クレヨンしんちゃん おらと遊ぼ",
-    "year": "1994",
+    "year": "1993",
     "manufacturer": "タイトー",
     "name": "qcrayon2",
     "note": "AAR",
@@ -3916,7 +3916,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ゴールデンアックス・ザ・デュエル",
-    "year": "1995",
+    "year": "1994",
     "manufacturer": "セガ",
     "name": "gaxeduel",
     "note": "USA / 欧州 / G38 / ST UAB 950117 ver 1.000)",
@@ -4006,7 +4006,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "スーパーストリートファイターII X -グランドマスターチャレンジ",
-    "year": "1993",
+    "year": "1994",
     "manufacturer": "カプコン",
     "name": "ssf2xj",
     "note": "日本版 940223",
@@ -4024,7 +4024,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "登龍門",
-    "year": "1995",
+    "year": "1994",
     "manufacturer": "セガ",
     "name": "toryumon",
     "note": "",
@@ -4069,7 +4069,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII",
-    "year": "1996",
+    "year": "1995",
     "manufacturer": "タイトー",
     "name": "bubblem",
     "note": "ver 2.40 1996/02/15",
@@ -4087,7 +4087,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "大牌砦",
-    "year": "1996",
+    "year": "1995",
     "manufacturer": "メトロ",
     "name": "daitorid",
     "note": "",
@@ -4303,7 +4303,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "アクアリウム",
-    "year": "1995",
+    "year": "1996",
     "manufacturer": "エクセレントシステム",
     "name": "aquarium",
     "note": "日本版",
@@ -4366,7 +4366,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "電車でGO！",
-    "year": "1997",
+    "year": "1996",
     "manufacturer": "タイトー",
     "name": "dendego",
     "note": "",
@@ -4375,7 +4375,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "電車でGO！EX",
-    "year": "1997",
+    "year": "1996",
     "manufacturer": "タイトー",
     "name": "dendegox",
     "note": "",
@@ -4483,7 +4483,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "リアルバウト餓狼伝説スペシャル",
-    "year": "1997",
+    "year": "1996",
     "manufacturer": "SNK",
     "name": "rbffspec",
     "note": "",
@@ -4546,7 +4546,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ソウルエッジ",
-    "year": "1996",
+    "year": "1995",
     "manufacturer": "ナムコ",
     "name": "souledgeja",
     "note": "日本版, SO1/VER.A / m↑",
@@ -4672,7 +4672,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "パズルボブル4",
-    "year": "1998",
+    "year": "1997",
     "manufacturer": "タイトー",
     "name": "pbobble4",
     "note": "ver 2.04O 1997/12/19",
@@ -4798,7 +4798,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ブレイジングスター",
-    "year": "1991",
+    "year": "1998",
     "manufacturer": "夢工房",
     "name": "blazstar",
     "note": "",
@@ -4951,7 +4951,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "アクアラッシュ",
-    "year": "2000",
+    "year": "1999",
     "manufacturer": "ナムコ",
     "name": "aquarush",
     "note": "日本版",
@@ -5050,7 +5050,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "パズルボブル2",
-    "year": "1995",
+    "year": "1999",
     "manufacturer": "タイトー （SNKライセンス）",
     "name": "pbobbl2n",
     "note": "Neo-Geo",
@@ -5113,7 +5113,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ブレイブブレイド",
-    "year": "1984",
+    "year": "2000",
     "manufacturer": "エイティング / ライジング",
     "name": "brvbladej",
     "note": "日本版 / m↑",
@@ -5167,7 +5167,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ナイトメア・イン・ザ・ダーク",
-    "year": "2001",
+    "year": "2000",
     "manufacturer": "イレブン / ガバキング",
     "name": "nitd",
     "note": "",
