@@ -3573,7 +3573,7 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あいれむ"
   },
   {
-    "title": "ストリートファイターII -チャンピオンエディション",
+    "title": "ストリートファイターII' -チャンピオンエディション",
     "year": "1992",
     "manufacturer": "カプコン",
     "name": "sf2ceja",
