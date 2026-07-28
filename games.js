@@ -5389,5 +5389,23 @@ window.ARCADE_GAMES = [
     "note": "317-0006",
     "titleReading": "がるでぃあ",
     "manufacturerReading": "せがこあらんど"
+  },
+  {
+    "title": "スクランブルフォーメーション",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "tokiob",
+    "note": "bootleg",
+    "titleReading": "すくらんぶるふぉーめーしょん",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "快傑ヤンチャ丸",
+    "year": "1986",
+    "manufacturer": "アイレム",
+    "name": "yanchamr",
+    "note": "日本版",
+    "titleReading": "かいけつやんちゃまる",
+    "manufacturerReading": "あいれむ"
   }
 ];
