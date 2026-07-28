@@ -133,6 +133,14 @@ elements.search.addEventListener("input", (event) => {
   render();
 });
 
+elements.search.addEventListener("focus", (event) => {
+  event.currentTarget.select();
+});
+
+elements.search.addEventListener("click", (event) => {
+  event.currentTarget.select();
+});
+
 elements.year.addEventListener("change", (event) => {
   state.year = event.currentTarget.value;
   render();

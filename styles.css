@@ -400,7 +400,7 @@ footer {
   }
 
   .controls-inner {
-    grid-template-columns: 48px 80px minmax(0, 1fr) 50px;
+    grid-template-columns: 40fr 21fr 25fr 14fr;
     gap: 5px;
     padding-block: 6px;
   }
