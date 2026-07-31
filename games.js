@@ -1785,8 +1785,8 @@ window.ARCADE_GAMES = [
     "title": "アレスの翼 -The Legendary Soldiers",
     "year": "1986",
     "manufacturer": "カプコン",
-    "name": "lwings",
-    "note": "Legendary Wings (USA版 set 1)",
+    "name": "lwingsj",
+    "note": "日本版 rev. B",
     "titleReading": "あれすのつばさthelegendarysoldiers",
     "manufacturerReading": "かぷこん"
   },
