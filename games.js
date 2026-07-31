@@ -3690,15 +3690,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とうあぷらん"
   },
   {
-    "title": "ダンジョンズ＆ドラゴンズ -タワーオブドゥーム",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "ddtodjr2",
-    "note": "日本版 940113",
-    "titleReading": "だんじょんず&どらごんずたわあおぶどぅうむ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
     "title": "餓狼伝説スペシャル",
     "year": "1993",
     "manufacturer": "SNK",
