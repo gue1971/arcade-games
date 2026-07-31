@@ -6127,5 +6127,41 @@ window.ARCADE_GAMES = [
     "note": "World",
     "titleReading": "すとらいくふぁいたー",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "UFO戦士ようこちゃん",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "ufosensi",
+    "note": "MC-8123 / 317-0064",
+    "titleReading": "ゆーふぉーせんしようこちゃん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ウィンターヒート",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "winterht",
+    "note": "JUET 971012 V1.000",
+    "titleReading": "うぃんたーひーと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "レッスルウォー",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "wrestwar1",
+    "note": "日本版 set 1 / FD1094 317-0090",
+    "titleReading": "れっするうぉー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "全日本プロレス featuring Virtua",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "znpwfv",
+    "note": "日本版 971123 V1.000",
+    "titleReading": "ぜんにほんぷろれすふぃーちゃりんぐばーちゃ",
+    "manufacturerReading": "せが"
   }
 ];
