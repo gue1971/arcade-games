@@ -5547,8 +5547,8 @@ window.ARCADE_GAMES = [
     "title": "チキチキボーイズ",
     "year": "1990",
     "manufacturer": "カプコン",
-    "name": "mtwins",
-    "note": "海外版 / Mega Twins / World 900619",
+    "name": "chikij",
+    "note": "日本版 900619",
     "titleReading": "ちきちきぼーいず",
     "manufacturerReading": "かぷこん"
   },
