@@ -4360,7 +4360,7 @@ window.ARCADE_GAMES = [
     "year": "1996",
     "manufacturer": "カプコン",
     "name": "ddsomj",
-    "note": "欧州版 960619",
+    "note": "日本版 960619",
     "titleReading": "だんじょんず&どらごんずしゃどうおうばあみすたら",
     "manufacturerReading": "かぷこん"
   },
@@ -5640,6 +5640,69 @@ window.ARCADE_GAMES = [
     "name": "xmvsfj",
     "note": "日本版 970113",
     "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ダンジョンズ＆ドラゴンズ -タワーオブドゥーム-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ddtodj",
+    "note": "日本版 940412",
+    "titleReading": "だんじょんずあんどどらごんずたわーおぶどぅーむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "キャディラックス 恐竜新世紀",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "dinoj",
+    "note": "日本版 930201",
+    "titleReading": "きゃでぃらっくすきょうりゅうしんせいき",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ロストワールド",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "lostwrld",
+    "note": "日本版",
+    "titleReading": "ろすとわーるど",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ラストデュエル",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "lastduelj",
+    "note": "日本版",
+    "titleReading": "らすとでゅえる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マッドギア",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "madgearj",
+    "note": "日本版",
+    "titleReading": "まっどぎあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "戦場の狼II",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "mercsj",
+    "note": "日本版 900302",
+    "titleReading": "せんじょうのおおかみ2",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ニモ",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "nemoj",
+    "note": "日本版 901120",
+    "titleReading": "にも",
     "manufacturerReading": "かぷこん"
   }
 ];
