@@ -5695,5 +5695,212 @@ window.ARCADE_GAMES = [
     "note": "日本版 901120",
     "titleReading": "にも",
     "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "アレックスキッド ザ・ロストスターズ",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "alexkidd",
+    "note": "set 2, unprotected",
+    "titleReading": "あれっくすきっどざろすとすたーず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "獣王記",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "altbeastj",
+    "note": "日本版 set 7 / 8751 317-0077",
+    "titleReading": "じゅうおうき",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アラビアンファイト",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "arabfgtj",
+    "note": "日本版",
+    "titleReading": "あらびあんふぁいと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "エイリアンストーム",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "astormj",
+    "note": "日本版 2 Players / FD1094 317-0146",
+    "titleReading": "えいりあんすとーむ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ブロクシード",
+    "year": "1989",
+    "manufacturer": "セガ / Elorg",
+    "name": "bloxeed",
+    "note": "日本版 / FD1094 317-0139",
+    "titleReading": "ぶろくしーど",
+    "manufacturerReading": "せがえろーぐ"
+  },
+  {
+    "title": "ダンプ松本",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "dumpmtmt",
+    "note": "日本版 / 8751 317-0011a",
+    "titleReading": "だんぷまつもと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ボーダーライン",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "brdrline",
+    "note": "",
+    "titleReading": "ぼーだーらいん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "バーニングライバル",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "brivalj",
+    "note": "日本版",
+    "titleReading": "ばーにんぐらいばる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "バレット",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "bullet",
+    "note": "FD1094 317-0041",
+    "titleReading": "ばれっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カロリーくんVSモグラニアン",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "calorie",
+    "note": "",
+    "titleReading": "かろりーくんばーさすもぐらにあん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "チャンピオンボクシング",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "chboxing",
+    "note": "",
+    "titleReading": "ちゃんぴおんぼくしんぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "チョップリフター",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "choplift",
+    "note": "8751 315-5151",
+    "titleReading": "ちょっぷりふたー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クラッチヒッター",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "cltchitr",
+    "note": "USA版 / FD1094 317-0176",
+    "titleReading": "くらっちひったー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クラックダウン",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "crkdownj",
+    "note": "日本版, Floppy Based / FD1094 317-0058-04b Rev A",
+    "titleReading": "くらっくだうん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "D.D.クルー",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "ddcrewj",
+    "note": "日本版 4 Players / FD1094 317-0185",
+    "titleReading": "でぃーでぃーくるー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ダイナマイトダックス",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "ddux",
+    "note": "海外版 set 3 / World / FD1094 317-0096",
+    "titleReading": "だいなまいとだっくす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "デザートブレイカー",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "desertbrj",
+    "note": "日本版 / FD1094 317-0194",
+    "titleReading": "でざーとぶれいかー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ダイナマイト刑事",
+    "year": "1996",
+    "manufacturer": "セガ",
+    "name": "dnmtdeka",
+    "note": "日本版 960515 V1.000",
+    "titleReading": "だいなまいとでか",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "どきどきペンギンランド",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "dokidoki",
+    "note": "",
+    "titleReading": "どきどきぺんぎんらんど",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "絵本探偵事務所",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "ejihon",
+    "note": "日本版 950613 V1.000",
+    "titleReading": "えほんたんていじむしょ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "サイバーポリス イースワット",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "eswatj",
+    "note": "日本版 set 2 / FD1094 317-0128",
+    "titleReading": "さいばーぽりすいーすわっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ファンキーヘッドボクサーズ",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "fhboxers",
+    "note": "JUETBKAL 951218 V1.000",
+    "titleReading": "ふぁんきーへっどぼくさーず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "フラッシュポイント",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "fpoint",
+    "note": "日本版 set 2 / FD1094 317-0127A",
+    "titleReading": "ふらっしゅぽいんと",
+    "manufacturerReading": "せが"
   }
 ];
