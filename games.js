@@ -5902,5 +5902,230 @@ window.ARCADE_GAMES = [
     "note": "日本版 set 2 / FD1094 317-0127A",
     "titleReading": "ふらっしゅぽいんと",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "ゲイングランド",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "ggroundj",
+    "note": "日本版 2 Players, Floppy Based / FD1094 317-0058-03b",
+    "titleReading": "げいんぐらんど",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ギガス",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "gigas",
+    "note": "MC-8123 / 317-5002",
+    "titleReading": "ぎがす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "G-LOC エアバトル",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "gloc",
+    "note": "World",
+    "titleReading": "じーろっくえあばとる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "サクラ大戦 花組対戦コラムス",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "hanagumi",
+    "note": "日本版 971007 V1.010",
+    "titleReading": "さくらたいせんはなぐみたいせんこらむす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ハードダンク",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "harddunkj",
+    "note": "日本版",
+    "titleReading": "はーどだんく",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パズル＆アクション イチダントアール",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "ichirj",
+    "note": "日本版",
+    "titleReading": "ぱずるあんどあくしょんいちだんとあーる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "メジャーリーグ",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "mjleague",
+    "note": "",
+    "titleReading": "めじゃーりーぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "MVP",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "mvpj",
+    "note": "日本版 set 1 / FD1094 317-0142",
+    "titleReading": "えむぶいぴー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "マイケル・ジャクソンズ・ムーンウォーカー",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "mwalkj",
+    "note": "日本版 / FD1094/8751 317-0157",
+    "titleReading": "まいけるじゃくそんずむーんうぉーかー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "オパオパ",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "opaopa",
+    "note": "MC-8123 / 317-0042",
+    "titleReading": "おぱおぱ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アウトランナーズ",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "orunnersj",
+    "note": "日本版",
+    "titleReading": "あうとらんなーず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パッシングショット",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "passshtj",
+    "note": "日本版 4 Players / FD1094 317-0070",
+    "titleReading": "ぱっしんぐしょっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クイズゴーストハンター",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "qgh",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずごーすとはんたー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クイズ廊下に立ってなさい！",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "qrouka",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずろうかにたってなさい",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クイズ宿題を忘れました",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "qsww",
+    "note": "日本版, Floppy Based / FD1094 317-0058-08b",
+    "titleReading": "くいずしゅくだいをわすれました",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カルテット",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "quartet",
+    "note": "Rev A / 8751 315-5194",
+    "titleReading": "かるてっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カルテット2",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "quartet2",
+    "note": "8751 317-0010",
+    "titleReading": "かるてっと2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クイズめくるめくストーリー",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "quizmeku",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずめくるめくすとーりー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "リパルス",
+    "year": "1985",
+    "manufacturer": "Crux / セガ",
+    "name": "repulse",
+    "note": "",
+    "titleReading": "りぱるす",
+    "manufacturerReading": "くるっくすせが"
+  },
+  {
+    "title": "パズル＆アクション サンドアール",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "sandor",
+    "note": "日本版 951114 V1.000",
+    "titleReading": "ぱずるあんどあくしょんさんどあーる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ソニックブーム",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "sonicbom",
+    "note": "FD1094 317-0053",
+    "titleReading": "そにっくぶーむ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スパイダーマン ザ・ビデオゲーム",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "spidman",
+    "note": "World",
+    "titleReading": "すぱいだーまんざびでおげーむ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スクランブルスピリッツ",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "sspiritj",
+    "note": "日本版, Floppy DS3-5000-02-REV-A Based",
+    "titleReading": "すくらんぶるすぴりっつ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スタックコラムス",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "stkclmnsj",
+    "note": "日本版",
+    "titleReading": "すたっくこらむす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ストライクファイター",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "strkfgtr",
+    "note": "World",
+    "titleReading": "すとらいくふぁいたー",
+    "manufacturerReading": "せが"
   }
 ];
