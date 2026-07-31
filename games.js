@@ -5407,5 +5407,239 @@ window.ARCADE_GAMES = [
     "note": "日本版",
     "titleReading": "かいけつやんちゃまる",
     "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "1941 -カウンターアタック-",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "1941",
+    "note": "World 900227",
+    "titleReading": "いちきゅうよんいちかうんたーあたっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ワンダー3",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "wonder3",
+    "note": "日本版 910520",
+    "titleReading": "わんだーすりー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "パワードギア",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "pgear",
+    "note": "日本版 941024 / Strategic Variant Armor Equipment",
+    "titleReading": "ぱわーどぎあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ブラックドラゴン",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "blktiger",
+    "note": "海外版 / Black Tiger / US",
+    "titleReading": "ぶらっくどらごん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "キャプテンコマンドー",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "captcommj",
+    "note": "日本版 911202",
+    "titleReading": "きゃぷてんこまんどー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "U.S.ネイビー",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "cawingj",
+    "note": "日本版 901012",
+    "titleReading": "ゆーえすねいびー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "カプコンベースボール",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "cbasebal",
+    "note": "日本版",
+    "titleReading": "かぷこんべーすぼーる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "カプコンスポーツクラブ",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "csclubj",
+    "note": "日本版 970722",
+    "titleReading": "かぷこんすぽーつくらぶ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "アドベンチャークイズ カプコンワールド2",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "cworld2j",
+    "note": "日本版 920611",
+    "titleReading": "あどべんちゃーくいずかぷこんわーるど2",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "天地を喰らう",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "dynwarj",
+    "note": "日本版",
+    "titleReading": "てんちをくらう",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "アルティメット エコロジー",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ecofghtr",
+    "note": "海外版 / Eco Fighters / World 931203",
+    "titleReading": "あるてぃめっとえころじー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ひげ丸",
+    "year": "1984",
+    "manufacturer": "カプコン",
+    "name": "higemaru",
+    "note": "Pirate Ship Higemaru",
+    "titleReading": "ひげまる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ザ・キングオブドラゴンズ",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "kodj",
+    "note": "日本版 910805",
+    "titleReading": "ざきんぐおぶどらごんず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マッスルボマーDUO -HEAT UP WARRIORS-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "mbombrdj",
+    "note": "日本版 931206",
+    "titleReading": "まっするぼまーでゅおひーとあっぷうぉりあーず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マジックソード",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "mswordj",
+    "note": "日本版 900623 / Heroic Fantasy",
+    "titleReading": "まじっくそーど",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "チキチキボーイズ",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "mtwins",
+    "note": "海外版 / Mega Twins / World 900619",
+    "titleReading": "ちきちきぼーいず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "パニッシャー",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "punisherj",
+    "note": "日本版 930422",
+    "titleReading": "ぱにっしゃー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "クイズ殿様の野望2 全国版",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "qtono2j",
+    "note": "日本版 950123",
+    "titleReading": "くいずとのさまのやぼう2ぜんこくばん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スーパーマッスルボマー -THE INTERNATIONAL BLOWOUT-",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "ringdest",
+    "note": "海外版 / Ring of Destruction: Slammasters II / Europe 940902",
+    "titleReading": "すーぱーまっするぼまーじいんたーなしょなるぶろーあうと",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイターZERO2 ALPHA",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "sfz2alj",
+    "note": "日本版 960805",
+    "titleReading": "すとりーとふぁいたーぜろ2あるふぁ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マッスルボマー -THE BODY EXPLOSION-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "slammast",
+    "note": "海外版 / Saturday Night Slam Masters / World 930713",
+    "titleReading": "まっするぼまーざぼでぃえくすぷろーじょん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "超鋼戦紀キカイオー",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "techromnu",
+    "note": "海外版 / Tech Romancer / USA 980914",
+    "titleReading": "ちょうこうせんききかいおー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "バース -オペレーションサンダーストーム-",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "varthj",
+    "note": "日本版 920714",
+    "titleReading": "ばーすおぺれーしょんさんだーすとーむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ウィロー",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "willowj",
+    "note": "日本版",
+    "titleReading": "うぃろー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "天地を喰らうII 赤壁の戦い",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "wofj",
+    "note": "日本版 921031",
+    "titleReading": "てんちをくらう2せきへきのたたかい",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "X-MEN VS. ストリートファイター",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "xmvsfj",
+    "note": "日本版 970113",
+    "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
+    "manufacturerReading": "かぷこん"
   }
 ];
