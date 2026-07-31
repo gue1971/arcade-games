@@ -4270,7 +4270,7 @@ window.ARCADE_GAMES = [
     "year": "1996",
     "manufacturer": "カプコン",
     "name": "19xxj",
-    "note": "日本版 960104, yellow case",
+    "note": "日本版 951225",
     "titleReading": "ないんてぃーんだぶるえっくす",
     "manufacturerReading": "かぷこん"
   },
@@ -5403,8 +5403,8 @@ window.ARCADE_GAMES = [
     "title": "1941 -カウンターアタック-",
     "year": "1990",
     "manufacturer": "カプコン",
-    "name": "1941",
-    "note": "World 900227",
+    "name": "1941j",
+    "note": "日本版",
     "titleReading": "いちきゅうよんいちかうんたーあたっく",
     "manufacturerReading": "かぷこん"
   },
