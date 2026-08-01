@@ -3000,8 +3000,8 @@ window.ARCADE_GAMES = [
     "title": "エア・バスター -Trouble Specialty Raid Unit",
     "year": "1990",
     "manufacturer": "カネコ （ナムコライセンス）",
-    "name": "airbustr",
-    "note": "海外 阪",
+    "name": "airbustrj",
+    "note": "日本版",
     "titleReading": "えあばすたあtroublespecialtyraidunit",
     "manufacturerReading": "かねこなむこらいせんす"
   },
@@ -6145,5 +6145,68 @@ window.ARCADE_GAMES = [
     "note": "日本版 971123 V1.000",
     "titleReading": "ぜんにほんぷろれすふぃーちゃりんぐばーちゃ",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "005",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "005",
+    "note": "",
+    "titleReading": "ぜろぜろふぁいぶ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "10ヤードファイト",
+    "year": "1983",
+    "manufacturer": "アイレム",
+    "name": "10yardj",
+    "note": "日本版",
+    "titleReading": "てんやーどふぁいと",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "ファイヤースープレックス",
+    "year": "1993",
+    "manufacturer": "SNK",
+    "name": "3countb",
+    "note": "3 Count Bout / NGM-043 / NGH-043",
+    "titleReading": "ふぁいやーすーぷれっくす",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "4-Dウォリアーズ",
+    "year": "1985",
+    "manufacturer": "コアランド / セガ",
+    "name": "4dwarrio",
+    "note": "315-5162",
+    "titleReading": "ふぉーでぃーうぉりあーず",
+    "manufacturerReading": "こあらんどせが"
+  },
+  {
+    "title": "ソニックウィングス リミテッド",
+    "year": "1996",
+    "manufacturer": "ビデオシステム",
+    "name": "sncwgltd",
+    "note": "日本版",
+    "titleReading": "そにっくうぃんぐすりみてっど",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "アクウギャレット",
+    "year": "1996",
+    "manufacturer": "ガゼル（バンプレストライセンス）",
+    "name": "agalletj",
+    "note": "日本版",
+    "titleReading": "あくうぎゃれっと",
+    "manufacturerReading": "がぜるばんぷれすとらいせんす"
+  },
+  {
+    "title": "アグレス -ミサイル大戦略-",
+    "year": "1991",
+    "manufacturer": "パルコ",
+    "name": "agress",
+    "note": "日本版",
+    "titleReading": "あぐれすみさいるだいせんりゃく",
+    "manufacturerReading": "ぱるこ"
   }
 ];
