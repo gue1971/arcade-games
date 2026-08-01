@@ -1668,8 +1668,8 @@ window.ARCADE_GAMES = [
     "title": "エンデューロレーサー",
     "year": "1986",
     "manufacturer": "セガ",
-    "name": "enduror",
-    "note": "¥M2151 FD1089B 317-00188",
+    "name": "endurobl",
+    "note": "bootleg set 1",
     "titleReading": "えんでゅうろれえさあ",
     "manufacturerReading": "せが"
   },
