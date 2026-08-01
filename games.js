@@ -2007,15 +2007,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
-    "title": "アフターバーナー",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "aburner",
-    "note": "日本版",
-    "titleReading": "あふたあばあなあ",
-    "manufacturerReading": "せが"
-  },
-  {
     "title": "A-JAX",
     "year": "1987",
     "manufacturer": "コナミ",
@@ -2739,8 +2730,8 @@ window.ARCADE_GAMES = [
     "title": "アクトフェンサー",
     "year": "1989",
     "manufacturer": "データイースト",
-    "name": "actfancr",
-    "note": "",
+    "name": "actfancrj",
+    "note": "日本版 revision 1",
     "titleReading": "あくとふぇんさあ",
     "manufacturerReading": "でえたいいすと"
   },
