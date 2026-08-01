@@ -6208,5 +6208,203 @@ window.ARCADE_GAMES = [
     "note": "日本版",
     "titleReading": "あぐれすみさいるだいせんりゃく",
     "manufacturerReading": "ぱるこ"
+  },
+  {
+    "title": "パネル＆バラエティ あか丸Q 上昇どんどんR",
+    "year": "1996",
+    "manufacturer": "ダイナックス（中日本ライセンス）",
+    "name": "akamaru",
+    "note": "",
+    "titleReading": "ぱねるあんどばらえてぃあかまるきゅーじょうしょうどんどんあーる",
+    "manufacturerReading": "だいなっくすなかにほんらいせんす"
+  },
+  {
+    "title": "バラデューク",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "baraduke",
+    "note": "",
+    "titleReading": "ばらでゅーく",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "アリゲーターハント",
+    "year": "1994",
+    "manufacturer": "ガエルコ",
+    "name": "aligatorun",
+    "note": "unprotected / checksum F9C6891D",
+    "titleReading": "ありげーたーはんと",
+    "manufacturerReading": "がえるこ"
+  },
+  {
+    "title": "アンドロデュノス",
+    "year": "1992",
+    "manufacturer": "ビスコ",
+    "name": "androdun",
+    "note": "NGM-049 / NGH-049",
+    "titleReading": "あんどろでゅのす",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "わいわいアニマルランドJr.",
+    "year": "1993",
+    "manufacturer": "中日本 / イーストテクノロジー（タイトーライセンス）",
+    "name": "animaljrj",
+    "note": "日本版",
+    "titleReading": "わいわいあにまるらんどじゅにあ",
+    "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす"
+  },
+  {
+    "title": "アンティーター",
+    "year": "1982",
+    "manufacturer": "タゴエレクトロニクス",
+    "name": "anteater",
+    "note": "",
+    "titleReading": "あんてぃーたー",
+    "manufacturerReading": "たごえれくとろにくす"
+  },
+  {
+    "title": "龍虎の拳",
+    "year": "1992",
+    "manufacturer": "SNK",
+    "name": "aof",
+    "note": "Art of Fighting / NGM-044 / NGH-044",
+    "titleReading": "りゅうこのけん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "アラビアン",
+    "year": "1983",
+    "manufacturer": "サン電子",
+    "name": "arabian",
+    "note": "",
+    "titleReading": "あらびあん",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "アラビアンマジック",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "arabianmj",
+    "note": "日本版 Ver 1.0J 1992/07/06",
+    "titleReading": "あらびあんまじっく",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "アルバレスタ",
+    "year": "1989",
+    "manufacturer": "ジョルダン / セタ",
+    "name": "arbalest",
+    "note": "",
+    "titleReading": "あるばれすた",
+    "manufacturerReading": "じょるだんせた"
+  },
+  {
+    "title": "アーチライバルズ",
+    "year": "1989",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "archrivl",
+    "note": "rev 4.0 6/29/89",
+    "titleReading": "あーちらいばるず",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "アルカノイドリターンズ",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "arkretrn",
+    "note": "Ver 2.02O 1997/02/10",
+    "titleReading": "あるかのいどりたーんず",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "アームドF",
+    "year": "1988",
+    "manufacturer": "日本物産",
+    "name": "armedf",
+    "note": "日本版",
+    "titleReading": "あーむどえふ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "アーマーアタック",
+    "year": "1980",
+    "manufacturer": "シネマトロニクス",
+    "name": "armora",
+    "note": "",
+    "titleReading": "あーまーあたっく",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "アーマードカー",
+    "year": "1981",
+    "manufacturer": "スターンエレクトロニクス",
+    "name": "armorcar",
+    "note": "set 1",
+    "titleReading": "あーまーどかー",
+    "manufacturerReading": "すたーんえれくとろにくす"
+  },
+  {
+    "title": "アシュラブラスター",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "ashuraj",
+    "note": "日本版",
+    "titleReading": "あしゅらぶらすたー",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "ASO -Armored Scrum Object-",
+    "year": "1985",
+    "manufacturer": "SNK",
+    "name": "aso",
+    "note": "",
+    "titleReading": "あそーあーマーどすくらむおぶじぇくと",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "アステリックス",
+    "year": "1992",
+    "manufacturer": "コナミ",
+    "name": "asterix",
+    "note": "ver EAD",
+    "titleReading": "あすてりっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ザ・ロードオブキング",
+    "year": "1989",
+    "manufacturer": "ジャレコ",
+    "name": "lordofk",
+    "note": "日本版",
+    "titleReading": "ざろーどおぶきんぐ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "アシュラバスター -Eternal Warriors-",
+    "year": "2001",
+    "manufacturer": "フウキ",
+    "name": "asurabus",
+    "note": "USA版",
+    "titleReading": "あしゅらばすたーえたーなるうぉりあーず",
+    "manufacturerReading": "ふうき"
+  },
+  {
+    "title": "アタックス",
+    "year": "1990",
+    "manufacturer": "リーランド（カプコンライセンス）",
+    "name": "ataxxj",
+    "note": "日本版",
+    "titleReading": "あたっくす",
+    "manufacturerReading": "りーらんどかぷこんらいせんす"
+  },
+  {
+    "title": "アベンジャーズ・イン・ギャラクティックストーム",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "avengrgsj",
+    "note": "日本版 1.2",
+    "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
+    "manufacturerReading": "でーたいーすと"
   }
 ];
