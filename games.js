@@ -3019,7 +3019,7 @@ window.ARCADE_GAMES = [
     "year": "1990",
     "manufacturer": "コナミ",
     "name": "aliensj",
-    "note": "海外版 set 1",
+    "note": "日本語版 set 1",
     "titleReading": "えいりあんず",
     "manufacturerReading": "こなみ"
   },
