@@ -3268,10 +3268,10 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "ファンタズム",
-    "year": "1991",
+    "year": "1990",
     "manufacturer": "ジャレコ",
-    "name": "avspirit",
-    "note": "Avenging Spirit",
+    "name": "phantasm",
+    "note": "日本版",
     "titleReading": "ふぁんたずむ",
     "manufacturerReading": "じゃれこ"
   },
