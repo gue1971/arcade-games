@@ -1134,15 +1134,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
-    "title": "アームレスリング",
-    "year": "1985",
-    "manufacturer": "任天堂",
-    "name": "armwrest",
-    "note": "",
-    "titleReading": "ああむれすりんぐ",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
     "title": "チャンピオンプロレス",
     "year": "1985",
     "manufacturer": "セガ",
