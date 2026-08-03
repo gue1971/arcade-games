@@ -5412,8 +5412,8 @@ window.ARCADE_GAMES = [
     "title": "ブラックドラゴン",
     "year": "1987",
     "manufacturer": "カプコン",
-    "name": "blktiger",
-    "note": "海外版 / Black Tiger / US",
+    "name": "blkdrgon",
+    "note": "日本版",
     "titleReading": "ぶらっくどらごん",
     "manufacturerReading": "かぷこん"
   },
@@ -6406,5 +6406,293 @@ window.ARCADE_GAMES = [
     "note": "日本版 1.2",
     "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
     "manufacturerReading": "でーたいーすと"
+  },
+  {
+    "title": "バックファイア！",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "backfire",
+    "note": "日本版 set 1",
+    "titleReading": "ばっくふぁいあ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
+    "title": "ドラゴンニンジャ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "drgninja",
+    "note": "日本版 revision 1",
+    "titleReading": "どらごんにんじゃ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
+    "title": "バッドランズ",
+    "year": "1989",
+    "manufacturer": "アタリゲームズ",
+    "name": "badlands",
+    "note": "",
+    "titleReading": "ばっどらんず",
+    "manufacturerReading": "あたりげーむず"
+  },
+  {
+    "title": "バッグマン",
+    "year": "1982",
+    "manufacturer": "Valadon Automation",
+    "name": "bagman",
+    "note": "",
+    "titleReading": "ばっぐまん",
+    "manufacturerReading": "ばらどんおーとめーしょん"
+  },
+  {
+    "title": "VS.バルーンファイト",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "balonfgt",
+    "note": "set BF4 A-3",
+    "titleReading": "ばーさすばるーんふぁいと",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "バンクパニック",
+    "year": "1984",
+    "manufacturer": "サンリツ / セガ",
+    "name": "bankp",
+    "note": "",
+    "titleReading": "ばんくぱにっく",
+    "manufacturerReading": "さんりつせが"
+  },
+  {
+    "title": "アームドポリス バトライダー",
+    "year": "1998",
+    "manufacturer": "ライジング / エイティング",
+    "name": "batriderj",
+    "note": "日本版 B version / 1998-02-13",
+    "titleReading": "あーむどぽりすばとらいだー",
+    "manufacturerReading": "らいじんぐえいてぃんぐ"
+  },
+  {
+    "title": "バトルクライ",
+    "year": "1991",
+    "manufacturer": "ホームデータ",
+    "name": "battlcry",
+    "note": "Version E",
+    "titleReading": "ばとるくらい",
+    "manufacturerReading": "ほーむでーた"
+  },
+  {
+    "title": "ならず者戦闘部隊 ブラッディウルフ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "bldwolfj",
+    "note": "日本版",
+    "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
+    "title": "ベイルート",
+    "year": "1989",
+    "manufacturer": "サンソフト / セガ",
+    "name": "bayroutej",
+    "note": "日本版 set 2 / FD1094 317-0115",
+    "titleReading": "べいるーと",
+    "manufacturerReading": "さんそふとせが"
+  },
+  {
+    "title": "ブラッディロア",
+    "year": "1997",
+    "manufacturer": "エイティング / ライジング",
+    "name": "bldyroar",
+    "note": "日本版 1997-06-21",
+    "titleReading": "ぶらっでぃろあ",
+    "manufacturerReading": "えいてぃんぐらいじんぐ"
+  },
+  {
+    "title": "ベルリンの壁",
+    "year": "1991",
+    "manufacturer": "カネコ",
+    "name": "berlwall",
+    "note": "The Berlin Wall",
+    "titleReading": "べるりんのかべ",
+    "manufacturerReading": "かねこ"
+  },
+  {
+    "title": "バトルガレッガ",
+    "year": "1996",
+    "manufacturer": "ライジング / エイティング",
+    "name": "bgaregga",
+    "note": "Europe / USA / Japan / Asia / 1996-02-03",
+    "titleReading": "ばとるがれっが",
+    "manufacturerReading": "らいじんぐえいてぃんぐ"
+  },
+  {
+    "title": "ビッグファイト -Big Trouble In The Atlantic Ocean-",
+    "year": "1992",
+    "manufacturer": "タツミ",
+    "name": "bigfight",
+    "note": "",
+    "titleReading": "びっぐふぁいとびっぐとらぶるいんじあとらんてぃっくおーしゃん",
+    "manufacturerReading": "たつみ"
+  },
+  {
+    "title": "ビッグストライカー",
+    "year": "1992",
+    "manufacturer": "ジャレコ",
+    "name": "bigstrik",
+    "note": "",
+    "titleReading": "びっぐすとらいかー",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "宇宙戦艦ゴモラ",
+    "year": "1990",
+    "manufacturer": "UPL",
+    "name": "sbsgomo",
+    "note": "日本版",
+    "titleReading": "うちゅうせんかんごもら",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "ラギ",
+    "year": "1990",
+    "manufacturer": "アルファ電子",
+    "name": "bjourney",
+    "note": "Blue's Journey / ALM-001 / ALH-001",
+    "titleReading": "らぎ",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "ボンジャックツイン",
+    "year": "1993",
+    "manufacturer": "NMK",
+    "name": "bjtwin",
+    "note": "set 1",
+    "titleReading": "ぼんじゃっくついん",
+    "manufacturerReading": "えぬえむけー"
+  },
+  {
+    "title": "ブランディア",
+    "year": "1992",
+    "manufacturer": "アルュメ",
+    "name": "blandia",
+    "note": "",
+    "titleReading": "ぶらんでぃあ",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "ブラスティッド",
+    "year": "1988",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "blasted",
+    "note": "",
+    "titleReading": "ぶらすてぃっど",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "ブレイゾン",
+    "year": "1992",
+    "manufacturer": "A.I（アトラスライセンス）",
+    "name": "blazeon",
+    "note": "World",
+    "titleReading": "ぶれいぞん",
+    "manufacturerReading": "えーあいあとらすらいせんす"
+  },
+  {
+    "title": "ブラックハート",
+    "year": "1991",
+    "manufacturer": "UPL",
+    "name": "blkheartj",
+    "note": "日本版",
+    "titleReading": "ぶらっくはーと",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "ブラックパンサー",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "blkpnthr",
+    "note": "",
+    "titleReading": "ぶらっくぱんさー",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ブロックブロック",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "blockj",
+    "note": "日本版 910910",
+    "titleReading": "ぶろっくぶろっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ブロックカーニバル",
+    "year": "1992",
+    "manufacturer": "ビスコ",
+    "name": "blockcar",
+    "note": "Thunder & Lightning 2",
+    "titleReading": "ぶろっくかーにばる",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ブロッケン",
+    "year": "1994",
+    "manufacturer": "ビスコ / KID",
+    "name": "blocken",
+    "note": "日本版",
+    "titleReading": "ぶろっけん",
+    "manufacturerReading": "びすこきっど"
+  },
+  {
+    "title": "クォース",
+    "year": "1989",
+    "manufacturer": "コナミ",
+    "name": "quarth",
+    "note": "日本版",
+    "titleReading": "くぉーす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ブラッドブラザーズ",
+    "year": "1990",
+    "manufacturer": "TAD",
+    "name": "bloodbro",
+    "note": "World?",
+    "titleReading": "ぶらっどぶらざーず",
+    "manufacturerReading": "てぃーえーでぃー"
+  },
+  {
+    "title": "大江戸ファイト",
+    "year": "1994",
+    "manufacturer": "カネコ",
+    "name": "oedfight",
+    "note": "日本版 Bloodshed version",
+    "titleReading": "おおえどふぁいと",
+    "manufacturerReading": "かねこ"
+  },
+  {
+    "title": "ブレイジングトルネード",
+    "year": "1994",
+    "manufacturer": "ヒューマン",
+    "name": "blzntrnd",
+    "note": "",
+    "titleReading": "ぶれいじんぐとるねーど",
+    "manufacturerReading": "ひゅーまん"
+  },
+  {
+    "title": "クロスブレイズ！",
+    "year": "1991",
+    "manufacturer": "アイレム",
+    "name": "crossbld",
+    "note": "日本版",
+    "titleReading": "くろすぶれいず",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "VS.バンゲリングベイ",
+    "year": "1985",
+    "manufacturer": "任天堂 / ブローダーバンド",
+    "name": "bnglngby",
+    "note": "RD4-2 B",
+    "titleReading": "ばーさすばんげりんぐべい",
+    "manufacturerReading": "にんてんどうぶろーだーばんど"
   }
 ];
