@@ -2046,8 +2046,8 @@ window.ARCADE_GAMES = [
     "title": "バトランティス",
     "year": "1987",
     "manufacturer": "コナミ",
-    "name": "battlnts",
-    "note": "program code G",
+    "name": "battlntsj",
+    "note": "日本版",
     "titleReading": "ばとらんてぃす",
     "manufacturerReading": "こなみ"
   },
