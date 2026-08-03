@@ -2064,7 +2064,7 @@ window.ARCADE_GAMES = [
     "title": "バミューダトライアングル",
     "year": "1987",
     "manufacturer": "SNK",
-    "name": "bermudat",
+    "name": "bermudatj",
     "note": "日本版",
     "titleReading": "ばみゅうだとらいあんぐる",
     "manufacturerReading": "えすえぬけー"
