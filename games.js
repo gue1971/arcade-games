@@ -6694,5 +6694,14 @@ window.ARCADE_GAMES = [
     "note": "RD4-2 B",
     "titleReading": "ばーさすばんげりんぐべい",
     "manufacturerReading": "にんてんどうぶろーだーばんど"
+  },
+  {
+    "title": "リバーパトロール",
+    "year": "1981",
+    "manufacturer": "オルカ",
+    "name": "rpatrol",
+    "note": "日本版",
+    "titleReading": "りばーぱとろーる",
+    "manufacturerReading": "おるか"
   }
 ];
