@@ -2277,15 +2277,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃぱんれじゃじゃれこ"
   },
   {
-    "title": "花合わせ",
-    "year": "1982",
-    "manufacturer": "世田企画（セタ）",
-    "name": "hanaawas",
-    "note": "Hana Awase",
-    "titleReading": "はなあわせ",
-    "manufacturerReading": "よたきかくせた"
-  },
-  {
     "title": "ハンバーガー",
     "year": "1982",
     "manufacturer": "データイースト",
@@ -9315,15 +9306,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "夢札",
-    "year": "1991",
-    "manufacturer": "アルバ",
-    "name": "yumefuda",
-    "note": "Yumefuda [BET]",
-    "titleReading": "ゆめさつ",
-    "manufacturerReading": "あるば"
-  },
-  {
     "title": "ライオットシティ",
     "year": "1991",
     "manufacturer": "セガ / ウエストン",
@@ -11376,15 +11358,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "びすこ"
   },
   {
-    "title": "スーパー華パラダイス",
-    "year": "1994",
-    "manufacturer": "ダイナックス",
-    "name": "hparadis",
-    "note": "Super Hana Paradise (Japan)",
-    "titleReading": "すぱはなぱらだいす",
-    "manufacturerReading": "だいなっくす"
-  },
-  {
     "title": "スラップショット",
     "year": "1994",
     "manufacturer": "イースト･テクノロジー",
@@ -12166,15 +12139,6 @@ window.ARCADE_GAMES = [
     "note": "Super Football Champ (Ver 2.5O)",
     "titleReading": "すぱふっとぼるちゃんぷ",
     "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "スーパーリアル花札 恋こいしましょ",
-    "year": "1995",
-    "manufacturer": "ビスコ",
-    "name": "koikois",
-    "note": "Koi Koi Shimasho",
-    "titleReading": "すぱりあるはなふだこいこいしましょ",
-    "manufacturerReading": "びすこ"
   },
   {
     "title": "スーパーワールドスタジアム'９５",
