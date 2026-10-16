@@ -17,6 +17,8 @@ const elements = {
   search: document.querySelector("#search"),
   year: document.querySelector("#year-filter"),
   manufacturer: document.querySelector("#manufacturer-filter"),
+  genre: document.querySelector("#genre-filter"),
+  control: document.querySelector("#control-filter"),
   reset: document.querySelector("#reset-filters"),
   list: document.querySelector("#game-list"),
   empty: document.querySelector("#empty-state"),
@@ -28,6 +30,8 @@ const state = {
   query: "",
   year: "",
   manufacturer: "",
+  genre: "",
+  control: "",
   favoritesOnly: false,
   sort: "year",
   direction: "asc",
@@ -106,6 +110,15 @@ fillSelect(
   ),
 );
 
+fillSelect(
+  elements.genre,
+  [...new Set(games.flatMap((game) => game.genres || []))].sort(collator.compare),
+);
+fillSelect(
+  elements.control,
+  [...new Set(games.flatMap((game) => game.controls || []))].sort(collator.compare),
+);
+
 elements.totalCount.textContent = games.length.toLocaleString("ja-JP");
 
 const makeCell = (value, label, className = "") => {
@@ -159,6 +172,8 @@ const renderRow = (game) => {
     titleCell,
     makeCell("", "製造年"),
     makeCell(game.manufacturer, "製造元"),
+    makeCell((game.genres || []).join("・"), "ジャンル", "genre-value"),
+    makeCell((game.controls || []).join("・"), "コントローラ", "control-value"),
     makeCell(game.name, "名前", "machine-name"),
     makeCell(game.note, "メモ", "game-note"),
   );
@@ -196,6 +211,8 @@ const render = () => {
   const filtered = games
     .filter((game) => !state.year || game.year === state.year)
     .filter((game) => !state.manufacturer || game.manufacturer === state.manufacturer)
+    .filter((game) => !state.genre || game.genres?.includes(state.genre))
+    .filter((game) => !state.control || game.controls?.includes(state.control))
     .filter((game) => !state.favoritesOnly || favorites.has(game.name))
     .filter((game) => {
       if (!query) return true;
@@ -224,6 +241,8 @@ const render = () => {
   if (state.query) conditions.push(`「${state.query}」`);
   if (state.year) conditions.push(`${state.year}年`);
   if (state.manufacturer) conditions.push(state.manufacturer);
+  if (state.genre) conditions.push(state.genre);
+  if (state.control) conditions.push(state.control);
   if (state.favoritesOnly) conditions.push("お気に入り");
   elements.resultDescription.textContent = conditions.length
     ? `${conditions.join("・")}で絞り込み`
@@ -236,10 +255,14 @@ const resetFilters = () => {
   state.query = "";
   state.year = "";
   state.manufacturer = "";
+  state.genre = "";
+  state.control = "";
   state.favoritesOnly = false;
   elements.search.value = "";
   elements.year.value = "";
   elements.manufacturer.value = "";
+  elements.genre.value = "";
+  elements.control.value = "";
   render();
   elements.search.focus();
 };
@@ -264,6 +287,16 @@ elements.year.addEventListener("change", (event) => {
 
 elements.manufacturer.addEventListener("change", (event) => {
   state.manufacturer = event.currentTarget.value;
+  render();
+});
+
+elements.genre.addEventListener("change", (event) => {
+  state.genre = event.currentTarget.value;
+  render();
+});
+
+elements.control.addEventListener("change", (event) => {
+  state.control = event.currentTarget.value;
   render();
 });
 

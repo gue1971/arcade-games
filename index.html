@@ -85,6 +85,20 @@
             </select>
           </label>
 
+          <label class="genre-filter-field">
+            <span>ジャンル</span>
+            <select id="genre-filter">
+              <option value="">ジャンル</option>
+            </select>
+          </label>
+
+          <label class="control-filter-field">
+            <span>操作方法</span>
+            <select id="control-filter">
+              <option value="">操作方法</option>
+            </select>
+          </label>
+
           <button id="reset-filters" class="reset-button" type="button" disabled>
             解除
           </button>
@@ -119,6 +133,8 @@
                     製造元 <span aria-hidden="true">↕</span>
                   </button>
                 </th>
+                <th scope="col" class="genre-column">ジャンル</th>
+                <th scope="col" class="control-column">コントローラ</th>
                 <th scope="col" class="name-column">
                   <button class="sort-button" type="button" data-sort="name" aria-pressed="false">
                     名前 <span aria-hidden="true">↕</span>

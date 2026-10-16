@@ -6,7 +6,14 @@ window.ARCADE_GAMES = [
     "name": "pong",
     "note": "Pong (Rev E) external [TTL]",
     "titleReading": "ぽん",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ"
+    ]
   },
   {
     "title": "アメイジングメイズ",
@@ -15,7 +22,13 @@ window.ARCADE_GAMES = [
     "name": "maze",
     "note": "Amazing Maze",
     "titleReading": "あめいじんぐめいず",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "シーウルフ",
@@ -24,7 +37,14 @@ window.ARCADE_GAMES = [
     "name": "seawolf",
     "note": "Sea Wolf (set 1)",
     "titleReading": "しうるふ",
-    "manufacturerReading": "davenuttingassociates/midway"
+    "manufacturerReading": "davenuttingassociates/midway",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "スプリント２",
@@ -33,7 +53,17 @@ window.ARCADE_GAMES = [
     "name": "sprint2",
     "note": "Sprint 2 (set 1)",
     "titleReading": "すぷりんと2",
-    "manufacturerReading": "atarikeegames"
+    "manufacturerReading": "atarikeegames",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ナイトドライバー",
@@ -42,7 +72,17 @@ window.ARCADE_GAMES = [
     "name": "nitedrvr",
     "note": "Night Driver",
     "titleReading": "ないとどらいば",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "バリケード",
@@ -51,7 +91,13 @@ window.ARCADE_GAMES = [
     "name": "barricad",
     "note": "Barricade",
     "titleReading": "ばりけど",
-    "manufacturerReading": "ramtek"
+    "manufacturerReading": "ramtek",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ブロックヤード",
@@ -60,7 +106,13 @@ window.ARCADE_GAMES = [
     "name": "brickyrd",
     "note": "Brickyard",
     "titleReading": "ぶろっくやど",
-    "manufacturerReading": "ramtek"
+    "manufacturerReading": "ramtek",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ブロッケード",
@@ -69,7 +121,14 @@ window.ARCADE_GAMES = [
     "name": "blockade",
     "note": "Blockade",
     "titleReading": "ぶろっけど",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボールパーク",
@@ -78,7 +137,15 @@ window.ARCADE_GAMES = [
     "name": "tornbase",
     "note": "Tornado Baseball / Ball Park",
     "titleReading": "ぼるぱく",
-    "manufacturerReading": "davenuttingassociates/midway/taito"
+    "manufacturerReading": "davenuttingassociates/midway/taito",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｍ-７９アンビッシュ",
@@ -87,7 +154,15 @@ window.ARCADE_GAMES = [
     "name": "m79amb",
     "note": "M-79 Ambush",
     "titleReading": "m79あんびっしゅ",
-    "manufacturerReading": "ramtek"
+    "manufacturerReading": "ramtek",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "サーカス",
@@ -96,7 +171,14 @@ window.ARCADE_GAMES = [
     "name": "circus",
     "note": "Circus / Acrobat TV",
     "titleReading": "さかす",
-    "manufacturerReading": "exidy/taito"
+    "manufacturerReading": "exidy/taito",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ"
+    ]
   },
   {
     "title": "サブズ",
@@ -105,7 +187,16 @@ window.ARCADE_GAMES = [
     "name": "subs",
     "note": "Subs",
     "titleReading": "さぶず",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "サブハンター",
@@ -114,7 +205,14 @@ window.ARCADE_GAMES = [
     "name": "subhunt",
     "note": "Sub Hunter (Gremlin / Taito)",
     "titleReading": "さぶはんた",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターシップ１",
@@ -123,7 +221,15 @@ window.ARCADE_GAMES = [
     "name": "starshp1",
     "note": "Starship 1",
     "titleReading": "すたしっぷ1",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スプリント８",
@@ -132,7 +238,17 @@ window.ARCADE_GAMES = [
     "name": "sprint8",
     "note": "Sprint 8",
     "titleReading": "すぷりんと8",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースウォーズ",
@@ -141,7 +257,14 @@ window.ARCADE_GAMES = [
     "name": "spacewar",
     "note": "Space Wars",
     "titleReading": "すぺすうぉず",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディプスチャージ",
@@ -150,7 +273,14 @@ window.ARCADE_GAMES = [
     "name": "depthch",
     "note": "Depthcharge",
     "titleReading": "でぃぷすちゃじ",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハッスル",
@@ -159,7 +289,14 @@ window.ARCADE_GAMES = [
     "name": "hustle",
     "note": "Hustle",
     "titleReading": "はっする",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブーツヒル",
@@ -168,7 +305,15 @@ window.ARCADE_GAMES = [
     "name": "boothill",
     "note": "Boot Hill",
     "titleReading": "ぶつひる",
-    "manufacturerReading": "davenuttingassociates/midway"
+    "manufacturerReading": "davenuttingassociates/midway",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メドゥズレーン",
@@ -177,7 +322,14 @@ window.ARCADE_GAMES = [
     "name": "medlanes",
     "note": "Meadows Lanes",
     "titleReading": "めどぅずれん",
-    "manufacturerReading": "meadowsgamesinc"
+    "manufacturerReading": "meadowsgamesinc",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロボットボウル",
@@ -186,7 +338,14 @@ window.ARCADE_GAMES = [
     "name": "robotbwl",
     "note": "Robot Bowl",
     "titleReading": "ろぼっとぼうる",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アタリフットボール",
@@ -195,7 +354,14 @@ window.ARCADE_GAMES = [
     "name": "atarifb",
     "note": "Atari Football (revision 2)",
     "titleReading": "あたりふっとぼる",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "アバランシェ",
@@ -204,7 +370,15 @@ window.ARCADE_GAMES = [
     "name": "avalnche",
     "note": "Avalanche",
     "titleReading": "あばらんしぇ",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "シーウルフ２",
@@ -213,7 +387,14 @@ window.ARCADE_GAMES = [
     "name": "seawolf2",
     "note": "Sea Wolf II",
     "titleReading": "しうるふ2",
-    "manufacturerReading": "davenuttingassociates/midway"
+    "manufacturerReading": "davenuttingassociates/midway",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "ジービー",
@@ -222,7 +403,15 @@ window.ARCADE_GAMES = [
     "name": "geebee",
     "note": "日本版",
     "titleReading": "じいびい",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ジプシージャグラー",
@@ -231,7 +420,15 @@ window.ARCADE_GAMES = [
     "name": "gypsyjug",
     "note": "Gypsy Juggler",
     "titleReading": "じぷしじゃぐら",
-    "manufacturerReading": "meadowsgamesinc"
+    "manufacturerReading": "meadowsgamesinc",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーインベーダー",
@@ -240,7 +437,14 @@ window.ARCADE_GAMES = [
     "name": "superinv",
     "note": "Super Invaders (bootleg set 1)",
     "titleReading": "すぱいんべだ",
-    "manufacturerReading": "まことでんし"
+    "manufacturerReading": "まことでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーブレイクアウト",
@@ -249,7 +453,15 @@ window.ARCADE_GAMES = [
     "name": "sbrkout",
     "note": "Super Breakout (rev 04)",
     "titleReading": "すぱぶれいくあうと",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースインベーダー",
@@ -258,7 +470,14 @@ window.ARCADE_GAMES = [
     "name": "invaders",
     "note": "Space Invaders M",
     "titleReading": "すぺえすいんべえだあ",
-    "manufacturerReading": "たいとうみっどうぇい"
+    "manufacturerReading": "たいとうみっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースインベーダー （ロジテック版）",
@@ -267,7 +486,14 @@ window.ARCADE_GAMES = [
     "name": "invaderl",
     "note": "Space Invaders (Logitec)",
     "titleReading": "すぺすいんべだろじてっくはん",
-    "manufacturerReading": "ろじてっく"
+    "manufacturerReading": "ろじてっく",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースウォーパート３",
@@ -276,7 +502,14 @@ window.ARCADE_GAMES = [
     "name": "spacewr3",
     "note": "Space War Part 3",
     "titleReading": "すぺすうぉぱと3",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースキング",
@@ -285,7 +518,14 @@ window.ARCADE_GAMES = [
     "name": "spceking",
     "note": "Space King",
     "titleReading": "すぺすきんぐ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースストレンジャー",
@@ -294,7 +534,14 @@ window.ARCADE_GAMES = [
     "name": "sstrangr",
     "note": "Space Stranger",
     "titleReading": "すぺすすとれんじゃ",
-    "manufacturerReading": "とよさかさんぎょうこあらんど"
+    "manufacturerReading": "とよさかさんぎょうこあらんど",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デッドアイ",
@@ -303,7 +550,15 @@ window.ARCADE_GAMES = [
     "name": "deadeye",
     "note": "Dead Eye",
     "titleReading": "でっどあい",
-    "manufacturerReading": "meadowsgamesinc"
+    "manufacturerReading": "meadowsgamesinc",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フロッグス",
@@ -312,7 +567,14 @@ window.ARCADE_GAMES = [
     "name": "frogs",
     "note": "Frogs",
     "titleReading": "ふろっぐす",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラスト",
@@ -321,7 +583,15 @@ window.ARCADE_GAMES = [
     "name": "blasto",
     "note": "Blasto",
     "titleReading": "ぶらすと",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブルーシャーク",
@@ -330,7 +600,16 @@ window.ARCADE_GAMES = [
     "name": "blueshrk",
     "note": "Blue Shark",
     "titleReading": "ぶるしゃく",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "ボールパークII",
@@ -339,7 +618,15 @@ window.ARCADE_GAMES = [
     "name": "einning",
     "note": "Extra Inning / Ball Park II",
     "titleReading": "ぼるぱくii",
-    "manufacturerReading": "midway/taito"
+    "manufacturerReading": "midway/taito",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＩＰＭインベーダー",
@@ -348,7 +635,14 @@ window.ARCADE_GAMES = [
     "name": "ipminvad",
     "note": "IPM Invader",
     "titleReading": "ipmいんべだ",
-    "manufacturerReading": "ipmあいれむ"
+    "manufacturerReading": "ipmあいれむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アステロイド",
@@ -357,7 +651,14 @@ window.ARCADE_GAMES = [
     "name": "asteroid",
     "note": "Asteroids (rev 4)",
     "titleReading": "あすてろいど",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アストロファイター",
@@ -366,7 +667,14 @@ window.ARCADE_GAMES = [
     "name": "astrof",
     "note": "set 1",
     "titleReading": "あすとろふぁいたあ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オズマウォーズ",
@@ -375,7 +683,14 @@ window.ARCADE_GAMES = [
     "name": "ozmawars",
     "note": "set 1",
     "titleReading": "おずまうぉうず",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カラースペースフィーバー",
@@ -384,7 +699,14 @@ window.ARCADE_GAMES = [
     "name": "spacefev",
     "note": "Space Fever (New Ver.)",
     "titleReading": "からすぺすふぃば",
-    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キューティーQ",
@@ -393,7 +715,15 @@ window.ARCADE_GAMES = [
     "name": "cutieq",
     "note": "",
     "titleReading": "きゅうてぃいq",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシアン",
@@ -402,7 +732,14 @@ window.ARCADE_GAMES = [
     "name": "galaxian",
     "note": "Namco set 1",
     "titleReading": "ぎゃらくしあん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシアンターボ",
@@ -411,7 +748,14 @@ window.ARCADE_GAMES = [
     "name": "galturbo",
     "note": "Galaxian Turbo (superg hack)",
     "titleReading": "ぎゃらくしあんたぼ",
-    "manufacturerReading": "hack"
+    "manufacturerReading": "hack",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシアンパートIV",
@@ -420,7 +764,14 @@ window.ARCADE_GAMES = [
     "name": "galap4",
     "note": "Galaxian Part 4 (hack)",
     "titleReading": "ぎゃらくしあんぱとiv",
-    "manufacturerReading": "hackggi"
+    "manufacturerReading": "hackggi",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシアンパートX",
@@ -429,7 +780,14 @@ window.ARCADE_GAMES = [
     "name": "galapx",
     "note": "Galaxian Part X (moonaln hack)",
     "titleReading": "ぎゃらくしあんぱとx",
-    "manufacturerReading": "hack"
+    "manufacturerReading": "hack",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクティカ",
@@ -438,7 +796,14 @@ window.ARCADE_GAMES = [
     "name": "galap1",
     "note": "Space Invaders Galactica (galaxiana hack)",
     "titleReading": "ぎゃらくてぃか",
-    "manufacturerReading": "hack"
+    "manufacturerReading": "hack",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスミックエイリアン",
@@ -447,7 +812,14 @@ window.ARCADE_GAMES = [
     "name": "cosmica",
     "note": "Cosmic Alien (version II, set 1)",
     "titleReading": "こすみっくえいりあん",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスミックゲリラ",
@@ -456,7 +828,14 @@ window.ARCADE_GAMES = [
     "name": "cosmicg",
     "note": "Cosmic Guerilla",
     "titleReading": "こすみっくげりら",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスミックモンスター",
@@ -465,7 +844,15 @@ window.ARCADE_GAMES = [
     "name": "cosmicmo",
     "note": "Cosmic Monsters (version II)",
     "titleReading": "こすみっくもんすた",
-    "manufacturerReading": "ゆにばさる"
+    "manufacturerReading": "ゆにばさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスミックモンスターII",
@@ -474,7 +861,15 @@ window.ARCADE_GAMES = [
     "name": "cosmicm2",
     "note": "Cosmic Monsters 2",
     "titleReading": "こすみっくもんすたii",
-    "manufacturerReading": "ゆにばさる"
+    "manufacturerReading": "ゆにばさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイドトラック",
@@ -483,7 +878,14 @@ window.ARCADE_GAMES = [
     "name": "sidetrac",
     "note": "Side Trak",
     "titleReading": "さいどとらっく",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダンス",
@@ -492,7 +894,13 @@ window.ARCADE_GAMES = [
     "name": "sundance",
     "note": "Sundance",
     "titleReading": "さんだんす",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "シェリフ",
@@ -501,7 +909,15 @@ window.ARCADE_GAMES = [
     "name": "sheriff",
     "note": "Sheriff",
     "titleReading": "しぇりふ",
-    "manufacturerReading": "いけがみつうしんき"
+    "manufacturerReading": "いけがみつうしんき",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シャトルインベーダー",
@@ -510,7 +926,14 @@ window.ARCADE_GAMES = [
     "name": "shuttlei",
     "note": "Shuttle Invader",
     "titleReading": "しゃとるいんべだ",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャトレスペクター",
@@ -519,7 +942,14 @@ window.ARCADE_GAMES = [
     "name": "jspecter",
     "note": "Jatre Specter (set 1)",
     "titleReading": "じゃとれすぺくた",
-    "manufacturerReading": "じゃとれ"
+    "manufacturerReading": "じゃとれ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイラブ",
@@ -528,7 +958,14 @@ window.ARCADE_GAMES = [
     "name": "skylove",
     "note": "Sky Love",
     "titleReading": "すかいらぶ",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターファイアー",
@@ -537,7 +974,15 @@ window.ARCADE_GAMES = [
     "name": "starfire",
     "note": "Star Fire (set 1)",
     "titleReading": "すたふぁいあ",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターホーク",
@@ -546,7 +991,14 @@ window.ARCADE_GAMES = [
     "name": "starhawk",
     "note": "Star Hawk",
     "titleReading": "すたほく",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーメテオ",
@@ -555,7 +1007,14 @@ window.ARCADE_GAMES = [
     "name": "meteorho",
     "note": "Meteor (bootleg of Asteroids)",
     "titleReading": "すぱめてお",
-    "manufacturerReading": "とよさかさんぎょうこあらんど"
+    "manufacturerReading": "とよさかさんぎょうこあらんど",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースインベーダー パートII",
@@ -564,7 +1023,14 @@ window.ARCADE_GAMES = [
     "name": "invadpt2",
     "note": "Taito",
     "titleReading": "すぺえすいんべえだあぱあとii",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペシャルデュアルII -インビンコ＆ヘッドオン・パート２-",
@@ -573,7 +1039,14 @@ window.ARCADE_GAMES = [
     "name": "invho2",
     "note": "Invinco / Head On 2",
     "titleReading": "すぺしゃるでゅあるiiいんびんこ&へっどおんぱと2",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースインビンコ",
@@ -582,7 +1055,14 @@ window.ARCADE_GAMES = [
     "name": "invinco",
     "note": "Invinco",
     "titleReading": "すぺすいんびんこ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースキング２",
@@ -591,7 +1071,14 @@ window.ARCADE_GAMES = [
     "name": "spcking2",
     "note": "Space King 2",
     "titleReading": "すぺすきんぐ2",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースゲリラ （カラー版）",
@@ -600,7 +1087,14 @@ window.ARCADE_GAMES = [
     "name": "spaceg",
     "note": "Space Guerrilla",
     "titleReading": "すぺすげりらからはん",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースチェイサー",
@@ -609,7 +1103,14 @@ window.ARCADE_GAMES = [
     "name": "schaser",
     "note": "Space Chaser (set 1)",
     "titleReading": "すぺすちぇいさ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースフィーバー ハイスプリッター",
@@ -618,7 +1119,14 @@ window.ARCADE_GAMES = [
     "name": "highsplt",
     "note": "Space Fever High Splitter (set 1)",
     "titleReading": "すぺすふぃばはいすぷりった",
-    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースランチャー",
@@ -627,7 +1135,14 @@ window.ARCADE_GAMES = [
     "name": "spacelnc",
     "note": "Space Launcher",
     "titleReading": "すぺすらんちゃ",
-    "manufacturerReading": "ゆにばさる"
+    "manufacturerReading": "ゆにばさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テイルガンナー",
@@ -636,7 +1151,15 @@ window.ARCADE_GAMES = [
     "name": "tailg",
     "note": "Tailgunner",
     "titleReading": "ているがんな",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディープスキャン",
@@ -645,7 +1168,14 @@ window.ARCADE_GAMES = [
     "name": "invds",
     "note": "",
     "titleReading": "でぃいぷすきゃん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バスケットボール",
@@ -654,7 +1184,14 @@ window.ARCADE_GAMES = [
     "name": "bsktball",
     "note": "Basketball",
     "titleReading": "ばすけっとぼる",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "バリアー",
@@ -663,7 +1200,14 @@ window.ARCADE_GAMES = [
     "name": "barrier",
     "note": "Barrier",
     "titleReading": "ばりあ",
-    "manufacturerReading": "cinematronicsvectorbeamlicense"
+    "manufacturerReading": "cinematronicsvectorbeamlicense",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビデオ・ピンボール",
@@ -672,7 +1216,13 @@ window.ARCADE_GAMES = [
     "name": "videopin",
     "note": "Video Pinball",
     "titleReading": "びでおぴんぼる",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "ピンボール"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ヘッドオン",
@@ -681,7 +1231,14 @@ window.ARCADE_GAMES = [
     "name": "headon",
     "note": "2 players",
     "titleReading": "へっどおん",
-    "manufacturerReading": "ぐれむりん"
+    "manufacturerReading": "ぐれむりん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘッドオン2",
@@ -690,7 +1247,14 @@ window.ARCADE_GAMES = [
     "name": "headon2",
     "note": "",
     "titleReading": "へっどおん2",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボムビー",
@@ -699,7 +1263,15 @@ window.ARCADE_GAMES = [
     "name": "bombbee",
     "note": "",
     "titleReading": "ぼむびい",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンエイリアン",
@@ -708,7 +1280,14 @@ window.ARCADE_GAMES = [
     "name": "moonaln",
     "note": "Moon Alien",
     "titleReading": "むんえいりあん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンベース",
@@ -717,7 +1296,14 @@ window.ARCADE_GAMES = [
     "name": "moonbase",
     "note": "Moon Base Zeta (set 1)",
     "titleReading": "むんべす",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルナランダー",
@@ -726,7 +1312,16 @@ window.ARCADE_GAMES = [
     "name": "llander",
     "note": "Lunar Lander (rev 2)",
     "titleReading": "るならんだ",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ペダル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルナレスキュー",
@@ -735,7 +1330,14 @@ window.ARCADE_GAMES = [
     "name": "lrescue",
     "note": "Lunar Rescue",
     "titleReading": "るなれすきゅ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ローリングクラッシュ2イン1",
@@ -744,7 +1346,14 @@ window.ARCADE_GAMES = [
     "name": "rollingc",
     "note": "",
     "titleReading": "ろうりんぐくらっしゅ2いん1",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロータリーファイター",
@@ -753,7 +1362,14 @@ window.ARCADE_GAMES = [
     "name": "rotaryf",
     "note": "Rotary Fighter",
     "titleReading": "ろたりふぁいた",
-    "manufacturerReading": "かんさいきぎょう"
+    "manufacturerReading": "かんさいきぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｎ－サブ",
@@ -762,7 +1378,14 @@ window.ARCADE_GAMES = [
     "name": "nsub",
     "note": "N-Sub (upright)",
     "titleReading": "nさぶ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｒ２Ｄタンク ＜レッドタンクパート２＞",
@@ -771,7 +1394,14 @@ window.ARCADE_GAMES = [
     "name": "r2dtank",
     "note": "R2D Tank",
     "titleReading": "r2dたんく<れっどたんくぱと2>",
-    "manufacturerReading": "しぐま"
+    "manufacturerReading": "しぐま",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＳＯＳゲーム",
@@ -780,7 +1410,14 @@ window.ARCADE_GAMES = [
     "name": "sos",
     "note": "SOS",
     "titleReading": "sosげむ",
-    "manufacturerReading": "しょうえい"
+    "manufacturerReading": "しょうえい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アタックＵＦＯ",
@@ -789,7 +1426,14 @@ window.ARCADE_GAMES = [
     "name": "attckufo",
     "note": "Attack UFO",
     "titleReading": "あたっくufo",
-    "manufacturerReading": "ひしふじでんき"
+    "manufacturerReading": "ひしふじでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アーマーアタック",
@@ -798,7 +1442,15 @@ window.ARCADE_GAMES = [
     "name": "armora",
     "note": "",
     "titleReading": "あーまーあたっく",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "インデアン・バトル",
@@ -807,7 +1459,15 @@ window.ARCADE_GAMES = [
     "name": "indianbt",
     "note": "Indian Battle",
     "titleReading": "いんであんばとる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォーロード",
@@ -816,7 +1476,15 @@ window.ARCADE_GAMES = [
     "name": "warlords",
     "note": "Warlords",
     "titleReading": "うぉろど",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "カーニバル",
@@ -825,7 +1493,15 @@ window.ARCADE_GAMES = [
     "name": "carnival",
     "note": "upright",
     "titleReading": "かあにばる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "海底宝探し",
@@ -834,7 +1510,14 @@ window.ARCADE_GAMES = [
     "name": "kaitein",
     "note": "namco",
     "titleReading": "かいていたからさがし",
-    "manufacturerReading": "けーけーとっきなむこらいせんす"
+    "manufacturerReading": "けーけーとっきなむこらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "海底宝さがし",
@@ -843,7 +1526,14 @@ window.ARCADE_GAMES = [
     "name": "kaitei",
     "note": "Kaitei Takara Sagashi",
     "titleReading": "かいていたからさがし",
-    "manufacturerReading": "ゆにばさるとっき"
+    "manufacturerReading": "ゆにばさるとっき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カミカゼ",
@@ -852,7 +1542,14 @@ window.ARCADE_GAMES = [
     "name": "kamikaze",
     "note": "Kamikaze",
     "titleReading": "かみかぜ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キング＆バルーン",
@@ -861,7 +1558,14 @@ window.ARCADE_GAMES = [
     "name": "kingballj",
     "note": "USA版",
     "titleReading": "きんぐ&ばるうん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "銀河帝国の逆襲",
@@ -870,7 +1574,14 @@ window.ARCADE_GAMES = [
     "name": "uniwars",
     "note": "UniWar S",
     "titleReading": "ぎんがていこくのぎゃくしゅう",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クレイジークライマー",
@@ -879,7 +1590,13 @@ window.ARCADE_GAMES = [
     "name": "cclimberj",
     "note": "USA版",
     "titleReading": "くれいじいくらいまあ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "不明"
+    ]
   },
   {
     "title": "クレージーバルーン",
@@ -888,7 +1605,14 @@ window.ARCADE_GAMES = [
     "name": "crbaloon",
     "note": "Crazy Balloon (set 1)",
     "titleReading": "くれじばるん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サスケVSコマンダ",
@@ -897,7 +1621,15 @@ window.ARCADE_GAMES = [
     "name": "sasuke",
     "note": "",
     "titleReading": "さすけvsこまんだ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジ・エンド",
@@ -906,7 +1638,14 @@ window.ARCADE_GAMES = [
     "name": "theend",
     "note": "The End",
     "titleReading": "じえんど",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スチールワーカー",
@@ -915,7 +1654,14 @@ window.ARCADE_GAMES = [
     "name": "steelwkr",
     "note": "Steel Worker",
     "titleReading": "すちるわか",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スピーク＆レスキュー",
@@ -924,7 +1670,14 @@ window.ARCADE_GAMES = [
     "name": "speakres",
     "note": "Speak & Rescue",
     "titleReading": "すぴく&れすきゅ",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペクター",
@@ -933,7 +1686,14 @@ window.ARCADE_GAMES = [
     "name": "spectar",
     "note": "Spectar (revision 3)",
     "titleReading": "すぺくた",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースエンカウンター",
@@ -942,7 +1702,14 @@ window.ARCADE_GAMES = [
     "name": "spcenctr",
     "note": "Space Encounters",
     "titleReading": "すぺすえんかうんた",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースデュエル",
@@ -951,7 +1718,14 @@ window.ARCADE_GAMES = [
     "name": "spacduel",
     "note": "Space Duel (version 2)",
     "titleReading": "すぺすでゅえる",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースパニック",
@@ -960,7 +1734,14 @@ window.ARCADE_GAMES = [
     "name": "panic",
     "note": "Space Panic (version E)",
     "titleReading": "すぺすぱにっく",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースファイアバード",
@@ -969,7 +1750,14 @@ window.ARCADE_GAMES = [
     "name": "spacefb",
     "note": "Space Firebird (rev. 04-u)",
     "titleReading": "すぺすふぁいあばど",
-    "manufacturerReading": "いけがみつうしんき"
+    "manufacturerReading": "いけがみつうしんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国の自衛隊",
@@ -978,7 +1766,14 @@ window.ARCADE_GAMES = [
     "name": "nomnlnd",
     "note": "No Man's Land",
     "titleReading": "せんごくのじえいたい",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "センチピード",
@@ -987,7 +1782,16 @@ window.ARCADE_GAMES = [
     "name": "centiped",
     "note": "Centipede (revision 4)",
     "titleReading": "せんちぴど",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターグ",
@@ -996,7 +1800,14 @@ window.ARCADE_GAMES = [
     "name": "targ",
     "note": "Targ",
     "titleReading": "たぐ",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タンクバタリアン",
@@ -1005,7 +1816,15 @@ window.ARCADE_GAMES = [
     "name": "tankbatt",
     "note": "",
     "titleReading": "たんくばたりあん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チーキーマウス",
@@ -1014,7 +1833,14 @@ window.ARCADE_GAMES = [
     "name": "cheekyms",
     "note": "Cheeky Mouse",
     "titleReading": "ちきまうす",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テンペスト",
@@ -1023,7 +1849,16 @@ window.ARCADE_GAMES = [
     "name": "tempest",
     "note": "Tempest (rev 3, Revised Hardware)",
     "titleReading": "てんぺすと",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ディフェンダー",
@@ -1032,7 +1867,14 @@ window.ARCADE_GAMES = [
     "name": "defender",
     "note": "Defender (Red label)",
     "titleReading": "でぃふぇんだ",
-    "manufacturerReading": "williams"
+    "manufacturerReading": "williams",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デビルゾーン",
@@ -1041,7 +1883,14 @@ window.ARCADE_GAMES = [
     "name": "devzone",
     "note": "Devil Zone",
     "titleReading": "でびるぞん",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トマホーク７７７",
@@ -1050,7 +1899,14 @@ window.ARCADE_GAMES = [
     "name": "tomahawk",
     "note": "Tomahawk 777 (rev 5)",
     "titleReading": "とまほく777",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トランキライザーガン",
@@ -1059,7 +1915,14 @@ window.ARCADE_GAMES = [
     "name": "tranqgun",
     "note": "Tranquillizer Gun",
     "titleReading": "とらんきらいざがん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナバロン",
@@ -1068,7 +1931,14 @@ window.ARCADE_GAMES = [
     "name": "navarone",
     "note": "Navarone",
     "titleReading": "なばろん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニューヨークニューヨーク",
@@ -1077,7 +1947,14 @@ window.ARCADE_GAMES = [
     "name": "nyny",
     "note": "New York! New York!",
     "titleReading": "にゅよくにゅよく",
-    "manufacturerReading": "しぐま"
+    "manufacturerReading": "しぐま",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルゾーン",
@@ -1086,7 +1963,14 @@ window.ARCADE_GAMES = [
     "name": "bzone",
     "note": "Battle Zone (rev 2)",
     "titleReading": "ばとるぞん",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルーンボンバー",
@@ -1095,7 +1979,14 @@ window.ARCADE_GAMES = [
     "name": "ballbomb",
     "note": "",
     "titleReading": "ばるうんぼんばあ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パックマン",
@@ -1104,7 +1995,13 @@ window.ARCADE_GAMES = [
     "name": "puckman",
     "note": "日本版 set 1",
     "titleReading": "ぱっくまん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "フェニックス",
@@ -1113,7 +2010,14 @@ window.ARCADE_GAMES = [
     "name": "phoenix",
     "note": "Phoenix (Amstar, set 1)",
     "titleReading": "ふぇにっくす",
-    "manufacturerReading": "amstar"
+    "manufacturerReading": "amstar",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘリファイア",
@@ -1122,7 +2026,14 @@ window.ARCADE_GAMES = [
     "name": "helifire",
     "note": "HeliFire (set 1)",
     "titleReading": "へりふぁいあ",
-    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポラリス",
@@ -1131,7 +2042,14 @@ window.ARCADE_GAMES = [
     "name": "polaris",
     "note": "Polaris (Latest version)",
     "titleReading": "ぽらりす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルスポット",
@@ -1140,7 +2058,14 @@ window.ARCADE_GAMES = [
     "name": "magspot",
     "note": "Magical Spot",
     "titleReading": "まじかるすぽっと",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルスポットPART II",
@@ -1149,7 +2074,14 @@ window.ARCADE_GAMES = [
     "name": "magspot2",
     "note": "Magical Spot II",
     "titleReading": "まじかるすぽっとpartii",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッドエイリアン",
@@ -1158,7 +2090,14 @@ window.ARCADE_GAMES = [
     "name": "madalien",
     "note": "Mad Alien (set 1)",
     "titleReading": "まっどえいりあん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミサイルコマンド",
@@ -1167,7 +2106,15 @@ window.ARCADE_GAMES = [
     "name": "missile",
     "note": "set 1",
     "titleReading": "みさいるこまんど",
-    "manufacturerReading": "あたり"
+    "manufacturerReading": "あたり",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンクレスタ",
@@ -1176,7 +2123,14 @@ window.ARCADE_GAMES = [
     "name": "mooncrst",
     "note": "Nichibutsu",
     "titleReading": "むうんくれすた",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンエイリアンパート２",
@@ -1185,7 +2139,14 @@ window.ARCADE_GAMES = [
     "name": "moonal2",
     "note": "Moon Alien Part 2",
     "titleReading": "むんえいりあんぱと2",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンクエーサー",
@@ -1194,7 +2155,14 @@ window.ARCADE_GAMES = [
     "name": "moonqsr",
     "note": "Moon Quasar",
     "titleReading": "むんくえさ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラリーX",
@@ -1203,7 +2171,14 @@ window.ARCADE_GAMES = [
     "name": "rallyxa",
     "note": "",
     "titleReading": "らりいx",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リップオフ",
@@ -1212,7 +2187,14 @@ window.ARCADE_GAMES = [
     "name": "ripoff",
     "note": "Rip Off",
     "titleReading": "りっぷおふ",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルパン三世",
@@ -1221,7 +2203,14 @@ window.ARCADE_GAMES = [
     "name": "lupin3",
     "note": "Lupin III (set 1)",
     "titleReading": "るぱんさんせい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レーダースコープ",
@@ -1230,7 +2219,14 @@ window.ARCADE_GAMES = [
     "name": "radarscp",
     "note": "Radar Scope",
     "titleReading": "れだすこぷ",
-    "manufacturerReading": "いけがみつうしんき"
+    "manufacturerReading": "いけがみつうしんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アストロブラスター",
@@ -1239,7 +2235,14 @@ window.ARCADE_GAMES = [
     "name": "astrob",
     "note": "ver 3",
     "titleReading": "あすとろぶらすたあ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アーマードカー",
@@ -1248,7 +2251,14 @@ window.ARCADE_GAMES = [
     "name": "armorcar",
     "note": "set 1",
     "titleReading": "あーまーどかー",
-    "manufacturerReading": "すたーんえれくとろにくす"
+    "manufacturerReading": "すたーんえれくとろにくす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウッドペッカー",
@@ -1257,7 +2267,14 @@ window.ARCADE_GAMES = [
     "name": "woodpeck",
     "note": "Woodpecker (set 1)",
     "titleReading": "うっどぺっか",
-    "manufacturerReading": "てぃあいえむ"
+    "manufacturerReading": "てぃあいえむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エリミネーター",
@@ -1266,7 +2283,14 @@ window.ARCADE_GAMES = [
     "name": "elim2",
     "note": "Eliminator (2 Players, set 1)",
     "titleReading": "えりみねた",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オメガレース",
@@ -1275,7 +2299,15 @@ window.ARCADE_GAMES = [
     "name": "omegrace",
     "note": "Omega Race (set 1)",
     "titleReading": "おめがれす",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラガ",
@@ -1284,7 +2316,14 @@ window.ARCADE_GAMES = [
     "name": "galaga",
     "note": "Namco rev B",
     "titleReading": "ぎゃらが",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャンブラー",
@@ -1293,7 +2332,14 @@ window.ARCADE_GAMES = [
     "name": "thehand",
     "note": "The Hand",
     "titleReading": "ぎゃんぶら",
-    "manufacturerReading": "ふじしょう"
+    "manufacturerReading": "ふじしょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイックス",
@@ -1302,7 +2348,14 @@ window.ARCADE_GAMES = [
     "name": "qix",
     "note": "set 1",
     "titleReading": "くいっくす",
-    "manufacturerReading": "たいとうあめりか"
+    "manufacturerReading": "たいとうあめりか",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイックスII",
@@ -1311,7 +2364,14 @@ window.ARCADE_GAMES = [
     "name": "qix2",
     "note": "トーナメント",
     "titleReading": "くいっくすii",
-    "manufacturerReading": "たいとうあめりか"
+    "manufacturerReading": "たいとうあめりか",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラッシュローラー",
@@ -1320,7 +2380,13 @@ window.ARCADE_GAMES = [
     "name": "crush",
     "note": "Kural Samno",
     "titleReading": "くらっしゅろうらあ",
-    "manufacturerReading": "あるふぁでんしくらるさんのうでんき"
+    "manufacturerReading": "あるふぁでんしくらるさんのうでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "クレイジーコング",
@@ -1329,7 +2395,14 @@ window.ARCADE_GAMES = [
     "name": "ckongalc",
     "note": "Crazy Kong (Alca bootleg)",
     "titleReading": "くれいじこんぐ",
-    "manufacturerReading": "きょうえい"
+    "manufacturerReading": "きょうえい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クレイジーコングパートII",
@@ -1338,7 +2411,14 @@ window.ARCADE_GAMES = [
     "name": "ckong",
     "note": "Crazy Kong",
     "titleReading": "くれいじこんぐぱとii",
-    "manufacturerReading": "ふぁるこん"
+    "manufacturerReading": "ふぁるこん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グランドチャンピオン",
@@ -1347,7 +2427,17 @@ window.ARCADE_GAMES = [
     "name": "grchamp",
     "note": "Grand Champion (set 1)",
     "titleReading": "ぐらんどちゃんぴおん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー"
+    ]
   },
   {
     "title": "コスミック・アベンジャー",
@@ -1356,7 +2446,14 @@ window.ARCADE_GAMES = [
     "name": "cavenger",
     "note": "Cosmic Avenger",
     "titleReading": "こすみっくあべんじゃ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスモス",
@@ -1365,7 +2462,14 @@ window.ARCADE_GAMES = [
     "name": "cosmos",
     "note": "Cosmos",
     "titleReading": "こすもす",
-    "manufacturerReading": "centuryelectronics"
+    "manufacturerReading": "centuryelectronics",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コロスケローラー",
@@ -1374,7 +2478,14 @@ window.ARCADE_GAMES = [
     "name": "korosuke",
     "note": "Korosuke Roller (Japan)",
     "titleReading": "ころすけろら",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "五目並べ -連珠-",
@@ -1383,7 +2494,14 @@ window.ARCADE_GAMES = [
     "name": "gomoku",
     "note": "Gomoku Narabe Renju",
     "titleReading": "ごもくならべれんじゅ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サタンオブサターン",
@@ -1392,7 +2510,14 @@ window.ARCADE_GAMES = [
     "name": "satansat",
     "note": "Satan of Saturn (set 1)",
     "titleReading": "さたんおぶさたん",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ハングリーマン",
@@ -1401,7 +2526,13 @@ window.ARCADE_GAMES = [
     "name": "hangly",
     "note": "Hangly-Man (set 1)",
     "titleReading": "ざはんぐりまん",
-    "manufacturerReading": "hack"
+    "manufacturerReading": "hack",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ザ・パーカッサー",
@@ -1410,7 +2541,14 @@ window.ARCADE_GAMES = [
     "name": "percuss",
     "note": "The Percussor",
     "titleReading": "ざぱかっさ",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シルバーランド",
@@ -1419,7 +2557,14 @@ window.ARCADE_GAMES = [
     "name": "silvland",
     "note": "Silver Land",
     "titleReading": "しるばらんど",
-    "manufacturerReading": "ふぁるこん"
+    "manufacturerReading": "ふぁるこん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャングラー",
@@ -1428,7 +2573,15 @@ window.ARCADE_GAMES = [
     "name": "jungler",
     "note": "Jungler",
     "titleReading": "じゃんぐら",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャンプバグ",
@@ -1437,7 +2590,14 @@ window.ARCADE_GAMES = [
     "name": "jumpbug",
     "note": "Jump Bug",
     "titleReading": "じゃんぷばぐ",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイスキッパー",
@@ -1446,7 +2606,14 @@ window.ARCADE_GAMES = [
     "name": "skyskipr",
     "note": "Sky Skipper",
     "titleReading": "すかいすきっぱ",
-    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スキャンダルマン",
@@ -1455,7 +2622,13 @@ window.ARCADE_GAMES = [
     "name": "pacheart",
     "note": "Pac-Man (Hearts)",
     "titleReading": "すきゃんだるまん",
-    "manufacturerReading": "かみや"
+    "manufacturerReading": "かみや",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "スクランブル",
@@ -1464,7 +2637,14 @@ window.ARCADE_GAMES = [
     "name": "scramble",
     "note": "",
     "titleReading": "すくらんぶる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターゲート",
@@ -1473,7 +2653,14 @@ window.ARCADE_GAMES = [
     "name": "stargate",
     "note": "Stargate",
     "titleReading": "すたげと",
-    "manufacturerReading": "williams/vidkidz"
+    "manufacturerReading": "williams/vidkidz",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストラテジィＸ",
@@ -1482,7 +2669,15 @@ window.ARCADE_GAMES = [
     "name": "stratgyx",
     "note": "Strategy X",
     "titleReading": "すとらてじぃx",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スパイダー",
@@ -1491,7 +2686,14 @@ window.ARCADE_GAMES = [
     "name": "spiders",
     "note": "Spiders (set 1)",
     "titleReading": "すぱいだ",
-    "manufacturerReading": "しぐま"
+    "manufacturerReading": "しぐま",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーコブラ",
@@ -1500,7 +2702,14 @@ window.ARCADE_GAMES = [
     "name": "scobra",
     "note": "Super Cobra",
     "titleReading": "すぱこぶら",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパータンク",
@@ -1509,7 +2718,14 @@ window.ARCADE_GAMES = [
     "name": "supertnk",
     "note": "Super Tank",
     "titleReading": "すぱたんく",
-    "manufacturerReading": "videogamesgmbh"
+    "manufacturerReading": "videogamesgmbh",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースオデッセイ",
@@ -1518,7 +2734,14 @@ window.ARCADE_GAMES = [
     "name": "spaceod",
     "note": "Space Odyssey (version 2)",
     "titleReading": "すぺすおでっせい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースクルーザー",
@@ -1527,7 +2750,14 @@ window.ARCADE_GAMES = [
     "name": "spacecr",
     "note": "Space Cruiser",
     "titleReading": "すぺすくるざ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースシーカー",
@@ -1536,7 +2766,14 @@ window.ARCADE_GAMES = [
     "name": "spaceskr",
     "note": "Space Seeker",
     "titleReading": "すぺすしか",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースフォートレス",
@@ -1545,7 +2782,14 @@ window.ARCADE_GAMES = [
     "name": "spacefrt",
     "note": "Space Fortress (CVS)",
     "titleReading": "すぺすふぉとれす",
-    "manufacturerReading": "centuryelectronics"
+    "manufacturerReading": "centuryelectronics",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースフューリー",
@@ -1554,7 +2798,14 @@ window.ARCADE_GAMES = [
     "name": "spacfury",
     "note": "Space Fury (revision C)",
     "titleReading": "すぺすふゅり",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "005",
@@ -1563,7 +2814,14 @@ window.ARCADE_GAMES = [
     "name": "005",
     "note": "",
     "titleReading": "ぜろぜろふぁいぶ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターピン",
@@ -1572,7 +2830,14 @@ window.ARCADE_GAMES = [
     "name": "turtles",
     "note": "Turtles",
     "titleReading": "たぴん",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターボ",
@@ -1581,7 +2846,17 @@ window.ARCADE_GAMES = [
     "name": "turbo",
     "note": "Turbo (program 1513-1515)",
     "titleReading": "たぼ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ダーク・ワーリアー",
@@ -1590,7 +2865,14 @@ window.ARCADE_GAMES = [
     "name": "darkwar",
     "note": "Dark Warrior",
     "titleReading": "だくわりあ",
-    "manufacturerReading": "centuryelectronics"
+    "manufacturerReading": "centuryelectronics",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディフェンド・ザ・テラ・アタック・オン・ザ・レッドＵＦＯ",
@@ -1599,7 +2881,14 @@ window.ARCADE_GAMES = [
     "name": "redufo",
     "note": "Defend the Terra Attack on the Red UFO",
     "titleReading": "でぃふぇんどざてらあたっくおんざれっどufo",
-    "manufacturerReading": "うこ"
+    "manufacturerReading": "うこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドンキーコング",
@@ -1608,7 +2897,14 @@ window.ARCADE_GAMES = [
     "name": "dkongjo",
     "note": "日本版 set 1",
     "titleReading": "どんきいこんぐ",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニューラリーX",
@@ -1617,7 +2913,14 @@ window.ARCADE_GAMES = [
     "name": "nrallyx",
     "note": "",
     "titleReading": "にゅうらりいx",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトル・オブ・アトランティス",
@@ -1626,7 +2929,14 @@ window.ARCADE_GAMES = [
     "name": "atlantis",
     "note": "set 1",
     "titleReading": "ばとるおぶあとらんてぃす",
-    "manufacturerReading": "こむそふと"
+    "manufacturerReading": "こむそふと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンガード",
@@ -1635,7 +2945,14 @@ window.ARCADE_GAMES = [
     "name": "vanguard",
     "note": "SN",
     "titleReading": "ばんがあど",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パルサー",
@@ -1644,7 +2961,14 @@ window.ARCADE_GAMES = [
     "name": "pulsar",
     "note": "Pulsar",
     "titleReading": "ぱるさ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビデオハスラー",
@@ -1653,7 +2977,14 @@ window.ARCADE_GAMES = [
     "name": "hustler",
     "note": "Video Hustler",
     "titleReading": "びでおはすら",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピラニア",
@@ -1662,7 +2993,13 @@ window.ARCADE_GAMES = [
     "name": "piranha",
     "note": "Piranha",
     "titleReading": "ぴらにあ",
-    "manufacturerReading": "glusbilliardslicense"
+    "manufacturerReading": "glusbilliardslicense",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ファンキーフィッシュ",
@@ -1671,7 +3008,15 @@ window.ARCADE_GAMES = [
     "name": "fnkyfish",
     "note": "Funky Fish",
     "titleReading": "ふぁんきふぃっしゅ",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フィッター",
@@ -1680,7 +3025,14 @@ window.ARCADE_GAMES = [
     "name": "roundup",
     "note": "Round-Up",
     "titleReading": "ふぃった",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フロッガー",
@@ -1689,7 +3041,13 @@ window.ARCADE_GAMES = [
     "name": "frogger",
     "note": "",
     "titleReading": "ふろっがあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ブラックホール",
@@ -1698,7 +3056,14 @@ window.ARCADE_GAMES = [
     "name": "blkhole",
     "note": "Black Hole",
     "titleReading": "ぶらっくほる",
-    "manufacturerReading": "とうきょうでんしせっけいtds"
+    "manufacturerReading": "とうきょうでんしせっけいtds",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレアデス",
@@ -1707,7 +3072,14 @@ window.ARCADE_GAMES = [
     "name": "pleiads",
     "note": "Pleiads (Tehkan)",
     "titleReading": "ぷれあです",
-    "manufacturerReading": "てかんてくも"
+    "manufacturerReading": "てかんてくも",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロゴルフ",
@@ -1716,7 +3088,14 @@ window.ARCADE_GAMES = [
     "name": "progolf",
     "note": "18 Holes Pro Golf (set 1)",
     "titleReading": "ぷろごるふ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベンチャー",
@@ -1725,7 +3104,14 @@ window.ARCADE_GAMES = [
     "name": "venture",
     "note": "Venture (version 5 set 1)",
     "titleReading": "べんちゃ",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボスコニアン",
@@ -1734,7 +3120,14 @@ window.ARCADE_GAMES = [
     "name": "bosco",
     "note": "new ver",
     "titleReading": "ぼすこにあん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポパイマン",
@@ -1743,7 +3136,13 @@ window.ARCADE_GAMES = [
     "name": "popeyeman",
     "note": "Popeye-Man",
     "titleReading": "ぽぱいまん",
-    "manufacturerReading": "hack"
+    "manufacturerReading": "hack",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "マウストラップ",
@@ -1752,7 +3151,14 @@ window.ARCADE_GAMES = [
     "name": "mtrap",
     "note": "Mouse Trap (version 5)",
     "titleReading": "まうすとらっぷ",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リバーパトロール",
@@ -1761,7 +3167,14 @@ window.ARCADE_GAMES = [
     "name": "rpatrol",
     "note": "日本版",
     "titleReading": "りばーぱとろーる",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルート１６",
@@ -1770,7 +3183,14 @@ window.ARCADE_GAMES = [
     "name": "route16",
     "note": "Route 16 (Sun Electronics)",
     "titleReading": "ると16",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レディバグ",
@@ -1779,7 +3199,13 @@ window.ARCADE_GAMES = [
     "name": "ladybug",
     "note": "Lady Bug",
     "titleReading": "れでぃばぐ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ロッククライマー",
@@ -1788,7 +3214,13 @@ window.ARCADE_GAMES = [
     "name": "rockclim",
     "note": "Rock Climber",
     "titleReading": "ろっくくらいま",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ロックンチェイス",
@@ -1797,7 +3229,14 @@ window.ARCADE_GAMES = [
     "name": "lnc",
     "note": "Lock'n'Chase",
     "titleReading": "ろっくんちぇいす",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワープ＆ワープ",
@@ -1806,7 +3245,15 @@ window.ARCADE_GAMES = [
     "name": "warpwarp",
     "note": "",
     "titleReading": "わあぷ&わあぷ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アミーゴ",
@@ -1815,7 +3262,14 @@ window.ARCADE_GAMES = [
     "name": "amigo",
     "note": "Amigo (bootleg of Amidar, set 1)",
     "titleReading": "あみご",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アミダー",
@@ -1824,7 +3278,14 @@ window.ARCADE_GAMES = [
     "name": "amidar",
     "note": "",
     "titleReading": "あみだあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルペンスキー",
@@ -1833,7 +3294,14 @@ window.ARCADE_GAMES = [
     "name": "alpine",
     "note": "set 1",
     "titleReading": "あるぺんすきい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アンティーター",
@@ -1842,7 +3310,14 @@ window.ARCADE_GAMES = [
     "name": "anteater",
     "note": "",
     "titleReading": "あんてぃーたー",
-    "manufacturerReading": "たごえれくとろにくす"
+    "manufacturerReading": "たごえれくとろにくす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カンガルー",
@@ -1851,7 +3326,14 @@ window.ARCADE_GAMES = [
     "name": "kangaroo",
     "note": "Kangaroo",
     "titleReading": "かんがる",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガッタンゴットン",
@@ -1860,7 +3342,14 @@ window.ARCADE_GAMES = [
     "name": "locomotn",
     "note": "Loco-Motion",
     "titleReading": "がったんごっとん",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Qバート",
@@ -1869,7 +3358,13 @@ window.ARCADE_GAMES = [
     "name": "qbert",
     "note": "USA版 set 1",
     "titleReading": "きゅーばーと",
-    "manufacturerReading": "ごっとりいぶ"
+    "manufacturerReading": "ごっとりいぶ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ギャラッグ",
@@ -1878,7 +3373,14 @@ window.ARCADE_GAMES = [
     "name": "gallag",
     "note": "Gallag",
     "titleReading": "ぎゃらっぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コックレース",
@@ -1887,7 +3389,14 @@ window.ARCADE_GAMES = [
     "name": "cookrace",
     "note": "Cook Race",
     "titleReading": "こっくれす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サブロック３Ｄ",
@@ -1896,7 +3405,15 @@ window.ARCADE_GAMES = [
     "name": "subroc3d",
     "note": "Subroc-3D",
     "titleReading": "さぶろっく3d",
-    "manufacturerReading": "せが/まつしたでんき"
+    "manufacturerReading": "せが/まつしたでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ハンドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザクソン",
@@ -1905,7 +3422,14 @@ window.ARCADE_GAMES = [
     "name": "zaxxon",
     "note": "set 1",
     "titleReading": "ざくそん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・バウンティ",
@@ -1914,7 +3438,14 @@ window.ARCADE_GAMES = [
     "name": "bounty",
     "note": "The Bounty (set 1)",
     "titleReading": "ざばうんてぃ",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ピット",
@@ -1923,7 +3454,14 @@ window.ARCADE_GAMES = [
     "name": "thepit",
     "note": "The Pit",
     "titleReading": "ざぴっと",
-    "manufacturerReading": "zilecelectronics"
+    "manufacturerReading": "zilecelectronics",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シニスター",
@@ -1932,7 +3470,14 @@ window.ARCADE_GAMES = [
     "name": "sinistar",
     "note": "Sinistar (revision 3)",
     "titleReading": "しにすた",
-    "manufacturerReading": "williams"
+    "manufacturerReading": "williams",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "将棋",
@@ -1941,7 +3486,14 @@ window.ARCADE_GAMES = [
     "name": "shougi",
     "note": "Shougi",
     "titleReading": "しょうぎ",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジグザグ",
@@ -1950,7 +3502,14 @@ window.ARCADE_GAMES = [
     "name": "dzigzag",
     "note": "Zig Zag (Dig Dug hardware)",
     "titleReading": "じぐざぐ",
-    "manufacturerReading": "じゃくそん"
+    "manufacturerReading": "じゃくそん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャウスト",
@@ -1959,7 +3518,14 @@ window.ARCADE_GAMES = [
     "name": "joust",
     "note": "Joust (White/Green label)",
     "titleReading": "じゃうすと",
-    "manufacturerReading": "williams"
+    "manufacturerReading": "williams",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャクソン",
@@ -1968,7 +3534,14 @@ window.ARCADE_GAMES = [
     "name": "zaxxonb",
     "note": "Jackson",
     "titleReading": "じゃくそん",
-    "manufacturerReading": "まるびしでんし/はどでんし"
+    "manufacturerReading": "まるびしでんし/はどでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャックと豆の木",
@@ -1977,7 +3550,14 @@ window.ARCADE_GAMES = [
     "name": "jack",
     "note": "Jack the Giantkiller (set 1)",
     "titleReading": "じゃっくとまめのき",
-    "manufacturerReading": "haraindustriescinematronicslicense"
+    "manufacturerReading": "haraindustriescinematronicslicense",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャングルキング",
@@ -1986,7 +3566,14 @@ window.ARCADE_GAMES = [
     "name": "junglek",
     "note": "Jungle King (Japan)",
     "titleReading": "じゃんぐるきんぐ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジョリー・ジョガー",
@@ -1995,7 +3582,13 @@ window.ARCADE_GAMES = [
     "name": "jollyjgr",
     "note": "Jolly Jogger",
     "titleReading": "じょりじょが",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "スイマー",
@@ -2004,7 +3597,14 @@ window.ARCADE_GAMES = [
     "name": "swimmer",
     "note": "set 1",
     "titleReading": "すいまあ",
-    "manufacturerReading": "てえかん"
+    "manufacturerReading": "てえかん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーザクソン",
@@ -2013,7 +3613,14 @@ window.ARCADE_GAMES = [
     "name": "szaxxon",
     "note": "315-5013",
     "titleReading": "すうぱあざくそん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーパックマン",
@@ -2022,7 +3629,14 @@ window.ARCADE_GAMES = [
     "name": "superpac",
     "note": "",
     "titleReading": "すうぱあぱっくまん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーロコモーティブ",
@@ -2031,7 +3645,14 @@ window.ARCADE_GAMES = [
     "name": "suprloco",
     "note": "Rev.A",
     "titleReading": "すうぱあろこもうてぃぶ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイアーミー",
@@ -2040,7 +3661,14 @@ window.ARCADE_GAMES = [
     "name": "skyarmy",
     "note": "Sky Army",
     "titleReading": "すかいあみ",
-    "manufacturerReading": "しょうえい"
+    "manufacturerReading": "しょうえい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイベース",
@@ -2049,7 +3677,14 @@ window.ARCADE_GAMES = [
     "name": "skybase",
     "note": "Sky Base",
     "titleReading": "すかいべす",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライクボーリング",
@@ -2058,7 +3693,14 @@ window.ARCADE_GAMES = [
     "name": "sbowling",
     "note": "Strike Bowling",
     "titleReading": "すとらいくぼりんぐ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "スナップジャック",
@@ -2067,7 +3709,13 @@ window.ARCADE_GAMES = [
     "name": "snapjack",
     "note": "Snap Jack",
     "titleReading": "すなっぷじゃっく",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "スプリンガー",
@@ -2076,7 +3724,14 @@ window.ARCADE_GAMES = [
     "name": "springer",
     "note": "Springer",
     "titleReading": "すぷりんが",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースレイダー",
@@ -2085,7 +3740,14 @@ window.ARCADE_GAMES = [
     "name": "sraider",
     "note": "Space Raider",
     "titleReading": "すぺすれいだ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ズーキーパー",
@@ -2094,7 +3756,14 @@ window.ARCADE_GAMES = [
     "name": "zookeep",
     "note": "Zoo Keeper (set 1)",
     "titleReading": "ずきぱ",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ズーム９０９",
@@ -2103,7 +3772,16 @@ window.ARCADE_GAMES = [
     "name": "buckrog",
     "note": "Buck Rogers: Planet of Zoom",
     "titleReading": "ずむ909",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゼビウス",
@@ -2112,7 +3790,14 @@ window.ARCADE_GAMES = [
     "name": "xevious",
     "note": "Namco",
     "titleReading": "ぜびうす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゼビオス",
@@ -2121,7 +3806,14 @@ window.ARCADE_GAMES = [
     "name": "xevios",
     "note": "Xevios",
     "titleReading": "ぜびおす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイムトンネル",
@@ -2130,7 +3822,14 @@ window.ARCADE_GAMES = [
     "name": "timetunl",
     "note": "Time Tunnel",
     "titleReading": "たいむとんねる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイムパイロット",
@@ -2139,7 +3838,14 @@ window.ARCADE_GAMES = [
     "name": "timeplt",
     "note": "",
     "titleReading": "たいむぱいろっと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タクティシャン",
@@ -2148,7 +3854,15 @@ window.ARCADE_GAMES = [
     "name": "tactcian",
     "note": "Tactician (set 1)",
     "titleReading": "たくてぃしゃん",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タックスキャン",
@@ -2157,7 +3871,15 @@ window.ARCADE_GAMES = [
     "name": "tacscan",
     "note": "Tac/Scan",
     "titleReading": "たっくすきゃん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "タルボット",
@@ -2166,7 +3888,14 @@ window.ARCADE_GAMES = [
     "name": "talbot",
     "note": "Talbot",
     "titleReading": "たるぼっと",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダズラー",
@@ -2175,7 +3904,14 @@ window.ARCADE_GAMES = [
     "name": "dazzler",
     "note": "Dazzler",
     "titleReading": "だずら",
-    "manufacturerReading": "centuryelectronics"
+    "manufacturerReading": "centuryelectronics",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チェックマン",
@@ -2184,7 +3920,14 @@ window.ARCADE_GAMES = [
     "name": "checkman",
     "note": "Check Man",
     "titleReading": "ちぇっくまん",
-    "manufacturerReading": "zileczenitone"
+    "manufacturerReading": "zileczenitone",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツタンカーム",
@@ -2193,7 +3936,14 @@ window.ARCADE_GAMES = [
     "name": "tutankhm",
     "note": "Tutankham",
     "titleReading": "つたんかむ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディグダグ",
@@ -2202,7 +3952,14 @@ window.ARCADE_GAMES = [
     "name": "digdug",
     "note": "rev 2",
     "titleReading": "でぃぐだぐ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディスコナンバーワン",
@@ -2211,7 +3968,14 @@ window.ARCADE_GAMES = [
     "name": "disco",
     "note": "Disco No.1",
     "titleReading": "でぃすこなんばわん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トリプルパンチ",
@@ -2220,7 +3984,14 @@ window.ARCADE_GAMES = [
     "name": "triplep",
     "note": "Triple Punch (set 1)",
     "titleReading": "とりぷるぱんち",
-    "manufacturerReading": "kkいんたなしょなる"
+    "manufacturerReading": "kkいんたなしょなる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トロン",
@@ -2229,7 +4000,17 @@ window.ARCADE_GAMES = [
     "name": "tron",
     "note": "Tron (8/9)",
     "titleReading": "とろん",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドリームショッパー",
@@ -2238,7 +4019,14 @@ window.ARCADE_GAMES = [
     "name": "dremshpr",
     "note": "Dream Shopper",
     "titleReading": "どりむしょっぱ",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドロドン",
@@ -2247,7 +4035,14 @@ window.ARCADE_GAMES = [
     "name": "dorodon",
     "note": "Dorodon (set 1)",
     "titleReading": "どろどん",
-    "manufacturerReading": "ふぁるこん"
+    "manufacturerReading": "ふぁるこん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドンキーコングJr.",
@@ -2256,7 +4051,14 @@ window.ARCADE_GAMES = [
     "name": "dkongjrj",
     "note": "日本版",
     "titleReading": "どんきいこんぐjr",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニブラー",
@@ -2265,7 +4067,13 @@ window.ARCADE_GAMES = [
     "name": "nibbler",
     "note": "Nibbler (rev 9, set 1)",
     "titleReading": "にぶら",
-    "manufacturerReading": "rockola"
+    "manufacturerReading": "rockola",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ノーティボーイ",
@@ -2274,7 +4082,14 @@ window.ARCADE_GAMES = [
     "name": "naughtyb",
     "note": "Naughty Boy",
     "titleReading": "のてぃぼい",
-    "manufacturerReading": "じゃぱんれじゃじゃれこ"
+    "manufacturerReading": "じゃぱんれじゃじゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハンバーガー",
@@ -2283,7 +4098,14 @@ window.ARCADE_GAMES = [
     "name": "btime",
     "note": "Burger Time (Data East set 1)",
     "titleReading": "はんばあがあ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーニンラバー",
@@ -2292,7 +4114,14 @@ window.ARCADE_GAMES = [
     "name": "brubber",
     "note": "",
     "titleReading": "ばあにんらばあ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バッグマン",
@@ -2301,7 +4130,14 @@ window.ARCADE_GAMES = [
     "name": "bagman",
     "note": "",
     "titleReading": "ばっぐまん",
-    "manufacturerReading": "ばらどんおーとめーしょん"
+    "manufacturerReading": "ばらどんおーとめーしょん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーディーキング",
@@ -2310,7 +4146,13 @@ window.ARCADE_GAMES = [
     "name": "bking",
     "note": "Birdie King",
     "titleReading": "ばでぃきんぐ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール"
+    ]
   },
   {
     "title": "バトルクロス",
@@ -2319,7 +4161,14 @@ window.ARCADE_GAMES = [
     "name": "battlex",
     "note": "Battle Cross",
     "titleReading": "ばとるくろす",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルス",
@@ -2328,7 +4177,14 @@ window.ARCADE_GAMES = [
     "name": "battles",
     "note": "Battles (set 1)",
     "titleReading": "ばとるす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パイオニアバルーン",
@@ -2337,7 +4193,14 @@ window.ARCADE_GAMES = [
     "name": "pballoon",
     "note": "Pioneer Balloon",
     "titleReading": "ぱいおにあばるん",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パックマンプラス",
@@ -2346,7 +4209,13 @@ window.ARCADE_GAMES = [
     "name": "pacplus",
     "note": "Pac-Man Plus",
     "titleReading": "ぱっくまんぷらす",
-    "manufacturerReading": "namcomidwaylicense"
+    "manufacturerReading": "namcomidwaylicense",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ビクトリー",
@@ -2355,7 +4224,15 @@ window.ARCADE_GAMES = [
     "name": "victory",
     "note": "Victory",
     "titleReading": "びくとり",
-    "manufacturerReading": "exidy"
+    "manufacturerReading": "exidy",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ファニーマウス",
@@ -2364,7 +4241,14 @@ window.ARCADE_GAMES = [
     "name": "funnymou",
     "note": "Funny Mouse (Japan)",
     "titleReading": "ふぁにまうす",
-    "manufacturerReading": "ちゅうおうりすはんばい"
+    "manufacturerReading": "ちゅうおうりすはんばい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファンキービー",
@@ -2373,7 +4257,14 @@ window.ARCADE_GAMES = [
     "name": "funkybee",
     "note": "Funky Bee",
     "titleReading": "ふぁんきび",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フライボーイ",
@@ -2382,7 +4273,14 @@ window.ARCADE_GAMES = [
     "name": "flyboy",
     "note": "Fly-Boy",
     "titleReading": "ふらいぼい",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フロントライン",
@@ -2391,7 +4289,14 @@ window.ARCADE_GAMES = [
     "name": "frontlin",
     "note": "",
     "titleReading": "ふろんとらいん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブループリント",
@@ -2400,7 +4305,14 @@ window.ARCADE_GAMES = [
     "name": "blueprnt",
     "note": "Blue Print (Midway)",
     "titleReading": "ぶるぷりんと",
-    "manufacturerReading": "zilecelectronics/ballymidway"
+    "manufacturerReading": "zilecelectronics/ballymidway",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プーヤン",
@@ -2409,7 +4321,15 @@ window.ARCADE_GAMES = [
     "name": "pooyan",
     "note": "",
     "titleReading": "ぷうやん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プータン",
@@ -2418,7 +4338,15 @@ window.ARCADE_GAMES = [
     "name": "pootan",
     "note": "Pootan",
     "titleReading": "ぷたん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペンゴ",
@@ -2427,7 +4355,14 @@ window.ARCADE_GAMES = [
     "name": "pengo",
     "note": "set 1 rev c",
     "titleReading": "ぺんご",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペンタ",
@@ -2436,7 +4371,14 @@ window.ARCADE_GAMES = [
     "name": "penta",
     "note": "Penta",
     "titleReading": "ぺんた",
-    "manufacturerReading": "bootleggrinbeeshouji"
+    "manufacturerReading": "bootleggrinbeeshouji",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポップフレーマー",
@@ -2445,7 +4387,14 @@ window.ARCADE_GAMES = [
     "name": "popflame",
     "note": "Pop Flamer (protected)",
     "titleReading": "ぽっぷふれま",
-    "manufacturerReading": "じゃぱんれじゃじゃれこ"
+    "manufacturerReading": "じゃぱんれじゃじゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポートマン",
@@ -2454,7 +4403,14 @@ window.ARCADE_GAMES = [
     "name": "dockman",
     "note": "Dock Man (set 1)",
     "titleReading": "ぽとまん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポパイ",
@@ -2463,7 +4419,14 @@ window.ARCADE_GAMES = [
     "name": "popeye",
     "note": "rev D",
     "titleReading": "ぽぱい",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポンポコ",
@@ -2472,7 +4435,14 @@ window.ARCADE_GAMES = [
     "name": "ponpoko",
     "note": "Ponpoko",
     "titleReading": "ぽんぽこ",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マリンボーイ",
@@ -2481,7 +4451,14 @@ window.ARCADE_GAMES = [
     "name": "marineb",
     "note": "Marine Boy",
     "titleReading": "まりんぼい",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミスターＤｕ！",
@@ -2490,7 +4467,14 @@ window.ARCADE_GAMES = [
     "name": "mrdu",
     "note": "Mr. Du!",
     "titleReading": "みすたdu",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミスターＬｏ！",
@@ -2499,7 +4483,14 @@ window.ARCADE_GAMES = [
     "name": "mrlo",
     "note": "Mr. Lo!",
     "titleReading": "みすたlo",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Mr.Do！",
@@ -2508,7 +4499,14 @@ window.ARCADE_GAMES = [
     "name": "mrdo",
     "note": "",
     "titleReading": "みすたーどぅ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミッションＸ",
@@ -2517,7 +4515,14 @@ window.ARCADE_GAMES = [
     "name": "zoar",
     "note": "Zoar",
     "titleReading": "みっしょんx",
-    "manufacturerReading": "でたいすと"
+    "manufacturerReading": "でたいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミンキーモンキー",
@@ -2526,7 +4531,14 @@ window.ARCADE_GAMES = [
     "name": "mmonkey",
     "note": "Minky Monkey",
     "titleReading": "みんきもんき",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ムーンパトロール",
@@ -2535,7 +4547,14 @@ window.ARCADE_GAMES = [
     "name": "mpatrol",
     "note": "Moon Patrol",
     "titleReading": "むんぱとろる",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モールアタック",
@@ -2544,7 +4563,14 @@ window.ARCADE_GAMES = [
     "name": "mole",
     "note": "Mole Attack",
     "titleReading": "もるあたっく",
-    "manufacturerReading": "やちよでんきさんぎょう"
+    "manufacturerReading": "やちよでんきさんぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "モンスターバッシュ",
@@ -2553,7 +4579,14 @@ window.ARCADE_GAMES = [
     "name": "monsterb",
     "note": "Monster Bash",
     "titleReading": "もんすたばっしゅ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヨットマン",
@@ -2562,7 +4595,14 @@ window.ARCADE_GAMES = [
     "name": "mermaid",
     "note": "Mermaid",
     "titleReading": "よっとまん",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラッソ",
@@ -2571,7 +4611,14 @@ window.ARCADE_GAMES = [
     "name": "lasso",
     "note": "Lasso",
     "titleReading": "らっそ",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リアクター",
@@ -2580,7 +4627,14 @@ window.ARCADE_GAMES = [
     "name": "reactor",
     "note": "Reactor",
     "titleReading": "りあくた",
-    "manufacturerReading": "ごっとりいぶ"
+    "manufacturerReading": "ごっとりいぶ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "ルージュアン",
@@ -2589,7 +4643,14 @@ window.ARCADE_GAMES = [
     "name": "rougien",
     "note": "Rougien",
     "titleReading": "るじゅあん",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルーパー",
@@ -2598,7 +4659,13 @@ window.ARCADE_GAMES = [
     "name": "changes",
     "note": "Changes",
     "titleReading": "るぱ",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "レーダーゾーン",
@@ -2607,7 +4674,14 @@ window.ARCADE_GAMES = [
     "name": "radarzon",
     "note": "Radar Zone",
     "titleReading": "れだぞん",
-    "manufacturerReading": "centuryelectronics"
+    "manufacturerReading": "centuryelectronics",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロボトロン２０８４",
@@ -2616,7 +4690,13 @@ window.ARCADE_GAMES = [
     "name": "robotron",
     "note": "Robotron: 2084 (Solid Blue label)",
     "titleReading": "ろぼとろん2084",
-    "manufacturerReading": "williams/vidkidz"
+    "manufacturerReading": "williams/vidkidz",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ワイピング",
@@ -2625,7 +4705,14 @@ window.ARCADE_GAMES = [
     "name": "wiping",
     "note": "",
     "titleReading": "わいぴんぐ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワイルドウエスタン",
@@ -2634,7 +4721,15 @@ window.ARCADE_GAMES = [
     "name": "wwestern",
     "note": "Wild Western (set 1)",
     "titleReading": "わいるどうえすたん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アップンダウン",
@@ -2643,7 +4738,14 @@ window.ARCADE_GAMES = [
     "name": "upndown",
     "note": "315-5030",
     "titleReading": "あっぷんだうん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アラビアン",
@@ -2652,7 +4754,14 @@ window.ARCADE_GAMES = [
     "name": "arabian",
     "note": "",
     "titleReading": "あらびあん",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アンブッシュ",
@@ -2661,7 +4770,14 @@ window.ARCADE_GAMES = [
     "name": "ambushj",
     "note": "日本版 / m↑",
     "titleReading": "あんぶっしゅ",
-    "manufacturerReading": "てくふりにほんあみゅーずらいせんす"
+    "manufacturerReading": "てくふりにほんあみゅーずらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "イクシオン",
@@ -2670,7 +4786,17 @@ window.ARCADE_GAMES = [
     "name": "ixion",
     "note": "prototype",
     "titleReading": "いくしおん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "インテレピッド",
@@ -2679,7 +4805,14 @@ window.ARCADE_GAMES = [
     "name": "intrepid",
     "note": "Intrepid (set 1)",
     "titleReading": "いんてれぴっど",
-    "manufacturerReading": "novagamesltd"
+    "manufacturerReading": "novagamesltd",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイティングサッカー",
@@ -2688,7 +4821,14 @@ window.ARCADE_GAMES = [
     "name": "exctsccrj",
     "note": "BAIR set 1",
     "titleReading": "えきさいてぃんぐさっかあ",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エクセリオン",
@@ -2697,7 +4837,14 @@ window.ARCADE_GAMES = [
     "name": "exerion",
     "note": "",
     "titleReading": "えくせりおん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "SF-X -スペースファイターX",
@@ -2706,7 +4853,14 @@ window.ARCADE_GAMES = [
     "name": "sfx",
     "note": "",
     "titleReading": "えすえふえっくすすぺーすふぁいたーえっくす",
-    "manufacturerReading": "にほんげーむとうきょうにほんぶっさんらいせんす"
+    "manufacturerReading": "にほんげーむとうきょうにほんぶっさんらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エレベーターアクション",
@@ -2715,7 +4869,14 @@ window.ARCADE_GAMES = [
     "name": "elevator",
     "note": "",
     "titleReading": "えれべえたああくしょん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カージャンボリー",
@@ -2724,7 +4885,14 @@ window.ARCADE_GAMES = [
     "name": "carjmbre",
     "note": "Car Jamboree",
     "titleReading": "かじゃんぼり",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カメレオン",
@@ -2733,7 +4901,14 @@ window.ARCADE_GAMES = [
     "name": "chameleo",
     "note": "Chameleon",
     "titleReading": "かめれおん",
-    "manufacturerReading": "とうあせいこ"
+    "manufacturerReading": "とうあせいこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガズラー",
@@ -2742,7 +4917,14 @@ window.ARCADE_GAMES = [
     "name": "guzzler",
     "note": "Guzzler",
     "titleReading": "がずら",
-    "manufacturerReading": "てかんてくも"
+    "manufacturerReading": "てかんてくも",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キックボーイ",
@@ -2751,7 +4933,14 @@ window.ARCADE_GAMES = [
     "name": "kickboy",
     "note": "Kick Boy",
     "titleReading": "きっくぼい",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コマンド",
@@ -2760,7 +4949,14 @@ window.ARCADE_GAMES = [
     "name": "commsega",
     "note": "Sega",
     "titleReading": "こまんど",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ビッグ・プロレスリング",
@@ -2769,7 +4965,14 @@ window.ARCADE_GAMES = [
     "name": "bigprowr",
     "note": "",
     "titleReading": "ざびっぐぷろれすりんぐ",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シンドバッドミステリー",
@@ -2778,7 +4981,14 @@ window.ARCADE_GAMES = [
     "name": "sindbadm",
     "note": "",
     "titleReading": "しんどばっどみすてりい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジェネシス",
@@ -2787,7 +4997,14 @@ window.ARCADE_GAMES = [
     "name": "boomrang",
     "note": "Boomer Rang'r / Genesis (set 1)",
     "titleReading": "じぇねしす",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャイラス",
@@ -2796,7 +5013,14 @@ window.ARCADE_GAMES = [
     "name": "gyruss",
     "note": "Gyruss",
     "titleReading": "じゃいらす",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジュニアパックマン",
@@ -2805,7 +5029,13 @@ window.ARCADE_GAMES = [
     "name": "jrpacman",
     "note": "Jr. Pac-Man (11/9/83)",
     "titleReading": "じゅにあぱっくまん",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "ジュノファースト",
@@ -2814,7 +5044,14 @@ window.ARCADE_GAMES = [
     "name": "junofrst",
     "note": "Juno First",
     "titleReading": "じゅのふぁすと",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジョイフル・ロード",
@@ -2823,7 +5060,14 @@ window.ARCADE_GAMES = [
     "name": "joyfulr",
     "note": "Joyful Road (Japan)",
     "titleReading": "じょいふるろど",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイランサー",
@@ -2832,7 +5076,14 @@ window.ARCADE_GAMES = [
     "name": "skylancr",
     "note": "Sky Lancer",
     "titleReading": "すかいらんさ",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スクランブル・エッグ",
@@ -2841,7 +5092,14 @@ window.ARCADE_GAMES = [
     "name": "scregg",
     "note": "Scrambled Egg",
     "titleReading": "すくらんぶるえっぐ",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スタージャッカー",
@@ -2850,7 +5108,14 @@ window.ARCADE_GAMES = [
     "name": "starjack",
     "note": "Sega",
     "titleReading": "すたあじゃっかあ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スティンガー",
@@ -2859,7 +5124,14 @@ window.ARCADE_GAMES = [
     "name": "stinger",
     "note": "Stinger",
     "titleReading": "すてぃんが",
-    "manufacturerReading": "せいぶでんし/にっこうでんし"
+    "manufacturerReading": "せいぶでんし/にっこうでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スパイハンター",
@@ -2868,7 +5140,17 @@ window.ARCADE_GAMES = [
     "name": "spyhunt",
     "note": "Spy Hunter",
     "titleReading": "すぱいはんた",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーダブルテニス",
@@ -2877,7 +5159,14 @@ window.ARCADE_GAMES = [
     "name": "sdtennis",
     "note": "Super Doubles Tennis",
     "titleReading": "すぱだぶるてにす",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーライダー",
@@ -2886,7 +5175,14 @@ window.ARCADE_GAMES = [
     "name": "suprridr",
     "note": "Super Rider",
     "titleReading": "すぱらいだ",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "センジョウ",
@@ -2895,7 +5191,15 @@ window.ARCADE_GAMES = [
     "name": "senjyo",
     "note": "Senjyo",
     "titleReading": "せんじょう",
-    "manufacturerReading": "てかんてくも"
+    "manufacturerReading": "てかんてくも",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゾディアック",
@@ -2904,7 +5208,14 @@ window.ARCADE_GAMES = [
     "name": "zodiack",
     "note": "Zodiack",
     "titleReading": "ぞでぃあっく",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイムリミット",
@@ -2913,7 +5224,14 @@ window.ARCADE_GAMES = [
     "name": "timelimt",
     "note": "Time Limit",
     "titleReading": "たいむりみっと",
-    "manufacturerReading": "ちゅうおうりすはんばい"
+    "manufacturerReading": "ちゅうおうりすはんばい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タッパー",
@@ -2922,7 +5240,14 @@ window.ARCADE_GAMES = [
     "name": "tapper",
     "note": "Tapper (Budweiser, 1/27/84)",
     "titleReading": "たっぱ",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダチョラー",
@@ -2931,7 +5256,14 @@ window.ARCADE_GAMES = [
     "name": "dacholer",
     "note": "Dacholer",
     "titleReading": "だちょら",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ちゃっくんぽっぷ",
@@ -2940,7 +5272,14 @@ window.ARCADE_GAMES = [
     "name": "chaknpop",
     "note": "",
     "titleReading": "ちゃっくんぽっぷ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャンピオンベースボール",
@@ -2949,7 +5288,14 @@ window.ARCADE_GAMES = [
     "name": "champbas",
     "note": "Champion Base Ball",
     "titleReading": "ちゃんぴおんべすぼる",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャンピオンベースボール パート２",
@@ -2958,7 +5304,14 @@ window.ARCADE_GAMES = [
     "name": "champbb2",
     "note": "Champion Base Ball Part-2 (set 1)",
     "titleReading": "ちゃんぴおんべすぼるぱと2",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ティップタップ",
@@ -2967,7 +5320,14 @@ window.ARCADE_GAMES = [
     "name": "congo",
     "note": "Congo Bongo (rev C 2 board stack)",
     "titleReading": "てぃっぷたっぷ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ティンスター",
@@ -2976,7 +5336,15 @@ window.ARCADE_GAMES = [
     "name": "tinstar",
     "note": "The Tin Star (A10, 4 PCB version)",
     "titleReading": "てぃんすた",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "10ヤードファイト",
@@ -2985,7 +5353,14 @@ window.ARCADE_GAMES = [
     "name": "10yardj",
     "note": "日本版",
     "titleReading": "てんやーどふぁいと",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディスクスオブトロン",
@@ -2994,7 +5369,18 @@ window.ARCADE_GAMES = [
     "name": "dotron",
     "note": "Discs of Tron (Upright)",
     "titleReading": "でぃすくすおぶとろん",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ダイアル",
+      "アナログ",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディンゴ",
@@ -3003,7 +5389,14 @@ window.ARCADE_GAMES = [
     "name": "dingo",
     "note": "Dingo",
     "titleReading": "でぃんご",
-    "manufacturerReading": "ashbycomputersandgraphicsltdjalecolicense"
+    "manufacturerReading": "ashbycomputersandgraphicsltdjalecolicense",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トップローラー",
@@ -3012,7 +5405,14 @@ window.ARCADE_GAMES = [
     "name": "toprollr",
     "note": "Top Roller",
     "titleReading": "とっぷろら",
-    "manufacturerReading": "ふぁるこん"
+    "manufacturerReading": "ふぁるこん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トロピカルエンジェル",
@@ -3021,7 +5421,14 @@ window.ARCADE_GAMES = [
     "name": "troangel",
     "note": "Tropical Angel",
     "titleReading": "とろぴかるえんじぇる",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドクター・ミクロ",
@@ -3030,7 +5437,14 @@ window.ARCADE_GAMES = [
     "name": "drmicro",
     "note": "Dr. Micro",
     "titleReading": "どくたみくろ",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドッグファイト",
@@ -3039,7 +5453,14 @@ window.ARCADE_GAMES = [
     "name": "dogfight",
     "note": "Dog Fight (Thunderbolt)",
     "titleReading": "どっぐふぁいと",
-    "manufacturerReading": "さんだぼるとおるか"
+    "manufacturerReading": "さんだぼるとおるか",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネットウォーズ",
@@ -3048,7 +5469,14 @@ window.ARCADE_GAMES = [
     "name": "netwars",
     "note": "Net Wars",
     "titleReading": "ねっとうぉず",
-    "manufacturerReading": "おるか"
+    "manufacturerReading": "おるか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ノバ２００１",
@@ -3057,7 +5485,14 @@ window.ARCADE_GAMES = [
     "name": "nova2001",
     "note": "Nova 2001 (Japan)",
     "titleReading": "のば2001",
-    "manufacturerReading": "ゆぴえるupl"
+    "manufacturerReading": "ゆぴえるupl",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイウェイレース",
@@ -3066,7 +5501,15 @@ window.ARCADE_GAMES = [
     "name": "hwrace",
     "note": "High Way Race",
     "titleReading": "はいうぇいれす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーオリンピック",
@@ -3075,7 +5518,13 @@ window.ARCADE_GAMES = [
     "name": "hyprolym",
     "note": "",
     "titleReading": "はいぱあおりんぴっく",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "バイオアタック",
@@ -3084,7 +5533,14 @@ window.ARCADE_GAMES = [
     "name": "bioatack",
     "note": "Bio Attack",
     "titleReading": "ばいおあたっく",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バスター",
@@ -3093,7 +5549,14 @@ window.ARCADE_GAMES = [
     "name": "vastar",
     "note": "Vastar (set 1)",
     "titleReading": "ばすた",
-    "manufacturerReading": "せさみじゃぱん"
+    "manufacturerReading": "せさみじゃぱん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーディーキング２",
@@ -3102,7 +5565,13 @@ window.ARCADE_GAMES = [
     "name": "bking2",
     "note": "Birdie King 2",
     "titleReading": "ばでぃきんぐ2",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール"
+    ]
   },
   {
     "title": "バトル・クルーザー Ｍ-１２",
@@ -3111,7 +5580,14 @@ window.ARCADE_GAMES = [
     "name": "bcruzm12",
     "note": "Battle Cruiser M-12",
     "titleReading": "ばとるくるざm12",
-    "manufacturerReading": "しぐま"
+    "manufacturerReading": "しぐま",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンバンカー",
@@ -3120,7 +5596,14 @@ window.ARCADE_GAMES = [
     "name": "vanvan",
     "note": "Van-Van Car",
     "titleReading": "ばんばんか",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パック＆パル",
@@ -3129,7 +5612,14 @@ window.ARCADE_GAMES = [
     "name": "pacnpal",
     "note": "Pac & Pal",
     "titleReading": "ぱっく&ぱる",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングローラー",
@@ -3138,7 +5628,15 @@ window.ARCADE_GAMES = [
     "name": "fightrol",
     "note": "Fighting Roller",
     "titleReading": "ふぁいてぃんぐろら",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フォゾン",
@@ -3147,7 +5645,14 @@ window.ARCADE_GAMES = [
     "name": "phozon",
     "note": "Phozon (Japan)",
     "titleReading": "ふぉぞん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロサッカー",
@@ -3156,7 +5661,14 @@ window.ARCADE_GAMES = [
     "name": "prosoccr",
     "note": "Pro Soccer",
     "titleReading": "ぷろさっか",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロスポーツ",
@@ -3165,7 +5677,14 @@ window.ARCADE_GAMES = [
     "name": "prosport",
     "note": "Pro Sports - Bowling, Tennis, and Golf",
     "titleReading": "ぷろすぽつ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ホッパーロボ",
@@ -3174,7 +5693,14 @@ window.ARCADE_GAMES = [
     "name": "hopprobo",
     "note": "",
     "titleReading": "ほっぱあろぼ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボギー'８３",
@@ -3183,7 +5709,14 @@ window.ARCADE_GAMES = [
     "name": "boggy84",
     "note": "Boggy '84",
     "titleReading": "ぼぎ'83",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポールポジションII",
@@ -3192,7 +5725,17 @@ window.ARCADE_GAMES = [
     "name": "polepos2",
     "note": "",
     "titleReading": "ぽうるぽじしょんii",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ポッパー",
@@ -3201,7 +5744,14 @@ window.ARCADE_GAMES = [
     "name": "popper",
     "note": "Popper",
     "titleReading": "ぽっぱ",
-    "manufacturerReading": "おおもりでんき"
+    "manufacturerReading": "おおもりでんき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マウサー",
@@ -3210,7 +5760,14 @@ window.ARCADE_GAMES = [
     "name": "mouser",
     "note": "Mouser",
     "titleReading": "まうさ",
-    "manufacturerReading": "ゆにばさるぷれいらんどupl"
+    "manufacturerReading": "ゆにばさるぷれいらんどupl",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーカム",
@@ -3219,7 +5776,14 @@ window.ARCADE_GAMES = [
     "name": "markham",
     "note": "Markham",
     "titleReading": "まかむ",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マサオジャンプ",
@@ -3228,7 +5792,14 @@ window.ARCADE_GAMES = [
     "name": "masao",
     "note": "Masao",
     "titleReading": "まさおじゃんぷ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッハ３ -MILITARY AIR COMMAND HUNTER-",
@@ -3237,7 +5808,15 @@ window.ARCADE_GAMES = [
     "name": "mach3",
     "note": "M.A.C.H. 3 (set 1)",
     "titleReading": "まっは3militaryaircommandhunter",
-    "manufacturerReading": "mylstar"
+    "manufacturerReading": "mylstar",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッピー",
@@ -3246,7 +5825,14 @@ window.ARCADE_GAMES = [
     "name": "mappyj",
     "note": "日本版",
     "titleReading": "まっぴい",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マービンメイズ",
@@ -3255,7 +5841,14 @@ window.ARCADE_GAMES = [
     "name": "marvins",
     "note": "Marvin's Maze",
     "titleReading": "まびんめいず",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マリオブラザーズ",
@@ -3264,7 +5857,14 @@ window.ARCADE_GAMES = [
     "name": "marioj",
     "note": "USA版 rev F",
     "titleReading": "まりおぶらざあず",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Mr.Do！ VS ユニコーン",
@@ -3273,7 +5873,14 @@ window.ARCADE_GAMES = [
     "name": "docastle",
     "note": "Mr. Do's Castle (set 1)",
     "titleReading": "みすたーどぅばーさすゆにこーん",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メガゾーン",
@@ -3282,7 +5889,14 @@ window.ARCADE_GAMES = [
     "name": "megazone",
     "note": "Mega Zone (program code L)",
     "titleReading": "めがぞん",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ものしりクイズ おしゃべりまちゃ",
@@ -3291,7 +5905,13 @@ window.ARCADE_GAMES = [
     "name": "macha",
     "note": "Monoshiri Quiz Osyaberi Macha (Japan)",
     "titleReading": "ものしりくいずおしゃべりまちゃ",
-    "manufacturerReading": "ろじてっく"
+    "manufacturerReading": "ろじてっく",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ヤマト",
@@ -3300,7 +5920,14 @@ window.ARCADE_GAMES = [
     "name": "yamato",
     "note": "",
     "titleReading": "やまと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラズマタズ",
@@ -3309,7 +5936,16 @@ window.ARCADE_GAMES = [
     "name": "razmataz",
     "note": "",
     "titleReading": "らずまたず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リブルラブル",
@@ -3318,7 +5954,14 @@ window.ARCADE_GAMES = [
     "name": "liblrabl",
     "note": "",
     "titleReading": "りぶるらぶる",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レグルス",
@@ -3327,7 +5970,14 @@ window.ARCADE_GAMES = [
     "name": "regulus",
     "note": "315-8088 rev A",
     "titleReading": "れぐるす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックンロープ",
@@ -3336,7 +5986,14 @@ window.ARCADE_GAMES = [
     "name": "rocnrope",
     "note": "",
     "titleReading": "ろっくんろうぷ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｄ－ＤＡＹ ＜ディー･デー＞",
@@ -3345,7 +6002,14 @@ window.ARCADE_GAMES = [
     "name": "ddayjlc",
     "note": "D-Day (Jaleco set 1)",
     "titleReading": "dday<でぃでぃで>",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.レッキングクルー",
@@ -3354,7 +6018,14 @@ window.ARCADE_GAMES = [
     "name": "wrecking",
     "note": "Vs. Wrecking Crew",
     "titleReading": "vsれっきんぐくる",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アイスクライマー",
@@ -3363,7 +6034,14 @@ window.ARCADE_GAMES = [
     "name": "iceclimb",
     "note": "Vs. Ice Climber (set IC4-4 B-1)",
     "titleReading": "あいすくらいま",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アッポー",
@@ -3372,7 +6050,14 @@ window.ARCADE_GAMES = [
     "name": "appoooh",
     "note": "",
     "titleReading": "あっぽう",
-    "manufacturerReading": "さんりつせが"
+    "manufacturerReading": "さんりつせが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "功夫大君 ＜カンフータイクン＞",
@@ -3381,7 +6066,14 @@ window.ARCADE_GAMES = [
     "name": "kungfut",
     "note": "Kung-Fu Taikun (set 1)",
     "titleReading": "いさおたいくん<かんふたいくん>",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "1942",
@@ -3390,7 +6082,14 @@ window.ARCADE_GAMES = [
     "name": "1942",
     "note": "rev B",
     "titleReading": "いちきゅうよんに",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォーターマッチ",
@@ -3399,7 +6098,14 @@ window.ARCADE_GAMES = [
     "name": "wmatch",
     "note": "315-5064",
     "titleReading": "うぉうたあまっち",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォールクラッシュ",
@@ -3408,7 +6114,16 @@ window.ARCADE_GAMES = [
     "name": "wallc",
     "note": "Wall Crash (set 1)",
     "titleReading": "うぉるくらっしゅ",
-    "manufacturerReading": "midcoin"
+    "manufacturerReading": "midcoin",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイティングサッカー２",
@@ -3417,7 +6132,14 @@ window.ARCADE_GAMES = [
     "name": "exctscc2",
     "note": "Exciting Soccer II",
     "titleReading": "えきさいてぃんぐさっか2",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイトバイク",
@@ -3426,7 +6148,14 @@ window.ARCADE_GAMES = [
     "name": "excitebk",
     "note": "Vs. Excitebike (set EB4-3 E)",
     "titleReading": "えきさいとばいく",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エクイテス",
@@ -3435,7 +6164,14 @@ window.ARCADE_GAMES = [
     "name": "equites",
     "note": "Equites",
     "titleReading": "えくいてす",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "影の伝説",
@@ -3444,7 +6180,15 @@ window.ARCADE_GAMES = [
     "name": "lkage",
     "note": "",
     "titleReading": "かげのでんせつ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "空手道",
@@ -3453,7 +6197,13 @@ window.ARCADE_GAMES = [
     "name": "karatedo",
     "note": "日本版",
     "titleReading": "からてどう",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "不明"
+    ]
   },
   {
     "title": "キックスタート",
@@ -3462,7 +6212,14 @@ window.ARCADE_GAMES = [
     "name": "kikstart",
     "note": "Kick Start - Wheelie King",
     "titleReading": "きっくすたと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キックライダー",
@@ -3471,7 +6228,14 @@ window.ARCADE_GAMES = [
     "name": "kickridr",
     "note": "Kick Rider",
     "titleReading": "きっくらいだ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャプラス",
@@ -3480,7 +6244,14 @@ window.ARCADE_GAMES = [
     "name": "gaplus",
     "note": "rev D",
     "titleReading": "ぎゃぷらす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラウンズゴルフ",
@@ -3489,7 +6260,15 @@ window.ARCADE_GAMES = [
     "name": "crgolf",
     "note": "Crowns Golf (834-5419-04)",
     "titleReading": "くらうんずごるふ",
-    "manufacturerReading": "たいへいぎけんなすこ"
+    "manufacturerReading": "たいへいぎけんなすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クルクルランド",
@@ -3498,7 +6277,14 @@ window.ARCADE_GAMES = [
     "name": "cluclu",
     "note": "Vs. Clu Clu Land",
     "titleReading": "くるくるらんど",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラジエイター",
@@ -3507,7 +6293,14 @@ window.ARCADE_GAMES = [
     "name": "sgladiat",
     "note": "Gladiator 1984",
     "titleReading": "ぐらじえいた",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グレートソードマン",
@@ -3516,7 +6309,14 @@ window.ARCADE_GAMES = [
     "name": "gsword2",
     "note": "日本版",
     "titleReading": "ぐれえとそうどまん",
-    "manufacturerReading": "あるゅめたいとう"
+    "manufacturerReading": "あるゅめたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グロブダー",
@@ -3525,7 +6325,15 @@ window.ARCADE_GAMES = [
     "name": "grobda",
     "note": "new ver",
     "titleReading": "ぐろぶだあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴルフ",
@@ -3534,7 +6342,14 @@ window.ARCADE_GAMES = [
     "name": "smgolf",
     "note": "Vs. Stroke & Match Golf (Men Version, set GF4-2 F)",
     "titleReading": "ごるふ",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サーカスチャーリー",
@@ -3543,7 +6358,14 @@ window.ARCADE_GAMES = [
     "name": "circusc",
     "note": "level select set 1",
     "titleReading": "さあかすちゃありい",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイオン",
@@ -3552,7 +6374,14 @@ window.ARCADE_GAMES = [
     "name": "scion",
     "note": "Scion",
     "titleReading": "さいおん",
-    "manufacturerReading": "せいぶでんしせいぶかいはつ/にっこうでんし"
+    "manufacturerReading": "せいぶでんしせいぶかいはつ/にっこうでんし",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイクルマー坊",
@@ -3561,7 +6390,15 @@ window.ARCADE_GAMES = [
     "name": "cyclemb",
     "note": "Cycle Maabou (Japan)",
     "titleReading": "さいくるまぼう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "三輪サンちゃん",
@@ -3570,7 +6407,14 @@ window.ARCADE_GAMES = [
     "name": "ssanchan",
     "note": "日本版",
     "titleReading": "さんりんさんちゃん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・運動会",
@@ -3579,7 +6423,13 @@ window.ARCADE_GAMES = [
     "name": "fieldday",
     "note": "Field Day",
     "titleReading": "ざうんどうかい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ギネス",
@@ -3588,7 +6438,14 @@ window.ARCADE_GAMES = [
     "name": "strnskil",
     "note": "Strength & Skill",
     "titleReading": "ざぎねす",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・スリーストゥージーズ",
@@ -3597,7 +6454,14 @@ window.ARCADE_GAMES = [
     "name": "3stooges",
     "note": "The Three Stooges In Brides Is Brides (set 1)",
     "titleReading": "ざすりすとぅじず",
-    "manufacturerReading": "mylstar"
+    "manufacturerReading": "mylstar",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・闘牛",
@@ -3606,7 +6470,14 @@ window.ARCADE_GAMES = [
     "name": "thetogyu",
     "note": "315-5065, 日本版",
     "titleReading": "ざとうぎゅう",
-    "manufacturerReading": "こあらんどせが"
+    "manufacturerReading": "こあらんどせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・バトルロード",
@@ -3615,7 +6486,14 @@ window.ARCADE_GAMES = [
     "name": "battroad",
     "note": "",
     "titleReading": "ざばとるろうど",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザビガ",
@@ -3624,7 +6502,14 @@ window.ARCADE_GAMES = [
     "name": "zaviga",
     "note": "Zaviga",
     "titleReading": "ざびが",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シーファイターポセイドン",
@@ -3633,7 +6518,15 @@ window.ARCADE_GAMES = [
     "name": "sfposeid",
     "note": "Sea Fighter Poseidon",
     "titleReading": "しふぁいたぽせいどん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "出世大相撲",
@@ -3642,7 +6535,14 @@ window.ARCADE_GAMES = [
     "name": "ssozumo",
     "note": "日本版",
     "titleReading": "しゅっせおおずもう",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "新入社員とおるくん",
@@ -3651,7 +6551,14 @@ window.ARCADE_GAMES = [
     "name": "mikie",
     "note": "Mikie",
     "titleReading": "しんにゅうしゃいんとおるくん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャイロダイン",
@@ -3660,7 +6567,14 @@ window.ARCADE_GAMES = [
     "name": "gyrodine",
     "note": "Gyrodine",
     "titleReading": "じゃいろだいん",
-    "manufacturerReading": "くらっくす"
+    "manufacturerReading": "くらっくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャンピングクロス",
@@ -3669,7 +6583,14 @@ window.ARCADE_GAMES = [
     "name": "jcross",
     "note": "Jumping Cross (set 1)",
     "titleReading": "じゃんぴんぐくろす",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャンピング・ジャック",
@@ -3678,7 +6599,14 @@ window.ARCADE_GAMES = [
     "name": "jjack",
     "note": "Jumping Jack",
     "titleReading": "じゃんぴんぐじゃっく",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーゼビウス",
@@ -3687,7 +6615,14 @@ window.ARCADE_GAMES = [
     "name": "sxeviousj",
     "note": "BARR",
     "titleReading": "すうぱあぜびうす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーパンチアウト！！",
@@ -3696,7 +6631,15 @@ window.ARCADE_GAMES = [
     "name": "spnchout",
     "note": "",
     "titleReading": "すうぱあぱんちあうと",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーピエロ",
@@ -3705,7 +6648,14 @@ window.ARCADE_GAMES = [
     "name": "dorunrun",
     "note": "Do! Run Run (set 1)",
     "titleReading": "すうぱあぴえろ",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターフォース",
@@ -3714,7 +6664,14 @@ window.ARCADE_GAMES = [
     "name": "starforc",
     "note": "",
     "titleReading": "すたあふぉうす",
-    "manufacturerReading": "てえかん"
+    "manufacturerReading": "てえかん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーバスケットボール",
@@ -3723,7 +6680,14 @@ window.ARCADE_GAMES = [
     "name": "sbasketb",
     "note": "Super Basketball (version I, encrypted)",
     "titleReading": "すぱばすけっとぼる",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スパルタンX",
@@ -3732,7 +6696,14 @@ window.ARCADE_GAMES = [
     "name": "spartanx",
     "note": "日本版",
     "titleReading": "すぱるたんx",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スピードアタック！",
@@ -3741,7 +6712,13 @@ window.ARCADE_GAMES = [
     "name": "speedatk",
     "note": "Speed Attack! (Japan)",
     "titleReading": "すぴどあたっく",
-    "manufacturerReading": "よたきかくせた"
+    "manufacturerReading": "よたきかくせた",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "スワット",
@@ -3750,7 +6727,14 @@ window.ARCADE_GAMES = [
     "name": "swat",
     "note": "SWAT (315-5048)",
     "titleReading": "すわっと",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "セクターゾーン",
@@ -3759,7 +6743,15 @@ window.ARCADE_GAMES = [
     "name": "seicross",
     "note": "Seicross (set 1)",
     "titleReading": "せくたぞん",
-    "manufacturerReading": "ありす"
+    "manufacturerReading": "ありす",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソンソン",
@@ -3768,7 +6760,14 @@ window.ARCADE_GAMES = [
     "name": "sonsonj",
     "note": "日本版",
     "titleReading": "そんそん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "対戦 空手道 -青春美少女編",
@@ -3777,7 +6776,14 @@ window.ARCADE_GAMES = [
     "name": "karatevs",
     "note": "日本版 VS ver",
     "titleReading": "たいせんからてどうせいしゅんびしょうじょへん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "タイムパイロット'８４ -Further into unknown world.-",
@@ -3786,7 +6792,14 @@ window.ARCADE_GAMES = [
     "name": "tp84",
     "note": "Time Pilot '84 (set 1)",
     "titleReading": "たいむぱいろっと'84furtherintounknownworld",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイナミックスキー",
@@ -3795,7 +6808,14 @@ window.ARCADE_GAMES = [
     "name": "dynamski",
     "note": "Dynamic Ski",
     "titleReading": "だいなみっくすき",
-    "manufacturerReading": "たいようしすてむ"
+    "manufacturerReading": "たいようしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャイニーズヒーロー",
@@ -3804,7 +6824,15 @@ window.ARCADE_GAMES = [
     "name": "chinhero",
     "note": "",
     "titleReading": "ちゃいにいずひいろう",
-    "manufacturerReading": "たいようしすてむ"
+    "manufacturerReading": "たいようしすてむ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャンピオンボクシング",
@@ -3813,7 +6841,14 @@ window.ARCADE_GAMES = [
     "name": "chboxing",
     "note": "",
     "titleReading": "ちゃんぴおんぼくしんぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チューブパニック",
@@ -3822,7 +6857,14 @@ window.ARCADE_GAMES = [
     "name": "tubep",
     "note": "Tube Panic",
     "titleReading": "ちゅぶぱにっく",
-    "manufacturerReading": "ふじてっく"
+    "manufacturerReading": "ふじてっく",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ティンバー",
@@ -3831,7 +6873,14 @@ window.ARCADE_GAMES = [
     "name": "timber",
     "note": "Timber",
     "titleReading": "てぃんば",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トップレーサー",
@@ -3840,7 +6889,17 @@ window.ARCADE_GAMES = [
     "name": "topracer",
     "note": "Top Racer (with MB8841 + MB8842, 1984)",
     "titleReading": "とっぷれさ",
-    "manufacturerReading": "こすもでんし"
+    "manufacturerReading": "こすもでんし",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンバスター",
@@ -3849,7 +6908,14 @@ window.ARCADE_GAMES = [
     "name": "drgnbstr",
     "note": "",
     "titleReading": "どらごんばすたあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドルアーガの塔",
@@ -3858,7 +6924,14 @@ window.ARCADE_GAMES = [
     "name": "todruaga",
     "note": "new ver",
     "titleReading": "どるああがのとう",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "忍者くん -魔城の冒険",
@@ -3867,7 +6940,14 @@ window.ARCADE_GAMES = [
     "name": "ninjakun",
     "note": "",
     "titleReading": "にんじゃくんまじょうのぼうけん",
-    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
+    "manufacturerReading": "ゆーぴーえるたいとうらいせんす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーオリンピック '84",
@@ -3876,7 +6956,13 @@ window.ARCADE_GAMES = [
     "name": "hyperspt",
     "note": "Hyper Sports",
     "titleReading": "はいぱあおりんぴっく84",
-    "manufacturerReading": "こなみせんちゅりらいせんす"
+    "manufacturerReading": "こなみせんちゅりらいせんす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "バギー・チャレンジ",
@@ -3885,7 +6971,17 @@ window.ARCADE_GAMES = [
     "name": "buggychl",
     "note": "Buggy Challenge",
     "titleReading": "ばぎちゃれんじ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "バザード",
@@ -3894,7 +6990,14 @@ window.ARCADE_GAMES = [
     "name": "buzzard",
     "note": "Buzzard",
     "titleReading": "ばざど",
-    "manufacturerReading": "くらっくす"
+    "manufacturerReading": "くらっくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バッテンオハラのスチャラカ空中戦",
@@ -3903,7 +7006,14 @@ window.ARCADE_GAMES = [
     "name": "dogfgt",
     "note": "Acrobatic Dog-Fight",
     "titleReading": "ばってんおはらのすちゃらかくうちゅうせん",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルガス",
@@ -3912,7 +7022,14 @@ window.ARCADE_GAMES = [
     "name": "vulgusj",
     "note": "日本版？",
     "titleReading": "ばるがす",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンクパニック",
@@ -3921,7 +7038,15 @@ window.ARCADE_GAMES = [
     "name": "bankp",
     "note": "",
     "titleReading": "ばんくぱにっく",
-    "manufacturerReading": "さんりつせが"
+    "manufacturerReading": "さんりつせが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "VS.バルーンファイト",
@@ -3930,7 +7055,14 @@ window.ARCADE_GAMES = [
     "name": "balonfgt",
     "note": "set BF4 A-3",
     "titleReading": "ばーさすばるーんふぁいと",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パックランド",
@@ -3939,7 +7071,13 @@ window.ARCADE_GAMES = [
     "name": "paclandj",
     "note": "set 1",
     "titleReading": "ぱっくらんど",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "パラレルターン",
@@ -3948,7 +7086,14 @@ window.ARCADE_GAMES = [
     "name": "pturn",
     "note": "Parallel Turn",
     "titleReading": "ぱられるたん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パンチアウト！！",
@@ -3957,7 +7102,14 @@ window.ARCADE_GAMES = [
     "name": "punchout",
     "note": "Rev B",
     "titleReading": "ぱんちあうと",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ひげ丸",
@@ -3966,7 +7118,14 @@ window.ARCADE_GAMES = [
     "name": "higemaru",
     "note": "Pirate Ship Higemaru",
     "titleReading": "ひげまる",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビクトリアス ナイン",
@@ -3975,7 +7134,14 @@ window.ARCADE_GAMES = [
     "name": "victnine",
     "note": "Victorious Nine",
     "titleReading": "びくとりあすないん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "B-ウィング",
@@ -3984,7 +7150,14 @@ window.ARCADE_GAMES = [
     "name": "bwings",
     "note": "日本版",
     "titleReading": "びーういんぐ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピーターパックラット",
@@ -3993,7 +7166,14 @@ window.ARCADE_GAMES = [
     "name": "peterpak",
     "note": "Peter Pack Rat",
     "titleReading": "ぴたぱっくらっと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピット＆ラン -F-1 RACE-",
@@ -4002,7 +7182,14 @@ window.ARCADE_GAMES = [
     "name": "pitnrun",
     "note": "Pit & Run - F-1 Race (set 1)",
     "titleReading": "ぴっと&らんf1race",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピンボ",
@@ -4011,7 +7198,14 @@ window.ARCADE_GAMES = [
     "name": "pinbo",
     "note": "Pinbo (set 1)",
     "titleReading": "ぴんぼ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "ピンボール"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フォーメーション ゼット",
@@ -4020,7 +7214,14 @@ window.ARCADE_GAMES = [
     "name": "formatz",
     "note": "Formation Z",
     "titleReading": "ふぉめしょんぜっと",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "40-0 ＜フォーティラブ＞",
@@ -4029,7 +7230,14 @@ window.ARCADE_GAMES = [
     "name": "40love",
     "note": "",
     "titleReading": "ふぉーてぃらぶ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フューチャースパイ",
@@ -4038,7 +7246,14 @@ window.ARCADE_GAMES = [
     "name": "futspy",
     "note": "315-6061",
     "titleReading": "ふゅうちゃあすぱい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フリッキー",
@@ -4047,7 +7262,14 @@ window.ARCADE_GAMES = [
     "name": "flicky",
     "note": "128k ver system 2 315-5051",
     "titleReading": "ふりっきい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブルファイター",
@@ -4056,7 +7278,14 @@ window.ARCADE_GAMES = [
     "name": "bullfgtr",
     "note": "Bull Fighter",
     "titleReading": "ぶるふぁいた",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プログレス",
@@ -4065,7 +7294,15 @@ window.ARCADE_GAMES = [
     "name": "progress",
     "note": "Progress",
     "titleReading": "ぷろぐれす",
-    "manufacturerReading": "ろらとろん"
+    "manufacturerReading": "ろらとろん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "べんべろべえ",
@@ -4074,7 +7311,14 @@ window.ARCADE_GAMES = [
     "name": "benberob",
     "note": "日本版",
     "titleReading": "べんべろべえ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペーパーボーイ",
@@ -4083,7 +7327,16 @@ window.ARCADE_GAMES = [
     "name": "paperboy",
     "note": "Paperboy (rev 3)",
     "titleReading": "ぺぱぼい",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "ハンドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ホールランド",
@@ -4092,7 +7345,14 @@ window.ARCADE_GAMES = [
     "name": "holeland",
     "note": "Hole Land (Japan)",
     "titleReading": "ほるらんど",
-    "manufacturerReading": "tecfri"
+    "manufacturerReading": "tecfri",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボンジャック",
@@ -4101,7 +7361,14 @@ window.ARCADE_GAMES = [
     "name": "bombjack",
     "note": "set 1",
     "titleReading": "ぼんじゃっく",
-    "manufacturerReading": "てえかん"
+    "manufacturerReading": "てえかん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーブルマッドネス",
@@ -4110,7 +7377,13 @@ window.ARCADE_GAMES = [
     "name": "marble",
     "note": "set 1",
     "titleReading": "まあぶるまっどねす",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール"
+    ]
   },
   {
     "title": "マイキー -HIGHSCHOOL GRAFFITI-",
@@ -4119,7 +7392,14 @@ window.ARCADE_GAMES = [
     "name": "mikiehs",
     "note": "Mikie (High School Graffiti)",
     "titleReading": "まいきhighschoolgraffiti",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッドクラッシャー",
@@ -4128,7 +7408,14 @@ window.ARCADE_GAMES = [
     "name": "madcrash",
     "note": "Mad Crasher",
     "titleReading": "まっどくらっしゃ",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミスターバイキング",
@@ -4137,7 +7424,15 @@ window.ARCADE_GAMES = [
     "name": "mrviking",
     "note": "315-5041",
     "titleReading": "みすたあばいきんぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミスタークーガー",
@@ -4146,7 +7441,14 @@ window.ARCADE_GAMES = [
     "name": "mrkougar",
     "note": "Mr. Kougar",
     "titleReading": "みすたくが",
-    "manufacturerReading": "atw"
+    "manufacturerReading": "atw",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Mr.Do's ワイルドライド",
@@ -4155,7 +7457,14 @@ window.ARCADE_GAMES = [
     "name": "dowild",
     "note": "",
     "titleReading": "みすたーどぅーずわいるどらいど",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミステリアスストーンズ -Dr.キックの大冒険-",
@@ -4164,7 +7473,14 @@ window.ARCADE_GAMES = [
     "name": "mystston",
     "note": "Mysterious Stones - Dr. John's Adventure",
     "titleReading": "みすてりあすすとんずdrきっくのだいぼうけん",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "三輪サンちゃん -Tricycle San-",
@@ -4173,7 +7489,14 @@ window.ARCADE_GAMES = [
     "name": "spatter",
     "note": "Spatter (315-5xxx)",
     "titleReading": "みわさんちゃんtricyclesan",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メインイベント",
@@ -4182,7 +7505,14 @@ window.ARCADE_GAMES = [
     "name": "mainsnk",
     "note": "Main Event (1984)",
     "titleReading": "めいんいべんと",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リバレーション",
@@ -4191,7 +7521,15 @@ window.ARCADE_GAMES = [
     "name": "liberate",
     "note": "Liberation",
     "titleReading": "りばれしょん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードファイター",
@@ -4200,7 +7538,14 @@ window.ARCADE_GAMES = [
     "name": "roadf",
     "note": "set 1",
     "titleReading": "ろうどふぁいたあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナー",
@@ -4209,7 +7554,15 @@ window.ARCADE_GAMES = [
     "name": "ldrun",
     "note": "set 1",
     "titleReading": "ろうどらんなあ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナー -バンゲリング帝国の逆襲",
@@ -4218,7 +7571,15 @@ window.ARCADE_GAMES = [
     "name": "ldrun2",
     "note": "",
     "titleReading": "ろうどらんなあばんげりんぐていこくのぎゃくしゅう",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワイリータワー",
@@ -4227,7 +7588,14 @@ window.ARCADE_GAMES = [
     "name": "wilytowr",
     "note": "Wily Tower",
     "titleReading": "わいりたわ",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "わいワイジョッキーゲートイン",
@@ -4236,7 +7604,14 @@ window.ARCADE_GAMES = [
     "name": "wwjgtin",
     "note": "Wai Wai Jockey Gate-In!",
     "titleReading": "わいわいじょっきげといん",
-    "manufacturerReading": "かしお"
+    "manufacturerReading": "かしお",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンガードII",
@@ -4245,7 +7620,14 @@ window.ARCADE_GAMES = [
     "name": "vangrd2",
     "note": "",
     "titleReading": "ゔぁんがあどii",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＲＦ-２ ＜レッドファイター2＞",
@@ -4254,7 +7636,17 @@ window.ARCADE_GAMES = [
     "name": "konamigt",
     "note": "Konami GT",
     "titleReading": "rf2<れっどふぁいた2>",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.スターラスター",
@@ -4263,7 +7655,14 @@ window.ARCADE_GAMES = [
     "name": "starlstr",
     "note": "Vs. Star Luster",
     "titleReading": "vsすたらすた",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.忍者じゃじゃ丸くん",
@@ -4272,7 +7671,14 @@ window.ARCADE_GAMES = [
     "name": "jajamaru",
     "note": "Vs. Ninja Jajamaru Kun (Japan)",
     "titleReading": "vsにんじゃじゃじゃまるくん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.バトルシティ",
@@ -4281,7 +7687,14 @@ window.ARCADE_GAMES = [
     "name": "btlecity",
     "note": "Vs. Battle City",
     "titleReading": "vsばとるしてぃ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ASO -Armored Scrum Object-",
@@ -4290,7 +7703,14 @@ window.ARCADE_GAMES = [
     "name": "aso",
     "note": "",
     "titleReading": "あそーあーマーどすくらむおぶじぇくと",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "イー・アル・カンフー",
@@ -4299,7 +7719,14 @@ window.ARCADE_GAMES = [
     "name": "yiear",
     "note": "set 1",
     "titleReading": "いいあるかんふう",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "いっき",
@@ -4308,7 +7735,14 @@ window.ARCADE_GAMES = [
     "name": "ikki",
     "note": "日本版",
     "titleReading": "いっき",
-    "manufacturerReading": "さんでんし"
+    "manufacturerReading": "さんでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "インディージョーンズ -魔宮の伝説-",
@@ -4317,7 +7751,14 @@ window.ARCADE_GAMES = [
     "name": "indytemp",
     "note": "Indiana Jones and the Temple of Doom (set 1)",
     "titleReading": "いんでぃじょんずまきゅうのでんせつ",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "インドアサッカー",
@@ -4326,7 +7767,14 @@ window.ARCADE_GAMES = [
     "name": "idsoccer",
     "note": "Indoor Soccer (set 1)",
     "titleReading": "いんどあさっか",
-    "manufacturerReading": "ゆにばあさる"
+    "manufacturerReading": "ゆにばあさる",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウィズ",
@@ -4335,7 +7783,15 @@ window.ARCADE_GAMES = [
     "name": "wiz",
     "note": "Wiz",
     "titleReading": "うぃず",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイティングアワー",
@@ -4344,7 +7800,14 @@ window.ARCADE_GAMES = [
     "name": "excthour",
     "note": "",
     "titleReading": "えきさいてぃんぐあわあ",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイティング・アワー -ザ・プロレスリング・ネットワーク-",
@@ -4353,7 +7816,14 @@ window.ARCADE_GAMES = [
     "name": "matmania",
     "note": "Mat Mania",
     "titleReading": "えきさいてぃんぐあわざぷろれすりんぐねっとわく",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エグゼドエグゼス",
@@ -4362,7 +7832,14 @@ window.ARCADE_GAMES = [
     "name": "exedexes",
     "note": "",
     "titleReading": "えぐぜどえぐぜす",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "女三四郎 -TYPHOON GAL-",
@@ -4371,7 +7848,15 @@ window.ARCADE_GAMES = [
     "name": "onna34ro",
     "note": "Onna Sanshirou - Typhoon Gal",
     "titleReading": "おんなさんしろうtyphoongal",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンスモーク",
@@ -4380,7 +7865,14 @@ window.ARCADE_GAMES = [
     "name": "gunsmokej",
     "note": "海外版",
     "titleReading": "がんすもうく",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガントレット",
@@ -4389,7 +7881,14 @@ window.ARCADE_GAMES = [
     "name": "gauntletj",
     "note": "rev 14",
     "titleReading": "がんとれっと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "北派少林 飛龍の拳 -異種格闘技 世界選手権-",
@@ -4398,7 +7897,15 @@ window.ARCADE_GAMES = [
     "name": "shangkid",
     "note": "Shanghai Kid",
     "titleReading": "きたはしょうりんひりゅうのこぶしいしゅかくとうぎせかいせんしゅけん",
-    "manufacturerReading": "かるちゃぶれん"
+    "manufacturerReading": "かるちゃぶれん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャンバス・クロッキー",
@@ -4407,7 +7914,14 @@ window.ARCADE_GAMES = [
     "name": "canvas",
     "note": "Canvas Croquis",
     "titleReading": "きゃんばすくろっき",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクティックウォーリアーズ",
@@ -4416,7 +7930,14 @@ window.ARCADE_GAMES = [
     "name": "gwarrior",
     "note": "Galactic Warriors",
     "titleReading": "ぎゃらくてぃっくうぉりあず",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "草野球",
@@ -4425,7 +7946,14 @@ window.ARCADE_GAMES = [
     "name": "ksayakyu",
     "note": "Kusayakyuu",
     "titleReading": "くさやきゅう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラウンズゴルフ・イン・ハワイ",
@@ -4434,7 +7962,15 @@ window.ARCADE_GAMES = [
     "name": "crgolfhi",
     "note": "Crowns Golf in Hawaii",
     "titleReading": "くらうんずごるふいんはわい",
-    "manufacturerReading": "たいへいぎけんなすこ"
+    "manufacturerReading": "たいへいぎけんなすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラディウス",
@@ -4443,7 +7979,14 @@ window.ARCADE_GAMES = [
     "name": "gradius",
     "note": "BANE rom ver",
     "titleReading": "ぐらでぃうす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グリーンベレー",
@@ -4452,7 +7995,14 @@ window.ARCADE_GAMES = [
     "name": "gberet",
     "note": "",
     "titleReading": "ぐりいんべれえ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グリダイアンファイト",
@@ -4461,7 +8011,14 @@ window.ARCADE_GAMES = [
     "name": "gridiron",
     "note": "Gridiron Fight",
     "titleReading": "ぐりだいあんふぁいと",
-    "manufacturerReading": "てかんてくも"
+    "manufacturerReading": "てかんてくも",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "決死の探検サバイバル ゆけゆけ！山口君",
@@ -4470,7 +8027,14 @@ window.ARCADE_GAMES = [
     "name": "yamagchi",
     "note": "",
     "titleReading": "けっしのたんけんさばいばるゆけゆけやまぐちくん",
-    "manufacturerReading": "かねこたいとう"
+    "manufacturerReading": "かねこたいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "激走",
@@ -4479,7 +8043,14 @@ window.ARCADE_GAMES = [
     "name": "gekisou",
     "note": "Gekisou (Japan)",
     "titleReading": "げきそう",
-    "manufacturerReading": "いすたん"
+    "manufacturerReading": "いすたん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コスモポリス ギャリバン",
@@ -4488,7 +8059,15 @@ window.ARCADE_GAMES = [
     "name": "galivan",
     "note": "Cosmo Police Galivan (12/26/1985)",
     "titleReading": "こすもぽりすぎゃりばん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コップ01",
@@ -4497,7 +8076,14 @@ window.ARCADE_GAMES = [
     "name": "cop01a",
     "note": "",
     "titleReading": "こっぷ01",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コナミのピンポン",
@@ -4506,7 +8092,14 @@ window.ARCADE_GAMES = [
     "name": "pingpong",
     "note": "",
     "titleReading": "こなみのぴんぽん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サッカー",
@@ -4515,7 +8108,14 @@ window.ARCADE_GAMES = [
     "name": "vssoccer",
     "note": "Vs. Soccer (set SC4-2 A)",
     "titleReading": "さっか",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サブマリン",
@@ -4524,7 +8124,14 @@ window.ARCADE_GAMES = [
     "name": "sub",
     "note": "Submarine (Sigma)",
     "titleReading": "さぶまりん",
-    "manufacturerReading": "しぐま"
+    "manufacturerReading": "しぐま",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "侍日本一",
@@ -4533,7 +8140,14 @@ window.ARCADE_GAMES = [
     "name": "tsamurai",
     "note": "",
     "titleReading": "さむらいにっぽんいち",
-    "manufacturerReading": "かねこたいとう"
+    "manufacturerReading": "かねこたいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・高校野球",
@@ -4542,7 +8156,14 @@ window.ARCADE_GAMES = [
     "name": "kouyakyu",
     "note": "",
     "titleReading": "ざこうこうやきゅう",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・フェアリーランドストーリー",
@@ -4551,7 +8172,14 @@ window.ARCADE_GAMES = [
     "name": "flstory",
     "note": "The FairyLand Story",
     "titleReading": "ざふぇありらんどすとり",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シティコネクション",
@@ -4560,7 +8188,14 @@ window.ARCADE_GAMES = [
     "name": "citycon",
     "note": "set 1",
     "titleReading": "してぃこねくしょん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "少林寺への道",
@@ -4569,7 +8204,14 @@ window.ARCADE_GAMES = [
     "name": "kicker",
     "note": "Kicker",
     "titleReading": "しょうりんじへのみち",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ショットライダー",
@@ -4578,7 +8220,14 @@ window.ARCADE_GAMES = [
     "name": "shtrider",
     "note": "Shot Rider",
     "titleReading": "しょっとらいだ",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイキッド",
@@ -4587,7 +8236,14 @@ window.ARCADE_GAMES = [
     "name": "skykid",
     "note": "new ver",
     "titleReading": "すかいきっど",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スプレンダー・ブラスト",
@@ -4596,7 +8252,14 @@ window.ARCADE_GAMES = [
     "name": "splndrbt",
     "note": "Splendor Blast (set 1)",
     "titleReading": "すぷれんだぶらすと",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペースハリアー",
@@ -4605,7 +8268,16 @@ window.ARCADE_GAMES = [
     "name": "sharrier",
     "note": "Rev A, 8751 317-5163A / m↑",
     "titleReading": "すぺえすはりああ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペランカー",
@@ -4614,7 +8286,14 @@ window.ARCADE_GAMES = [
     "name": "spelunkrj",
     "note": "日本版",
     "titleReading": "すぺらんかあ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "青春スキャンダル",
@@ -4623,7 +8302,14 @@ window.ARCADE_GAMES = [
     "name": "sscandal",
     "note": "日本版 315-5132",
     "titleReading": "せいしゅんすきゃんだる",
-    "manufacturerReading": "こあらんどせが"
+    "manufacturerReading": "こあらんどせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "セクションZ",
@@ -4632,7 +8318,15 @@ window.ARCADE_GAMES = [
     "name": "sectionz",
     "note": "set 1",
     "titleReading": "せくしょんz",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦場の狼",
@@ -4641,7 +8335,14 @@ window.ARCADE_GAMES = [
     "name": "commandoj",
     "note": "",
     "titleReading": "せんじょうのおおかみ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイガーヘリ",
@@ -4650,7 +8351,14 @@ window.ARCADE_GAMES = [
     "name": "tigerhj",
     "note": "日本版 set 2",
     "titleReading": "たいがあへり",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タンクバスターズ",
@@ -4659,7 +8367,15 @@ window.ARCADE_GAMES = [
     "name": "tankbust",
     "note": "Tank Busters",
     "titleReading": "たんくばすたず",
-    "manufacturerReading": "ばらどんおーとめーしょん"
+    "manufacturerReading": "ばらどんおーとめーしょん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャンバラ",
@@ -4668,7 +8384,14 @@ window.ARCADE_GAMES = [
     "name": "chanbara",
     "note": "Chanbara",
     "titleReading": "ちゃんばら",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "チャンピオンプロレス",
@@ -4677,7 +8400,14 @@ window.ARCADE_GAMES = [
     "name": "chwrestl",
     "note": "",
     "titleReading": "ちゃんぴおんぷろれす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チョップリフター",
@@ -4686,7 +8416,15 @@ window.ARCADE_GAMES = [
     "name": "choplift",
     "note": "8751 315-5151",
     "titleReading": "ちょっぷりふたー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツインビー",
@@ -4695,7 +8433,14 @@ window.ARCADE_GAMES = [
     "name": "twinbee",
     "note": "rom ver",
     "titleReading": "ついんびい",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "T.A.N.K.",
@@ -4704,7 +8449,14 @@ window.ARCADE_GAMES = [
     "name": "tnk3j",
     "note": "日本版",
     "titleReading": "てぃーえーえぬけー",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テーカンワールドカップ",
@@ -4713,7 +8465,15 @@ window.ARCADE_GAMES = [
     "name": "tehkanwc",
     "note": "set 1",
     "titleReading": "てえかんわあるどかっぷ",
-    "manufacturerReading": "てえかん"
+    "manufacturerReading": "てえかん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テディーボーイ・ブルース",
@@ -4722,7 +8482,15 @@ window.ARCADE_GAMES = [
     "name": "teddybb",
     "note": "315-5115 new ver",
     "titleReading": "てでぃいぼういぶるうす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テラクレスタ",
@@ -4731,7 +8499,14 @@ window.ARCADE_GAMES = [
     "name": "terracre",
     "note": "YM3526 set 1",
     "titleReading": "てらくれすた",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ディグダグII",
@@ -4740,7 +8515,14 @@ window.ARCADE_GAMES = [
     "name": "digdug2",
     "note": "new ver",
     "titleReading": "でぃぐだぐii",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "どきどきペンギンランド",
@@ -4749,7 +8531,14 @@ window.ARCADE_GAMES = [
     "name": "dokidoki",
     "note": "",
     "titleReading": "どきどきぺんぎんらんど",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナックルジョー",
@@ -4758,7 +8547,15 @@ window.ARCADE_GAMES = [
     "name": "kncljoe",
     "note": "Knuckle Joe (set 1)",
     "titleReading": "なっくるじょ",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "忍者プリンセス",
@@ -4767,7 +8564,15 @@ window.ARCADE_GAMES = [
     "name": "seganinj",
     "note": "Sega Ninja",
     "titleReading": "にんじゃぷりんせす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヌンチャクン",
@@ -4776,7 +8581,14 @@ window.ARCADE_GAMES = [
     "name": "nunchaku",
     "note": "Nunchackun",
     "titleReading": "ぬんちゃくん",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイ・ボルテージ",
@@ -4785,7 +8597,14 @@ window.ARCADE_GAMES = [
     "name": "hvoltage",
     "note": "High Voltage",
     "titleReading": "はいぼるてじ",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハル２１",
@@ -4794,7 +8613,14 @@ window.ARCADE_GAMES = [
     "name": "hal21",
     "note": "HAL21",
     "titleReading": "はる21",
-    "manufacturerReading": "しんにほんきかくsnk"
+    "manufacturerReading": "しんにほんきかくsnk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハングオン",
@@ -4803,7 +8629,16 @@ window.ARCADE_GAMES = [
     "name": "hangon",
     "note": "rev A",
     "titleReading": "はんぐおん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ"
+    ]
   },
   {
     "title": "ハング・オン・ジュニア",
@@ -4812,7 +8647,16 @@ window.ARCADE_GAMES = [
     "name": "hangonjr",
     "note": "Hang-On Jr. (Rev. B)",
     "titleReading": "はんぐおんじゅにあ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ"
+    ]
   },
   {
     "title": "バギーボーイ",
@@ -4821,7 +8665,17 @@ window.ARCADE_GAMES = [
     "name": "buggyboy",
     "note": "Buggy Boy/Speed Buggy (cockpit, rev. D)",
     "titleReading": "ばぎぼい",
-    "manufacturerReading": "たつみでんしこうぎょう"
+    "manufacturerReading": "たつみでんしこうぎょう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "バラデューク",
@@ -4830,7 +8684,14 @@ window.ARCADE_GAMES = [
     "name": "baraduke",
     "note": "",
     "titleReading": "ばらでゅーく",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "VS.バンゲリングベイ",
@@ -4839,7 +8700,14 @@ window.ARCADE_GAMES = [
     "name": "bnglngby",
     "note": "RD4-2 B",
     "titleReading": "ばーさすばんげりんぐべい",
-    "manufacturerReading": "にんてんどうぶろーだーばんど"
+    "manufacturerReading": "にんてんどうぶろーだーばんど",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パフォーマン",
@@ -4848,7 +8716,14 @@ window.ARCADE_GAMES = [
     "name": "perfrman",
     "note": "Performan (Japan)",
     "titleReading": "ぱふぉまん",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピットフォールII -The Lost Caverns",
@@ -4857,7 +8732,14 @@ window.ARCADE_GAMES = [
     "name": "pitfall2",
     "note": "315-5093",
     "titleReading": "ぴっとふぉうるiithelostcaverns",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピンボールアクション",
@@ -4866,7 +8748,13 @@ window.ARCADE_GAMES = [
     "name": "pbaction",
     "note": "set 1",
     "titleReading": "ぴんぼうるあくしょん",
-    "manufacturerReading": "てえかん"
+    "manufacturerReading": "てえかん",
+    "genres": [
+      "ピンボール"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ピンポンキング",
@@ -4875,7 +8763,14 @@ window.ARCADE_GAMES = [
     "name": "ppking",
     "note": "Ping-Pong King",
     "titleReading": "ぴんぽんきんぐ",
-    "manufacturerReading": "せた/かねこせいさくしょ"
+    "manufacturerReading": "せた/かねこせいさくしょ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナライザー -スーパートランスフォーメーション",
@@ -4884,7 +8779,14 @@ window.ARCADE_GAMES = [
     "name": "finalizr",
     "note": "",
     "titleReading": "ふぁいならいざあすうぱあとらんすふぉうめえしょん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フェアリーランドストーリー",
@@ -4893,7 +8795,14 @@ window.ARCADE_GAMES = [
     "name": "flstoryj",
     "note": "日本版",
     "titleReading": "ふぇありいらんどすとうりい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "4-Dウォリアーズ",
@@ -4902,7 +8811,15 @@ window.ARCADE_GAMES = [
     "name": "4dwarrio",
     "note": "315-5162",
     "titleReading": "ふぉーでぃーうぉりあーず",
-    "manufacturerReading": "こあらんどせが"
+    "manufacturerReading": "こあらんどせが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フラッシュギャル",
@@ -4911,7 +8828,14 @@ window.ARCADE_GAMES = [
     "name": "flashgal",
     "note": "set 1",
     "titleReading": "ふらっしゅぎゃる",
-    "manufacturerReading": "きゅうごぼうえきせが"
+    "manufacturerReading": "きゅうごぼうえきせが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブギーマナー",
@@ -4920,7 +8844,14 @@ window.ARCADE_GAMES = [
     "name": "bogeyman",
     "note": "Bogey Manor",
     "titleReading": "ぶぎまな",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロ野球入団テスト トライアウト",
@@ -4929,7 +8860,14 @@ window.ARCADE_GAMES = [
     "name": "tryout",
     "note": "Pro Baseball Skill Tryout (Japan)",
     "titleReading": "ぷろやきゅうにゅうだんてすととらいあうと",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘビーメタル",
@@ -4938,7 +8876,14 @@ window.ARCADE_GAMES = [
     "name": "hvymetal",
     "note": "315-5135",
     "titleReading": "へびいめたる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぺんぎんくんウォーズ",
@@ -4947,7 +8892,14 @@ window.ARCADE_GAMES = [
     "name": "pkunwarj",
     "note": "日本版",
     "titleReading": "ぺんぎんくんうぉうず",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "北派少林 飛龍の拳",
@@ -4956,7 +8908,14 @@ window.ARCADE_GAMES = [
     "name": "hiryuken",
     "note": "",
     "titleReading": "ほくはしょうりんひりゅうのけん",
-    "manufacturerReading": "たいようしすてむたいとうらいせんす"
+    "manufacturerReading": "たいようしすてむたいとうらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "魔界村",
@@ -4965,7 +8924,14 @@ window.ARCADE_GAMES = [
     "name": "makaimur",
     "note": "日本版",
     "titleReading": "まかいむら",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マグマックス",
@@ -4974,7 +8940,14 @@ window.ARCADE_GAMES = [
     "name": "magmax",
     "note": "",
     "titleReading": "まぐまっくす",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メジャーリーグ",
@@ -4983,7 +8956,15 @@ window.ARCADE_GAMES = [
     "name": "mjleague",
     "note": "",
     "titleReading": "めじゃーりーぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルクラッシュ",
@@ -4992,7 +8973,15 @@ window.ARCADE_GAMES = [
     "name": "metlclsh",
     "note": "Metal Clash (Japan)",
     "titleReading": "めたるくらっしゅ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メトロクロス",
@@ -5001,7 +8990,14 @@ window.ARCADE_GAMES = [
     "name": "metrocrs",
     "note": "set 1",
     "titleReading": "めとろくろす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モトス",
@@ -5010,7 +9006,14 @@ window.ARCADE_GAMES = [
     "name": "motos",
     "note": "",
     "titleReading": "もとす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リターン・オブ・ザ・インベーダーズ",
@@ -5019,7 +9022,14 @@ window.ARCADE_GAMES = [
     "name": "retofinv",
     "note": "",
     "titleReading": "りたあんおぶざいんべえだあず",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リパルス",
@@ -5028,7 +9038,14 @@ window.ARCADE_GAMES = [
     "name": "repulse",
     "note": "",
     "titleReading": "りぱるす",
-    "manufacturerReading": "くるっくすせが"
+    "manufacturerReading": "くるっくすせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイダース５",
@@ -5037,7 +9054,15 @@ window.ARCADE_GAMES = [
     "name": "raiders5",
     "note": "Raiders5",
     "titleReading": "れいだす5",
-    "manufacturerReading": "ゆぴえるupl"
+    "manufacturerReading": "ゆぴえるupl",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レディーマスター",
@@ -5046,7 +9071,14 @@ window.ARCADE_GAMES = [
     "name": "ladymstr",
     "note": "Lady Master of Kung Fu (set 1, newer)",
     "titleReading": "れでぃますた",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナー -魔神の復活",
@@ -5055,7 +9087,14 @@ window.ARCADE_GAMES = [
     "name": "ldrun3j",
     "note": "",
     "titleReading": "ろうどらんなあまじんのふっかつ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロットロット",
@@ -5064,7 +9103,14 @@ window.ARCADE_GAMES = [
     "name": "lotlot",
     "note": "",
     "titleReading": "ろっとろっと",
-    "manufacturerReading": "あいれむとくましょてんらいせんす"
+    "manufacturerReading": "あいれむとくましょてんらいせんす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナーIII -魔神の復活-",
@@ -5073,7 +9119,15 @@ window.ARCADE_GAMES = [
     "name": "ldrun3",
     "note": "Lode Runner III - The Golden Labyrinth",
     "titleReading": "ろどらんなiiiまじんのふっかつ",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "３-ＤサンダーセプターII",
@@ -5082,7 +9136,17 @@ window.ARCADE_GAMES = [
     "name": "tceptor2",
     "note": "3-D Thunder Ceptor II",
     "titleReading": "3dさんだせぷたii",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ペダル",
+      "アナログ",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.スーパーゼビウス ガンプの謎",
@@ -5091,7 +9155,14 @@ window.ARCADE_GAMES = [
     "name": "supxevs",
     "note": "Vs. Super Xevious",
     "titleReading": "vsすぱぜびうすがんぷのなぞ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.スーパーマリオブラザーズ",
@@ -5100,7 +9171,14 @@ window.ARCADE_GAMES = [
     "name": "suprmrio",
     "note": "Vs. Super Mario Bros. (set SM4-4 E)",
     "titleReading": "vsすぱまりおぶらざず",
-    "manufacturerReading": "にんてんどう"
+    "manufacturerReading": "にんてんどう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アーガス",
@@ -5109,7 +9187,14 @@ window.ARCADE_GAMES = [
     "name": "argus",
     "note": "",
     "titleReading": "ああがす",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アウトラン",
@@ -5118,7 +9203,17 @@ window.ARCADE_GAMES = [
     "name": "outrun",
     "note": "set 1",
     "titleReading": "あうとらん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "アクションファイター",
@@ -5127,7 +9222,15 @@ window.ARCADE_GAMES = [
     "name": "afighter",
     "note": "Action Fighter (FD1089A 317-0018)",
     "titleReading": "あくしょんふぁいた",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ペダル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アストロフラッシュ",
@@ -5136,7 +9239,14 @@ window.ARCADE_GAMES = [
     "name": "astrofl",
     "note": "日本版",
     "titleReading": "あすとろふらっしゅ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アテナ",
@@ -5145,7 +9255,14 @@ window.ARCADE_GAMES = [
     "name": "athena",
     "note": "",
     "titleReading": "あてな",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルカノイド",
@@ -5154,7 +9271,15 @@ window.ARCADE_GAMES = [
     "name": "arkanoidj",
     "note": "日本版, newer / m↑",
     "titleReading": "あるかのいど",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "アルゴスの戦士",
@@ -5163,7 +9288,14 @@ window.ARCADE_GAMES = [
     "name": "rygarj",
     "note": "日本版",
     "titleReading": "あるごすのせんし",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルファックス・ゼット",
@@ -5172,7 +9304,14 @@ window.ARCADE_GAMES = [
     "name": "alphaxz",
     "note": "The Alphax Z (Japan)",
     "titleReading": "あるふぁっくすぜっと",
-    "manufacturerReading": "うっどぷれいす"
+    "manufacturerReading": "うっどぷれいす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アレスの翼 -The Legendary Soldiers",
@@ -5181,7 +9320,14 @@ window.ARCADE_GAMES = [
     "name": "lwingsj",
     "note": "日本版 rev. B",
     "titleReading": "あれすのつばさthelegendarysoldiers",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アレックスキッド ザ・ロストスターズ",
@@ -5190,7 +9336,14 @@ window.ARCADE_GAMES = [
     "name": "alexkidd",
     "note": "set 2, unprotected",
     "titleReading": "あれっくすきっどざろすとすたーず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "怒",
@@ -5199,7 +9352,14 @@ window.ARCADE_GAMES = [
     "name": "ikari",
     "note": "Ikari Warriors (USA版)",
     "titleReading": "いかり",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "イシターの復活",
@@ -5208,7 +9368,14 @@ window.ARCADE_GAMES = [
     "name": "roishtar",
     "note": "",
     "titleReading": "いしたあのふっかつ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "S.R.D.ミッション",
@@ -5217,7 +9384,14 @@ window.ARCADE_GAMES = [
     "name": "srdmissn",
     "note": "",
     "titleReading": "えすあーるでぃーみっしょん",
-    "manufacturerReading": "きゅうごぼうえきたいとう"
+    "manufacturerReading": "きゅうごぼうえきたいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エンデューロレーサー",
@@ -5226,7 +9400,15 @@ window.ARCADE_GAMES = [
     "name": "endurobl",
     "note": "bootleg set 1",
     "titleReading": "えんでゅうろれえさあ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ペダル",
+      "アナログ",
+      "レバー"
+    ]
   },
   {
     "title": "エンパイア シティ:１９３１",
@@ -5235,7 +9417,14 @@ window.ARCADE_GAMES = [
     "name": "empcity",
     "note": "Empire City: 1931 (bootleg?)",
     "titleReading": "えんぱいあしてぃ1931",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "黄金の城",
@@ -5244,7 +9433,14 @@ window.ARCADE_GAMES = [
     "name": "ogonsiro",
     "note": "日本版",
     "titleReading": "おうごんのしろ",
-    "manufacturerReading": "あるゅめたいとう"
+    "manufacturerReading": "あるゅめたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "快傑ヤンチャ丸",
@@ -5253,7 +9449,14 @@ window.ARCADE_GAMES = [
     "name": "yanchamr",
     "note": "日本版",
     "titleReading": "かいけつやんちゃまる",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カルテット",
@@ -5262,7 +9465,15 @@ window.ARCADE_GAMES = [
     "name": "quartet",
     "note": "Rev A / 8751 315-5194",
     "titleReading": "かるてっと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カルテット2",
@@ -5271,7 +9482,15 @@ window.ARCADE_GAMES = [
     "name": "quartet2",
     "note": "8751 317-0010",
     "titleReading": "かるてっと2",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カロリーくんVSモグラニアン",
@@ -5280,7 +9499,14 @@ window.ARCADE_GAMES = [
     "name": "calorie",
     "note": "",
     "titleReading": "かろりーくんばーさすもぐらにあん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガルディア",
@@ -5289,7 +9515,14 @@ window.ARCADE_GAMES = [
     "name": "gardia",
     "note": "317-0006",
     "titleReading": "がるでぃあ",
-    "manufacturerReading": "せがこあらんど"
+    "manufacturerReading": "せがこあらんど",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "奇々怪界",
@@ -5298,7 +9531,15 @@ window.ARCADE_GAMES = [
     "name": "kikikai",
     "note": "",
     "titleReading": "ききかいかい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギガス",
@@ -5307,7 +9548,16 @@ window.ARCADE_GAMES = [
     "name": "gigas",
     "note": "MC-8123 / 317-5002",
     "titleReading": "ぎがす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ギガス MARKII",
@@ -5316,7 +9566,16 @@ window.ARCADE_GAMES = [
     "name": "gigasm2b",
     "note": "Gigas Mark II (bootleg)",
     "titleReading": "ぎがすmarkii",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "クラッシュ・ロード",
@@ -5325,7 +9584,14 @@ window.ARCADE_GAMES = [
     "name": "clshroad",
     "note": "Clash-Road",
     "titleReading": "くらっしゅろど",
-    "manufacturerReading": "うっどぷれいす"
+    "manufacturerReading": "うっどぷれいす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "源平討魔伝",
@@ -5334,7 +9600,14 @@ window.ARCADE_GAMES = [
     "name": "genpeitd",
     "note": "",
     "titleReading": "げんぺいとうまでん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コンペティションゴルフ・決勝ラウンド",
@@ -5343,7 +9616,14 @@ window.ARCADE_GAMES = [
     "name": "compgolf",
     "note": "Competition Golf Final Round (revision 3)",
     "titleReading": "こんぺてぃしょんごるふけっしょうらうんど",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイドアーム -Hyper Dyne",
@@ -5352,7 +9632,15 @@ window.ARCADE_GAMES = [
     "name": "sidearms",
     "note": "海外版",
     "titleReading": "さいどああむhyperdyne",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "沙羅曼蛇",
@@ -5361,7 +9649,14 @@ window.ARCADE_GAMES = [
     "name": "salamand",
     "note": "ver D",
     "titleReading": "さらまんだ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダーセプター",
@@ -5370,7 +9665,17 @@ window.ARCADE_GAMES = [
     "name": "tceptor",
     "note": "Thunder Ceptor",
     "titleReading": "さんだせぷた",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ペダル",
+      "アナログ",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイキッドDX",
@@ -5379,7 +9684,14 @@ window.ARCADE_GAMES = [
     "name": "skykiddx",
     "note": "set 1",
     "titleReading": "すかいきっどdx",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スクランブルフォーメーション",
@@ -5388,7 +9700,14 @@ window.ARCADE_GAMES = [
     "name": "tokiob",
     "note": "bootleg",
     "titleReading": "すくらんぶるふぉーめーしょん",
-    "manufacturerReading": "たいとー"
+    "manufacturerReading": "たいとー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーオセロ",
@@ -5397,7 +9716,14 @@ window.ARCADE_GAMES = [
     "name": "sothello",
     "note": "Super Othello",
     "titleReading": "すぱおせろ",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパー・クロスII",
@@ -5406,7 +9732,14 @@ window.ARCADE_GAMES = [
     "name": "sprcros2",
     "note": "Super Cross II (Japan, set 1)",
     "titleReading": "すぱくろすii",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパー・スティングレイ",
@@ -5415,7 +9748,15 @@ window.ARCADE_GAMES = [
     "name": "sstingry",
     "note": "Super Stingray (Japan)",
     "titleReading": "すぱすてぃんぐれい",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパースプリント",
@@ -5424,7 +9765,16 @@ window.ARCADE_GAMES = [
     "name": "ssprint",
     "note": "Super Sprint (rev 4)",
     "titleReading": "すぱすぷりんと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ"
+    ]
   },
   {
     "title": "スペースポジション",
@@ -5433,7 +9783,14 @@ window.ARCADE_GAMES = [
     "name": "spcpostn",
     "note": "Space Position (Japan)",
     "titleReading": "すぺすぽじしょん",
-    "manufacturerReading": "おおひらぎけんなすこ"
+    "manufacturerReading": "おおひらぎけんなすこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペランカーII -23の鍵",
@@ -5442,7 +9799,14 @@ window.ARCADE_GAMES = [
     "name": "spelunk2",
     "note": "",
     "titleReading": "すぺらんかあii23のかぎ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スラップファイト",
@@ -5451,7 +9815,14 @@ window.ARCADE_GAMES = [
     "name": "slapfigh",
     "note": "set 1",
     "titleReading": "すらっぷふぁいと",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "聖戦士アマテラス",
@@ -5460,7 +9831,14 @@ window.ARCADE_GAMES = [
     "name": "amatelas",
     "note": "",
     "titleReading": "せいせんしあまてらす",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソロモンの鍵",
@@ -5469,7 +9847,14 @@ window.ARCADE_GAMES = [
     "name": "solomonj",
     "note": "日本版",
     "titleReading": "そろもんのかぎ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "闘いの挽歌",
@@ -5478,7 +9863,14 @@ window.ARCADE_GAMES = [
     "name": "trojanj",
     "note": "日本版",
     "titleReading": "たたかいのばんか",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダーウィン4078",
@@ -5487,7 +9879,14 @@ window.ARCADE_GAMES = [
     "name": "darwin",
     "note": "日本版",
     "titleReading": "だあうぃん4078",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大怪獣の逆襲",
@@ -5496,7 +9895,14 @@ window.ARCADE_GAMES = [
     "name": "daikaiju",
     "note": "Daikaiju no Gyakushu",
     "titleReading": "だいかいじゅうのぎゃくしゅう",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大列車強盗",
@@ -5505,7 +9911,14 @@ window.ARCADE_GAMES = [
     "name": "ironhors",
     "note": "",
     "titleReading": "だいれっしゃごうとう",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダークミスト -THE LOST CASTLE IN DARKMIST-",
@@ -5514,7 +9927,14 @@ window.ARCADE_GAMES = [
     "name": "darkmist",
     "note": "The Lost Castle In Darkmist",
     "titleReading": "だくみすとthelostcastleindarkmist",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "WECル・マン24",
@@ -5523,7 +9943,17 @@ window.ARCADE_GAMES = [
     "name": "wecleman",
     "note": "",
     "titleReading": "だぶりゅーいーしーるまんにじゅうよん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "XXミッション",
@@ -5532,7 +9962,14 @@ window.ARCADE_GAMES = [
     "name": "xxmissio",
     "note": "",
     "titleReading": "だぶるえっくすみっしょん",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダブルドリブル -The Ultimate Basketball Game-",
@@ -5541,7 +9978,14 @@ window.ARCADE_GAMES = [
     "name": "ddribble",
     "note": "Double Dribble",
     "titleReading": "だぶるどりぶるtheultimatebasketballgame",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダライアス",
@@ -5550,7 +9994,14 @@ window.ARCADE_GAMES = [
     "name": "dariusj",
     "note": "日本版",
     "titleReading": "だらいあす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダライアス",
@@ -5559,7 +10010,14 @@ window.ARCADE_GAMES = [
     "name": "dariuse",
     "note": "日本版 Extra ver",
     "titleReading": "だらいあす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンプ松本",
@@ -5568,7 +10026,14 @@ window.ARCADE_GAMES = [
     "name": "bodyslam",
     "note": "Body Slam (8751 317-0015)",
     "titleReading": "だんぷまつもと",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャンピオンシップスプリント",
@@ -5577,7 +10042,16 @@ window.ARCADE_GAMES = [
     "name": "csprint",
     "note": "Championship Sprint (rev 3)",
     "titleReading": "ちゃんぴおんしっぷすぷりんと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ"
+    ]
   },
   {
     "title": "デンジャーゾーン",
@@ -5586,7 +10060,16 @@ window.ARCADE_GAMES = [
     "name": "dangerz",
     "note": "Danger Zone",
     "titleReading": "でんじゃぞん",
-    "manufacturerReading": "しねまとろにくす"
+    "manufacturerReading": "しねまとろにくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "トラックボール",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トイポップ",
@@ -5595,7 +10078,14 @@ window.ARCADE_GAMES = [
     "name": "toypop",
     "note": "",
     "titleReading": "といぽっぷ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "特殊部隊ジャッカル",
@@ -5604,7 +10094,14 @@ window.ARCADE_GAMES = [
     "name": "jackalj",
     "note": "日本版",
     "titleReading": "とくしゅぶたいじゃっかる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "怒号層圏",
@@ -5613,7 +10110,14 @@ window.ARCADE_GAMES = [
     "name": "dogosoke",
     "note": "",
     "titleReading": "どごうそうけん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "熱血硬派くにおくん",
@@ -5622,7 +10126,14 @@ window.ARCADE_GAMES = [
     "name": "kuniokun",
     "note": "日本版",
     "titleReading": "ねっけつこうはくにおくん",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "のぼらんか",
@@ -5631,7 +10142,14 @@ window.ARCADE_GAMES = [
     "name": "nob",
     "note": "Noboranka (Japan)",
     "titleReading": "のぼらんか",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハレーズコメット",
@@ -5640,7 +10158,14 @@ window.ARCADE_GAMES = [
     "name": "halleysc",
     "note": "日本版 newer",
     "titleReading": "はれえずこめっと",
-    "manufacturerReading": "たいとうあめりかこいんいっとらいせんす"
+    "manufacturerReading": "たいとうあめりかこいんいっとらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルレーンVol.5",
@@ -5649,7 +10174,14 @@ window.ARCADE_GAMES = [
     "name": "battlane",
     "note": "set 1",
     "titleReading": "ばとるれえんvol5",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バブルボブル",
@@ -5658,7 +10190,14 @@ window.ARCADE_GAMES = [
     "name": "bublbobl",
     "note": "",
     "titleReading": "ばぶるぼぶる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルトリック",
@@ -5667,7 +10206,14 @@ window.ARCADE_GAMES = [
     "name": "valtric",
     "note": "",
     "titleReading": "ばるとりっく",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルバルークの伝説",
@@ -5676,7 +10222,14 @@ window.ARCADE_GAMES = [
     "name": "baluba",
     "note": "",
     "titleReading": "ばるばるうくのでんせつ",
-    "manufacturerReading": "えいぶる"
+    "manufacturerReading": "えいぶる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピタゴラスの謎",
@@ -5685,7 +10238,16 @@ window.ARCADE_GAMES = [
     "name": "ridleofp",
     "note": "AAR",
     "titleReading": "ぴたごらすのなぞ",
-    "manufacturerReading": "せがなすこ"
+    "manufacturerReading": "せがなすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイヤートラップ",
@@ -5694,7 +10256,13 @@ window.ARCADE_GAMES = [
     "name": "firetrapj",
     "note": "日本版 / m↑",
     "titleReading": "ふぁいやあとらっぷ",
-    "manufacturerReading": "うっどぷれいす"
+    "manufacturerReading": "うっどぷれいす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ファンタジーゾーン",
@@ -5703,7 +10271,14 @@ window.ARCADE_GAMES = [
     "name": "fantzone",
     "note": "rev A unprotected",
     "titleReading": "ふぁんたじいぞうん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイン",
@@ -5712,7 +10287,14 @@ window.ARCADE_GAMES = [
     "name": "brain",
     "note": "Brain",
     "titleReading": "ぶれいん",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレビリアン",
@@ -5721,7 +10303,17 @@ window.ARCADE_GAMES = [
     "name": "pbillian",
     "note": "Prebillian",
     "titleReading": "ぷれびりあん",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ホッピングマッピー",
@@ -5730,7 +10322,14 @@ window.ARCADE_GAMES = [
     "name": "hopmappy",
     "note": "",
     "titleReading": "ほっぴんぐまっぴい",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボブルボブル",
@@ -5739,7 +10338,14 @@ window.ARCADE_GAMES = [
     "name": "boblbobl",
     "note": "Bobble Bobble (bootleg of Bubble Bobble)",
     "titleReading": "ぼぶるぼぶる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マイティガイ",
@@ -5748,7 +10354,14 @@ window.ARCADE_GAMES = [
     "name": "mightguy",
     "note": "Mighty Guy",
     "titleReading": "まいてぃがい",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マンハッタン24分署 <<NEW YORK CITY 151・西・第100ストリート>>",
@@ -5757,7 +10370,14 @@ window.ARCADE_GAMES = [
     "name": "jailbrek",
     "note": "Jail Break",
     "titleReading": "まんはったん24ぶんしょ<<newyorkcity151にしだい100すとりと>>",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Mr.五右衛門",
@@ -5766,7 +10386,14 @@ window.ARCADE_GAMES = [
     "name": "mrgoemon",
     "note": "日本版",
     "titleReading": "みすたーごえもん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "名人戦",
@@ -5775,7 +10402,14 @@ window.ARCADE_GAMES = [
     "name": "meijinsn",
     "note": "Meijinsen",
     "titleReading": "めいじんせん",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モモコ１２０％",
@@ -5784,7 +10418,15 @@ window.ARCADE_GAMES = [
     "name": "momoko",
     "note": "Momoko 120% (Japanese text)",
     "titleReading": "ももこ120%",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "UFOロボ ダンガー",
@@ -5793,7 +10435,14 @@ window.ARCADE_GAMES = [
     "name": "dangar",
     "note": "12/1/1986",
     "titleReading": "ゆーふぉーろぼだんがー",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "妖獣伝",
@@ -5802,7 +10451,15 @@ window.ARCADE_GAMES = [
     "name": "youjyudn",
     "note": "Youjyuden (Japan)",
     "titleReading": "ようじゅうでん",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラッシュ＆クラッシュ",
@@ -5811,7 +10468,14 @@ window.ARCADE_GAMES = [
     "name": "rushcrsh",
     "note": "日本版",
     "titleReading": "らっしゅ&くらっしゅ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラフレシア",
@@ -5820,7 +10484,14 @@ window.ARCADE_GAMES = [
     "name": "raflesia",
     "note": "Rafflesia (315-5162)",
     "titleReading": "らふれしあ",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ランページ",
@@ -5829,7 +10500,14 @@ window.ARCADE_GAMES = [
     "name": "rampage",
     "note": "Rampage (Rev 3, 8/27/86)",
     "titleReading": "らんぺじ",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "陸海空 -最前線-",
@@ -5838,7 +10516,15 @@ window.ARCADE_GAMES = [
     "name": "lsasquad",
     "note": "Land Sea Air Squad / Riku Kai Kuu Saizensen",
     "titleReading": "りくかいくうさいぜんせん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レジェンド",
@@ -5847,7 +10533,14 @@ window.ARCADE_GAMES = [
     "name": "legend",
     "note": "Legend",
     "titleReading": "れじぇんど",
-    "manufacturerReading": "きゅうごぼうえき"
+    "manufacturerReading": "きゅうごぼうえき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナー -帝国からの脱出",
@@ -5856,7 +10549,15 @@ window.ARCADE_GAMES = [
     "name": "ldrun4",
     "note": "",
     "titleReading": "ろうどらんなあていこくからのだっしゅつ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ローリングサンダー",
@@ -5865,7 +10566,15 @@ window.ARCADE_GAMES = [
     "name": "rthunder",
     "note": "new ver",
     "titleReading": "ろうりんぐさんだあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックオン",
@@ -5874,7 +10583,15 @@ window.ARCADE_GAMES = [
     "name": "lockon",
     "note": "Lock-On (rev. E)",
     "titleReading": "ろっくおん",
-    "manufacturerReading": "たつみでんしこうぎょう"
+    "manufacturerReading": "たつみでんしこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ペダル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロボレス２００１",
@@ -5883,7 +10600,14 @@ window.ARCADE_GAMES = [
     "name": "robowres",
     "note": "Robo Wres 2001",
     "titleReading": "ろぼれす2001",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダーボーイ",
@@ -5892,7 +10616,14 @@ window.ARCADE_GAMES = [
     "name": "wboy",
     "note": "set 1 new encryption",
     "titleReading": "わんだあぼうい",
-    "manufacturerReading": "えすけえぷせがらいせんす"
+    "manufacturerReading": "えすけえぷせがらいせんす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ａ－ＪＡＸ ＜エー・ジャックス＞",
@@ -5901,7 +10632,14 @@ window.ARCADE_GAMES = [
     "name": "ajax",
     "note": "Ajax",
     "titleReading": "ajax<えじゃっくす>",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.ファミリーボクシング",
@@ -5910,7 +10648,14 @@ window.ARCADE_GAMES = [
     "name": "tkoboxng",
     "note": "Vs. T.K.O. Boxing",
     "titleReading": "vsふぁみりぼくしんぐ",
-    "manufacturerReading": "うっどぷれいす"
+    "manufacturerReading": "うっどぷれいす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＶＳ.ホットスマッシュ",
@@ -5919,7 +10664,16 @@ window.ARCADE_GAMES = [
     "name": "hotsmash",
     "note": "Vs. Hot Smash",
     "titleReading": "vsほっとすまっしゅ",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "アール・タイプ",
@@ -5928,7 +10682,14 @@ window.ARCADE_GAMES = [
     "name": "rtypej",
     "note": "日本版",
     "titleReading": "ああるたいぷ",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アフターバーナーII",
@@ -5937,7 +10698,15 @@ window.ARCADE_GAMES = [
     "name": "aburner2",
     "note": "",
     "titleReading": "あふたあばあなあii",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アフターバーナー",
@@ -5946,7 +10715,15 @@ window.ARCADE_GAMES = [
     "name": "aburner",
     "note": "After Burner",
     "titleReading": "あふたばな",
-    "manufacturerReading": "せがam2"
+    "manufacturerReading": "せがam2",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルカノイド -リベンジオブDOH",
@@ -5955,7 +10732,15 @@ window.ARCADE_GAMES = [
     "name": "arknoid2j",
     "note": "日本版",
     "titleReading": "あるかのいどりべんじおぶdoh",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "イグジーザス",
@@ -5964,7 +10749,14 @@ window.ARCADE_GAMES = [
     "name": "exzisus",
     "note": "Exzisus (Japan, dedicated)",
     "titleReading": "いぐじざす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "1943改 -ミッドウェイ海戦",
@@ -5973,7 +10765,14 @@ window.ARCADE_GAMES = [
     "name": "1943kai",
     "note": "日本版",
     "titleReading": "いちきゅうよんさんかいみっどうぇいかいせん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "1943 -ミッドウェイ海戦",
@@ -5982,7 +10781,14 @@ window.ARCADE_GAMES = [
     "name": "1943j",
     "note": "1943 -The Battle of Midway (欧州版)",
     "titleReading": "いちきゅうよんさんみっどうぇいかいせん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エアーウルフ",
@@ -5991,7 +10797,14 @@ window.ARCADE_GAMES = [
     "name": "airwolf",
     "note": "Airwolf",
     "titleReading": "えあうるふ",
-    "manufacturerReading": "きゅうごぼうえき"
+    "manufacturerReading": "きゅうごぼうえき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エイリアンシンドローム",
@@ -6000,7 +10813,15 @@ window.ARCADE_GAMES = [
     "name": "aliensyn",
     "note": "set 4, System 16B, プロテクト無し",
     "titleReading": "えいりあんしんどろうむ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エクセライザー",
@@ -6009,7 +10830,14 @@ window.ARCADE_GAMES = [
     "name": "skyfox",
     "note": "",
     "titleReading": "えくせらいざあ",
-    "manufacturerReading": "じゃれこにほんぶっさんゆーえすええらいせんす"
+    "manufacturerReading": "じゃれこにほんぶっさんゆーえすええらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "SRD ＜スーパーリアルダーウィン＞",
@@ -6018,7 +10846,14 @@ window.ARCADE_GAMES = [
     "name": "srdarwinj",
     "note": "海外版",
     "titleReading": "えすあーるでぃーすーぱーりあるだーうぃん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "SDI ＜Strategic Defense Initiative＞",
@@ -6027,7 +10862,16 @@ window.ARCADE_GAMES = [
     "name": "sdi",
     "note": "日本版",
     "titleReading": "えすでぃーあい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "A-JAX",
@@ -6036,7 +10880,14 @@ window.ARCADE_GAMES = [
     "name": "ajaxj",
     "note": "日本版",
     "titleReading": "えーじゃっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オパオパ",
@@ -6045,7 +10896,14 @@ window.ARCADE_GAMES = [
     "name": "opaopa",
     "note": "MC-8123 / 317-0042",
     "titleReading": "おぱおぱ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カイロスの館",
@@ -6054,7 +10912,15 @@ window.ARCADE_GAMES = [
     "name": "kyros",
     "note": "Kyros",
     "titleReading": "かいろすのかん",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カルノフ",
@@ -6063,7 +10929,14 @@ window.ARCADE_GAMES = [
     "name": "karnovj",
     "note": "日本版",
     "titleReading": "かるのふ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "臥竜列伝",
@@ -6072,7 +10945,14 @@ window.ARCADE_GAMES = [
     "name": "garyoret",
     "note": "Garyo Retsuden (Japan)",
     "titleReading": "がりょうれつでん",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キッドのホレホレ大作戦",
@@ -6081,7 +10961,14 @@ window.ARCADE_GAMES = [
     "name": "horekid",
     "note": "Kid no Hore Hore Daisakusen",
     "titleReading": "きっどのほれほれだいさくせん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラガ '88",
@@ -6090,7 +10977,14 @@ window.ARCADE_GAMES = [
     "name": "galaga88j",
     "note": "",
     "titleReading": "ぎゃらが88",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "銀河任侠伝",
@@ -6099,7 +10993,15 @@ window.ARCADE_GAMES = [
     "name": "ginganin",
     "note": "set 1",
     "titleReading": "ぎんがにんきょうでん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クエスター",
@@ -6108,7 +11010,16 @@ window.ARCADE_GAMES = [
     "name": "quester",
     "note": "Quester (Japan)",
     "titleReading": "くえすた",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "魂斗羅",
@@ -6117,7 +11028,14 @@ window.ARCADE_GAMES = [
     "name": "contraj",
     "note": "日本版",
     "titleReading": "こんとら",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コンバットホーク",
@@ -6126,7 +11044,14 @@ window.ARCADE_GAMES = [
     "name": "combh",
     "note": "Combat Hawk",
     "titleReading": "こんばっとほく",
-    "manufacturerReading": "さんりつでんき"
+    "manufacturerReading": "さんりつでんき",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サウロ",
@@ -6135,7 +11060,14 @@ window.ARCADE_GAMES = [
     "name": "sauro",
     "note": "Sauro",
     "titleReading": "さうろ",
-    "manufacturerReading": "tecfri"
+    "manufacturerReading": "tecfri",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダーブレード",
@@ -6144,7 +11076,15 @@ window.ARCADE_GAMES = [
     "name": "thndrbld",
     "note": "Thunder Blade (upright) (FD1094 317-0056)",
     "titleReading": "さんだぶれど",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザイボット",
@@ -6153,7 +11093,16 @@ window.ARCADE_GAMES = [
     "name": "xybots",
     "note": "",
     "titleReading": "ざいぼっと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ディープ",
@@ -6162,7 +11111,14 @@ window.ARCADE_GAMES = [
     "name": "thedeep",
     "note": "The Deep (Japan)",
     "titleReading": "ざでぃぷ",
-    "manufacturerReading": "うっどぷれいす"
+    "manufacturerReading": "うっどぷれいす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ハスラー",
@@ -6171,7 +11127,14 @@ window.ARCADE_GAMES = [
     "name": "rackemup",
     "note": "Rack 'em Up (program code L)",
     "titleReading": "ざはすら",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シティーボンバー",
@@ -6180,7 +11143,17 @@ window.ARCADE_GAMES = [
     "name": "citybomb",
     "note": "海外 孤",
     "titleReading": "してぃいぼんばあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "忍",
@@ -6189,7 +11162,14 @@ window.ARCADE_GAMES = [
     "name": "shinobi",
     "note": "set 5 System16A unprotected",
     "titleReading": "しのび",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジェミニウイング",
@@ -6198,7 +11178,14 @@ window.ARCADE_GAMES = [
     "name": "gemini",
     "note": "日本版",
     "titleReading": "じぇみにういんぐ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパークイックス",
@@ -6207,7 +11194,14 @@ window.ARCADE_GAMES = [
     "name": "sqix",
     "note": "日本版/海外版, V1.2 / m↑",
     "titleReading": "すうぱあくいっくす",
-    "manufacturerReading": "かねこたいとう"
+    "manufacturerReading": "かねこたいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーハングオン",
@@ -6216,7 +11210,16 @@ window.ARCADE_GAMES = [
     "name": "shangonro",
     "note": "シットダウン・アップライト筐体 / プロテクト無し / m↑",
     "titleReading": "すうぱあはんぐおん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイター",
@@ -6225,7 +11228,14 @@ window.ARCADE_GAMES = [
     "name": "sfj",
     "note": "海外版 analog buttons",
     "titleReading": "すとりいとふぁいたあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーリーグ",
@@ -6234,7 +11244,15 @@ window.ARCADE_GAMES = [
     "name": "suprleag",
     "note": "Super League (FD1094 317-0045)",
     "titleReading": "すぱりぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "ゼノフォーブ",
@@ -6243,7 +11261,15 @@ window.ARCADE_GAMES = [
     "name": "xenophob",
     "note": "Xenophobe",
     "titleReading": "ぜのふぉぶ",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソニックブーム",
@@ -6252,7 +11278,14 @@ window.ARCADE_GAMES = [
     "name": "sonicbom",
     "note": "FD1094 317-0053",
     "titleReading": "そにっくぶーむ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイムスキャナー",
@@ -6261,7 +11294,15 @@ window.ARCADE_GAMES = [
     "name": "timescan",
     "note": "Time Scanner (set 2, System 16B)",
     "titleReading": "たいむすきゃな",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "ピンボール"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タッチダウンフィーバー",
@@ -6270,7 +11311,16 @@ window.ARCADE_GAMES = [
     "name": "tdfeverj",
     "note": "日本",
     "titleReading": "たっちだうんふぃいばあ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "双截龍 ＜ダブルドラゴン＞",
@@ -6279,7 +11329,15 @@ window.ARCADE_GAMES = [
     "name": "ddragon",
     "note": "日本版",
     "titleReading": "だぶるどらごん",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンクショット",
@@ -6288,7 +11346,14 @@ window.ARCADE_GAMES = [
     "name": "dunkshot",
     "note": "Rev C, FD1089A 317-0022 / m↑",
     "titleReading": "だんくしょっと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "テラフォース",
@@ -6297,7 +11362,14 @@ window.ARCADE_GAMES = [
     "name": "terraf",
     "note": "Terra Force",
     "titleReading": "てらふぉす",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "時の戦士 -CHRONO-SOLDIER-",
@@ -6306,7 +11378,14 @@ window.ARCADE_GAMES = [
     "name": "tokisens",
     "note": "Toki no Senshi - Chrono Soldier (MC-8123, 317-0040)",
     "titleReading": "ときのせんしchronosoldier",
-    "manufacturerReading": "びっくとうかい"
+    "manufacturerReading": "びっくとうかい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "特殊部隊ＵＡＧ",
@@ -6315,7 +11394,15 @@ window.ARCADE_GAMES = [
     "name": "tndrcade",
     "note": "Thundercade / Twin Formation",
     "titleReading": "とくしゅぶたいuag",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トップ・シークレット",
@@ -6324,7 +11411,14 @@ window.ARCADE_GAMES = [
     "name": "topsecrt",
     "note": "日本版 old ver",
     "titleReading": "とっぷしいくれっと",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "虎への道",
@@ -6333,7 +11427,14 @@ window.ARCADE_GAMES = [
     "name": "toramich",
     "note": "日本版",
     "titleReading": "とらへのみち",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンスピリット",
@@ -6342,7 +11443,14 @@ window.ARCADE_GAMES = [
     "name": "dspirit",
     "note": "new ver",
     "titleReading": "どらごんすぴりっと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンスピリット",
@@ -6351,7 +11459,14 @@ window.ARCADE_GAMES = [
     "name": "dspirit1",
     "note": "old ver",
     "titleReading": "どらごんすぴりっと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニンジャウォーリアーズ",
@@ -6360,7 +11475,14 @@ window.ARCADE_GAMES = [
     "name": "ninjawj",
     "note": "日本版",
     "titleReading": "にんじゃうぉうりああず",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "忍者くん 阿修羅の章",
@@ -6369,7 +11491,14 @@ window.ARCADE_GAMES = [
     "name": "ninjakd2",
     "note": "Ninja Kid II (set 1)",
     "titleReading": "にんじゃくんあしゅらのしょう",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "熱血高校ドッジボール部",
@@ -6378,7 +11507,14 @@ window.ARCADE_GAMES = [
     "name": "nkdodge",
     "note": "日本版",
     "titleReading": "ねっけつこうこうどっじぼうるぶ",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパークラッシュ",
@@ -6387,7 +11523,16 @@ window.ARCADE_GAMES = [
     "name": "hcrash",
     "note": "Hyper Crash (version D)",
     "titleReading": "はいぱくらっしゅ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "早押し対戦クイズ ハイホー",
@@ -6396,7 +11541,13 @@ window.ARCADE_GAMES = [
     "name": "hyhoo",
     "note": "Hayaoshi Taisen Quiz Hyhoo (Japan)",
     "titleReading": "はやおしたいせんくいずはいほ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "早押し対戦クイズ ハイホー２",
@@ -6405,7 +11556,13 @@ window.ARCADE_GAMES = [
     "name": "hyhoo2",
     "note": "Hayaoshi Taisen Quiz Hyhoo 2 (Japan)",
     "titleReading": "はやおしたいせんくいずはいほ2",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "バトランティス",
@@ -6414,7 +11571,14 @@ window.ARCADE_GAMES = [
     "name": "battlntsj",
     "note": "日本版",
     "titleReading": "ばとらんてぃす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルフィールド",
@@ -6423,7 +11587,14 @@ window.ARCADE_GAMES = [
     "name": "btlfield",
     "note": "日本版",
     "titleReading": "ばとるふぃいるど",
-    "manufacturerReading": "あるふぁでんしえすえぬけーらいせんす"
+    "manufacturerReading": "あるふぁでんしえすえぬけーらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バミューダトライアングル",
@@ -6432,7 +11603,14 @@ window.ARCADE_GAMES = [
     "name": "bermudatj",
     "note": "日本版",
     "titleReading": "ばみゅうだとらいあんぐる",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バレット",
@@ -6441,7 +11619,14 @@ window.ARCADE_GAMES = [
     "name": "bullet",
     "note": "FD1094 317-0041",
     "titleReading": "ばれっと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "パックマニア",
@@ -6450,7 +11635,14 @@ window.ARCADE_GAMES = [
     "name": "pacmaniaj",
     "note": "",
     "titleReading": "ぱっくまにあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パーフェクトビリヤード",
@@ -6459,7 +11651,14 @@ window.ARCADE_GAMES = [
     "name": "pbillrd",
     "note": "Perfect Billiard",
     "titleReading": "ぱふぇくとびりやど",
-    "manufacturerReading": "にっぽんしすてむ"
+    "manufacturerReading": "にっぽんしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "飛翔鮫",
@@ -6468,7 +11667,14 @@ window.ARCADE_GAMES = [
     "name": "hishouza",
     "note": "日本版",
     "titleReading": "ひしょうざめ",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "必殺！無頼拳",
@@ -6477,7 +11683,14 @@ window.ARCADE_GAMES = [
     "name": "buraiken",
     "note": "日本版",
     "titleReading": "ひっさつぶらいけん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナルラップ",
@@ -6486,7 +11699,16 @@ window.ARCADE_GAMES = [
     "name": "finallapjb",
     "note": "日本版, Rev B / m↑",
     "titleReading": "ふぁいなるらっぷ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "フラックアタック",
@@ -6495,7 +11717,14 @@ window.ARCADE_GAMES = [
     "name": "mx5000",
     "note": "MX5000",
     "titleReading": "ふらっくあたっく",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フリーキック",
@@ -6504,7 +11733,17 @@ window.ARCADE_GAMES = [
     "name": "freekick",
     "note": "Free Kick (NS6201-A 1987.10)",
     "titleReading": "ふりきっく",
-    "manufacturerReading": "にっぽんしすてむ"
+    "manufacturerReading": "にっぽんしすてむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フルスロットル",
@@ -6513,7 +11752,17 @@ window.ARCADE_GAMES = [
     "name": "fullthrl",
     "note": "日本版",
     "titleReading": "ふるすろっとる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ぶたさん",
@@ -6522,7 +11771,14 @@ window.ARCADE_GAMES = [
     "name": "butasan",
     "note": "Butasan - Pig's & Bomber's (Japan, English)",
     "titleReading": "ぶたさん",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぶたさん -Pig's ＆ Bomber's",
@@ -6531,7 +11787,14 @@ window.ARCADE_GAMES = [
     "name": "butasanj",
     "note": "日本版",
     "titleReading": "ぶたさんpigs&bombers",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラックドラゴン",
@@ -6540,7 +11803,14 @@ window.ARCADE_GAMES = [
     "name": "blkdrgon",
     "note": "日本版",
     "titleReading": "ぶらっくどらごん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラックパンサー",
@@ -6549,7 +11819,14 @@ window.ARCADE_GAMES = [
     "name": "blkpnthr",
     "note": "",
     "titleReading": "ぶらっくぱんさー",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイザー",
@@ -6558,7 +11835,15 @@ window.ARCADE_GAMES = [
     "name": "blazer",
     "note": "日本版",
     "titleReading": "ぶれいざあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プランプポップ",
@@ -6567,7 +11852,16 @@ window.ARCADE_GAMES = [
     "name": "plumppop",
     "note": "Plump Pop (Japan)",
     "titleReading": "ぷらんぷぽっぷ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘビーウェイトチャンプ",
@@ -6576,7 +11870,15 @@ window.ARCADE_GAMES = [
     "name": "hwchamp",
     "note": "Heavyweight Champ",
     "titleReading": "へびうぇいとちゃんぷ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ハンドル",
+      "専用操作",
+      "レバー"
+    ]
   },
   {
     "title": "ポケットギャル",
@@ -6585,7 +11887,14 @@ window.ARCADE_GAMES = [
     "name": "pcktgal",
     "note": "Pocket Gal (Japan)",
     "titleReading": "ぽけっとぎゃる",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マスタッシュボーイ",
@@ -6594,7 +11903,14 @@ window.ARCADE_GAMES = [
     "name": "mustache",
     "note": "Mustache Boy (Japan)",
     "titleReading": "ますたっしゅぼい",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Mr.HELIの大冒険",
@@ -6603,7 +11919,14 @@ window.ARCADE_GAMES = [
     "name": "mrheli",
     "note": "",
     "titleReading": "みすたーへりのだいぼうけん",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミュータントナイト",
@@ -6612,7 +11935,14 @@ window.ARCADE_GAMES = [
     "name": "mnight",
     "note": "Mutant Night",
     "titleReading": "みゅたんとないと",
-    "manufacturerReading": "ゆぴえるupl"
+    "manufacturerReading": "ゆぴえるupl",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "妖怪道中記",
@@ -6621,7 +11951,14 @@ window.ARCADE_GAMES = [
     "name": "shadowld",
     "note": "日本版 new ver",
     "titleReading": "ようかいどうちゅうき",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラビオレプス",
@@ -6630,7 +11967,14 @@ window.ARCADE_GAMES = [
     "name": "rabiolep",
     "note": "日本版",
     "titleReading": "らびおれぷす",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レインボーアイランド",
@@ -6639,7 +11983,14 @@ window.ARCADE_GAMES = [
     "name": "rbisland",
     "note": "new ver",
     "titleReading": "れいんぼうあいらんど",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワードナの森",
@@ -6648,7 +11999,14 @@ window.ARCADE_GAMES = [
     "name": "wardnerj",
     "note": "Wardner (海外版)",
     "titleReading": "わあどなのもり",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダープラネット",
@@ -6657,7 +12015,14 @@ window.ARCADE_GAMES = [
     "name": "wndrplnt",
     "note": "Wonder Planet (Japan)",
     "titleReading": "わんだぷらねっと",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダーボーイ モンスターランド",
@@ -6666,7 +12031,14 @@ window.ARCADE_GAMES = [
     "name": "wbml",
     "note": "Wonder Boy in Monster Land (Japan New Ver., MC-8123, 317-0043)",
     "titleReading": "わんだぼいもんすたらんど",
-    "manufacturerReading": "うえすとん"
+    "manufacturerReading": "うえすとん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダーモモ",
@@ -6675,7 +12047,14 @@ window.ARCADE_GAMES = [
     "name": "wndrmomo",
     "note": "Wonder Momo",
     "titleReading": "わんだもも",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｆ－１ドリーム",
@@ -6684,7 +12063,14 @@ window.ARCADE_GAMES = [
     "name": "f1dream",
     "note": "F-1 Dream",
     "titleReading": "f1どりむ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アークエリア",
@@ -6693,7 +12079,14 @@ window.ARCADE_GAMES = [
     "name": "arkarea",
     "note": "",
     "titleReading": "ああくえりあ",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "悪魔城ドラキュラ",
@@ -6702,7 +12095,14 @@ window.ARCADE_GAMES = [
     "name": "hcastle",
     "note": "日本版 ver P",
     "titleReading": "あくまじょうどらきゅら",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アサルト",
@@ -6711,7 +12111,13 @@ window.ARCADE_GAMES = [
     "name": "assaultj",
     "note": "日本版",
     "titleReading": "あさると",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "アサルトプラス",
@@ -6720,7 +12126,13 @@ window.ARCADE_GAMES = [
     "name": "assaultp",
     "note": "日本版",
     "titleReading": "あさるとぷらす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "飛鳥＆飛鳥",
@@ -6729,7 +12141,14 @@ window.ARCADE_GAMES = [
     "name": "asukaj",
     "note": "日本版",
     "titleReading": "あすか&ひちょう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アームドF",
@@ -6738,7 +12157,14 @@ window.ARCADE_GAMES = [
     "name": "armedf",
     "note": "日本版",
     "titleReading": "あーむどえふ",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エキサイトリーグ",
@@ -6747,7 +12173,15 @@ window.ARCADE_GAMES = [
     "name": "exctleag",
     "note": "Excite League (FD1094 317-0079)",
     "titleReading": "えきさいとりぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "専用操作",
+      "ボタン"
+    ]
   },
   {
     "title": "エースアタッカー",
@@ -6756,7 +12190,17 @@ window.ARCADE_GAMES = [
     "name": "aceattac",
     "note": "Ace Attacker (FD1094 317-0059)",
     "titleReading": "えすあたっか",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ペダル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エンゼルキッズ",
@@ -6765,7 +12209,13 @@ window.ARCADE_GAMES = [
     "name": "angelkds",
     "note": "日本版",
     "titleReading": "えんぜるきっず",
-    "manufacturerReading": "せがなすこ"
+    "manufacturerReading": "せがなすこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "オーダイン",
@@ -6774,7 +12224,14 @@ window.ARCADE_GAMES = [
     "name": "ordynej",
     "note": "日本版",
     "titleReading": "おうだいん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "火激",
@@ -6783,7 +12240,14 @@ window.ARCADE_GAMES = [
     "name": "kagekij",
     "note": "日本版",
     "titleReading": "かげき",
-    "manufacturerReading": "かねこたいとう"
+    "manufacturerReading": "かねこたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カプコンボーリング",
@@ -6792,7 +12256,14 @@ window.ARCADE_GAMES = [
     "name": "capbowl",
     "note": "set 1",
     "titleReading": "かぷこんぼうりんぐ",
-    "manufacturerReading": "いんくれでぃぶるてくのろじいずかぷこん"
+    "manufacturerReading": "いんくれでぃぶるてくのろじいずかぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "キック・オフ -Jaleco Cup-",
@@ -6801,7 +12272,15 @@ window.ARCADE_GAMES = [
     "name": "kickoff",
     "note": "Kick Off - Jaleco Cup (Japan)",
     "titleReading": "きっくおふjalecocup",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシーフォースII",
@@ -6810,7 +12289,14 @@ window.ARCADE_GAMES = [
     "name": "gforce2j",
     "note": "m↑",
     "titleReading": "ぎゃらくしいふぉうすii",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クレイジークライマー2",
@@ -6819,7 +12305,13 @@ window.ARCADE_GAMES = [
     "name": "cclimbr2",
     "note": "日本版",
     "titleReading": "くれいじいくらいまあ2",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "クレイジーコップ",
@@ -6828,7 +12320,14 @@ window.ARCADE_GAMES = [
     "name": "crazycop",
     "note": "日本版",
     "titleReading": "くれいじいこっぷ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラディウスII -GOFERの野望-",
@@ -6837,7 +12336,14 @@ window.ARCADE_GAMES = [
     "name": "vulcan",
     "note": "Vulcan Venture (New)",
     "titleReading": "ぐらでぃうすiigoferのやぼう",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラディウスII -ゴーファーの野望",
@@ -6846,7 +12352,14 @@ window.ARCADE_GAMES = [
     "name": "gradius2",
     "note": "日本版 new ver.",
     "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゲイングランド",
@@ -6855,7 +12368,14 @@ window.ARCADE_GAMES = [
     "name": "ggroundj",
     "note": "日本版 2 Players, Floppy Based / FD1094 317-0058-03b",
     "titleReading": "げいんぐらんど",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴールドメダリスト",
@@ -6864,7 +12384,13 @@ window.ARCADE_GAMES = [
     "name": "goldmedl",
     "note": "Gold Medalist (set 1, Alpha68k II PCB)",
     "titleReading": "ごるどめだりすと",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "最後の忍道",
@@ -6873,7 +12399,14 @@ window.ARCADE_GAMES = [
     "name": "nspirit",
     "note": "Ninja Spirit",
     "titleReading": "さいごのにんどう",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバータンク",
@@ -6882,7 +12415,17 @@ window.ARCADE_GAMES = [
     "name": "cybertnk",
     "note": "Cyber Tank (v1.4)",
     "titleReading": "さいばたんく",
-    "manufacturerReading": "こあらんどばんぷれすと"
+    "manufacturerReading": "こあらんどばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバリオン",
@@ -6891,7 +12434,14 @@ window.ARCADE_GAMES = [
     "name": "syvalion",
     "note": "日本版",
     "titleReading": "さいばりおん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダークロス",
@@ -6900,7 +12450,14 @@ window.ARCADE_GAMES = [
     "name": "thunderx",
     "note": "Thunder Cross (set 1)",
     "titleReading": "さんだくろす",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ニュージーランドストーリー",
@@ -6909,7 +12466,15 @@ window.ARCADE_GAMES = [
     "name": "tnzs",
     "note": "日本版",
     "titleReading": "ざにゅうじいらんどすとうりい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海",
@@ -6918,7 +12483,14 @@ window.ARCADE_GAMES = [
     "name": "shanghai",
     "note": "日本版",
     "titleReading": "しゃんはい",
-    "manufacturerReading": "さんそふと"
+    "manufacturerReading": "さんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "獣王記",
@@ -6927,7 +12499,14 @@ window.ARCADE_GAMES = [
     "name": "altbeastj",
     "note": "日本版 set 7 / 8751 317-0077",
     "titleReading": "じゅうおうき",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパー魂斗羅 -エイリアンの逆襲",
@@ -6936,7 +12515,14 @@ window.ARCADE_GAMES = [
     "name": "scontraj",
     "note": "日本版",
     "titleReading": "すうぱあたましいとらえいりあんのぎゃくしゅう",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スクランブルスピリッツ",
@@ -6945,7 +12531,14 @@ window.ARCADE_GAMES = [
     "name": "sspiritj",
     "note": "日本版, Floppy DS3-5000-02-REV-A Based",
     "titleReading": "すくらんぶるすぴりっつ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スタジアムヒーロー",
@@ -6954,7 +12547,14 @@ window.ARCADE_GAMES = [
     "name": "stadhero",
     "note": "Stadium Hero (Japan)",
     "titleReading": "すたじあむひろ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "武田信玄",
@@ -6963,7 +12563,15 @@ window.ARCADE_GAMES = [
     "name": "tshingen",
     "note": "Shingen Samurai-Fighter (Japan, English)",
     "titleReading": "たけだしんげん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タッチダウンフィーバーII",
@@ -6972,7 +12580,16 @@ window.ARCADE_GAMES = [
     "name": "tdfever2",
     "note": "TouchDown Fever 2",
     "titleReading": "たっちだうんふぃばii",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "達人",
@@ -6981,7 +12598,14 @@ window.ARCADE_GAMES = [
     "name": "truxton",
     "note": "Truxton",
     "titleReading": "たつじん",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タートルシップ",
@@ -6990,7 +12614,14 @@ window.ARCADE_GAMES = [
     "name": "turtship",
     "note": "Turtle Ship (North America)",
     "titleReading": "たとるしっぷ",
-    "manufacturerReading": "philkosharpimagelicense"
+    "manufacturerReading": "philkosharpimagelicense",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイナマイトダックス",
@@ -6999,7 +12630,14 @@ window.ARCADE_GAMES = [
     "name": "ddux",
     "note": "海外版 set 3 / World / FD1094 317-0096",
     "titleReading": "だいなまいとだっくす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイナミックシュート競争",
@@ -7008,7 +12646,14 @@ window.ARCADE_GAMES = [
     "name": "dynashot",
     "note": "Dynamic Shoot Kyousou",
     "titleReading": "だいなみっくしゅときょうそう",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大魔界村",
@@ -7017,7 +12662,14 @@ window.ARCADE_GAMES = [
     "name": "daimakai",
     "note": "日本版",
     "titleReading": "だいまかいむら",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダッシュ野郎",
@@ -7026,7 +12678,14 @@ window.ARCADE_GAMES = [
     "name": "rallybik",
     "note": "Rally Bike / Dash Yarou",
     "titleReading": "だっしゅやろう",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チェルノブ -戦う人間発電所",
@@ -7035,7 +12694,14 @@ window.ARCADE_GAMES = [
     "name": "chelnovj",
     "note": "日本版",
     "titleReading": "ちぇるのぶたたかうにんげんはつでんしょ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "超絶倫人ベラボーマン",
@@ -7044,7 +12710,15 @@ window.ARCADE_GAMES = [
     "name": "berabohm",
     "note": "日本版, Rev C",
     "titleReading": "ちょうぜつりんじんべらぼうまん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "タッチパネル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツインイーグル -Revenge Joe's Brother",
@@ -7053,7 +12727,14 @@ window.ARCADE_GAMES = [
     "name": "twineagl",
     "note": "",
     "titleReading": "ついんいいぐるrevengejoesbrother",
-    "manufacturerReading": "せたたいとうらいせんす"
+    "manufacturerReading": "せたたいとうらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリス",
@@ -7062,7 +12743,14 @@ window.ARCADE_GAMES = [
     "name": "tetris",
     "note": "日本版 set 4 System16A FD1094 317-0093",
     "titleReading": "てとりす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリス （システムＥ版）",
@@ -7071,7 +12759,14 @@ window.ARCADE_GAMES = [
     "name": "tetrisse",
     "note": "Tetris (Japan, System E)",
     "titleReading": "てとりすしすてむeはん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリス （タイトー版）",
@@ -7080,7 +12775,14 @@ window.ARCADE_GAMES = [
     "name": "tetrist",
     "note": "Tetris (Japan, Taito B-System, Nastar Conversion Kit)",
     "titleReading": "てとりすたいとはん",
-    "manufacturerReading": "たいと"
+    "manufacturerReading": "たいと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンニンジャ",
@@ -7089,7 +12791,14 @@ window.ARCADE_GAMES = [
     "name": "drgninja",
     "note": "日本版 revision 1",
     "titleReading": "どらごんにんじゃ",
-    "manufacturerReading": "でーたいーすと"
+    "manufacturerReading": "でーたいーすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナーク",
@@ -7098,7 +12807,15 @@ window.ARCADE_GAMES = [
     "name": "narc",
     "note": "Narc (rev 7.00)",
     "titleReading": "なく",
-    "manufacturerReading": "williams"
+    "manufacturerReading": "williams",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ならず者戦闘部隊 ブラッディウルフ",
@@ -7107,7 +12824,14 @@ window.ARCADE_GAMES = [
     "name": "bldwolfj",
     "note": "日本版",
     "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
-    "manufacturerReading": "でーたいーすと"
+    "manufacturerReading": "でーたいーすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "にゃんにゃんパニック",
@@ -7116,7 +12840,14 @@ window.ARCADE_GAMES = [
     "name": "kittenk",
     "note": "Kitten Kaboodle",
     "titleReading": "にゃんにゃんぱにっく",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハードパンチャー -血まみれの栄光-",
@@ -7125,7 +12856,14 @@ window.ARCADE_GAMES = [
     "name": "fround",
     "note": "The Final Round (ver M)",
     "titleReading": "はあどぱんちゃあちまみれのえいこう",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパースポーツスペシャル",
@@ -7134,7 +12872,13 @@ window.ARCADE_GAMES = [
     "name": "hypsptsp",
     "note": "日本版",
     "titleReading": "はいぱあすぽうつすぺしゃる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ハードドライビング",
@@ -7143,7 +12887,17 @@ window.ARCADE_GAMES = [
     "name": "harddriv",
     "note": "Hard Drivin' (cockpit, rev 7)",
     "titleReading": "はどどらいびんぐ",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー"
+    ]
   },
   {
     "title": "爆突機銃艇 -バラデュークII",
@@ -7152,7 +12906,15 @@ window.ARCADE_GAMES = [
     "name": "bakutotu",
     "note": "",
     "titleReading": "ばくとつきじゅうてい",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バックファイヤー",
@@ -7161,7 +12923,14 @@ window.ARCADE_GAMES = [
     "name": "backfirt",
     "note": "Back Fire (Tecmo, bootleg)",
     "titleReading": "ばっくふぁいや",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーディートライ",
@@ -7170,7 +12939,15 @@ window.ARCADE_GAMES = [
     "name": "birdtry",
     "note": "Birdie Try (Japan revision 2, revision 1 MCU)",
     "titleReading": "ばでぃとらい",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パッシングショット",
@@ -7179,7 +12956,14 @@ window.ARCADE_GAMES = [
     "name": "passshtj",
     "note": "日本版 4 Players / FD1094 317-0070",
     "titleReading": "ぱっしんぐしょっと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パドルマニア",
@@ -7188,7 +12972,14 @@ window.ARCADE_GAMES = [
     "name": "paddlema",
     "note": "Paddle Mania",
     "titleReading": "ぱどるまにあ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パワードリフト",
@@ -7197,7 +12988,16 @@ window.ARCADE_GAMES = [
     "name": "pdriftj",
     "note": "",
     "titleReading": "ぱわあどりふと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングゴルフ",
@@ -7206,7 +13006,15 @@ window.ARCADE_GAMES = [
     "name": "countryc",
     "note": "Country Club",
     "titleReading": "ふぁいてぃんぐごるふ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングサッカー",
@@ -7215,7 +13023,16 @@ window.ARCADE_GAMES = [
     "name": "fsoccer",
     "note": "Fighting Soccer (version 4)",
     "titleReading": "ふぁいてぃんぐさっか",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングホーク",
@@ -7224,7 +13041,14 @@ window.ARCADE_GAMES = [
     "name": "fhawkj",
     "note": "日本版",
     "titleReading": "ふぁいてぃんぐほうく",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファンタジーゾーンII -オパオパの涙-",
@@ -7233,7 +13057,14 @@ window.ARCADE_GAMES = [
     "name": "fantzn2",
     "note": "MG-8123 317-0057",
     "titleReading": "ふぁんたじいぞうんiiおぱおぱのなみだ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フェイスオフ",
@@ -7242,7 +13073,13 @@ window.ARCADE_GAMES = [
     "name": "faceoff",
     "note": "Face Off (Japan 2 Players)",
     "titleReading": "ふぇいすおふ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "フェリオス",
@@ -7251,7 +13088,14 @@ window.ARCADE_GAMES = [
     "name": "phelios",
     "note": "日本版",
     "titleReading": "ふぇりおす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラスティッド",
@@ -7260,7 +13104,14 @@ window.ARCADE_GAMES = [
     "name": "blasted",
     "note": "",
     "titleReading": "ぶらすてぃっど",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロテニス ワールドコート",
@@ -7269,7 +13120,14 @@ window.ARCADE_GAMES = [
     "name": "wldcourt",
     "note": "日本版",
     "titleReading": "ぷろてにすわあるどこうと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロ野球ワールドスタジアム",
@@ -7278,7 +13136,14 @@ window.ARCADE_GAMES = [
     "name": "ws",
     "note": "日本版",
     "titleReading": "ぷろやきゅうわあるどすたじあむ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ホットチェイス",
@@ -7287,7 +13152,17 @@ window.ARCADE_GAMES = [
     "name": "hotchase",
     "note": "Hot Chase (set 1)",
     "titleReading": "ほっとちぇいす",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "未来忍者",
@@ -7296,7 +13171,15 @@ window.ARCADE_GAMES = [
     "name": "mirninja",
     "note": "日本版",
     "titleReading": "みらいにんじゃ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "迷宮島",
@@ -7305,7 +13188,14 @@ window.ARCADE_GAMES = [
     "name": "kikcubic",
     "note": "Meikyu Jima (Japan)",
     "titleReading": "めいきゅうしま",
-    "manufacturerReading": "ななお"
+    "manufacturerReading": "ななお",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルホーク",
@@ -7314,7 +13204,15 @@ window.ARCADE_GAMES = [
     "name": "metlhawk",
     "note": "Metal Hawk (Rev C)",
     "titleReading": "めたるほく",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メルヘンメイズ",
@@ -7323,7 +13221,15 @@ window.ARCADE_GAMES = [
     "name": "mmaze",
     "note": "Marchen Maze (Japan)",
     "titleReading": "めるへんめいず",
-    "manufacturerReading": "なむこ/nhsystem"
+    "manufacturerReading": "なむこ/nhsystem",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "燃えろ！！プロ野球 ホームラン競争",
@@ -7332,7 +13238,14 @@ window.ARCADE_GAMES = [
     "name": "homerun",
     "note": "Moero!! Pro Yakyuu Homerun Kyousou",
     "titleReading": "もえろぷろやきゅうほむらんきょうそう",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "UFO戦士ようこちゃん",
@@ -7341,7 +13254,15 @@ window.ARCADE_GAMES = [
     "name": "ufosensi",
     "note": "MC-8123 / 317-0064",
     "titleReading": "ゆーふぉーせんしようこちゃん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラストデュエル",
@@ -7350,7 +13271,14 @@ window.ARCADE_GAMES = [
     "name": "lastduelj",
     "note": "日本版",
     "titleReading": "らすとでゅえる",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リードアングル",
@@ -7359,7 +13287,14 @@ window.ARCADE_GAMES = [
     "name": "deadang",
     "note": "Dead Angle",
     "titleReading": "りどあんぐる",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リングの王者",
@@ -7368,7 +13303,14 @@ window.ARCADE_GAMES = [
     "name": "mainevt",
     "note": "The Main Event (4 Players ver. Y)",
     "titleReading": "りんぐのおうじゃ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロストワールド",
@@ -7377,7 +13319,16 @@ window.ARCADE_GAMES = [
     "name": "lostwrld",
     "note": "日本版",
     "titleReading": "ろすとわーるど",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダーボーイIII モンスターレア",
@@ -7386,7 +13337,15 @@ window.ARCADE_GAMES = [
     "name": "wb3",
     "note": "set 1",
     "titleReading": "わんだあぼういiiiもんすたあれあ",
-    "manufacturerReading": "せがうえすとん"
+    "manufacturerReading": "せがうえすとん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｍ.Ｉ.Ａ. ＜ミッシングインアクション＞",
@@ -7395,7 +13354,14 @@ window.ARCADE_GAMES = [
     "name": "mia",
     "note": "M.I.A. - Missing in Action (version T)",
     "titleReading": "mia<みっしんぐいんあくしょん>",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アール・タイプII",
@@ -7404,7 +13370,14 @@ window.ARCADE_GAMES = [
     "name": "rtype2j",
     "note": "日 本 阪",
     "titleReading": "ああるたいぷii",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクトフェンサー",
@@ -7413,7 +13386,14 @@ window.ARCADE_GAMES = [
     "name": "actfancrj",
     "note": "日本版 revision 1",
     "titleReading": "あくとふぇんさあ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アドベンチャークイズ カプコンワールド",
@@ -7422,7 +13402,13 @@ window.ARCADE_GAMES = [
     "name": "cworld",
     "note": "日本版",
     "titleReading": "あどべんちゃあくいずかぷこんわあるど",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "アルバレスタ",
@@ -7431,7 +13417,14 @@ window.ARCADE_GAMES = [
     "name": "arbalest",
     "note": "",
     "titleReading": "あるばれすた",
-    "manufacturerReading": "じょるだんせた"
+    "manufacturerReading": "じょるだんせた",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アーチライバルズ",
@@ -7440,7 +13433,14 @@ window.ARCADE_GAMES = [
     "name": "archrivl",
     "note": "rev 4.0 6/29/89",
     "titleReading": "あーちらいばるず",
-    "manufacturerReading": "ばりーみっどうぇい"
+    "manufacturerReading": "ばりーみっどうぇい",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウィッツ",
@@ -7449,7 +13449,14 @@ window.ARCADE_GAMES = [
     "name": "wits",
     "note": "Wit's (Japan)",
     "titleReading": "うぃっつ",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウィロー",
@@ -7458,7 +13465,14 @@ window.ARCADE_GAMES = [
     "name": "willowj",
     "note": "日本版",
     "titleReading": "うぃろー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "MVP",
@@ -7467,7 +13481,14 @@ window.ARCADE_GAMES = [
     "name": "mvpj",
     "note": "日本版 set 1 / FD1094 317-0142",
     "titleReading": "えむぶいぴー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オメガファイター",
@@ -7476,7 +13497,14 @@ window.ARCADE_GAMES = [
     "name": "omegaf",
     "note": "Omega Fighter",
     "titleReading": "おめがふぁいた",
-    "manufacturerReading": "ゆぴえるupl"
+    "manufacturerReading": "ゆぴえるupl",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カプコンベースボール",
@@ -7485,7 +13513,14 @@ window.ARCADE_GAMES = [
     "name": "cbasebal",
     "note": "日本版",
     "titleReading": "かぷこんべーすぼーる",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャッスルオブドラゴン",
@@ -7494,7 +13529,14 @@ window.ARCADE_GAMES = [
     "name": "drgnunit",
     "note": "Dragon Unit / Castle of Dragon",
     "titleReading": "きゃっするおぶどらごん",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャメルトライ",
@@ -7503,7 +13545,16 @@ window.ARCADE_GAMES = [
     "name": "cameltry",
     "note": "USA版",
     "titleReading": "きゃめるとらい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "究極タイガー",
@@ -7512,7 +13563,14 @@ window.ARCADE_GAMES = [
     "name": "ktiger",
     "note": "日本版",
     "titleReading": "きゅうきょくたいがあ",
-    "manufacturerReading": "とうあぷらんたいとう"
+    "manufacturerReading": "とうあぷらんたいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "究極のストライカー",
@@ -7521,7 +13579,14 @@ window.ARCADE_GAMES = [
     "name": "kyustrkr",
     "note": "Last Striker / Kyuukyoku no Striker",
     "titleReading": "きゅうきょくのすとらいか",
-    "manufacturerReading": "いすといすとてくのろじ"
+    "manufacturerReading": "いすといすとてくのろじ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギガンデス",
@@ -7530,7 +13595,14 @@ window.ARCADE_GAMES = [
     "name": "gigandes",
     "note": "Gigandes",
     "titleReading": "ぎがんです",
-    "manufacturerReading": "いすといすとてくのろじ"
+    "manufacturerReading": "いすといすとてくのろじ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャングウォーズ",
@@ -7539,7 +13611,14 @@ window.ARCADE_GAMES = [
     "name": "gangwars",
     "note": "Gang Wars",
     "titleReading": "ぎゃんぐうぉず",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クォース",
@@ -7548,7 +13627,14 @@ window.ARCADE_GAMES = [
     "name": "quarth",
     "note": "日本版",
     "titleReading": "くぉーす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クライムシティ",
@@ -7557,7 +13643,14 @@ window.ARCADE_GAMES = [
     "name": "crimecj",
     "note": "",
     "titleReading": "くらいむしてぃ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラックス",
@@ -7566,7 +13659,14 @@ window.ARCADE_GAMES = [
     "name": "klax",
     "note": "Klax (version 6)",
     "titleReading": "くらっくす",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラックダウン",
@@ -7575,7 +13675,14 @@ window.ARCADE_GAMES = [
     "name": "crkdownj",
     "note": "日本版, Floppy Based / FD1094 317-0058-04b Rev A",
     "titleReading": "くらっくだうん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラディウスIII -伝説から神話へ",
@@ -7584,7 +13691,14 @@ window.ARCADE_GAMES = [
     "name": "gradius3",
     "note": "日本版",
     "titleReading": "ぐらでぃうすiiiでんせつからしんわへ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴールデンアックス",
@@ -7593,7 +13707,14 @@ window.ARCADE_GAMES = [
     "name": "goldnaxej",
     "note": "set 4, 日本版 / FD1094 317-0121 / m↑",
     "titleReading": "ごうるでんあっくす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバーポリス イースワット",
@@ -7602,7 +13723,14 @@ window.ARCADE_GAMES = [
     "name": "eswatj",
     "note": "日本版 set 2 / FD1094 317-0128",
     "titleReading": "さいばーぽりすいーすわっと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ロードオブキング",
@@ -7611,7 +13739,14 @@ window.ARCADE_GAMES = [
     "name": "lordofk",
     "note": "日本版",
     "titleReading": "ざろーどおぶきんぐ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シャドーダンサー",
@@ -7620,7 +13755,14 @@ window.ARCADE_GAMES = [
     "name": "shdancer",
     "note": "海外 孤",
     "titleReading": "しゃどうだんさあ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海II",
@@ -7629,7 +13771,14 @@ window.ARCADE_GAMES = [
     "name": "shangha2",
     "note": "",
     "titleReading": "しゃんはいii",
-    "manufacturerReading": "さんそふと"
+    "manufacturerReading": "さんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "実力！！プロ野球",
@@ -7638,7 +13787,14 @@ window.ARCADE_GAMES = [
     "name": "jitsupro",
     "note": "AAR",
     "titleReading": "じつりょくぷろやきゅう",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーバレーボール",
@@ -7647,7 +13803,14 @@ window.ARCADE_GAMES = [
     "name": "svolley",
     "note": "",
     "titleReading": "すうぱあばれえぼうる",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーフォーミュラ -地上最速のバトル",
@@ -7656,7 +13819,14 @@ window.ARCADE_GAMES = [
     "name": "sformula",
     "note": "日本版",
     "titleReading": "すうぱあふぉうみゅらちじょうさいそくのばとる",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スタンランナー",
@@ -7665,7 +13835,16 @@ window.ARCADE_GAMES = [
     "name": "stunrun",
     "note": "S.T.U.N. Runner (rev 6)",
     "titleReading": "すたんらんな",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライダー飛竜",
@@ -7674,7 +13853,14 @@ window.ARCADE_GAMES = [
     "name": "striderj",
     "note": "日本版",
     "titleReading": "すとらいだあひりゅう",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーオフロード",
@@ -7683,7 +13869,17 @@ window.ARCADE_GAMES = [
     "name": "offroad",
     "note": "Ironman Ivan Stewart's Super Off-Road (rev 4)",
     "titleReading": "すぱおふろど",
-    "manufacturerReading": "lelandcorporation"
+    "manufacturerReading": "lelandcorporation",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ゼロウイング",
@@ -7692,7 +13888,14 @@ window.ARCADE_GAMES = [
     "name": "zerowing",
     "note": "Zero Wing (2P set)",
     "titleReading": "ぜろういんぐ",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターボアウトラン",
@@ -7701,7 +13904,17 @@ window.ARCADE_GAMES = [
     "name": "toutrun",
     "note": "Out Run upgrade FD1094 317-0118",
     "titleReading": "たあぼあうとらん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "タスクフォースハリアー",
@@ -7710,7 +13923,14 @@ window.ARCADE_GAMES = [
     "name": "tharrier",
     "note": "Task Force Harrier",
     "titleReading": "たすくふぉすはりあ",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タフ・ターフ",
@@ -7719,7 +13939,15 @@ window.ARCADE_GAMES = [
     "name": "tturf",
     "note": "Tough Turf (set 2, Japan) (8751 317-0104)",
     "titleReading": "たふたふ",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大旋風",
@@ -7728,7 +13956,14 @@ window.ARCADE_GAMES = [
     "name": "daisenpu",
     "note": "日本版",
     "titleReading": "だいせんぷう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダートフォックス",
@@ -7737,7 +13972,17 @@ window.ARCADE_GAMES = [
     "name": "dirtfoxj",
     "note": "Dirt Fox (Japan)",
     "titleReading": "だとふぉっくす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ダライアスII",
@@ -7746,7 +13991,14 @@ window.ARCADE_GAMES = [
     "name": "darius2",
     "note": "日本版 triple screen",
     "titleReading": "だらいあすii",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダライアスII",
@@ -7755,7 +14007,14 @@ window.ARCADE_GAMES = [
     "name": "darius2d",
     "note": "日本版 rev 2 dual screen",
     "titleReading": "だらいあすii",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テクモワールドカップ'90",
@@ -7764,7 +14023,14 @@ window.ARCADE_GAMES = [
     "name": "twcup90",
     "note": "set 1",
     "titleReading": "てくもわあるどかっぷ90",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "天聖龍 ＜セイントドラゴン＞",
@@ -7773,7 +14039,14 @@ window.ARCADE_GAMES = [
     "name": "stdragon",
     "note": "Saint Dragon (set 1)",
     "titleReading": "てんせいりゅう<せいんとどらごん>",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "天地を喰らう",
@@ -7782,7 +14055,14 @@ window.ARCADE_GAMES = [
     "name": "dynwarj",
     "note": "日本版",
     "titleReading": "てんちをくらう",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デンジャラスシード",
@@ -7791,7 +14071,14 @@ window.ARCADE_GAMES = [
     "name": "dangseed",
     "note": "日本版",
     "titleReading": "でんじゃらすしいど",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "電脳神経衰弱 ペアーズ",
@@ -7800,7 +14087,14 @@ window.ARCADE_GAMES = [
     "name": "pairsnb",
     "note": "Pairs (Nichibutsu) (Japan 890822)",
     "titleReading": "でんのうしんけいすいじゃくぺあず",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "桃源郷",
@@ -7809,7 +14103,14 @@ window.ARCADE_GAMES = [
     "name": "togenkyo",
     "note": "Tougenkyou (Japan 890418)",
     "titleReading": "とうげんきょう",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturerReading": "にほんぶっさん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドカベン",
@@ -7818,7 +14119,14 @@ window.ARCADE_GAMES = [
     "name": "dokaben",
     "note": "日本版",
     "titleReading": "どかべん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネクストスペース",
@@ -7827,7 +14135,14 @@ window.ARCADE_GAMES = [
     "name": "tnextspc",
     "note": "The Next Space (set 1)",
     "titleReading": "ねくすとすぺす",
-    "manufacturerReading": "ぱさでないんたなしょなる"
+    "manufacturerReading": "ぱさでないんたなしょなる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "破兆！",
@@ -7836,7 +14151,14 @@ window.ARCADE_GAMES = [
     "name": "hachoo",
     "note": "Hachoo!",
     "titleReading": "はちょう",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーニングフォース",
@@ -7845,7 +14167,14 @@ window.ARCADE_GAMES = [
     "name": "burnforc",
     "note": "日本版 new ver",
     "titleReading": "ばあにんぐふぉうす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バッドランズ",
@@ -7854,7 +14183,16 @@ window.ARCADE_GAMES = [
     "name": "badlands",
     "note": "",
     "titleReading": "ばっどらんず",
-    "manufacturerReading": "あたりげーむず"
+    "manufacturerReading": "あたりげーむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "姫四季舞",
@@ -7863,7 +14201,14 @@ window.ARCADE_GAMES = [
     "name": "himesiki",
     "note": "Himeshikibu (Japan)",
     "titleReading": "ひめしきまい",
-    "manufacturerReading": "はいそふと"
+    "manufacturerReading": "はいそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングファンタジー",
@@ -7872,7 +14217,14 @@ window.ARCADE_GAMES = [
     "name": "ffantasy",
     "note": "日本版 rev 2",
     "titleReading": "ふぁいてぃんぐふぁんたじい",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナルファイト",
@@ -7881,7 +14233,14 @@ window.ARCADE_GAMES = [
     "name": "ffightj",
     "note": "海外版 set 1",
     "titleReading": "ふぁいなるふぁいと",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイネストアワー",
@@ -7890,7 +14249,15 @@ window.ARCADE_GAMES = [
     "name": "finehour",
     "note": "日本版",
     "titleReading": "ふぁいねすとあわあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フラッシュポイント",
@@ -7899,7 +14266,14 @@ window.ARCADE_GAMES = [
     "name": "fpoint",
     "note": "日本版 set 2 / FD1094 317-0127A",
     "titleReading": "ふらっしゅぽいんと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラスト・オフ",
@@ -7908,7 +14282,14 @@ window.ARCADE_GAMES = [
     "name": "blastoff",
     "note": "日本版",
     "titleReading": "ぶらすとおふ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブロクシード",
@@ -7917,7 +14298,14 @@ window.ARCADE_GAMES = [
     "name": "bloxeed",
     "note": "日本版 / FD1094 317-0139",
     "titleReading": "ぶろくしーど",
-    "manufacturerReading": "せがえろーぐ"
+    "manufacturerReading": "せがえろーぐ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブロックアウト",
@@ -7926,7 +14314,14 @@ window.ARCADE_GAMES = [
     "name": "blockout",
     "note": "set 1",
     "titleReading": "ぶろっくあうと",
-    "manufacturerReading": "てくのすじゃぱんかりふぉるにあどりいむす"
+    "manufacturerReading": "てくのすじゃぱんかりふぉるにあどりいむす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プラスアルファ",
@@ -7935,7 +14330,14 @@ window.ARCADE_GAMES = [
     "name": "plusalph",
     "note": "Plus Alpha",
     "titleReading": "ぷらすあるふぁ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘルファイアー",
@@ -7944,7 +14346,14 @@ window.ARCADE_GAMES = [
     "name": "hellfire",
     "note": "Hellfire (2P set)",
     "titleReading": "へるふぁいあ",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベイルート",
@@ -7953,7 +14362,14 @@ window.ARCADE_GAMES = [
     "name": "bayroutej",
     "note": "日本版 set 2 / FD1094 317-0115",
     "titleReading": "べいるーと",
-    "manufacturerReading": "さんそふとせが"
+    "manufacturerReading": "さんそふとせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーベルランド",
@@ -7962,7 +14378,14 @@ window.ARCADE_GAMES = [
     "name": "marvland",
     "note": "USA版",
     "titleReading": "まあべるらんど",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マスターオブウエポン",
@@ -7971,7 +14394,14 @@ window.ARCADE_GAMES = [
     "name": "masterw",
     "note": "",
     "titleReading": "ますたあおぶうえぽん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッドギア",
@@ -7980,7 +14410,14 @@ window.ARCADE_GAMES = [
     "name": "madgearj",
     "note": "日本版",
     "titleReading": "まっどぎあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メイズオブフロット",
@@ -7989,7 +14426,14 @@ window.ARCADE_GAMES = [
     "name": "mofflott",
     "note": "Maze of Flott (Japan)",
     "titleReading": "めいずおぶふろっと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メインスタジアム",
@@ -7998,7 +14442,14 @@ window.ARCADE_GAMES = [
     "name": "bottom9",
     "note": "Bottom of the Ninth (version T)",
     "titleReading": "めいんすたじあむ",
-    "manufacturerReading": "こなみこうぎょう"
+    "manufacturerReading": "こなみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタフォックス",
@@ -8007,7 +14458,14 @@ window.ARCADE_GAMES = [
     "name": "metafox",
     "note": "Meta Fox",
     "titleReading": "めたふぉっくす",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "目撃",
@@ -8016,7 +14474,15 @@ window.ARCADE_GAMES = [
     "name": "downtown",
     "note": "DownTown / Mokugeki (set 1)",
     "titleReading": "もくげき",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レーシングヒーロー",
@@ -8025,7 +14491,16 @@ window.ARCADE_GAMES = [
     "name": "rachero",
     "note": "Racing Hero (FD1094 317-0144)",
     "titleReading": "れしんぐひろ",
-    "manufacturerReading": "にっぽんえれこむ"
+    "manufacturerReading": "にっぽんえれこむ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ"
+    ]
   },
   {
     "title": "レッスルウォー",
@@ -8034,7 +14509,14 @@ window.ARCADE_GAMES = [
     "name": "wrestwar1",
     "note": "日本版 set 1 / FD1094 317-0090",
     "titleReading": "れっするうぉー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロンパーズ",
@@ -8043,7 +14525,14 @@ window.ARCADE_GAMES = [
     "name": "rompers",
     "note": "日本版",
     "titleReading": "ろんぱあず",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワールドスタジアム '89 -開幕版!!-",
@@ -8052,7 +14541,14 @@ window.ARCADE_GAMES = [
     "name": "ws89",
     "note": "日本版",
     "titleReading": "わあるどすたじあむ89かいまくばん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワイルドファング",
@@ -8061,7 +14557,15 @@ window.ARCADE_GAMES = [
     "name": "wildfang",
     "note": "Wild Fang / Tecmo Knight",
     "titleReading": "わいるどふぁんぐ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワルキューレの伝説",
@@ -8070,7 +14574,15 @@ window.ARCADE_GAMES = [
     "name": "valkyrie",
     "note": "日本版",
     "titleReading": "わるきゅうれのでんせつ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "嗚呼栄光の甲子園",
@@ -8079,7 +14591,14 @@ window.ARCADE_GAMES = [
     "name": "koshien",
     "note": "Ah Eikou no Koshien (Japan)",
     "titleReading": "ああえいこうのこうしえん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アウトゾーン",
@@ -8088,7 +14607,14 @@ window.ARCADE_GAMES = [
     "name": "outzone",
     "note": "Out Zone",
     "titleReading": "あうとぞん",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アシュラブラスター",
@@ -8097,7 +14623,14 @@ window.ARCADE_GAMES = [
     "name": "ashuraj",
     "note": "日本版",
     "titleReading": "あしゅらぶらすたー",
-    "manufacturerReading": "たいとー"
+    "manufacturerReading": "たいとー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アタックス",
@@ -8106,7 +14639,14 @@ window.ARCADE_GAMES = [
     "name": "ataxxj",
     "note": "日本版",
     "titleReading": "あたっくす",
-    "manufacturerReading": "りーらんどかぷこんらいせんす"
+    "manufacturerReading": "りーらんどかぷこんらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "アドベンチャークイズ2 ハテナ？の大冒険",
@@ -8115,7 +14655,13 @@ window.ARCADE_GAMES = [
     "name": "hatena",
     "note": "日本版 900228",
     "titleReading": "あどべんちゃあくいず2はてなのだいぼうけん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "1941 -カウンターアタック-",
@@ -8124,7 +14670,14 @@ window.ARCADE_GAMES = [
     "name": "1941j",
     "note": "日本版",
     "titleReading": "いちきゅうよんいちかうんたーあたっく",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "宇宙戦艦ゴモラ",
@@ -8133,7 +14686,14 @@ window.ARCADE_GAMES = [
     "name": "sbsgomo",
     "note": "日本版",
     "titleReading": "うちゅうせんかんごもら",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エア・デュエル",
@@ -8142,7 +14702,14 @@ window.ARCADE_GAMES = [
     "name": "airduel",
     "note": "日本版",
     "titleReading": "えあでゅえる",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エア・バスター -Trouble Specialty Raid Unit",
@@ -8151,7 +14718,14 @@ window.ARCADE_GAMES = [
     "name": "airbustrj",
     "note": "日本版",
     "titleReading": "えあばすたあtroublespecialtyraidunit",
-    "manufacturerReading": "かねこなむこらいせんす"
+    "manufacturerReading": "かねこなむこらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エイリアンストーム",
@@ -8160,7 +14734,14 @@ window.ARCADE_GAMES = [
     "name": "astormj",
     "note": "日本版 2 Players / FD1094 317-0146",
     "titleReading": "えいりあんすとーむ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エイリアンズ",
@@ -8169,7 +14750,14 @@ window.ARCADE_GAMES = [
     "name": "aliensj",
     "note": "日本語版 set 1",
     "titleReading": "えいりあんず",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オーライル",
@@ -8178,7 +14766,15 @@ window.ARCADE_GAMES = [
     "name": "aurail",
     "note": "USA版 set 3 unprotected",
     "titleReading": "おうらいる",
-    "manufacturerReading": "せがうえすとん"
+    "manufacturerReading": "せがうえすとん",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンディーラー",
@@ -8187,7 +14783,14 @@ window.ARCADE_GAMES = [
     "name": "gundealr",
     "note": "Gun Dealer",
     "titleReading": "がんでぃら",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "球界道中記",
@@ -8196,7 +14799,14 @@ window.ARCADE_GAMES = [
     "name": "kyukaidk",
     "note": "日本版 new ver",
     "titleReading": "きゅうかいどうちゅうき",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "究極のオセロゲーム",
@@ -8205,7 +14815,14 @@ window.ARCADE_GAMES = [
     "name": "kothello",
     "note": "Kyuukyoku no Othello",
     "titleReading": "きゅうきょくのおせろげむ",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "苦胃頭捕物帳",
@@ -8214,7 +14831,13 @@ window.ARCADE_GAMES = [
     "name": "qtorimon",
     "note": "Quiz Torimonochou (Japan)",
     "titleReading": "くいあたまとりものちょう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ Ｈ.Ｑ.",
@@ -8223,7 +14846,13 @@ window.ARCADE_GAMES = [
     "name": "quizhq",
     "note": "Quiz H.Q. (Japan)",
     "titleReading": "くいずhq",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "コラムス",
@@ -8232,7 +14861,14 @@ window.ARCADE_GAMES = [
     "name": "columnsj",
     "note": "日本版",
     "titleReading": "こらむす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コラムスII -The Voyage Through Time",
@@ -8241,7 +14877,14 @@ window.ARCADE_GAMES = [
     "name": "column2j",
     "note": "日本版",
     "titleReading": "こらむすiithevoyagethroughtime",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバーリップ",
@@ -8250,7 +14893,14 @@ window.ARCADE_GAMES = [
     "name": "cyberlip",
     "note": "Cyber-Lip (NGM-010)",
     "titleReading": "さいばりっぷ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "鮫！鮫！鮫！",
@@ -8259,7 +14909,14 @@ window.ARCADE_GAMES = [
     "name": "fireshrk",
     "note": "Fire Shark",
     "titleReading": "さめさめさめ",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダー＆ライトニング",
@@ -8268,7 +14925,14 @@ window.ARCADE_GAMES = [
     "name": "thunderl",
     "note": "Thunder & Lightning",
     "titleReading": "さんだ&らいとにんぐ",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダーフォースAC",
@@ -8277,7 +14941,14 @@ window.ARCADE_GAMES = [
     "name": "tfrceacj",
     "note": "日本版",
     "titleReading": "さんだあふぉうすac",
-    "manufacturerReading": "てくのそふとせが"
+    "manufacturerReading": "てくのそふとせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・スーパースパイ",
@@ -8286,7 +14957,14 @@ window.ARCADE_GAMES = [
     "name": "superspy",
     "note": "The Super Spy (NGM-011 ~ NGH-011)",
     "titleReading": "ざすぱすぱい",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シスコヒート",
@@ -8295,7 +14973,17 @@ window.ARCADE_GAMES = [
     "name": "cischeat",
     "note": "",
     "titleReading": "しすこひいと",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ジョイジョイキッド",
@@ -8304,7 +14992,14 @@ window.ARCADE_GAMES = [
     "name": "joyjoy",
     "note": "Puzzled / Joy Joy Kid (NGM-021 ~ NGH-021)",
     "titleReading": "じょいじょいきっど",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "G-LOC エアバトル",
@@ -8313,7 +15008,15 @@ window.ARCADE_GAMES = [
     "name": "gloc",
     "note": "World",
     "titleReading": "じーろっくえあばとる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイスマッシャー",
@@ -8322,7 +15025,14 @@ window.ARCADE_GAMES = [
     "name": "skysmash",
     "note": "Sky Smasher",
     "titleReading": "すかいすまっしゃ",
-    "manufacturerReading": "にっぽんしすてむ"
+    "manufacturerReading": "にっぽんしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スノーブラザーズ -Nick & Tom-",
@@ -8331,7 +15041,14 @@ window.ARCADE_GAMES = [
     "name": "snowbros",
     "note": "Snow Bros. - Nick & Tom (set 1)",
     "titleReading": "すのぶらざずnick&tom",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スマッシュＴ.Ｖ.",
@@ -8340,7 +15057,14 @@ window.ARCADE_GAMES = [
     "name": "smashtv",
     "note": "Smash T.V. (rev 8.00)",
     "titleReading": "すまっしゅtv",
-    "manufacturerReading": "williams"
+    "manufacturerReading": "williams",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "戦場の狼II",
@@ -8349,7 +15073,14 @@ window.ARCADE_GAMES = [
     "name": "mercsj",
     "note": "日本版 900302",
     "titleReading": "せんじょうのおおかみ2",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "倉庫番デラックス",
@@ -8358,7 +15089,14 @@ window.ARCADE_GAMES = [
     "name": "soukobdx",
     "note": "日本版, SB1",
     "titleReading": "そうこばんでらっくす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大工の源さん -べらんめ町騒動記",
@@ -8367,7 +15105,14 @@ window.ARCADE_GAMES = [
     "name": "hharry",
     "note": "Hammerin' Harry (海外版)",
     "titleReading": "だいくのげんさん",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チキチキボーイズ",
@@ -8376,7 +15121,14 @@ window.ARCADE_GAMES = [
     "name": "chikij",
     "note": "日本版 900619",
     "titleReading": "ちきちきぼーいず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トッププレイヤーズゴルフ",
@@ -8385,7 +15137,14 @@ window.ARCADE_GAMES = [
     "name": "tpgolf",
     "note": "Top Player's Golf (NGM-003 ~ NGH-003)",
     "titleReading": "とっぷぷれいやずごるふ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドットリクン",
@@ -8394,7 +15153,14 @@ window.ARCADE_GAMES = [
     "name": "dotrikun",
     "note": "Dottori Kun (new version)",
     "titleReading": "どっとりくん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンセイバー -アフターストーリー オブ ドラゴンスピリット",
@@ -8403,7 +15169,14 @@ window.ARCADE_GAMES = [
     "name": "dsaberj",
     "note": "日本版",
     "titleReading": "どらごんせいばああふたあすとうりいおぶどらごんすぴりっと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニモ",
@@ -8412,7 +15185,14 @@ window.ARCADE_GAMES = [
     "name": "nemoj",
     "note": "日本版 901120",
     "titleReading": "にも",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニンジャコンバット",
@@ -8421,7 +15201,14 @@ window.ARCADE_GAMES = [
     "name": "ncombat",
     "note": "Ninja Combat (NGM-009)",
     "titleReading": "にんじゃこんばっと",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハットトリックヒーロー",
@@ -8430,7 +15217,14 @@ window.ARCADE_GAMES = [
     "name": "hthero",
     "note": "日本版",
     "titleReading": "はっととりっくひいろう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルダーダッシュ",
@@ -8439,7 +15233,14 @@ window.ARCADE_GAMES = [
     "name": "bouldash",
     "note": "1990年版",
     "titleReading": "ばるだあだっしゅ",
-    "manufacturerReading": "でえたいいすとふぁあすとすたあらいせんす"
+    "manufacturerReading": "でえたいいすとふぁあすとすたあらいせんす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンダイク",
@@ -8448,7 +15249,14 @@ window.ARCADE_GAMES = [
     "name": "vandyke",
     "note": "日本版",
     "titleReading": "ばんだいく",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルクラブ",
@@ -8457,7 +15265,14 @@ window.ARCADE_GAMES = [
     "name": "puzlclub",
     "note": "日本版 プロトタイプ",
     "titleReading": "ぱずるくらぶ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パロディウスだ！ -神話からお笑いへ",
@@ -8466,7 +15281,14 @@ window.ARCADE_GAMES = [
     "name": "parodiusj",
     "note": "日本版 / m↑",
     "titleReading": "ぱろでぃうすだしんわからおわらいへ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パンクショット",
@@ -8475,7 +15297,14 @@ window.ARCADE_GAMES = [
     "name": "punkshot",
     "note": "USAl 4 players",
     "titleReading": "ぱんくしょっと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピストル大名の冒険",
@@ -8484,7 +15313,14 @@ window.ARCADE_GAMES = [
     "name": "pistoldm",
     "note": "Pistol Daimyo no Bouken (Japan)",
     "titleReading": "ぴすとるだいみょうのぼうけん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ピットファイター",
@@ -8493,7 +15329,15 @@ window.ARCADE_GAMES = [
     "name": "pitfight",
     "note": "Pit Fighter (rev 9)",
     "titleReading": "ぴっとふぁいた",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナルラップ２",
@@ -8502,7 +15346,17 @@ window.ARCADE_GAMES = [
     "name": "finalap2",
     "note": "Final Lap 2",
     "titleReading": "ふぁいなるらっぷ2",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ファンタズム",
@@ -8511,7 +15365,14 @@ window.ARCADE_GAMES = [
     "name": "phantasm",
     "note": "日本版",
     "titleReading": "ふぁんたずむ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラッドブラザーズ",
@@ -8520,7 +15381,15 @@ window.ARCADE_GAMES = [
     "name": "bloodbro",
     "note": "World?",
     "titleReading": "ぶらっどぶらざーず",
-    "manufacturerReading": "てぃーえーでぃー"
+    "manufacturerReading": "てぃーえーでぃー",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロ野球ワールドスタジアム'90 -激闘版",
@@ -8529,7 +15398,14 @@ window.ARCADE_GAMES = [
     "name": "ws90",
     "note": "日本版",
     "titleReading": "ぷろやきゅうわあるどすたじあむ90げきとうばん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベースボールスターズプロフェッショナル",
@@ -8538,7 +15414,14 @@ window.ARCADE_GAMES = [
     "name": "bstars",
     "note": "Baseball Stars Professional (NGM-002)",
     "titleReading": "べすぼるすたずぷろふぇっしょなる",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボナンザブラザーズ",
@@ -8547,7 +15430,14 @@ window.ARCADE_GAMES = [
     "name": "bnzabrosj",
     "note": "BAIR floppy DS3-5000-07b based",
     "titleReading": "ぼなんざぶらざあず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボレンチ",
@@ -8556,7 +15446,14 @@ window.ARCADE_GAMES = [
     "name": "borench",
     "note": "",
     "titleReading": "ぼれんち",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マイケル・ジャクソンズ・ムーンウォーカー",
@@ -8565,7 +15462,14 @@ window.ARCADE_GAMES = [
     "name": "mwalkj",
     "note": "日本版 / FD1094/8751 317-0157",
     "titleReading": "まいけるじゃくそんずむーんうぉーかー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジェスティック トゥエルブ -スペースインベーダー・パートIV",
@@ -8574,7 +15478,14 @@ window.ARCADE_GAMES = [
     "name": "majest12j",
     "note": "日本版",
     "titleReading": "まじぇすてぃっくとぅえるぶすぺえすいんべえだあぱあとiv",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジシャンロード",
@@ -8583,7 +15494,14 @@ window.ARCADE_GAMES = [
     "name": "maglord",
     "note": "Magician Lord (NGM-005)",
     "titleReading": "まじしゃんろど",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジックソード",
@@ -8592,7 +15510,14 @@ window.ARCADE_GAMES = [
     "name": "mswordj",
     "note": "日本版 900623 / Heroic Fantasy",
     "titleReading": "まじっくそーど",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミニベーダー",
@@ -8601,7 +15526,14 @@ window.ARCADE_GAMES = [
     "name": "minivadr",
     "note": "Mini Vaders",
     "titleReading": "みにべだ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モザイク",
@@ -8610,7 +15542,14 @@ window.ARCADE_GAMES = [
     "name": "mosaic",
     "note": "Mosaic",
     "titleReading": "もざいく",
-    "manufacturerReading": "すぺす"
+    "manufacturerReading": "すぺす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゆうゆのクイズでＧｏ！Ｇｏ!",
@@ -8619,7 +15558,13 @@ window.ARCADE_GAMES = [
     "name": "yuyugogo",
     "note": "Yuuyu no Quiz de GO!GO! (Japan)",
     "titleReading": "ゆうゆのくいずでgogo",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "U.S.ネイビー",
@@ -8628,7 +15573,14 @@ window.ARCADE_GAMES = [
     "name": "cawingj",
     "note": "日本版 901012",
     "titleReading": "ゆーえすねいびー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライディングヒーロー",
@@ -8637,7 +15589,14 @@ window.ARCADE_GAMES = [
     "name": "ridhero",
     "note": "Riding Hero (NGM-006 ~ NGH-006)",
     "titleReading": "らいでぃんぐひろ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "雷電",
@@ -8646,7 +15605,14 @@ window.ARCADE_GAMES = [
     "name": "raiden",
     "note": "",
     "titleReading": "らいでん",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラギ",
@@ -8655,7 +15621,14 @@ window.ARCADE_GAMES = [
     "name": "bjourney",
     "note": "Blue's Journey / ALM-001 / ALH-001",
     "titleReading": "らぎ",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラフレーサー",
@@ -8664,7 +15637,17 @@ window.ARCADE_GAMES = [
     "name": "roughrac",
     "note": "Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)",
     "titleReading": "らふれさ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ダイアル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ランパート",
@@ -8673,7 +15656,14 @@ window.ARCADE_GAMES = [
     "name": "rampartj",
     "note": "trackball",
     "titleReading": "らんぱあと",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リーグボウリング",
@@ -8682,7 +15672,14 @@ window.ARCADE_GAMES = [
     "name": "lbowling",
     "note": "League Bowling (NGM-019 ~ NGH-019)",
     "titleReading": "りぐぼうりんぐ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "琉球",
@@ -8691,7 +15688,14 @@ window.ARCADE_GAMES = [
     "name": "ryukyu",
     "note": "RyuKyu (Rev A, Japan) (FD1094 317-5023A)",
     "titleReading": "りゅうきゅう",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ローリングサンダー2",
@@ -8700,7 +15704,14 @@ window.ARCADE_GAMES = [
     "name": "rthun2j",
     "note": "日本版",
     "titleReading": "ろうりんぐさんだあ2",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "８マン ＜エイトマン＞",
@@ -8709,7 +15720,14 @@ window.ARCADE_GAMES = [
     "name": "eightman",
     "note": "Eight Man (NGM-025 ~ NGH-025)",
     "titleReading": "8まん<えいとまん>",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｅ.Ｄ.Ｆ ＜アースディフェンスフォース＞",
@@ -8718,7 +15736,14 @@ window.ARCADE_GAMES = [
     "name": "edf",
     "note": "E.D.F. : Earth Defense Force (set 1)",
     "titleReading": "edf<あすでぃふぇんすふぉす>",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｆ－１グランプリ",
@@ -8727,7 +15752,14 @@ window.ARCADE_GAMES = [
     "name": "f1gp",
     "note": "F-1 Grand Prix",
     "titleReading": "f1ぐらんぷり",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｓ.Ｔ.Ｇ ＜ストライクガンナー＞",
@@ -8736,7 +15768,14 @@ window.ARCADE_GAMES = [
     "name": "stg",
     "note": "Strike Gunner S.T.G",
     "titleReading": "stg<すとらいくがんな>",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクロバットミッション",
@@ -8745,7 +15784,14 @@ window.ARCADE_GAMES = [
     "name": "acrobatm",
     "note": "",
     "titleReading": "あくろばっとみっしょん",
-    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
+    "manufacturerReading": "ゆーぴーえるたいとうらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アグレス -ミサイル大戦略-",
@@ -8754,7 +15800,14 @@ window.ARCADE_GAMES = [
     "name": "agress",
     "note": "日本版",
     "titleReading": "あぐれすみさいるだいせんりゃく",
-    "manufacturerReading": "ぱるこ"
+    "manufacturerReading": "ぱるこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "あしたのジョー伝説",
@@ -8763,7 +15816,14 @@ window.ARCADE_GAMES = [
     "name": "legendos",
     "note": "Legend of Success Joe / Ashita no Joe Densetsu",
     "titleReading": "あしたのじょでんせつ",
-    "manufacturerReading": "うぇいぶ"
+    "manufacturerReading": "うぇいぶ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アラビアンファイト",
@@ -8772,7 +15832,14 @@ window.ARCADE_GAMES = [
     "name": "arabfgtj",
     "note": "日本版",
     "titleReading": "あらびあんふぁいと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウイニングラン９１",
@@ -8781,7 +15848,17 @@ window.ARCADE_GAMES = [
     "name": "winrun91",
     "note": "Winning Run '91 (Japan) (1991/03/05, Main Ver 1.0, Sub Ver 1.0)",
     "titleReading": "ういにんぐらん91",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー"
+    ]
   },
   {
     "title": "ウォリアーブレード -ラスタンサーガエピソード III-",
@@ -8790,7 +15867,15 @@ window.ARCADE_GAMES = [
     "name": "warriorb",
     "note": "Warrior Blade - Rastan Saga Episode III (Japan)",
     "titleReading": "うぉりあぶれどらすたんさがえぴそどiii",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウルトラマン -空想特撮シリーズ",
@@ -8799,7 +15884,15 @@ window.ARCADE_GAMES = [
     "name": "ultraman",
     "note": "日本版",
     "titleReading": "うるとらまんくうそうとくさつしりいず",
-    "manufacturerReading": "ばんぷれすとばんだい"
+    "manufacturerReading": "ばんぷれすとばんだい",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ASO II -ラストガーディアン-",
@@ -8808,7 +15901,14 @@ window.ARCADE_GAMES = [
     "name": "alpham2",
     "note": "Alpha Mission II",
     "titleReading": "えーえすおーつーらすとがーでぃあん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガルフストーム",
@@ -8817,7 +15917,14 @@ window.ARCADE_GAMES = [
     "name": "gulfstrm",
     "note": "Gulf Storm (set 1)",
     "titleReading": "がるふすとむ",
-    "manufacturerReading": "dooyong"
+    "manufacturerReading": "dooyong",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "餓狼伝説 -宿命の闘い",
@@ -8826,7 +15933,15 @@ window.ARCADE_GAMES = [
     "name": "fatfury1",
     "note": "NGM-033 / NGH-033",
     "titleReading": "がろうでんせつしゅくめいのたたかい",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "機動戦士ＳＤガンダム -サイコサラマンダーの脅威-",
@@ -8835,7 +15950,15 @@ window.ARCADE_GAMES = [
     "name": "sdgndmps",
     "note": "SD Gundam Psycho Salamander no Kyoui",
     "titleReading": "きどうせんしsdがんだむさいこさらまんだのきょうい",
-    "manufacturerReading": "いすこisco"
+    "manufacturerReading": "いすこisco",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャプテンコマンドー",
@@ -8844,7 +15967,14 @@ window.ARCADE_GAMES = [
     "name": "captcommj",
     "note": "日本版 911202",
     "titleReading": "きゃぷてんこまんどー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キング・オブ・ザ・モンスターズ",
@@ -8853,7 +15983,15 @@ window.ARCADE_GAMES = [
     "name": "kotm",
     "note": "King of the Monsters (set 1)",
     "titleReading": "きんぐおぶざもんすたず",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ がくえんパラダイス",
@@ -8862,7 +16000,13 @@ window.ARCADE_GAMES = [
     "name": "gakupara",
     "note": "Quiz Gakuen Paradise (Japan)",
     "titleReading": "くいずがくえんぱらだいす",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズクエスト -姫と勇者の物語-",
@@ -8871,7 +16015,13 @@ window.ARCADE_GAMES = [
     "name": "qzquest",
     "note": "Quiz Quest - Hime to Yuusha no Monogatari (Japan)",
     "titleReading": "くいずくえすとひめとゆうしゃのものがたり",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ三國志 -知略の覇者-",
@@ -8880,7 +16030,13 @@ window.ARCADE_GAMES = [
     "name": "qsangoku",
     "note": "Quiz Sangokushi (Japan)",
     "titleReading": "くいずさんごくしちりゃくのはしゃ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ宿題を忘れました",
@@ -8889,7 +16045,14 @@ window.ARCADE_GAMES = [
     "name": "qsww",
     "note": "日本版, Floppy Based / FD1094 317-0058-08b",
     "titleReading": "くいずしゅくだいをわすれました",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ大捜査線 -THE LAST COUNT DOWN-",
@@ -8898,7 +16061,14 @@ window.ARCADE_GAMES = [
     "name": "quizdais",
     "note": "Quiz Daisousa Sen - The Last Count Down (NGM-023 ~ NGH-023)",
     "titleReading": "くいずだいそうさせんthelastcountdown",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ地球防衛軍",
@@ -8907,7 +16077,13 @@ window.ARCADE_GAMES = [
     "name": "qzchikyu",
     "note": "Quiz Chikyu Bouei Gun (Japan)",
     "titleReading": "くいずちきゅうぼうえいぐん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ 殿様の野望",
@@ -8916,7 +16092,13 @@ window.ARCADE_GAMES = [
     "name": "qtono1",
     "note": "Quiz Tonosama no Yabou (Japan)",
     "titleReading": "くいずとのさまのやぼう",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ廊下に立ってなさい！",
@@ -8925,7 +16107,14 @@ window.ARCADE_GAMES = [
     "name": "qrouka",
     "note": "日本版, ROM Based",
     "titleReading": "くいずろうかにたってなさい",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クラッチヒッター",
@@ -8934,7 +16123,14 @@ window.ARCADE_GAMES = [
     "name": "cltchitr",
     "note": "USA版 / FD1094 317-0176",
     "titleReading": "くらっちひったー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クロスソード",
@@ -8943,7 +16139,14 @@ window.ARCADE_GAMES = [
     "name": "crsword",
     "note": "Crossed Swords (ALM-002 ~ ALH-002)",
     "titleReading": "くろすそど",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クロスブレイズ！",
@@ -8952,7 +16155,14 @@ window.ARCADE_GAMES = [
     "name": "crossbld",
     "note": "日本版",
     "titleReading": "くろすぶれいず",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "剣豪 KEN-GO",
@@ -8961,7 +16171,14 @@ window.ARCADE_GAMES = [
     "name": "kengo",
     "note": "Ken-Go (set 1)",
     "titleReading": "けんごうkengo",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コズモギャング・ザ・ビデオ",
@@ -8970,7 +16187,14 @@ window.ARCADE_GAMES = [
     "name": "cosmogngj",
     "note": "日本版",
     "titleReading": "こずもぎゃんぐざびでお",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴークス",
@@ -8979,7 +16203,17 @@ window.ARCADE_GAMES = [
     "name": "ghox",
     "note": "Ghox (spinner)",
     "titleReading": "ごくす",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴーストパイロット",
@@ -8988,7 +16222,14 @@ window.ARCADE_GAMES = [
     "name": "gpilots",
     "note": "Ghost Pilots (NGM-020 ~ NGH-020)",
     "titleReading": "ごすとぱいろっと",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サッカーブロール",
@@ -8997,7 +16238,14 @@ window.ARCADE_GAMES = [
     "name": "socbrawl",
     "note": "Soccer Brawl (NGM-031)",
     "titleReading": "さっかぶろる",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンセットライダーズ",
@@ -9006,7 +16254,14 @@ window.ARCADE_GAMES = [
     "name": "ssriders",
     "note": "Sunset Riders (4 Players ver EAC)",
     "titleReading": "さんせっとらいだず",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダードラゴン ＜雷龍＞",
@@ -9015,7 +16270,14 @@ window.ARCADE_GAMES = [
     "name": "tdragon",
     "note": "Thunder Dragon (8th Jan. 1992, unprotected)",
     "titleReading": "さんだどらごん<かみなりりゅう>",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キングオブドラゴンズ",
@@ -9024,7 +16286,14 @@ window.ARCADE_GAMES = [
     "name": "kodj",
     "note": "日本版 910805",
     "titleReading": "ざきんぐおぶどらごんず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーハイインパクト",
@@ -9033,7 +16302,14 @@ window.ARCADE_GAMES = [
     "name": "shimpact",
     "note": "rev LAT 09/80/91",
     "titleReading": "すうぱあはいいんぱくと",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スティールタロンズ",
@@ -9042,7 +16318,16 @@ window.ARCADE_GAMES = [
     "name": "steeltal",
     "note": "Steel Talons (rev 2)",
     "titleReading": "すてぃるたろんず",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "シミュレーション"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライクファイター",
@@ -9051,7 +16336,15 @@ window.ARCADE_GAMES = [
     "name": "strkfgtr",
     "note": "World",
     "titleReading": "すとらいくふぁいたー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII -ザ・ワールドウォーリアー-",
@@ -9060,7 +16353,14 @@ window.ARCADE_GAMES = [
     "name": "sf2j",
     "note": "BARR 911210",
     "titleReading": "すとりいとふぁいたあiiざわあるどうぉうりああ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スパイダーマン ザ・ビデオゲーム",
@@ -9069,7 +16369,15 @@ window.ARCADE_GAMES = [
     "name": "spidman",
     "note": "World",
     "titleReading": "すぱいだーまんざびでおげーむ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スラッシュラリー",
@@ -9078,7 +16386,14 @@ window.ARCADE_GAMES = [
     "name": "trally",
     "note": "Thrash Rally (ALM-003 ~ ALH-003)",
     "titleReading": "すらっしゅらり",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "セルフィーナ",
@@ -9087,7 +16402,14 @@ window.ARCADE_GAMES = [
     "name": "selfeena",
     "note": "Sel Feena",
     "titleReading": "せるふぃな",
-    "manufacturerReading": "いすといすとてくのろじ"
+    "manufacturerReading": "いすといすとてくのろじ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国伝承",
@@ -9096,7 +16418,15 @@ window.ARCADE_GAMES = [
     "name": "sengoku",
     "note": "Sengoku / Sengoku Denshou (NGM-017 ~ NGH-017)",
     "titleReading": "せんごくでんしょう",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "洗脳ゲーム テキ･パキ",
@@ -9105,7 +16435,14 @@ window.ARCADE_GAMES = [
     "name": "tekipaki",
     "note": "Teki Paki",
     "titleReading": "せんのうげむてきてきぱき",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゼクセクス",
@@ -9114,7 +16451,14 @@ window.ARCADE_GAMES = [
     "name": "xexex",
     "note": "Xexex (ver EAA)",
     "titleReading": "ぜくせくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターボフォース",
@@ -9123,7 +16467,14 @@ window.ARCADE_GAMES = [
     "name": "turbofrc",
     "note": "old ver",
     "titleReading": "たあぼふぉうす",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦え原始人 ジョー＆マック",
@@ -9132,7 +16483,14 @@ window.ARCADE_GAMES = [
     "name": "joemac",
     "note": "日本版 ver 1",
     "titleReading": "たたかえげんしじんじょーあんどまっく",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターミネーター２ -ジャッジメントデイ-",
@@ -9141,7 +16499,14 @@ window.ARCADE_GAMES = [
     "name": "term2",
     "note": "Terminator 2 - Judgment Day (rev LA4 08/03/92)",
     "titleReading": "たみねた2じゃっじめんとでい",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タンクフォース",
@@ -9150,7 +16515,14 @@ window.ARCADE_GAMES = [
     "name": "tankfrcej",
     "note": "日本版",
     "titleReading": "たんくふぉうす",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツインスカッシュ",
@@ -9159,7 +16531,16 @@ window.ARCADE_GAMES = [
     "name": "twinsqua",
     "note": "Twin Squash",
     "titleReading": "ついんすかっしゅ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "D.D.クルー",
@@ -9168,7 +16549,14 @@ window.ARCADE_GAMES = [
     "name": "ddcrewj",
     "note": "日本版 4 Players / FD1094 317-0185",
     "titleReading": "でぃーでぃーくるー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "出たな！！ ツインビー",
@@ -9177,7 +16565,14 @@ window.ARCADE_GAMES = [
     "name": "detatwin",
     "note": "日本版 ver J",
     "titleReading": "でたなついんびい",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "2020年スーパーベースボール",
@@ -9186,7 +16581,14 @@ window.ARCADE_GAMES = [
     "name": "2020bb",
     "note": "set 1",
     "titleReading": "にせんにじゅうねんすーぱーべーすぼーる",
-    "manufacturerReading": "えすえぬけーぱらす"
+    "manufacturerReading": "えすえぬけーぱらす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルクライ",
@@ -9195,7 +16597,15 @@ window.ARCADE_GAMES = [
     "name": "battlcry",
     "note": "Version E",
     "titleReading": "ばとるくらい",
-    "manufacturerReading": "ほーむでーた"
+    "manufacturerReading": "ほーむでーた",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーニングファイト",
@@ -9204,7 +16614,15 @@ window.ARCADE_GAMES = [
     "name": "burningf",
     "note": "Burning Fight (NGM-018 ~ NGH-018)",
     "titleReading": "ばにんぐふぁいと",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パワーホイールズ",
@@ -9213,7 +16631,15 @@ window.ARCADE_GAMES = [
     "name": "pwheelsj",
     "note": "日本版",
     "titleReading": "ぱわあほいいるず",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ビッグカルナック",
@@ -9222,7 +16648,14 @@ window.ARCADE_GAMES = [
     "name": "bigkarnk",
     "note": "Big Karnak",
     "titleReading": "びっぐかるなっく",
-    "manufacturerReading": "がえるこ"
+    "manufacturerReading": "がえるこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラックハート",
@@ -9231,7 +16664,14 @@ window.ARCADE_GAMES = [
     "name": "blkheartj",
     "note": "日本版",
     "titleReading": "ぶらっくはーと",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブロックブロック",
@@ -9240,7 +16680,15 @@ window.ARCADE_GAMES = [
     "name": "blockj",
     "note": "日本版 910910",
     "titleReading": "ぶろっくぶろっく",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "プリルラ",
@@ -9249,7 +16697,14 @@ window.ARCADE_GAMES = [
     "name": "pulirula",
     "note": "海外版",
     "titleReading": "ぷりるら",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベルリンの壁",
@@ -9258,7 +16713,14 @@ window.ARCADE_GAMES = [
     "name": "berlwall",
     "note": "The Berlin Wall",
     "titleReading": "べるりんのかべ",
-    "manufacturerReading": "かねこ"
+    "manufacturerReading": "かねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペアーズラブ",
@@ -9267,7 +16729,14 @@ window.ARCADE_GAMES = [
     "name": "pairlove",
     "note": "Pairs Love",
     "titleReading": "ぺあずらぶ",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボンバーマン",
@@ -9276,7 +16745,14 @@ window.ARCADE_GAMES = [
     "name": "bombrman",
     "note": "日本版",
     "titleReading": "ぼんばあまん",
-    "manufacturerReading": "あいれむはどそんらいせんす"
+    "manufacturerReading": "あいれむはどそんらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポラックス",
@@ -9285,7 +16761,14 @@ window.ARCADE_GAMES = [
     "name": "pollux",
     "note": "Pollux (set 1)",
     "titleReading": "ぽらっくす",
-    "manufacturerReading": "dooyong"
+    "manufacturerReading": "dooyong",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルブラック",
@@ -9294,7 +16777,14 @@ window.ARCADE_GAMES = [
     "name": "metalbj",
     "note": "日本版",
     "titleReading": "めたるぶらっく",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モグラデッセ",
@@ -9303,7 +16793,14 @@ window.ARCADE_GAMES = [
     "name": "mogura",
     "note": "Mogura Desse (Japan)",
     "titleReading": "もぐらでっせ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライオットシティ",
@@ -9312,7 +16809,15 @@ window.ARCADE_GAMES = [
     "name": "riotcity",
     "note": "日本版",
     "titleReading": "らいおっとしてぃ",
-    "manufacturerReading": "せがうえすとん"
+    "manufacturerReading": "せがうえすとん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リビット！ （蝦蟇の園）",
@@ -9321,7 +16826,13 @@ window.ARCADE_GAMES = [
     "name": "ribbit",
     "note": "Ribbit!",
     "titleReading": "りびっとがまのその",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー"
+    ]
   },
   {
     "title": "リム・ロッキン・バスケットボール",
@@ -9330,7 +16841,14 @@ window.ARCADE_GAMES = [
     "name": "rimrockn",
     "note": "Rim Rockin' Basketball (V2.2)",
     "titleReading": "りむろっきんばすけっとぼる",
-    "manufacturerReading": "strata/incredibletechnologies"
+    "manufacturerReading": "strata/incredibletechnologies",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レゾン",
@@ -9339,7 +16857,14 @@ window.ARCADE_GAMES = [
     "name": "rezon",
     "note": "Rezon",
     "titleReading": "れぞん",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "64番街",
@@ -9348,7 +16873,15 @@ window.ARCADE_GAMES = [
     "name": "64street",
     "note": "64th. Street -A Detective Story- (海外版)",
     "titleReading": "ろくじゅうよんばんがい",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロボアーミー",
@@ -9357,7 +16890,15 @@ window.ARCADE_GAMES = [
     "name": "roboarmy",
     "note": "Robo Army",
     "titleReading": "ろぼあみ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワンダー3",
@@ -9366,7 +16907,14 @@ window.ARCADE_GAMES = [
     "name": "wonder3",
     "note": "日本版 910520",
     "titleReading": "わんだーすりー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Flying Tiger -飛虎隊-",
@@ -9375,7 +16923,14 @@ window.ARCADE_GAMES = [
     "name": "flytiger",
     "note": "Flying Tiger (set 1)",
     "titleReading": "flyingtigerひこたい",
-    "manufacturerReading": "dooyong"
+    "manufacturerReading": "dooyong",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＳＤガンダムネオバトリング",
@@ -9384,7 +16939,14 @@ window.ARCADE_GAMES = [
     "name": "neobattl",
     "note": "SD Gundam Neo Battling (Japan)",
     "titleReading": "sdがんだむねおばとりんぐ",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｘ－ＭＥＮ ＜エックス・メン＞",
@@ -9393,7 +16955,15 @@ window.ARCADE_GAMES = [
     "name": "xmen",
     "note": "X-Men (4 Players ver EBA)",
     "titleReading": "xmen<えっくすめん>",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "YES.NO 心理トキメキチャート",
@@ -9402,7 +16972,13 @@ window.ARCADE_GAMES = [
     "name": "yesnoj",
     "note": "Yes/No Sinri Tokimeki Chart",
     "titleReading": "yesnoしんりときめきちゃと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "エレメカ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "アーケードクラシックス",
@@ -9411,7 +16987,15 @@ window.ARCADE_GAMES = [
     "name": "arcadecl",
     "note": "prototype",
     "titleReading": "ああけえどくらしっくす",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "アールタイプ・レオ",
@@ -9420,7 +17004,14 @@ window.ARCADE_GAMES = [
     "name": "rtypeleo",
     "note": "日本版",
     "titleReading": "ああるたいぷれお",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アウトランナーズ",
@@ -9429,7 +17020,16 @@ window.ARCADE_GAMES = [
     "name": "orunnersj",
     "note": "日本版",
     "titleReading": "あうとらんなーず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "アステリックス",
@@ -9438,7 +17038,14 @@ window.ARCADE_GAMES = [
     "name": "asterix",
     "note": "ver EAD",
     "titleReading": "あすてりっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アドベンチャークイズ カプコンワールド2",
@@ -9447,7 +17054,13 @@ window.ARCADE_GAMES = [
     "name": "cworld2j",
     "note": "日本版 920611",
     "titleReading": "あどべんちゃーくいずかぷこんわーるど2",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "アームチャンプスII",
@@ -9456,7 +17069,15 @@ window.ARCADE_GAMES = [
     "name": "armchmp2",
     "note": "Arm Champs II (ver 2.7)",
     "titleReading": "あむちゃんぷすii",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "アラビアンマジック",
@@ -9465,7 +17086,16 @@ window.ARCADE_GAMES = [
     "name": "arabianmj",
     "note": "日本版 Ver 1.0J 1992/07/06",
     "titleReading": "あらびあんまじっく",
-    "manufacturerReading": "たいとー"
+    "manufacturerReading": "たいとー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アンダーカバー コップス",
@@ -9474,7 +17104,14 @@ window.ARCADE_GAMES = [
     "name": "uccopsj",
     "note": "日本版",
     "titleReading": "あんだあかばあこっぷす",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アンドロデュノス",
@@ -9483,7 +17120,14 @@ window.ARCADE_GAMES = [
     "name": "androdun",
     "note": "NGM-049 / NGH-049",
     "titleReading": "あんどろでゅのす",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォーリーをさがせ！",
@@ -9492,7 +17136,15 @@ window.ARCADE_GAMES = [
     "name": "wwallyj",
     "note": "Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B)",
     "titleReading": "うぉりをさがせ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "トラックボール",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウルトラマン倶楽部 ～戦え！ウルトラマン兄弟!!～",
@@ -9501,7 +17153,14 @@ window.ARCADE_GAMES = [
     "name": "umanclub",
     "note": "Ultraman Club - Tatakae! Ultraman Kyoudai!!",
     "titleReading": "うるとらまんくらぶ~たたかえうるとらまんきょうだい~",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エアレスキュー",
@@ -9510,7 +17169,15 @@ window.ARCADE_GAMES = [
     "name": "arescue",
     "note": "",
     "titleReading": "えあれすきゅう",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "F-1グランプリ Part II",
@@ -9519,7 +17186,14 @@ window.ARCADE_GAMES = [
     "name": "f1gp2",
     "note": "",
     "titleReading": "えふわんぐらんぷりぱーとつー",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "雷軋斗 ＜ライアット＞",
@@ -9528,7 +17202,14 @@ window.ARCADE_GAMES = [
     "name": "riot",
     "note": "Riot",
     "titleReading": "かみなりあつと<らいあっと>",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガーディアン・オブ・ザ・フッド",
@@ -9537,7 +17218,15 @@ window.ARCADE_GAMES = [
     "name": "guardian",
     "note": "Guardians of the 'Hood",
     "titleReading": "がでぃあんおぶざふっど",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガルメデス",
@@ -9546,7 +17235,14 @@ window.ARCADE_GAMES = [
     "name": "galmedes",
     "note": "Galmedes (Japan)",
     "titleReading": "がるめです",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "餓狼伝説2 -新たなる闘い-",
@@ -9555,7 +17251,15 @@ window.ARCADE_GAMES = [
     "name": "fatfury2",
     "note": "NGM-047 / NGH-047",
     "titleReading": "がろうでんせつつーあらたなるたたかい",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キング・オブ・ザ・モンスターズ２ -ザ・ネクストシング-",
@@ -9564,7 +17268,15 @@ window.ARCADE_GAMES = [
     "name": "kotm2",
     "note": "King of the Monsters 2 - The Next Thing (NGM-039 ~ NGH-039)",
     "titleReading": "きんぐおぶざもんすたず2ざねくすとしんぐ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクティックストーム",
@@ -9573,7 +17285,15 @@ window.ARCADE_GAMES = [
     "name": "galastrm",
     "note": "Galactic Storm (Japan)",
     "titleReading": "ぎゃらくてぃっくすとむ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ＆心理ゲーム クイズココロジー",
@@ -9582,7 +17302,13 @@ window.ARCADE_GAMES = [
     "name": "qzkklogy",
     "note": "",
     "titleReading": "くいず&しんりげえむくいずこころじい",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ ＤＮＡの反乱",
@@ -9591,7 +17317,13 @@ window.ARCADE_GAMES = [
     "name": "quizdna",
     "note": "Quiz DNA no Hanran (Japan)",
     "titleReading": "くいずdnaのはんらん",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズＦ１ ワン・ツーフィニッシュ",
@@ -9600,7 +17332,14 @@ window.ARCADE_GAMES = [
     "name": "quizf1",
     "note": "Quiz F1 1-2 Finish (Japan)",
     "titleReading": "くいずf1わんつふぃにっしゅ",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ Ｔ．Ｖ合衆国Ｑ＆Ｑ",
@@ -9609,7 +17348,13 @@ window.ARCADE_GAMES = [
     "name": "quiztvqq",
     "note": "Quiz TV Gassyuukoku Q&Q (Japan)",
     "titleReading": "くいずtvがっしゅうこくq&q",
-    "manufacturerReading": "だいなっくす"
+    "manufacturerReading": "だいなっくす",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ 激烈すくらんぶる -学園パラダイス2-",
@@ -9618,7 +17363,13 @@ window.ARCADE_GAMES = [
     "name": "gekiretu",
     "note": "Quiz Gekiretsu Scramble (Japan)",
     "titleReading": "くいずげきれつすくらんぶるがくえんぱらだいす2",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ人生劇場",
@@ -9627,7 +17378,13 @@ window.ARCADE_GAMES = [
     "name": "qjinsei",
     "note": "Quiz Jinsei Gekijoh (Japan)",
     "titleReading": "くいずじんせいげきじょう",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ迷探偵ネオ＆ジオ -クイズ大捜査線パート2-",
@@ -9636,7 +17393,14 @@ window.ARCADE_GAMES = [
     "name": "quizdai2",
     "note": "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042 ~ NGH-042)",
     "titleReading": "くいずめいたんていねお&じおくいずだいそうさせんぱと2",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズめくるめくストーリー",
@@ -9645,7 +17409,14 @@ window.ARCADE_GAMES = [
     "name": "quizmeku",
     "note": "日本版, ROM Based",
     "titleReading": "くいずめくるめくすとーりー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グランドエフェクト （スーパーグランドエフェクト）",
@@ -9654,7 +17425,16 @@ window.ARCADE_GAMES = [
     "name": "groundfx",
     "note": "Ground Effects / Super Ground Effects (Japan)",
     "titleReading": "ぐらんどえふぇくとすぱぐらんどえふぇくと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "ペダル",
+      "ハンドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グランプリスター",
@@ -9663,7 +17443,17 @@ window.ARCADE_GAMES = [
     "name": "f1gpstar",
     "note": "",
     "titleReading": "ぐらんぷりすたあ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "グリッドシーカー",
@@ -9672,7 +17462,16 @@ window.ARCADE_GAMES = [
     "name": "gseekerj",
     "note": "ver 13J",
     "titleReading": "ぐりっどしいかあ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グリッドシーカー -PROJECT STORM HAMMER-",
@@ -9681,7 +17480,16 @@ window.ARCADE_GAMES = [
     "name": "gseeker",
     "note": "Grid Seeker: Project Storm Hammer (Ver 1.3O)",
     "titleReading": "ぐりっどしかprojectstormhammer",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "鋼鉄要塞シュトラール",
@@ -9690,7 +17498,14 @@ window.ARCADE_GAMES = [
     "name": "strahl",
     "note": "日本版 set 1",
     "titleReading": "こうてつようさいしゅとらある",
-    "manufacturerReading": "ゆーぴーえる"
+    "manufacturerReading": "ゆーぴーえる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コズモギャング・ザ・パズル",
@@ -9699,7 +17514,14 @@ window.ARCADE_GAMES = [
     "name": "cgangpzlj",
     "note": "",
     "titleReading": "こずもぎゃんぐざぱずる",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴールデンアックス -デスアダーの復讐-",
@@ -9708,7 +17530,14 @@ window.ARCADE_GAMES = [
     "name": "ga2j",
     "note": "日本版",
     "titleReading": "ごうるでんあっくすですあだあのふくしゅう",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サボテンボンバーズ",
@@ -9717,7 +17546,14 @@ window.ARCADE_GAMES = [
     "name": "sabotenb",
     "note": "Saboten Bombers (set 1)",
     "titleReading": "さぼてんぼんばず",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンドスコーピオン -蠍-",
@@ -9726,7 +17562,14 @@ window.ARCADE_GAMES = [
     "name": "sandscrp",
     "note": "Sand Scorpion",
     "titleReading": "さんどすこぴおんさそり",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・グレイト・ラグタイムショー",
@@ -9735,7 +17578,15 @@ window.ARCADE_GAMES = [
     "name": "boogwing",
     "note": "Boogie Wings (Euro v1.5, 92.12.07)",
     "titleReading": "ざぐれいとらぐたいむしょ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジン・ジン・ジップ -The Shooting-",
@@ -9744,7 +17595,14 @@ window.ARCADE_GAMES = [
     "name": "zingzip",
     "note": "Zing Zing Zip",
     "titleReading": "じんじんじっぷtheshooting",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'92",
@@ -9753,7 +17611,14 @@ window.ARCADE_GAMES = [
     "name": "sws92",
     "note": "",
     "titleReading": "すうぱあわあるどすたじあむ92",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'92 一般版",
@@ -9762,7 +17627,14 @@ window.ARCADE_GAMES = [
     "name": "sws92g",
     "note": "日本版",
     "titleReading": "すうぱあわあるどすたじあむ92いっぱんばん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカイアラート",
@@ -9771,7 +17643,14 @@ window.ARCADE_GAMES = [
     "name": "skyalert",
     "note": "Sky Alert",
     "titleReading": "すかいあらと",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII' ターボ -ハイパーファイティング-",
@@ -9780,7 +17659,14 @@ window.ARCADE_GAMES = [
     "name": "sf2hfj",
     "note": "BABAR 921209",
     "titleReading": "すとりいとふぁいたあiiたあぼはいぱあふぁいてぃんぐ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII' -チャンピオンエディション",
@@ -9789,7 +17675,14 @@ window.ARCADE_GAMES = [
     "name": "sf2ceja",
     "note": "日本版 920322",
     "titleReading": "すとりいとふぁいたあiiちゃんぴおんえでぃしょん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII’（アクセラレートパート２）",
@@ -9798,7 +17691,15 @@ window.ARCADE_GAMES = [
     "name": "sf2accp2",
     "note": "Street Fighter II': Champion Edition (Accelerator Pt.II, bootleg)",
     "titleReading": "すとりとふぁいたii’あくせられとぱと2",
-    "manufacturerReading": "bootlegtestron"
+    "manufacturerReading": "bootlegtestron",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII’（降龍）",
@@ -9807,7 +17708,15 @@ window.ARCADE_GAMES = [
     "name": "sf2koryu",
     "note": "Street Fighter II': Champion Edition (Xiang Long, Chinese bootleg)",
     "titleReading": "すとりとふぁいたii’こうりゅう",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII’（レインボー）",
@@ -9816,7 +17725,15 @@ window.ARCADE_GAMES = [
     "name": "sf2m4",
     "note": "Street Fighter II': Champion Edition (M4, bootleg)",
     "titleReading": "すとりとふぁいたii’れいんぼ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターII’（レッドウェーブ）",
@@ -9825,7 +17742,15 @@ window.ARCADE_GAMES = [
     "name": "sf2red",
     "note": "Street Fighter II': Champion Edition (Red Wave, bootleg)",
     "titleReading": "すとりとふぁいたii’れっどうぇぶ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム",
@@ -9834,7 +17759,14 @@ window.ARCADE_GAMES = [
     "name": "sws",
     "note": "Super World Stadium (Japan)",
     "titleReading": "すぱわるどすたじあむ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "セガソニック・ザ・ヘッジホッグ",
@@ -9843,7 +17775,14 @@ window.ARCADE_GAMES = [
     "name": "sonic",
     "note": "BARR rev C",
     "titleReading": "せがそにっくざへっじほっぐ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "ソニックウィングス",
@@ -9852,7 +17791,14 @@ window.ARCADE_GAMES = [
     "name": "sonicwi",
     "note": "日本版",
     "titleReading": "そにっくうぃんぐす",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソルダム -アたま フル回転! VS 大逆転!-",
@@ -9861,7 +17807,14 @@ window.ARCADE_GAMES = [
     "name": "soldam",
     "note": "Soldam",
     "titleReading": "そるだむあたまふるかいてんvsだいぎゃくてん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "達人王",
@@ -9870,7 +17823,14 @@ window.ARCADE_GAMES = [
     "name": "truxton2",
     "note": "Truxton 0",
     "titleReading": "たつじんおう",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダークエッジ",
@@ -9879,7 +17839,14 @@ window.ARCADE_GAMES = [
     "name": "darkedgej",
     "note": "日本版 / m↑",
     "titleReading": "だあくえっじ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイエット ゴーゴー",
@@ -9888,7 +17855,14 @@ window.ARCADE_GAMES = [
     "name": "dietgo",
     "note": "Diet Go Go (Euro v1.1 1992.09.26)",
     "titleReading": "だいえっとごご",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダークシールII",
@@ -9897,7 +17871,14 @@ window.ARCADE_GAMES = [
     "name": "wizdfire",
     "note": "Wizard Fire (Over Sea v2.1)",
     "titleReading": "だくしるii",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャタンヤラクーシャンク -ザ・カラテトーナメント-",
@@ -9906,7 +17887,15 @@ window.ARCADE_GAMES = [
     "name": "karatour",
     "note": "The Karate Tournament",
     "titleReading": "ちゃたんやらくしゃんくざからてとなめんと",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "超時空要塞マクロス",
@@ -9915,7 +17904,14 @@ window.ARCADE_GAMES = [
     "name": "macross",
     "note": "",
     "titleReading": "ちょうじくうようさいまくろす",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "天地を喰らうII 赤壁の戦い",
@@ -9924,7 +17920,14 @@ window.ARCADE_GAMES = [
     "name": "wofj",
     "note": "日本版 921031",
     "titleReading": "てんちをくらう2せきへきのたたかい",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デザートブレイカー",
@@ -9933,7 +17936,14 @@ window.ARCADE_GAMES = [
     "name": "desertbrj",
     "note": "日本版 / FD1094 317-0194",
     "titleReading": "でざーとぶれいかー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "得点王",
@@ -9942,7 +17952,14 @@ window.ARCADE_GAMES = [
     "name": "ssideki",
     "note": "Super Sidekicks / Tokuten Ou",
     "titleReading": "とくてんおう",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドギューン！！",
@@ -9951,7 +17968,14 @@ window.ARCADE_GAMES = [
     "name": "dogyuun",
     "note": "Dogyuun",
     "titleReading": "どぎゅん",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニンジャ・コマンドー",
@@ -9960,7 +17984,15 @@ window.ARCADE_GAMES = [
     "name": "ncommand",
     "note": "Ninja Commando",
     "titleReading": "にんじゃこまんど",
-    "manufacturerReading": "あるふぁでんしadk"
+    "manufacturerReading": "あるふぁでんしadk",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "爆裂クイズ魔Ｑ大冒険",
@@ -9969,7 +18001,13 @@ window.ARCADE_GAMES = [
     "name": "bkrtmaq",
     "note": "Bakuretsu Quiz Ma-Q Dai Bouken (Japan)",
     "titleReading": "ばくれつくいずまqだいぼうけん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "バーチャレーシング",
@@ -9978,7 +18016,17 @@ window.ARCADE_GAMES = [
     "name": "vr",
     "note": "Virtua Racing",
     "titleReading": "ばちゃれしんぐ",
-    "manufacturerReading": "せがam2"
+    "manufacturerReading": "せがam2",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "バッキーオヘア",
@@ -9987,7 +18035,14 @@ window.ARCADE_GAMES = [
     "name": "bucky",
     "note": "Bucky O'Hare (ver EAB)",
     "titleReading": "ばっきおへあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルーンブラザーズ",
@@ -9996,7 +18051,14 @@ window.ARCADE_GAMES = [
     "name": "ballbros",
     "note": "",
     "titleReading": "ばるうんぶらざあず",
-    "manufacturerReading": "いいすとてくのろじい"
+    "manufacturerReading": "いいすとてくのろじい",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バース -オペレーションサンダーストーム-",
@@ -10005,7 +18067,14 @@ window.ARCADE_GAMES = [
     "name": "varthj",
     "note": "日本版 920714",
     "titleReading": "ばーすおぺれーしょんさんだーすとーむ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーニングライバル",
@@ -10014,7 +18083,14 @@ window.ARCADE_GAMES = [
     "name": "brivalj",
     "note": "日本版",
     "titleReading": "ばーにんぐらいばる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズル＆アクション タントア～ル",
@@ -10023,7 +18099,14 @@ window.ARCADE_GAMES = [
     "name": "tantr",
     "note": "日本版",
     "titleReading": "ぱずる&あくしょんたんとある",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パンポンズ",
@@ -10032,7 +18115,15 @@ window.ARCADE_GAMES = [
     "name": "pangpoms",
     "note": "Pang Pom's",
     "titleReading": "ぱんぽんず",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビッグストライカー",
@@ -10041,7 +18132,14 @@ window.ARCADE_GAMES = [
     "name": "bigstrik",
     "note": "",
     "titleReading": "びっぐすとらいかー",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビッグファイト -Big Trouble In The Atlantic Ocean-",
@@ -10050,7 +18148,15 @@ window.ARCADE_GAMES = [
     "name": "bigfight",
     "note": "",
     "titleReading": "びっぐふぁいとびっぐとらぶるいんじあとらんてぃっくおーしゃん",
-    "manufacturerReading": "たつみ"
+    "manufacturerReading": "たつみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビューポイント",
@@ -10059,7 +18165,14 @@ window.ARCADE_GAMES = [
     "name": "viewpoin",
     "note": "Viewpoint",
     "titleReading": "びゅぽいんと",
-    "manufacturerReading": "にっぽんえいこむ/さみこうぎょう"
+    "manufacturerReading": "にっぽんえいこむ/さみこうぎょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナル・スターフォース",
@@ -10068,7 +18181,14 @@ window.ARCADE_GAMES = [
     "name": "fstarfrcj",
     "note": "USA版",
     "titleReading": "ふぁいなるすたあふぉうす",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フットボールフレンジー",
@@ -10077,7 +18197,14 @@ window.ARCADE_GAMES = [
     "name": "fbfrenzy",
     "note": "Football Frenzy (NGM-034 ~ NGH-034)",
     "titleReading": "ふっとぼるふれんじ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブランディア",
@@ -10086,7 +18213,15 @@ window.ARCADE_GAMES = [
     "name": "blandia",
     "note": "",
     "titleReading": "ぶらんでぃあ",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイゾン",
@@ -10095,7 +18230,14 @@ window.ARCADE_GAMES = [
     "name": "blazeon",
     "note": "World",
     "titleReading": "ぶれいぞん",
-    "manufacturerReading": "えーあいあとらすらいせんす"
+    "manufacturerReading": "えーあいあとらすらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブロックカーニバル",
@@ -10104,7 +18246,14 @@ window.ARCADE_GAMES = [
     "name": "blockcar",
     "note": "Thunder & Lightning 2",
     "titleReading": "ぶろっくかーにばる",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぷよぷよ",
@@ -10113,7 +18262,14 @@ window.ARCADE_GAMES = [
     "name": "puyoja",
     "note": "日本版 rev A",
     "titleReading": "ぷよぷよ",
-    "manufacturerReading": "こんぱいるせが"
+    "manufacturerReading": "こんぱいるせが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレイガールズ",
@@ -10122,7 +18278,14 @@ window.ARCADE_GAMES = [
     "name": "plgirls",
     "note": "Play Girls",
     "titleReading": "ぷれいがるず",
-    "manufacturerReading": "にっぽんしすてむ"
+    "manufacturerReading": "にっぽんしすてむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘクシオン",
@@ -10131,7 +18294,14 @@ window.ARCADE_GAMES = [
     "name": "hexion",
     "note": "Hexion (Japan ver JAB)",
     "titleReading": "へくしおん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベースボールスターズ２",
@@ -10140,7 +18310,14 @@ window.ARCADE_GAMES = [
     "name": "bstars2",
     "note": "Baseball Stars 2",
     "titleReading": "べすぼるすたず2",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボンバーマンワールド",
@@ -10149,7 +18326,14 @@ window.ARCADE_GAMES = [
     "name": "bbmanwj",
     "note": "New Dyna Blaster -Global Quest",
     "titleReading": "ぼんばあまんわあるど",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポケットギャルデラックス",
@@ -10158,7 +18342,14 @@ window.ARCADE_GAMES = [
     "name": "pktgaldx",
     "note": "Pocket Gal Deluxe (Euro v3.00)",
     "titleReading": "ぽけっとぎゃるでらっくす",
-    "manufacturerReading": "にっぽんしすてむ"
+    "manufacturerReading": "にっぽんしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミューテイションネイション",
@@ -10167,7 +18358,15 @@ window.ARCADE_GAMES = [
     "name": "mutnat",
     "note": "Mutation Nation (NGM-014 ~ NGH-014)",
     "titleReading": "みゅていしょんねいしょん",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モータルコンバット",
@@ -10176,7 +18375,15 @@ window.ARCADE_GAMES = [
     "name": "mk",
     "note": "Mortal Kombat (rev 5.0 T-Unit 03/19/93)",
     "titleReading": "もたるこんばっと",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライディングファイト",
@@ -10185,7 +18392,16 @@ window.ARCADE_GAMES = [
     "name": "ridingf",
     "note": "Riding Fight (Ver 1.0O)",
     "titleReading": "らいでぃんぐふぁいと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラストリゾート",
@@ -10194,7 +18410,14 @@ window.ARCADE_GAMES = [
     "name": "lresort",
     "note": "Last Resort",
     "titleReading": "らすとりぞと",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "龍虎の拳",
@@ -10203,7 +18426,15 @@ window.ARCADE_GAMES = [
     "name": "aof",
     "note": "Art of Fighting / NGM-044 / NGH-044",
     "titleReading": "りゅうこのけん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リングレイジ",
@@ -10212,7 +18443,16 @@ window.ARCADE_GAMES = [
     "name": "ringrage",
     "note": "Ring Rage (Ver 2.3O 1992/08/09)",
     "titleReading": "りんぐれいじ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワールドヒーローズ",
@@ -10221,7 +18461,15 @@ window.ARCADE_GAMES = [
     "name": "wh1",
     "note": "ALNM-005",
     "titleReading": "わあるどひいろうず",
-    "manufacturerReading": "あるふぁでんし"
+    "manufacturerReading": "あるふぁでんし",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｆ－１グランプリスター２",
@@ -10230,7 +18478,17 @@ window.ARCADE_GAMES = [
     "name": "f1gpstr2",
     "note": "F-1 Grand Prix Star II",
     "titleReading": "f1ぐらんぷりすた2",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ＩＱブロック",
@@ -10239,7 +18497,14 @@ window.ARCADE_GAMES = [
     "name": "iqblock",
     "note": "IQ-Block (V100U)",
     "titleReading": "iqぶろっく",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "NBAジャム",
@@ -10248,7 +18513,14 @@ window.ARCADE_GAMES = [
     "name": "nbajam",
     "note": "NBA Jam (rev 3.01 04/07/93)",
     "titleReading": "nbaじゃむ",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＰＫすくらんぶる",
@@ -10257,7 +18529,13 @@ window.ARCADE_GAMES = [
     "name": "pkscram",
     "note": "PK Scramble",
     "titleReading": "pkすくらんぶる",
-    "manufacturerReading": "こすもでんし"
+    "manufacturerReading": "こすもでんし",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ＳＤガンダム三国志 レインボー大陸戦記",
@@ -10266,7 +18544,15 @@ window.ARCADE_GAMES = [
     "name": "grainbow",
     "note": "SD Gundam Sangokushi Rainbow Tairiku Senki (Japan)",
     "titleReading": "sdがんだむさんごくしれいんぼたいりくせんき",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "【Ⅴ・Ⅴ】  ＜ヴイ ファイヴ＞",
@@ -10275,7 +18561,14 @@ window.ARCADE_GAMES = [
     "name": "vfive",
     "note": "V-Five (Japan)",
     "titleReading": "【vv】<ゔいふぁいゔ>",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アースジョーカー -U.N. DEFENSE FORCE-",
@@ -10284,7 +18577,14 @@ window.ARCADE_GAMES = [
     "name": "earthjkr",
     "note": "U.N. Defense Force: Earth Joker (US / Japan, set 1)",
     "titleReading": "あすじょかundefenseforce",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アテナのハテナ？",
@@ -10293,7 +18593,14 @@ window.ARCADE_GAMES = [
     "name": "atehate",
     "note": "",
     "titleReading": "あてなのはてな",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルティメット エコロジー",
@@ -10302,7 +18609,16 @@ window.ARCADE_GAMES = [
     "name": "ecofghtr",
     "note": "海外版 / Eco Fighters / World 931203",
     "titleReading": "あるてぃめっとえころじー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォーオブエアロ -Project MEIOU-",
@@ -10311,7 +18627,14 @@ window.ARCADE_GAMES = [
     "name": "wrofaero",
     "note": "War of Aero - Project MEIOU",
     "titleReading": "うぉおぶえあろprojectmeiou",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウルトラ闘魂伝説",
@@ -10320,7 +18643,15 @@ window.ARCADE_GAMES = [
     "name": "utoukond",
     "note": "Ultra Toukon Densetsu (Japan)",
     "titleReading": "うるとらとうこんでんせつ",
-    "manufacturerReading": "きっど/ばんぷれすと"
+    "manufacturerReading": "きっど/ばんぷれすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "おいしいパズルはいりませんか",
@@ -10329,7 +18660,14 @@ window.ARCADE_GAMES = [
     "name": "oisipuzl",
     "note": "Oishii Puzzle Ha Irimasenka",
     "titleReading": "おいしいぱずるはいりませんか",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オーマイガァー！",
@@ -10338,7 +18676,14 @@ window.ARCADE_GAMES = [
     "name": "ohmygod",
     "note": "Oh My God! (Japan)",
     "titleReading": "おまいがぁ",
-    "manufacturerReading": "あとらす"
+    "manufacturerReading": "あとらす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "海底大戦争 -In The Hunt",
@@ -10347,7 +18692,14 @@ window.ARCADE_GAMES = [
     "name": "kaiteids",
     "note": "日本版",
     "titleReading": "かいていだいせんそうinthehunt",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カチャット",
@@ -10356,7 +18708,14 @@ window.ARCADE_GAMES = [
     "name": "cachat",
     "note": "Cachat (Japan)",
     "titleReading": "かちゃっと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "仮面ライダー倶楽部バトルレーサー",
@@ -10365,7 +18724,14 @@ window.ARCADE_GAMES = [
     "name": "kamenrid",
     "note": "Masked Riders Club Battle Race",
     "titleReading": "かめんらいだくらぶばとるれさ",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガイアポリス -黄金鷹の剣-",
@@ -10374,7 +18740,15 @@ window.ARCADE_GAMES = [
     "name": "gaiapols",
     "note": "Gaiapolis (ver EAF)",
     "titleReading": "がいあぽりすおうごんたかのつるぎ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "餓狼伝説スペシャル",
@@ -10383,7 +18757,15 @@ window.ARCADE_GAMES = [
     "name": "fatfursp",
     "note": "set 1",
     "titleReading": "がろうでんせつすぺしゃる",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンネイル",
@@ -10392,7 +18774,14 @@ window.ARCADE_GAMES = [
     "name": "gunnail",
     "note": "GunNail (28th May. 1992)",
     "titleReading": "がんねいる",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "機動戦士ガンダム",
@@ -10401,7 +18790,15 @@ window.ARCADE_GAMES = [
     "name": "msgundam",
     "note": "",
     "titleReading": "きどうせんしがんだむ",
-    "manufacturerReading": "ばんぷれすとあるゅめ"
+    "manufacturerReading": "ばんぷれすとあるゅめ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャディラックス 恐竜新世紀",
@@ -10410,7 +18807,14 @@ window.ARCADE_GAMES = [
     "name": "dinoj",
     "note": "日本版 930201",
     "titleReading": "きゃでぃらっくすきょうりゅうしんせいき",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "究極戦隊ダダンダーン",
@@ -10419,7 +18823,15 @@ window.ARCADE_GAMES = [
     "name": "mmaulers",
     "note": "Monster Maulers (ver EAA)",
     "titleReading": "きゅうきょくせんたいだだんだん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ＆心理ゲーム クイズココロジー２",
@@ -10428,7 +18840,13 @@ window.ARCADE_GAMES = [
     "name": "qzkklgy2",
     "note": "Quiz Kokology 2",
     "titleReading": "くいず&しんりげむくいずこころじ2",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ 学問ノススメ",
@@ -10437,7 +18855,13 @@ window.ARCADE_GAMES = [
     "name": "qgakumon",
     "note": "Quiz Gakumon no Susume (Japan ver. JA1 Type H)",
     "titleReading": "くいずがくもんのすすめ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズクレヨンしんちゃん",
@@ -10446,7 +18870,13 @@ window.ARCADE_GAMES = [
     "name": "qcrayon",
     "note": "AAR",
     "titleReading": "くいずくれよんしんちゃん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ世界はSHOW by ショーバイ！！",
@@ -10455,7 +18885,13 @@ window.ARCADE_GAMES = [
     "name": "qzshowby",
     "note": "Quiz Sekai wa SHOW by shobai (Japan)",
     "titleReading": "くいずせかいはshowbyしょばい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ チャンネル・クエスチョン",
@@ -10464,7 +18900,13 @@ window.ARCADE_GAMES = [
     "name": "quizchq",
     "note": "Quiz Channel Question (Japan, Ver 1.00)",
     "titleReading": "くいずちゃんねるくえすちょん",
-    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと"
+    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ ぱにくるふぁんたじ～",
@@ -10473,7 +18915,13 @@ window.ARCADE_GAMES = [
     "name": "quizpani",
     "note": "Quiz Panicuru Fantasy",
     "titleReading": "くいずぱにくるふぁんたじ~",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クレヨンしんちゃん おらと遊ぼ",
@@ -10482,7 +18930,14 @@ window.ARCADE_GAMES = [
     "name": "qcrayon2",
     "note": "AAR",
     "titleReading": "くれよんしんちゃんおらとあそぼ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぐっすんおよよ",
@@ -10491,7 +18946,14 @@ window.ARCADE_GAMES = [
     "name": "riskchal",
     "note": "Risky Challenge",
     "titleReading": "ぐっすんおよよ",
-    "manufacturerReading": "あいれむ"
+    "manufacturerReading": "あいれむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グレートスラッガーズ -NEW WORLD STADIUM-",
@@ -10500,7 +18962,14 @@ window.ARCADE_GAMES = [
     "name": "gslugrsj",
     "note": "Great Sluggers (Japan)",
     "titleReading": "ぐれとすらっがずnewworldstadium",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴジラ",
@@ -10509,7 +18978,15 @@ window.ARCADE_GAMES = [
     "name": "godzilla",
     "note": "Godzilla (Japan)",
     "titleReading": "ごじら",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバトラー",
@@ -10518,7 +18995,14 @@ window.ARCADE_GAMES = [
     "name": "cybattlr",
     "note": "Cybattler",
     "titleReading": "さいばとら",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サダリ",
@@ -10527,7 +19011,14 @@ window.ARCADE_GAMES = [
     "name": "sadari",
     "note": "Sadari (Japan, NTC license)",
     "titleReading": "さだり",
-    "manufacturerReading": "dooyongntclicense"
+    "manufacturerReading": "dooyongntclicense",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サムライスピリッツ",
@@ -10536,7 +19027,15 @@ window.ARCADE_GAMES = [
     "name": "samsho",
     "note": "NGM-045",
     "titleReading": "さむらいすぴりっつ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンダードラゴン２ ＜雷龍２＞",
@@ -10545,7 +19044,14 @@ window.ARCADE_GAMES = [
     "name": "tdragon2",
     "note": "Thunder Dragon 2 (9th Nov. 1993)",
     "titleReading": "さんだどらごん2<かみなりりゅう2>",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・ファースト・ファンキー・ファイター",
@@ -10554,7 +19060,13 @@ window.ARCADE_GAMES = [
     "name": "funkyfig",
     "note": "The First Funky Fighter (USA, Canada, Mexico / Japan, set 1)",
     "titleReading": "ざふぁすとふぁんきふぁいた",
-    "manufacturerReading": "なかにほんりす/いすといすとてくのろじ"
+    "manufacturerReading": "なかにほんりす/いすといすとてくのろじ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "四川省II",
@@ -10563,7 +19075,14 @@ window.ARCADE_GAMES = [
     "name": "matchit2",
     "note": "Match It II",
     "titleReading": "しせんしょうii",
-    "manufacturerReading": "たむてっくす"
+    "manufacturerReading": "たむてっくす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海III",
@@ -10572,7 +19091,14 @@ window.ARCADE_GAMES = [
     "name": "shangha3",
     "note": "日本版",
     "titleReading": "しゃんはいiii",
-    "manufacturerReading": "さんそふと"
+    "manufacturerReading": "さんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シュマイザーロボ",
@@ -10581,7 +19107,15 @@ window.ARCADE_GAMES = [
     "name": "schmeisr",
     "note": "Schmeiser Robo (Japan)",
     "titleReading": "しゅまいざろぼ",
-    "manufacturerReading": "ほっとびぃ"
+    "manufacturerReading": "ほっとびぃ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "J.J.スコーカーズ",
@@ -10590,7 +19124,15 @@ window.ARCADE_GAMES = [
     "name": "jjsquawk",
     "note": "",
     "titleReading": "じぇいじぇいすこーかーず",
-    "manufacturerReading": "あてなえいぶる"
+    "manufacturerReading": "あてなえいぶる",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーストリートファイターII -ザ・ニューチャレンジャーズ",
@@ -10599,7 +19141,14 @@ window.ARCADE_GAMES = [
     "name": "ssf2j",
     "note": "日本版 931005",
     "titleReading": "すうぱあすとりいとふぁいたあiiざにゅうちゃれんじゃあず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'93 -激闘版-",
@@ -10608,7 +19157,14 @@ window.ARCADE_GAMES = [
     "name": "sws93",
     "note": "B AHR",
     "titleReading": "すうぱあわあるどすたじあむ93げきとうばん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーストリートファイターII -ザ･トーナメント･バトル-",
@@ -10617,7 +19173,15 @@ window.ARCADE_GAMES = [
     "name": "ssf2tbj",
     "note": "Super Street Fighter II: The Tournament Battle (Japan 931005)",
     "titleReading": "すぱすとりとふぁいたiiざざとなめんととなめんとばとる",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スラムダンク -B･BALL SHOW TIME-",
@@ -10626,7 +19190,14 @@ window.ARCADE_GAMES = [
     "name": "rungun",
     "note": "Run and Gun (ver EAA 1993 10.8)",
     "titleReading": "すらむだんくbbballshowtime",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国エース",
@@ -10635,7 +19206,14 @@ window.ARCADE_GAMES = [
     "name": "sngkace",
     "note": "日本版",
     "titleReading": "せんごくええす",
-    "manufacturerReading": "さいきょうばんぷれすとらいせんす"
+    "manufacturerReading": "さいきょうばんぷれすとらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国伝承２",
@@ -10644,7 +19222,15 @@ window.ARCADE_GAMES = [
     "name": "sengoku2",
     "note": "Sengoku 2 / Sengoku Denshou 2",
     "titleReading": "せんごくでんしょう2",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "雙翼 -ダブルウイングス-",
@@ -10653,7 +19239,14 @@ window.ARCADE_GAMES = [
     "name": "dblewing",
     "note": "Double Wings",
     "titleReading": "そうよくだぶるういんぐす",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "それいけココロジー２",
@@ -10662,7 +19255,13 @@ window.ARCADE_GAMES = [
     "name": "kokoroj2",
     "note": "Soreike Kokology Vol. 2 - Kokoro no Tanteikyoku",
     "titleReading": "それいけこころじ2",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "タオ体道",
@@ -10671,7 +19270,15 @@ window.ARCADE_GAMES = [
     "name": "taotaido",
     "note": "Tao Taido (2 button version)",
     "titleReading": "たおからだみち",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大王",
@@ -10680,7 +19287,14 @@ window.ARCADE_GAMES = [
     "name": "daioh",
     "note": "Daioh",
     "titleReading": "だいおう",
-    "manufacturerReading": "あてな"
+    "manufacturerReading": "あてな",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイナギア",
@@ -10689,7 +19303,14 @@ window.ARCADE_GAMES = [
     "name": "dynagear",
     "note": "Dyna Gear",
     "titleReading": "だいなぎあ",
-    "manufacturerReading": "すからべ"
+    "manufacturerReading": "すからべ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンジョンズ＆ドラゴンズ -タワーオブドゥーム-",
@@ -10698,7 +19319,14 @@ window.ARCADE_GAMES = [
     "name": "ddtodj",
     "note": "日本版 940412",
     "titleReading": "だんじょんずあんどどらごんずたわーおぶどぅーむ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "超時空要塞マクロスII",
@@ -10707,7 +19335,14 @@ window.ARCADE_GAMES = [
     "name": "macross2",
     "note": "",
     "titleReading": "ちょうじくうようさいまくろすii",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ティンクルピット",
@@ -10716,7 +19351,14 @@ window.ARCADE_GAMES = [
     "name": "tinklpit",
     "note": "Tinkle Pit (Japan)",
     "titleReading": "てぃんくるぴっと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トップランキングスターズ",
@@ -10725,7 +19367,16 @@ window.ARCADE_GAMES = [
     "name": "trstar",
     "note": "Top Ranking Stars (Ver 2.1O 1993/05/21) (New Version)",
     "titleReading": "とっぷらんきんぐすたず",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンボールＺ",
@@ -10734,7 +19385,15 @@ window.ARCADE_GAMES = [
     "name": "dbz",
     "note": "Dragon Ball Z (rev B)",
     "titleReading": "どらごんぼるz",
-    "manufacturerReading": "まじかるふぉめしょん"
+    "manufacturerReading": "まじかるふぉめしょん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラマチックアドベンチャークイズ キース＆ルーシィ",
@@ -10743,7 +19402,13 @@ window.ARCADE_GAMES = [
     "name": "keithlcy",
     "note": "Dramatic Adventure Quiz Keith & Lucy (Japan)",
     "titleReading": "どらまちっくあどべんちゃくいずきす&るしぃ",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ナックルバッシュ",
@@ -10752,7 +19417,15 @@ window.ARCADE_GAMES = [
     "name": "kbash",
     "note": "Knuckle Bash",
     "titleReading": "なっくるばっしゅ",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "熱闘！激闘！クイズ島",
@@ -10761,7 +19434,13 @@ window.ARCADE_GAMES = [
     "name": "quiztou",
     "note": "Nettou! Gekitou! Quiztou!! (Japan)",
     "titleReading": "ねっとうげきとうくいずしま",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ノストラダムス",
@@ -10770,7 +19449,14 @@ window.ARCADE_GAMES = [
     "name": "nost",
     "note": "Nostradamus",
     "titleReading": "のすとらだむす",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーデュエル",
@@ -10779,7 +19465,14 @@ window.ARCADE_GAMES = [
     "name": "hyprduel",
     "note": "Hyper Duel (Japan set 1)",
     "titleReading": "はいぱでゅえる",
-    "manufacturerReading": "てくのそふと"
+    "manufacturerReading": "てくのそふと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハットトリックヒーロー'93",
@@ -10788,7 +19481,16 @@ window.ARCADE_GAMES = [
     "name": "scfinals",
     "note": "Super Cup Finals (ver 2.10 1998/11/19)",
     "titleReading": "はっととりっくひいろう93",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "早押しクイズ 王座決定戦 -KING OF QUIZ-",
@@ -10797,7 +19499,13 @@ window.ARCADE_GAMES = [
     "name": "hayaosi1",
     "note": "Hayaoshi Quiz Ouza Ketteisen - The King Of Quiz",
     "titleReading": "はやおしくいずおうざけっていせんkingofquiz",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "バイオレントストーム",
@@ -10806,7 +19514,15 @@ window.ARCADE_GAMES = [
     "name": "viostorm",
     "note": "Violent Storm (ver EAC)",
     "titleReading": "ばいおれんとすとむ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "爆裂クラッシュレース",
@@ -10815,7 +19531,14 @@ window.ARCADE_GAMES = [
     "name": "crshrace",
     "note": "Lethal Crash Race / Bakuretsu Crash Race (set 1)",
     "titleReading": "ばくれつくらっしゅれす",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーチャフォーミュラ",
@@ -10824,7 +19547,17 @@ window.ARCADE_GAMES = [
     "name": "vformula",
     "note": "Virtua Formula",
     "titleReading": "ばちゃふぉみゅら",
-    "manufacturerReading": "せがam2"
+    "manufacturerReading": "せがam2",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "バツグン",
@@ -10833,7 +19566,14 @@ window.ARCADE_GAMES = [
     "name": "batsugun",
     "note": "",
     "titleReading": "ばつぐん",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バツグン",
@@ -10842,7 +19582,14 @@ window.ARCADE_GAMES = [
     "name": "batsugunsp",
     "note": "special ver",
     "titleReading": "ばつぐん",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パニッシャー",
@@ -10851,7 +19598,14 @@ window.ARCADE_GAMES = [
     "name": "punisherj",
     "note": "日本版 930422",
     "titleReading": "ぱにっしゃー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイヤーバレル",
@@ -10860,7 +19614,14 @@ window.ARCADE_GAMES = [
     "name": "firebarr",
     "note": "Fire Barrel (Japan)",
     "titleReading": "ふぁいやばれる",
-    "manufacturerReading": "たむてっくす"
+    "manufacturerReading": "たむてっくす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイヤースープレックス",
@@ -10869,7 +19630,14 @@ window.ARCADE_GAMES = [
     "name": "3countb",
     "note": "3 Count Bout / NGM-043 / NGH-043",
     "titleReading": "ふぁいやーすーぷれっくす",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブルーホーク",
@@ -10878,7 +19646,14 @@ window.ARCADE_GAMES = [
     "name": "bluehawk",
     "note": "Blue Hawk",
     "titleReading": "ぶるほく",
-    "manufacturerReading": "dooyong"
+    "manufacturerReading": "dooyong",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレイガールズII",
@@ -10887,7 +19662,14 @@ window.ARCADE_GAMES = [
     "name": "plgirls2",
     "note": "Play Girls 2",
     "titleReading": "ぷれいがるずii",
-    "manufacturerReading": "ほっとびぃ"
+    "manufacturerReading": "ほっとびぃ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレミアサッカー",
@@ -10896,7 +19678,14 @@ window.ARCADE_GAMES = [
     "name": "prmrsocr",
     "note": "Premier Soccer (ver EAB)",
     "titleReading": "ぷれみあさっか",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボンジャックツイン",
@@ -10905,7 +19694,14 @@ window.ARCADE_GAMES = [
     "name": "bjtwin",
     "note": "set 1",
     "titleReading": "ぼんじゃっくついん",
-    "manufacturerReading": "えぬえむけー"
+    "manufacturerReading": "えぬえむけー",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぽいっと！",
@@ -10914,7 +19710,14 @@ window.ARCADE_GAMES = [
     "name": "poitto",
     "note": "Poitto! (revision D)",
     "titleReading": "ぽいっと",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーシャルチャンピオン",
@@ -10923,7 +19726,15 @@ window.ARCADE_GAMES = [
     "name": "mtlchamp",
     "note": "Martial Champion (ver EAB)",
     "titleReading": "ましゃるちゃんぴおん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルキャットアドベンチャー",
@@ -10932,7 +19743,14 @@ window.ARCADE_GAMES = [
     "name": "mcatadv",
     "note": "Magical Cat Adventure",
     "titleReading": "まじかるきゃっとあどべんちゃ",
-    "manufacturerReading": "ういんてくの"
+    "manufacturerReading": "ういんてくの",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッスルボマー -THE BODY EXPLOSION-",
@@ -10941,7 +19759,14 @@ window.ARCADE_GAMES = [
     "name": "slammast",
     "note": "海外版 / Saturday Night Slam Masters / World 930713",
     "titleReading": "まっするぼまーざぼでぃえくすぷろーじょん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッスルボマーDUO -HEAT UP WARRIORS-",
@@ -10950,7 +19775,14 @@ window.ARCADE_GAMES = [
     "name": "mbombrdj",
     "note": "日本版 931206",
     "titleReading": "まっするぼまーでゅおひーとあっぷうぉりあーず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マッド・シャーク",
@@ -10959,7 +19791,14 @@ window.ARCADE_GAMES = [
     "name": "madshark",
     "note": "Mad Shark",
     "titleReading": "まっどしゃく",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "魔法大作戦",
@@ -10968,7 +19807,14 @@ window.ARCADE_GAMES = [
     "name": "mahoudai",
     "note": "Mahou Daisakusen (Japan)",
     "titleReading": "まほうだいさくせん",
-    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミスティックウォリアーズ -怒りの忍者-",
@@ -10977,7 +19823,15 @@ window.ARCADE_GAMES = [
     "name": "mystwarr",
     "note": "Mystic Warriors (ver EAA)",
     "titleReading": "みすてぃっくうぉりあずいかりのにんじゃ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミラクルアドベンチャー",
@@ -10986,7 +19840,14 @@ window.ARCADE_GAMES = [
     "name": "spinmast",
     "note": "Spin Master / Miracle Adventure",
     "titleReading": "みらくるあどべんちゃ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタモルフィックフォース",
@@ -10995,7 +19856,15 @@ window.ARCADE_GAMES = [
     "name": "metamrph",
     "note": "Metamorphic Force (ver EAA)",
     "titleReading": "めたもるふぃっくふぉす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "燃えよゴンタ！！",
@@ -11004,7 +19873,14 @@ window.ARCADE_GAMES = [
     "name": "ladykill",
     "note": "Lady Killer",
     "titleReading": "もえよごんた",
-    "manufacturerReading": "やんやか"
+    "manufacturerReading": "やんやか",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モータルコンバットII",
@@ -11013,7 +19889,15 @@ window.ARCADE_GAMES = [
     "name": "mk2",
     "note": "Mortal Kombat II (rev L3.1)",
     "titleReading": "もたるこんばっとii",
-    "manufacturerReading": "みっどうぇい"
+    "manufacturerReading": "みっどうぇい",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライトブリンガー",
@@ -11022,7 +19906,16 @@ window.ARCADE_GAMES = [
     "name": "lightbr",
     "note": "Light Bringer (Ver 2.2O 1994/04/08)",
     "titleReading": "らいとぶりんが",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "龍神",
@@ -11031,7 +19924,14 @@ window.ARCADE_GAMES = [
     "name": "ryujin",
     "note": "Ryu Jin (Japan)",
     "titleReading": "りゅうじん",
-    "manufacturerReading": "いすといすとてくのろじ"
+    "manufacturerReading": "いすといすとてくのろじ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイフォース",
@@ -11040,7 +19940,16 @@ window.ARCADE_GAMES = [
     "name": "gunlock",
     "note": "Gunlock (Ver 2.3O 1994/01/20)",
     "titleReading": "れいふぉす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワールドヒーローズ2",
@@ -11049,7 +19958,15 @@ window.ARCADE_GAMES = [
     "name": "wh2",
     "note": "ALNM-006 / ALH-006",
     "titleReading": "わあるどひいろうず2",
-    "manufacturerReading": "ええでぃーけー"
+    "manufacturerReading": "ええでぃーけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "わいわいアニマルランドJr.",
@@ -11058,7 +19975,13 @@ window.ARCADE_GAMES = [
     "name": "animaljrj",
     "note": "日本版",
     "titleReading": "わいわいあにまるらんどじゅにあ",
-    "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす"
+    "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "不明"
+    ]
   },
   {
     "title": "Ｊリーグサッカー Ｖシュート",
@@ -11067,7 +19990,14 @@ window.ARCADE_GAMES = [
     "name": "vshoot",
     "note": "J-League Soccer V-Shoot (Japan)",
     "titleReading": "jりぐさっかvしゅと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アリゲーターハント",
@@ -11076,7 +20006,14 @@ window.ARCADE_GAMES = [
     "name": "aligatorun",
     "note": "unprotected / checksum F9C6891D",
     "titleReading": "ありげーたーはんと",
-    "manufacturerReading": "がえるこ"
+    "manufacturerReading": "がえるこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エイトフォース",
@@ -11085,7 +20022,14 @@ window.ARCADE_GAMES = [
     "name": "eightfrc",
     "note": "Eight Forces",
     "titleReading": "えいとふぉす",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エイリアンVSプレデター",
@@ -11094,7 +20038,14 @@ window.ARCADE_GAMES = [
     "name": "avspj",
     "note": "日本版 940520",
     "titleReading": "えいりあんvsぷれでたあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "X-MEN -チルドレン オブ ジ アトム",
@@ -11103,7 +20054,14 @@ window.ARCADE_GAMES = [
     "name": "xmcotajr",
     "note": "日本版 941208 rent ver",
     "titleReading": "えっくすめんちるどれんおぶじあとむ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エックスメン -チルドレンオブジアトム-",
@@ -11112,7 +20070,15 @@ window.ARCADE_GAMES = [
     "name": "xmcota",
     "note": "X-Men: Children of the Atom (Euro 950331)",
     "titleReading": "えっくすめんちるどれんおぶじあとむ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エレベーターアクションリターンズ",
@@ -11121,7 +20087,17 @@ window.ARCADE_GAMES = [
     "name": "elvactr",
     "note": "Elevator Action Returns (Ver 2.2O 1995/02/20)",
     "titleReading": "えれべたあくしょんりたんず",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大江戸ファイト",
@@ -11130,7 +20106,14 @@ window.ARCADE_GAMES = [
     "name": "oedfight",
     "note": "日本版 Bloodshed version",
     "titleReading": "おおえどふぁいと",
-    "manufacturerReading": "かねこ"
+    "manufacturerReading": "かねこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "おてんきパラダイス -スノーブラザーズ2-",
@@ -11139,7 +20122,14 @@ window.ARCADE_GAMES = [
     "name": "snowbro2",
     "note": "Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram)",
     "titleReading": "おてんきぱらだいすすのぶらざず2",
-    "manufacturerReading": "とうあぷらん"
+    "manufacturerReading": "とうあぷらん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オペレーションラグナロク -作戦名ラグナロク-",
@@ -11148,7 +20138,14 @@ window.ARCADE_GAMES = [
     "name": "zedblade",
     "note": "Zed Blade / Operation Ragnarok",
     "titleReading": "おぺれしょんらぐなろくさくせんめいらぐなろく",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カイザーナックル",
@@ -11157,7 +20154,17 @@ window.ARCADE_GAMES = [
     "name": "kaiserkn",
     "note": "Kaiser Knuckle (Ver 2.1O 1994/07/29)",
     "titleReading": "かいざなっくる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンマスター",
@@ -11166,7 +20173,15 @@ window.ARCADE_GAMES = [
     "name": "gunmast",
     "note": "Gun Master",
     "titleReading": "がんますた",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "機動戦士ガンダム ＥＸレビュー",
@@ -11175,7 +20190,15 @@ window.ARCADE_GAMES = [
     "name": "gundamex",
     "note": "Mobile Suit Gundam EX Revue",
     "titleReading": "きどうせんしがんだむexれびゅ",
-    "manufacturerReading": "あるゅめ"
+    "manufacturerReading": "あるゅめ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "究極!!ＰＣ原人 -スペシャルアーケードバージョン-",
@@ -11184,7 +20207,14 @@ window.ARCADE_GAMES = [
     "name": "bonkadv",
     "note": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
     "titleReading": "きゅうきょくpcげんじんすぺしゃるあけどばじょん",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズゴーストハンター",
@@ -11193,7 +20223,14 @@ window.ARCADE_GAMES = [
     "name": "qgh",
     "note": "日本版, ROM Based",
     "titleReading": "くいずごーすとはんたー",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズシアター -3つの物語-",
@@ -11202,7 +20239,16 @@ window.ARCADE_GAMES = [
     "name": "qtheater",
     "note": "Quiz Theater - 3tsu no Monogatari (Ver 2.3J 1994/11/10)",
     "titleReading": "くいずしあた3つのものがたり",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ ドレミファグランプリ",
@@ -11211,7 +20257,13 @@ window.ARCADE_GAMES = [
     "name": "qdrmfgp",
     "note": "Quiz Do Re Mi Fa Grand Prix (Japan)",
     "titleReading": "くいずどれみふぁぐらんぷり",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ぐるりん",
@@ -11220,7 +20272,14 @@ window.ARCADE_GAMES = [
     "name": "gururin",
     "note": "Gururin",
     "titleReading": "ぐるりん",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グレートスラッガーズ'９４ -Featuring 1994 Team Rosters-",
@@ -11229,7 +20288,14 @@ window.ARCADE_GAMES = [
     "name": "gslgr94u",
     "note": "Great Sluggers '94",
     "titleReading": "ぐれとすらっがず'94featuring1994teamrosters",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "古今東西 干支物語 -猫だって干支の仲間になりたかった-",
@@ -11238,7 +20304,14 @@ window.ARCADE_GAMES = [
     "name": "eto",
     "note": "Kokontouzai Eto Monogatari (Japan)",
     "titleReading": "ここんとうざいえとものがたりねこだってえとのなかまになりたかった",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "滾球の星",
@@ -11247,7 +20320,13 @@ window.ARCADE_GAMES = [
     "name": "bmcbowl",
     "note": "Konkyuu no Hoshi",
     "titleReading": "こんたまのほし",
-    "manufacturerReading": "bmc"
+    "manufacturerReading": "bmc",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ゴールデンアックス・ザ・デュエル",
@@ -11256,7 +20335,15 @@ window.ARCADE_GAMES = [
     "name": "gaxeduel",
     "note": "USA / 欧州 / G38 / ST UAB 950117 ver 1.000)",
     "titleReading": "ごうるでんあっくすざでゅえる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "極上パロディウス - 過去の栄光を求めて",
@@ -11265,7 +20352,14 @@ window.ARCADE_GAMES = [
     "name": "gokuparo",
     "note": "ver JAD",
     "titleReading": "ごくじょうぱろでぃうすかこのえいこうをもとめて",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバーコマンド",
@@ -11274,7 +20368,14 @@ window.ARCADE_GAMES = [
     "name": "cybrcomm",
     "note": "Cyber Commando (Rev. CY1, Japan)",
     "titleReading": "さいばこまんど",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サッカースーパースターズ",
@@ -11283,7 +20384,14 @@ window.ARCADE_GAMES = [
     "name": "soccerss",
     "note": "Soccer Superstars (ver EAC)",
     "titleReading": "さっかすぱすたず",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・Jリーグ 1994",
@@ -11292,7 +20400,14 @@ window.ARCADE_GAMES = [
     "name": "jleague",
     "note": "日本版",
     "titleReading": "ざjりいぐ1994",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '94",
@@ -11301,7 +20416,15 @@ window.ARCADE_GAMES = [
     "name": "kof94",
     "note": "NGM-055 / NGH-055",
     "titleReading": "ざきんぐおぶふぁいたあず94",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "真サムライスピリッツ -覇王丸地獄変-",
@@ -11310,7 +20433,15 @@ window.ARCADE_GAMES = [
     "name": "samsho2",
     "note": "NGM-063 / NGH-063",
     "titleReading": "しんさむらいすぴりっつ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーストリートファイターII X -グランドマスターチャレンジ",
@@ -11319,7 +20450,15 @@ window.ARCADE_GAMES = [
     "name": "ssf2xj",
     "note": "日本版 940223",
     "titleReading": "すうぱあすとりいとふぁいたあiixぐらんどますたあちゃれんじ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スカッドハンマー",
@@ -11328,7 +20467,15 @@ window.ARCADE_GAMES = [
     "name": "scudhamm",
     "note": "Scud Hammer",
     "titleReading": "すかっどはんま",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "スタックコラムス",
@@ -11337,7 +20484,14 @@ window.ARCADE_GAMES = [
     "name": "stkclmnsj",
     "note": "日本版",
     "titleReading": "すたっくこらむす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーＸ",
@@ -11346,7 +20500,14 @@ window.ARCADE_GAMES = [
     "name": "superx",
     "note": "Super-X (NTC)",
     "titleReading": "すぱx",
-    "manufacturerReading": "dooyongntclicense"
+    "manufacturerReading": "dooyongntclicense",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーイーグルショット",
@@ -11355,7 +20516,14 @@ window.ARCADE_GAMES = [
     "name": "speglsht",
     "note": "Super Eagle Shot",
     "titleReading": "すぱいぐるしょっと",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スラップショット",
@@ -11364,7 +20532,14 @@ window.ARCADE_GAMES = [
     "name": "slapshot",
     "note": "Slap Shot (Japan)",
     "titleReading": "すらっぷしょっと",
-    "manufacturerReading": "いすといすとてくのろじ"
+    "manufacturerReading": "いすといすとてくのろじ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーマッスルボマー -THE INTERNATIONAL BLOWOUT-",
@@ -11373,7 +20548,14 @@ window.ARCADE_GAMES = [
     "name": "ringdest",
     "note": "海外版 / Ring of Destruction: Slammasters II / Europe 940902",
     "titleReading": "すーぱーまっするぼまーじいんたーなしょなるぶろーあうと",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ずんずん教の野望",
@@ -11382,7 +20564,14 @@ window.ARCADE_GAMES = [
     "name": "zunkyou",
     "note": "日本版",
     "titleReading": "ずんずんきょうのやぼう",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソニックウイングス２",
@@ -11391,7 +20580,14 @@ window.ARCADE_GAMES = [
     "name": "sonicwi2",
     "note": "Aero Fighters 2 / Sonic Wings 2",
     "titleReading": "そにっくういんぐす2",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "対戦ぱずるだま",
@@ -11400,7 +20596,14 @@ window.ARCADE_GAMES = [
     "name": "puzldama",
     "note": "ver JAA",
     "titleReading": "たいせんぱずるだま",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダライアス外伝 -シルバーホーク",
@@ -11409,7 +20612,16 @@ window.ARCADE_GAMES = [
     "name": "dariusg",
     "note": "ver 2.5O 1994/09/19",
     "titleReading": "だらいあすがいでんしるばあほうく",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "だるま道場 -目指せ、達麿王-",
@@ -11418,7 +20630,14 @@ window.ARCADE_GAMES = [
     "name": "dharma",
     "note": "Dharma Doujou",
     "titleReading": "だるまどうじょうめざせだるまおう",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンクドリーム",
@@ -11427,7 +20646,14 @@ window.ARCADE_GAMES = [
     "name": "strhoop",
     "note": "Street Hoop / Street Slam / Dunk Dream (DEM-004 ~ DEH-004)",
     "titleReading": "だんくどりむ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツインイーグルII -The Rescue Mission",
@@ -11436,7 +20662,14 @@ window.ARCADE_GAMES = [
     "name": "twineag2",
     "note": "",
     "titleReading": "ついんいいぐるiitherescuemission",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "痛快GANGAN行進曲",
@@ -11445,7 +20678,15 @@ window.ARCADE_GAMES = [
     "name": "aodk",
     "note": "ADM-008 / ADH-008",
     "titleReading": "つうかいganganこうしんきょく",
-    "manufacturerReading": "ええでぃーけーえすえぬけー"
+    "manufacturerReading": "ええでぃーけーえすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "天地を喰らうII -赤壁の戦い- (CPSチェンジャー版)",
@@ -11454,7 +20695,15 @@ window.ARCADE_GAMES = [
     "name": "wofch",
     "note": "Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)",
     "titleReading": "てんちをくらうiiせきへきのたたかいcpsちぇんじゃはん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "電神魔傀 -DENJINMAKAI-",
@@ -11463,7 +20712,14 @@ window.ARCADE_GAMES = [
     "name": "denjinmk",
     "note": "Denjin Makai (set 1)",
     "titleReading": "でんしんまかいdenjinmakai",
-    "manufacturerReading": "うぃんきそふと"
+    "manufacturerReading": "うぃんきそふと",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "登龍門",
@@ -11472,7 +20728,14 @@ window.ARCADE_GAMES = [
     "name": "toryumon",
     "note": "",
     "titleReading": "とうりゅうもん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トップハンター -RODDY ＆ CATHY-",
@@ -11481,7 +20744,14 @@ window.ARCADE_GAMES = [
     "name": "tophuntr",
     "note": "Top Hunter - Roddy & Cathy (NGM-046)",
     "titleReading": "とっぷはんたroddy&cathy",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンボールZ 2 -スーパーバトル",
@@ -11490,7 +20760,15 @@ window.ARCADE_GAMES = [
     "name": "dbz2",
     "note": "",
     "titleReading": "どらごんぼうるz2すうぱあばとる",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンボールZ V.R.V.S",
@@ -11499,7 +20777,15 @@ window.ARCADE_GAMES = [
     "name": "dbzvrvs",
     "note": "Dragon Ball Z V.R.V.S. (Japan, Rev A)",
     "titleReading": "どらごんぼるzvrvs",
-    "manufacturerReading": "せが/ばんぷれすと"
+    "manufacturerReading": "せが/ばんぷれすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドリフトアウト'９４ -THE HARD ORDER-",
@@ -11508,7 +20794,14 @@ window.ARCADE_GAMES = [
     "name": "drifto94",
     "note": "Drift Out '94 - The Hard Order (Japan)",
     "titleReading": "どりふとあうと'94thehardorder",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ななめでまじっく！",
@@ -11517,7 +20810,14 @@ window.ARCADE_GAMES = [
     "name": "naname",
     "note": "Naname de Magic! (Japan)",
     "titleReading": "ななめでまじっく",
-    "manufacturerReading": "あとらす"
+    "manufacturerReading": "あとらす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハットトリックヒーロー'95",
@@ -11526,7 +20826,16 @@ window.ARCADE_GAMES = [
     "name": "hthero95",
     "note": "Ver 2.5J 1994/11/03",
     "titleReading": "はっととりっくひいろう95",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "早押しクイズ 熱闘生放送",
@@ -11535,7 +20844,13 @@ window.ARCADE_GAMES = [
     "name": "hayaosi3",
     "note": "Hayaoshi Quiz Nettou Namahousou (ver 1.5)",
     "titleReading": "はやおしくいずねっとうなまほうそう",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "早指し将棋 五月陣戦２ -MAYJINSEN II-",
@@ -11544,7 +20859,14 @@ window.ARCADE_GAMES = [
     "name": "mayjisn2",
     "note": "Mayjinsen 2",
     "titleReading": "はやざししょうぎごがつじんせん2mayjinsenii",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "疾風魔法大作戦 -KINGDOM GRANDPRIX-",
@@ -11553,7 +20875,14 @@ window.ARCADE_GAMES = [
     "name": "shippumd",
     "note": "Shippu Mahou Daisakusen (Japan)",
     "titleReading": "はやてまほうだいさくせんkingdomgrandprix",
-    "manufacturerReading": "らいじんぐ"
+    "manufacturerReading": "らいじんぐ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハードダンク",
@@ -11562,7 +20891,14 @@ window.ARCADE_GAMES = [
     "name": "harddunkj",
     "note": "日本版",
     "titleReading": "はーどだんく",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーチャファイター２",
@@ -11571,7 +20907,15 @@ window.ARCADE_GAMES = [
     "name": "vf2b",
     "note": "Virtua Fighter 2 (Revision B)",
     "titleReading": "ばちゃふぁいた2",
-    "manufacturerReading": "せがam2"
+    "manufacturerReading": "せがam2",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーチャファイター２.１",
@@ -11580,7 +20924,15 @@ window.ARCADE_GAMES = [
     "name": "vf2",
     "note": "Virtua Fighter 2 (Version 2.1)",
     "titleReading": "ばちゃふぁいた21",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルクロード",
@@ -11589,7 +20941,15 @@ window.ARCADE_GAMES = [
     "name": "btlkroad",
     "note": "",
     "titleReading": "ばとるくろうど",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バブルシンフォニー",
@@ -11598,7 +20958,16 @@ window.ARCADE_GAMES = [
     "name": "bublbob2",
     "note": "Bubble Bobble II",
     "titleReading": "ばぶるしんふぉにい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "牌砦II 仇討ち外伝",
@@ -11607,7 +20976,14 @@ window.ARCADE_GAMES = [
     "name": "toride2g",
     "note": "Toride II Adauchi Gaiden",
     "titleReading": "ぱいとりでiiあだうちがいでん",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズル＆アクション イチダントアール",
@@ -11616,7 +20992,14 @@ window.ARCADE_GAMES = [
     "name": "ichirj",
     "note": "日本版",
     "titleReading": "ぱずるあんどあくしょんいちだんとあーる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル",
@@ -11625,7 +21008,14 @@ window.ARCADE_GAMES = [
     "name": "pbobble",
     "note": "",
     "titleReading": "ぱずるぼぶる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル （MVS版）",
@@ -11634,7 +21024,14 @@ window.ARCADE_GAMES = [
     "name": "pbobblen",
     "note": "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)",
     "titleReading": "ぱずるぼぶるmvsはん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パワースパイクスII",
@@ -11643,7 +21040,14 @@ window.ARCADE_GAMES = [
     "name": "pspikes2",
     "note": "NGM-068",
     "titleReading": "ぱわあすぱいくすii",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パワードギア",
@@ -11652,7 +21056,14 @@ window.ARCADE_GAMES = [
     "name": "pgear",
     "note": "日本版 941024 / Strategic Variant Armor Equipment",
     "titleReading": "ぱわーどぎあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイターズヒストリーダイナマイト",
@@ -11661,7 +21072,15 @@ window.ARCADE_GAMES = [
     "name": "karnovr",
     "note": "",
     "titleReading": "ふぁいたあずひすとりいだいなまいと",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイトフィーバー",
@@ -11670,7 +21089,15 @@ window.ARCADE_GAMES = [
     "name": "fightfev",
     "note": "Fight Fever / Wang Jung Wang (set 1)",
     "titleReading": "ふぁいとふぃば",
-    "manufacturerReading": "viccom"
+    "manufacturerReading": "viccom",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フライング・パワー・ディスク",
@@ -11679,7 +21106,14 @@ window.ARCADE_GAMES = [
     "name": "wjammers",
     "note": "Windjammers / Flying Power Disc",
     "titleReading": "ふらいんぐぱわでぃすく",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイジングトルネード",
@@ -11688,7 +21122,14 @@ window.ARCADE_GAMES = [
     "name": "blzntrnd",
     "note": "",
     "titleReading": "ぶれいじんぐとるねーど",
-    "manufacturerReading": "ひゅーまん"
+    "manufacturerReading": "ひゅーまん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブロッケン",
@@ -11697,7 +21138,14 @@ window.ARCADE_GAMES = [
     "name": "blocken",
     "note": "日本版",
     "titleReading": "ぶろっけん",
-    "manufacturerReading": "びすこきっど"
+    "manufacturerReading": "びすこきっど",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぷにっきいず",
@@ -11706,7 +21154,14 @@ window.ARCADE_GAMES = [
     "name": "pnickj",
     "note": "Pnickies (Japan 940608)",
     "titleReading": "ぷにっきいず",
-    "manufacturerReading": "こんぱいる"
+    "manufacturerReading": "こんぱいる",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぷよぷよ通",
@@ -11715,7 +21170,14 @@ window.ARCADE_GAMES = [
     "name": "puyopuy2",
     "note": "日本版",
     "titleReading": "ぷよぷよどおり",
-    "manufacturerReading": "こんぱいるせがらいせんす"
+    "manufacturerReading": "こんぱいるせがらいせんす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "へべれけのぽぷーん",
@@ -11724,7 +21186,14 @@ window.ARCADE_GAMES = [
     "name": "heberpop",
     "note": "Hebereke no Popoon (Japan)",
     "titleReading": "へべれけのぽぷん",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ベストバウトボクシング",
@@ -11733,7 +21202,14 @@ window.ARCADE_GAMES = [
     "name": "bbbxing",
     "note": "",
     "titleReading": "べすとばうとぼくしんぐ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ボンバーマン ぱにっくボンバー",
@@ -11742,7 +21218,14 @@ window.ARCADE_GAMES = [
     "name": "panicbom",
     "note": "Panic Bomber",
     "titleReading": "ぼんばまんぱにっくぼんば",
-    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポトポト",
@@ -11751,7 +21234,14 @@ window.ARCADE_GAMES = [
     "name": "potopoto",
     "note": "日本版, Rev A",
     "titleReading": "ぽとぽと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルエラーをさがせ！",
@@ -11760,7 +21250,14 @@ window.ARCADE_GAMES = [
     "name": "magerror",
     "note": "Magical Error wo Sagase",
     "titleReading": "まじかるえらをさがせ",
-    "manufacturerReading": "てくのそふと"
+    "manufacturerReading": "てくのそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラピッドヒーロー",
@@ -11769,7 +21266,14 @@ window.ARCADE_GAMES = [
     "name": "raphero",
     "note": "Rapid Hero (NMK)",
     "titleReading": "らぴっどひろ",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "龍虎の拳2",
@@ -11778,7 +21282,15 @@ window.ARCADE_GAMES = [
     "name": "aof2",
     "note": "Art of Fighting 2",
     "titleReading": "りゅうこのけんつー",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ルー大柴＆細川ふみえ 早押しクイズ -グランドチャンピオン大会-",
@@ -11787,7 +21299,13 @@ window.ARCADE_GAMES = [
     "name": "hayaosi2",
     "note": "Hayaoshi Quiz Grand Champion Taikai",
     "titleReading": "るおおしば&ほそかわふみえはやおしくいずぐらんどちゃんぴおんたいかい",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "レールチェイス２",
@@ -11796,7 +21314,15 @@ window.ARCADE_GAMES = [
     "name": "rchase2",
     "note": "Rail Chase 2 (Revision A)",
     "titleReading": "れるちぇいす2",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンパイア -ザ・ナイト・ウォリアーズ-",
@@ -11805,7 +21331,14 @@ window.ARCADE_GAMES = [
     "name": "vampj",
     "note": "日本版 940705",
     "titleReading": "ゔぁんぱいあざないとうぉりああず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Double Point -夜上海-",
@@ -11814,7 +21347,14 @@ window.ARCADE_GAMES = [
     "name": "dblpoint",
     "note": "Double Point",
     "titleReading": "doublepointよるしゃんはい",
-    "manufacturerReading": "mincorp"
+    "manufacturerReading": "mincorp",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｐ－４７ エイセス",
@@ -11823,7 +21363,14 @@ window.ARCADE_GAMES = [
     "name": "p47aces",
     "note": "P-47 Aces (ver 1.1)",
     "titleReading": "p47えいせす",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "あっかんべぇだ～",
@@ -11832,7 +21379,16 @@ window.ARCADE_GAMES = [
     "name": "spcinv95",
     "note": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)",
     "titleReading": "あっかんべぇだ~",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アベンジャーズ・イン・ギャラクティックストーム",
@@ -11841,7 +21397,14 @@ window.ARCADE_GAMES = [
     "name": "avengrgsj",
     "note": "日本版 1.2",
     "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
-    "manufacturerReading": "でーたいーすと"
+    "manufacturerReading": "でーたいーすと",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウルトラ警備隊 -空想特撮ゲーム-",
@@ -11850,7 +21413,14 @@ window.ARCADE_GAMES = [
     "name": "ultrax",
     "note": "Ultra X Weapons / Ultra Keibitai",
     "titleReading": "うるとらけいびたいくうそうとくさつげむ",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エアーコンバット２２",
@@ -11859,7 +21429,15 @@ window.ARCADE_GAMES = [
     "name": "airco22b",
     "note": "Air Combat 22 (Rev. ACS1 Ver.B, Japan)",
     "titleReading": "えあこんばっと22",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エクストリーム・ダウンヒル",
@@ -11868,7 +21446,14 @@ window.ARCADE_GAMES = [
     "name": "extdwnhl",
     "note": "Extreme Downhill (v1.5)",
     "titleReading": "えくすとりむだうんひる",
-    "manufacturerReading": "さみこうぎょう"
+    "manufacturerReading": "さみこうぎょう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "絵本探偵事務所",
@@ -11877,7 +21462,14 @@ window.ARCADE_GAMES = [
     "name": "ejihon",
     "note": "日本版 950613 V1.000",
     "titleReading": "えほんたんていじむしょ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オセロダービー",
@@ -11886,7 +21478,14 @@ window.ARCADE_GAMES = [
     "name": "othldrby",
     "note": "Othello Derby (Japan)",
     "titleReading": "おせろだび",
-    "manufacturerReading": "さんわいず"
+    "manufacturerReading": "さんわいず",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガーディアンズ",
@@ -11895,7 +21494,15 @@ window.ARCADE_GAMES = [
     "name": "grdians",
     "note": "Guardians / Denjin Makai II (P-FG01-1 PCB)",
     "titleReading": "がでぃあんず",
-    "manufacturerReading": "うぃんきそふと"
+    "manufacturerReading": "うぃんきそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "餓狼伝説3 -遥かなる闘い",
@@ -11904,7 +21511,15 @@ window.ARCADE_GAMES = [
     "name": "fatfury3",
     "note": "NGM-069 / NGH-069",
     "titleReading": "がろうでんせつすりーはるかなるたたかい",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "がんばれギンくん -アクションミニゲーム集-",
@@ -11913,7 +21528,14 @@ window.ARCADE_GAMES = [
     "name": "ginkun",
     "note": "Ganbare Ginkun",
     "titleReading": "がんばれぎんくんあくしょんみにげむしゅう",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "究極タイガーII",
@@ -11922,7 +21544,16 @@ window.ARCADE_GAMES = [
     "name": "tcobra2",
     "note": "Twin Cobra II (Ver 2.1O 1995/11/30)",
     "titleReading": "きゅうきょくたいがii",
-    "manufacturerReading": "たくみ"
+    "manufacturerReading": "たくみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャラクシーファイト -ユニバーサル・ウォリアーズ-",
@@ -11931,7 +21562,15 @@ window.ARCADE_GAMES = [
     "name": "galaxyfg",
     "note": "Galaxy Fight - Universal Warriors",
     "titleReading": "ぎゃらくしふぁいとゆにばさるうぉりあず",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ キング・オブ・ファイターズ",
@@ -11940,7 +21579,14 @@ window.ARCADE_GAMES = [
     "name": "quizkof",
     "note": "Quiz King of Fighters (SAM-080 ~ SAH-080)",
     "titleReading": "くいずきんぐおぶふぁいたず",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ殿様の野望2 全国版",
@@ -11949,7 +21595,13 @@ window.ARCADE_GAMES = [
     "name": "qtono2j",
     "note": "日本版 950123",
     "titleReading": "くいずとのさまのやぼう2ぜんこくばん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ ドレミファグランプリ２ -新曲入荷だよ-",
@@ -11958,7 +21610,13 @@ window.ARCADE_GAMES = [
     "name": "qdrmfgp2",
     "note": "Quiz Do Re Mi Fa Grand Prix 2 - Shin-Kyoku Nyuukadayo (Japan)",
     "titleReading": "くいずどれみふぁぐらんぷり2しんきょくにゅうかだよ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "クールライダーズ",
@@ -11967,7 +21625,17 @@ window.ARCADE_GAMES = [
     "name": "coolridr",
     "note": "Cool Riders",
     "titleReading": "くるらいだず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "グレート１０００マイルズラリー２",
@@ -11976,7 +21644,19 @@ window.ARCADE_GAMES = [
     "name": "gtmr2",
     "note": "Mille Miglia 2: Great 1000 Miles Rally (95/05/24)",
     "titleReading": "ぐれと1000まいるずらり2",
-    "manufacturerReading": "かねこ"
+    "manufacturerReading": "かねこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゲーム天国 -The Game Paradise!",
@@ -11985,7 +21665,14 @@ window.ARCADE_GAMES = [
     "name": "gametngk",
     "note": "",
     "titleReading": "げえむてんごくthegameparadise",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ゴール！ゴール！ゴール！",
@@ -11994,7 +21681,14 @@ window.ARCADE_GAMES = [
     "name": "goalx3",
     "note": "Goal! Goal! Goal!",
     "titleReading": "ごるごるごる",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイキックフォース",
@@ -12003,7 +21697,15 @@ window.ARCADE_GAMES = [
     "name": "psyforce",
     "note": "Psychic Force (Ver 2.4O)",
     "titleReading": "さいきっくふぉす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイバーボッツ -フルメタルマッドネス-",
@@ -12012,7 +21714,14 @@ window.ARCADE_GAMES = [
     "name": "cybotsj",
     "note": "日本版 950420",
     "titleReading": "さいばあぼっつふるめたるまっどねす",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サムライスピリッツ -斬紅郎無双剣-",
@@ -12021,7 +21730,15 @@ window.ARCADE_GAMES = [
     "name": "samsho3",
     "note": "NGM-087",
     "titleReading": "さむらいすぴりっつきべにろうむそうけん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '95",
@@ -12030,7 +21747,15 @@ window.ARCADE_GAMES = [
     "name": "kof95",
     "note": "set 1",
     "titleReading": "ざきんぐおぶふぁいたあず95",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海 -万里の長城-",
@@ -12039,7 +21764,14 @@ window.ARCADE_GAMES = [
     "name": "shanhigw",
     "note": "Shanghai - The Great Wall / Shanghai Triple Threat (JUE 950623 V1.005)",
     "titleReading": "しゃんはいばんりのちょうじょう",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャッキーチェン イン フィフスオブファイヤー -成龍伝説-",
@@ -12048,7 +21780,15 @@ window.ARCADE_GAMES = [
     "name": "jchan2",
     "note": "Jackie Chan in Fists of Fire",
     "titleReading": "じゃっきちぇんいんふぃふすおぶふぁいやせいりゅうでんせつ",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジャッキーチェン -クンフーマスター-",
@@ -12057,7 +21797,15 @@ window.ARCADE_GAMES = [
     "name": "jchan",
     "note": "Jackie Chan - The Kung-Fu Master",
     "titleReading": "じゃっきちぇんくんふますた",
-    "manufacturerReading": "かねこせいさくしょかねこ"
+    "manufacturerReading": "かねこせいさくしょかねこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "銃弾嵐 ＜ガンダーラ＞",
@@ -12066,7 +21814,15 @@ window.ARCADE_GAMES = [
     "name": "gundhara",
     "note": "Gundhara",
     "titleReading": "じゅうだんあらし<がんだら>",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "水滸演武",
@@ -12075,7 +21831,15 @@ window.ARCADE_GAMES = [
     "name": "suikoenb",
     "note": "Suiko Enbu / Outlaws of the Lost Dynasty (JUETL 950314 V2.001)",
     "titleReading": "すいこえんぶ",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ススメ！！マイルスマイル",
@@ -12084,7 +21848,14 @@ window.ARCADE_GAMES = [
     "name": "gogomile",
     "note": "Susume! Mile Smile / Go Go! Mile Smile (newer)",
     "titleReading": "すすめまいるすまいる",
-    "manufacturerReading": "ふうき"
+    "manufacturerReading": "ふうき",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ステークスウィナー -GI完全制覇への道-",
@@ -12093,7 +21864,14 @@ window.ARCADE_GAMES = [
     "name": "stakwin",
     "note": "",
     "titleReading": "すてえくすうぃなあgiかんぜんせいはへのみち",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターZERO",
@@ -12102,7 +21880,14 @@ window.ARCADE_GAMES = [
     "name": "sfzj",
     "note": "日本版 950727",
     "titleReading": "すとりいとふぁいたあzero",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターＺＥＲＯ (CPSチェンジャー版)",
@@ -12111,7 +21896,15 @@ window.ARCADE_GAMES = [
     "name": "sfzch",
     "note": "Street Fighter Zero (CPS Changer, Japan 951020)",
     "titleReading": "すとりとふぁいたzerocpsちぇんじゃはん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイター ザ・ムービー",
@@ -12120,7 +21913,15 @@ window.ARCADE_GAMES = [
     "name": "sftm",
     "note": "Street Fighter: The Movie (v1.12)",
     "titleReading": "すとりとふぁいたざむび",
-    "manufacturerReading": "capcom/incredibletechnologies"
+    "manufacturerReading": "capcom/incredibletechnologies",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパースラムズ -FROM TV ANIMATION SLAM DUNK-",
@@ -12129,7 +21930,14 @@ window.ARCADE_GAMES = [
     "name": "suprslam",
     "note": "From TV Animation Slam Dunk - Super Slams",
     "titleReading": "すぱすらむずfromtvanimationslamdunk",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーフットボールチャンプ",
@@ -12138,7 +21946,14 @@ window.ARCADE_GAMES = [
     "name": "sfchamp",
     "note": "Super Football Champ (Ver 2.5O)",
     "titleReading": "すぱふっとぼるちゃんぷ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'９５",
@@ -12147,7 +21962,14 @@ window.ARCADE_GAMES = [
     "name": "sws95",
     "note": "Super World Stadium '95 (Japan)",
     "titleReading": "すぱわるどすたじあむ'95",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦球",
@@ -12156,7 +21978,14 @@ window.ARCADE_GAMES = [
     "name": "senkyu",
     "note": "日本版, newer / m↑",
     "titleReading": "せんきゅう",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソウルエッジ",
@@ -12165,7 +21994,14 @@ window.ARCADE_GAMES = [
     "name": "souledgeja",
     "note": "日本版, SO1/VER.A / m↑",
     "titleReading": "そうるえっじ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "そこぬけ対戦ゲーム",
@@ -12174,7 +22010,14 @@ window.ARCADE_GAMES = [
     "name": "sokonuke",
     "note": "",
     "titleReading": "そこぬけたいせんげえむ",
-    "manufacturerReading": "さみい"
+    "manufacturerReading": "さみい",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "卒業証書",
@@ -12183,7 +22026,14 @@ window.ARCADE_GAMES = [
     "name": "sotsugyo",
     "note": "Sotsugyo Shousho",
     "titleReading": "そつぎょうしょうしょ",
-    "manufacturerReading": "みっちぇる/やんやか"
+    "manufacturerReading": "みっちぇる/やんやか",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソニックウイングス３",
@@ -12192,7 +22042,14 @@ window.ARCADE_GAMES = [
     "name": "sonicwi3",
     "note": "Aero Fighters 3 / Sonic Wings 3",
     "titleReading": "そにっくういんぐす3",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大牌砦",
@@ -12201,7 +22058,14 @@ window.ARCADE_GAMES = [
     "name": "daitorid",
     "note": "",
     "titleReading": "だいとりで",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダブルドラゴン （MVS版）",
@@ -12210,7 +22074,15 @@ window.ARCADE_GAMES = [
     "name": "doubledr",
     "note": "Double Dragon (Neo-Geo)",
     "titleReading": "だぶるどらごんmvsはん",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ちびまる子ちゃん まる子デラックスクイズ",
@@ -12219,7 +22091,14 @@ window.ARCADE_GAMES = [
     "name": "marukodq",
     "note": "Chibi Marukochan Deluxe Quiz",
     "titleReading": "ちびまるこちゃんまるこでらっくすくいず",
-    "manufacturerReading": "たから"
+    "manufacturerReading": "たから",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チャーリー忍者",
@@ -12228,7 +22107,14 @@ window.ARCADE_GAMES = [
     "name": "charlien",
     "note": "Charlie Ninja",
     "titleReading": "ちゃりにんじゃ",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "超人学園ゴウカイザー",
@@ -12237,7 +22123,15 @@ window.ARCADE_GAMES = [
     "name": "gowcaizr",
     "note": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",
     "titleReading": "ちょうじんがくえんごうかいざ",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ツインビーヤッホー！ -ふしぎの国で大あばれ！！",
@@ -12246,7 +22140,14 @@ window.ARCADE_GAMES = [
     "name": "tbyahhoo",
     "note": "ver JAA",
     "titleReading": "ついんびいやっほうふしぎのくにでだいあばれ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリスプラス",
@@ -12255,7 +22156,14 @@ window.ARCADE_GAMES = [
     "name": "tetrisp",
     "note": "",
     "titleReading": "てとりすぷらす",
-    "manufacturerReading": "じゃれこびーぴーえす"
+    "manufacturerReading": "じゃれこびーぴーえす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "天外魔境真伝",
@@ -12264,7 +22172,15 @@ window.ARCADE_GAMES = [
     "name": "kabukikl",
     "note": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
     "titleReading": "てんがいまきょうまことでん",
-    "manufacturerReading": "はどそん"
+    "manufacturerReading": "はどそん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "でろ～んでろでろ",
@@ -12273,7 +22189,14 @@ window.ARCADE_GAMES = [
     "name": "deroon",
     "note": "Deroon DeroDero (earlier)",
     "titleReading": "でろ~んでろでろ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "闘神伝2",
@@ -12282,7 +22205,14 @@ window.ARCADE_GAMES = [
     "name": "ts2j",
     "note": "日本版 951124",
     "titleReading": "とうしんでんつー",
-    "manufacturerReading": "かぷこんたから"
+    "manufacturerReading": "かぷこんたから",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ときめきメモリアル対戦ぱずるだま",
@@ -12291,7 +22221,14 @@ window.ARCADE_GAMES = [
     "name": "tkmmpzdm",
     "note": "Tokimeki Memorial Taisen Puzzle-dama (ver JAB)",
     "titleReading": "ときめきめもりあるたいせんぱずるだま",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "得点王3 -栄光への挑戦-",
@@ -12300,7 +22237,14 @@ window.ARCADE_GAMES = [
     "name": "ssideki3",
     "note": "",
     "titleReading": "とくてんおう3えいこうへのちょうせん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラグーンマイト",
@@ -12309,7 +22253,15 @@ window.ARCADE_GAMES = [
     "name": "dragoona",
     "note": "Dragoon Might (ver AAB)",
     "titleReading": "どらぐんまいと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "首領蜂",
@@ -12318,7 +22270,14 @@ window.ARCADE_GAMES = [
     "name": "donpachij",
     "note": "BAM",
     "titleReading": "どんぱち",
-    "manufacturerReading": "けいぶあとらすらいせんす"
+    "manufacturerReading": "けいぶあとらすらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナムコ クラシックコレクション VOL.1",
@@ -12327,7 +22286,14 @@ window.ARCADE_GAMES = [
     "name": "ncv1",
     "note": "Namco Classic Collection Vol.1",
     "titleReading": "なむこくらしっくこれくしょんvol1",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "熱答クイズチャンピオン",
@@ -12336,7 +22302,13 @@ window.ARCADE_GAMES = [
     "name": "nettoqc",
     "note": "Nettoh Quiz Champion (Japan)",
     "titleReading": "ねつこたえくいずちゃんぴおん",
-    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと"
+    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "脳力向上委員会",
@@ -12345,7 +22317,14 @@ window.ARCADE_GAMES = [
     "name": "nouryoku",
     "note": "",
     "titleReading": "のうりょくこうじょういいんかい",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ばくばくアニマル -世界飼育係選手権-",
@@ -12354,7 +22333,14 @@ window.ARCADE_GAMES = [
     "name": "bakubaku",
     "note": "J 950407 V1.000",
     "titleReading": "ばくばくあにまるせかいしいくがかりせんしゅけん",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バックファイア！",
@@ -12363,7 +22349,16 @@ window.ARCADE_GAMES = [
     "name": "backfire",
     "note": "日本版 set 1",
     "titleReading": "ばっくふぁいあ",
-    "manufacturerReading": "でーたいーすと"
+    "manufacturerReading": "でーたいーすと",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII",
@@ -12372,7 +22367,16 @@ window.ARCADE_GAMES = [
     "name": "bubblem",
     "note": "ver 2.40 1996/02/15",
     "titleReading": "ばぶるめもりいずざすとうりいおぶばぶるぼぶるiii",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルdeポン！",
@@ -12381,7 +22385,14 @@ window.ARCADE_GAMES = [
     "name": "puzzledp",
     "note": "Puzzle De Pon!",
     "titleReading": "ぱずるdeぽん",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズル＆アクション サンドアール",
@@ -12390,7 +22401,14 @@ window.ARCADE_GAMES = [
     "name": "sandor",
     "note": "日本版 951114 V1.000",
     "titleReading": "ぱずるあんどあくしょんさんどあーる",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル2",
@@ -12399,7 +22417,16 @@ window.ARCADE_GAMES = [
     "name": "pbobble2",
     "note": "ver 280 1995/07/31",
     "titleReading": "ぱずるぼぶる2",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル2X",
@@ -12408,7 +22435,16 @@ window.ARCADE_GAMES = [
     "name": "pbobble2x",
     "note": "ver 22J 1995/11/11",
     "titleReading": "ぱずるぼぶる2x",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぱづり",
@@ -12417,7 +22453,14 @@ window.ARCADE_GAMES = [
     "name": "puzzli",
     "note": "Puzzli (revision B)",
     "titleReading": "ぱづり",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パルスター",
@@ -12426,7 +22469,14 @@ window.ARCADE_GAMES = [
     "name": "pulstar",
     "note": "Pulstar",
     "titleReading": "ぱるすた",
-    "manufacturerReading": "えいこむ"
+    "manufacturerReading": "えいこむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パン！３ -怪盗たちの華麗な午後-",
@@ -12435,7 +22485,14 @@ window.ARCADE_GAMES = [
     "name": "pang3",
     "note": "Pang! 3 (Euro 950601)",
     "titleReading": "ぱん3かいとうたちのかれいなごご",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナルラップＲ",
@@ -12444,7 +22501,17 @@ window.ARCADE_GAMES = [
     "name": "finalapr",
     "note": "Final Lap R (Rev. B)",
     "titleReading": "ふぁいなるらっぷr",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ファンキーヘッドボクサーズ",
@@ -12453,7 +22520,14 @@ window.ARCADE_GAMES = [
     "name": "fhboxers",
     "note": "JUETBKAL 951218 V1.000",
     "titleReading": "ふぁんきーへっどぼくさーず",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "風雲黙示録 -格闘創世-",
@@ -12462,7 +22536,15 @@ window.ARCADE_GAMES = [
     "name": "savagere",
     "note": "Savage Reign / Fu'un Mokushiroku - Kakutou Sousei",
     "titleReading": "ふううんもくじろくかくとうそうせい",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぷるるん",
@@ -12471,7 +22553,14 @@ window.ARCADE_GAMES = [
     "name": "pururun",
     "note": "Pururun",
     "titleReading": "ぷるるん",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペブルビーチ -ザ・グレートショット-",
@@ -12480,7 +22569,14 @@ window.ARCADE_GAMES = [
     "name": "pblbeach",
     "note": "Pebble Beach - The Great Shot (JUE 950913 V0.990)",
     "titleReading": "ぺぶるびちざぐれとしょっと",
-    "manufacturerReading": "t&eそふと"
+    "manufacturerReading": "t&eそふと",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーヴルスーパーヒーローズ",
@@ -12489,7 +22585,14 @@ window.ARCADE_GAMES = [
     "name": "mshj",
     "note": "BARR 951117",
     "titleReading": "まあゔるすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルドロップ ＰＬＵＳ１！",
@@ -12498,7 +22601,14 @@ window.ARCADE_GAMES = [
     "name": "magdropp",
     "note": "Magical Drop Plus 1 (Japan, Version 2.1, 1995.09.12)",
     "titleReading": "まじかるどろっぷplus1",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ミッドナイトラン -ロードファイター2-",
@@ -12507,7 +22617,18 @@ window.ARCADE_GAMES = [
     "name": "midnrun",
     "note": "Midnight Run: Road Fighter 2 (EAA, Euro v1.11)",
     "titleReading": "みっどないとらんろどふぁいた2",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ランディングギア",
@@ -12516,7 +22637,15 @@ window.ARCADE_GAMES = [
     "name": "landgear",
     "note": "Landing Gear (Ver 4.2 O)",
     "titleReading": "らんでぃんぐぎあ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シミュレーション"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リアルバウト餓狼伝説",
@@ -12525,7 +22654,14 @@ window.ARCADE_GAMES = [
     "name": "rbff1a",
     "note": "bug fix rev",
     "titleReading": "りあるばうと餓おおかみでんせつ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックマン ザ・パワーバトル",
@@ -12534,7 +22670,14 @@ window.ARCADE_GAMES = [
     "name": "rockmanj",
     "note": "日本版 950922 CPS1",
     "titleReading": "ろっくまんざぱわあばとる",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワールドヒーローズパーフェクト",
@@ -12543,7 +22686,15 @@ window.ARCADE_GAMES = [
     "name": "whp",
     "note": "",
     "titleReading": "わあるどひいろうずぱあふぇくと",
-    "manufacturerReading": "ええでぃーけーえすえぬけー"
+    "manufacturerReading": "ええでぃーけーえすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "湾岸戦争",
@@ -12552,7 +22703,14 @@ window.ARCADE_GAMES = [
     "name": "desertwr",
     "note": "Desert War / Wangan Sensou (ver 1.0)",
     "titleReading": "わんがんせんそう",
-    "manufacturerReading": "えぬえむけいnmk"
+    "manufacturerReading": "えぬえむけいnmk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァリアメタル",
@@ -12561,7 +22719,14 @@ window.ARCADE_GAMES = [
     "name": "vmetal",
     "note": "Varia Metal",
     "titleReading": "ゔぁりあめたる",
-    "manufacturerReading": "えくせれんとしすてむ"
+    "manufacturerReading": "えくせれんとしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンパイアハンター -ダークストーカーズリベンジ",
@@ -12570,7 +22735,14 @@ window.ARCADE_GAMES = [
     "name": "vhuntj",
     "note": "日本版 950316",
     "titleReading": "ゔぁんぱいあはんたあだあくすとうかあずりべんじ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Air Attack -空襲-",
@@ -12579,7 +22751,14 @@ window.ARCADE_GAMES = [
     "name": "airattck",
     "note": "Air Attack (set 1)",
     "titleReading": "airattackくうしゅう",
-    "manufacturerReading": "comad"
+    "manufacturerReading": "comad",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＧＴＩクラブ",
@@ -12588,7 +22767,18 @@ window.ARCADE_GAMES = [
     "name": "gticlub",
     "note": "GTI Club (ver EAA)",
     "titleReading": "gtiくらぶ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｊリーグサッカー プライムゴールＥＸ",
@@ -12597,7 +22787,14 @@ window.ARCADE_GAMES = [
     "name": "primglex",
     "note": "Prime Goal EX (Japan, PG1/VER.A)",
     "titleReading": "jりぐさっかぷらいむごるex",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アートオブファイティング 龍虎の拳外伝",
@@ -12606,7 +22803,15 @@ window.ARCADE_GAMES = [
     "name": "aof3",
     "note": "Art of Fighting 3",
     "titleReading": "ああとおぶふぁいてぃんぐりゅうとらのこぶしがいでん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクアリウム",
@@ -12615,7 +22820,14 @@ window.ARCADE_GAMES = [
     "name": "aquarium",
     "note": "日本版",
     "titleReading": "あくありうむ",
-    "manufacturerReading": "えくせれんとしすてむ"
+    "manufacturerReading": "えくせれんとしすてむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクウギャレット",
@@ -12624,7 +22836,14 @@ window.ARCADE_GAMES = [
     "name": "agalletj",
     "note": "日本版",
     "titleReading": "あくうぎゃれっと",
-    "manufacturerReading": "がぜるばんぷれすとらいせんす"
+    "manufacturerReading": "がぜるばんぷれすとらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウォーザード",
@@ -12633,7 +22852,15 @@ window.ARCADE_GAMES = [
     "name": "redearth",
     "note": "Red Earth (Euro 961121)",
     "titleReading": "うぉざど",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "エックス・メン VS. ストリートファイター",
@@ -12642,7 +22869,15 @@ window.ARCADE_GAMES = [
     "name": "xmvsf",
     "note": "X-Men Vs. Street Fighter (Euro 961004)",
     "titleReading": "えっくすめんvsすとりとふぁいた",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "X-MEN VS. ストリートファイター",
@@ -12651,7 +22886,14 @@ window.ARCADE_GAMES = [
     "name": "xmvsfj",
     "note": "日本版 970113",
     "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "押し出しジントリック",
@@ -12660,7 +22902,14 @@ window.ARCADE_GAMES = [
     "name": "zintrckb",
     "note": "Zintrick / Oshidashi Zentrix (bootleg of CD version)",
     "titleReading": "おしだしじんとりっく",
-    "manufacturerReading": "えでぃけいadk"
+    "manufacturerReading": "えでぃけいadk",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オーバートップ",
@@ -12669,7 +22918,14 @@ window.ARCADE_GAMES = [
     "name": "overtop",
     "note": "Over Top",
     "titleReading": "おばとっぷ",
-    "manufacturerReading": "えでぃけいadk"
+    "manufacturerReading": "えでぃけいadk",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "神凰拳",
@@ -12678,7 +22934,15 @@ window.ARCADE_GAMES = [
     "name": "ragnagrd",
     "note": "Ragnagard / Shin-Oh-Ken",
     "titleReading": "かみおうこぶし",
-    "manufacturerReading": "ざうるす/しすてむびじょん"
+    "manufacturerReading": "ざうるす/しすてむびじょん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カラオケクイズ イントロＤＯＮＤＯＮ!",
@@ -12687,7 +22951,14 @@ window.ARCADE_GAMES = [
     "name": "introdon",
     "note": "Karaoke Quiz Intro Don Don! (J 960213 V1.000)",
     "titleReading": "からおけくいずいんとろdondon",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "逆転！！パズル番長",
@@ -12696,7 +22967,14 @@ window.ARCADE_GAMES = [
     "name": "pbancho",
     "note": "日 本 孤",
     "titleReading": "ぎゃくてんぱずるばんちょう",
-    "manufacturerReading": "ふうき"
+    "manufacturerReading": "ふうき",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャロップレーサー",
@@ -12705,7 +22983,14 @@ window.ARCADE_GAMES = [
     "name": "glpracr",
     "note": "BWR ver 9.01.12",
     "titleReading": "ぎゃろっぷれえさあ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズなないろドリームス 虹色町の奇跡",
@@ -12714,7 +22999,13 @@ window.ARCADE_GAMES = [
     "name": "qndream",
     "note": "日 本 孤 960826",
     "titleReading": "くいずなないろどりいむすにじいろまちのきせき",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "くにおの熱血闘球伝説",
@@ -12723,7 +23014,14 @@ window.ARCADE_GAMES = [
     "name": "sdodgeb",
     "note": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
     "titleReading": "くにおのねっけつとうたまでんせつ",
-    "manufacturerReading": "てくのすじゃぱん"
+    "manufacturerReading": "てくのすじゃぱん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クレオパトラフォーチュン",
@@ -12732,7 +23030,16 @@ window.ARCADE_GAMES = [
     "name": "cleopatr",
     "note": "Ver 2.1J 1996/09/05",
     "titleReading": "くれおぱとらふぉうちゅん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "子育てクイズ・マイエンジェル",
@@ -12741,7 +23048,13 @@ window.ARCADE_GAMES = [
     "name": "myangel",
     "note": "日 本 阪",
     "titleReading": "こそだてくいずまいえんじぇる",
-    "manufacturerReading": "もすなむこ"
+    "manufacturerReading": "もすなむこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "コラムス'９７",
@@ -12750,7 +23063,14 @@ window.ARCADE_GAMES = [
     "name": "colmns97",
     "note": "Columns '97 (JET 961209 V1.000)",
     "titleReading": "こらむす'97",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイドバイサイド",
@@ -12759,7 +23079,18 @@ window.ARCADE_GAMES = [
     "name": "sidebs",
     "note": "Side by Side (Ver 2.7 J)",
     "titleReading": "さいどばいさいど",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サムライスピリッツ -天草降臨-",
@@ -12768,7 +23099,15 @@ window.ARCADE_GAMES = [
     "name": "samsho4",
     "note": "Samurai Shodown IV - Amakusa's Revenge",
     "titleReading": "さむらいすぴりっつてんぐさこうりん",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "三刻志",
@@ -12777,7 +23116,14 @@ window.ARCADE_GAMES = [
     "name": "3kokushi",
     "note": "",
     "titleReading": "さんごくし",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンフランシスコラッシュ -エクストリームレーシング-",
@@ -12786,7 +23132,17 @@ window.ARCADE_GAMES = [
     "name": "sfrush",
     "note": "San Francisco Rush (boot rom L 1.0)",
     "titleReading": "さんふらんしすこらっしゅえくすとりむれしんぐ",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '96",
@@ -12795,7 +23151,15 @@ window.ARCADE_GAMES = [
     "name": "kof96",
     "note": "set 1",
     "titleReading": "ざきんぐおぶふぁいたあず96",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジェットウエーブ",
@@ -12804,7 +23168,19 @@ window.ARCADE_GAMES = [
     "name": "jetwave",
     "note": "Jet Wave (EAB, Euro v1.04)",
     "titleReading": "じぇっとうえぶ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーパズルファイターII X",
@@ -12813,7 +23189,14 @@ window.ARCADE_GAMES = [
     "name": "spf2xj",
     "note": "日本版 960531",
     "titleReading": "すうぱあぱずるふぁいたあiix",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "進め！対戦ぱずるだま",
@@ -12822,7 +23205,14 @@ window.ARCADE_GAMES = [
     "name": "susume",
     "note": "Susume! Taisen Puzzle-Dama (GV027 Japan 1.20)",
     "titleReading": "すすめたいせんぱずるだま",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターグラディエイター",
@@ -12831,7 +23221,14 @@ window.ARCADE_GAMES = [
     "name": "stargladj",
     "note": "日 本 販 960627",
     "titleReading": "すたあぐらでぃえいたあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ステークスウィナー2",
@@ -12840,7 +23237,14 @@ window.ARCADE_GAMES = [
     "name": "stakwin2",
     "note": "",
     "titleReading": "すてえくすうぃなあ2",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターEX",
@@ -12849,7 +23253,14 @@ window.ARCADE_GAMES = [
     "name": "sfexj",
     "note": "日本版 961130",
     "titleReading": "すとりいとふぁいたあex",
-    "manufacturerReading": "かぷこんありか"
+    "manufacturerReading": "かぷこんありか",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターZERO 2",
@@ -12858,7 +23269,14 @@ window.ARCADE_GAMES = [
     "name": "sfz2j",
     "note": "日本版 960430",
     "titleReading": "すとりいとふぁいたあzero2",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターZERO2 ALPHA",
@@ -12867,7 +23285,14 @@ window.ARCADE_GAMES = [
     "name": "sfz2alj",
     "note": "日本版 960805",
     "titleReading": "すとりーとふぁいたーぜろ2あるふぁ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'９６ -激闘版-",
@@ -12876,7 +23301,14 @@ window.ARCADE_GAMES = [
     "name": "sws96",
     "note": "Super World Stadium '96 (Japan)",
     "titleReading": "すぱわるどすたじあむ'96げきとうはん",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スラムダンク2 -Konami Basketball Championship 1996",
@@ -12885,7 +23317,14 @@ window.ARCADE_GAMES = [
     "name": "slamdnk2",
     "note": "ver JAA",
     "titleReading": "すらむだんく2konamibasketballchampionship1996",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "セカンドアース グラティア",
@@ -12894,7 +23333,14 @@ window.ARCADE_GAMES = [
     "name": "gratia",
     "note": "Gratia - Second Earth (ver 1.0, 92047-01 version)",
     "titleReading": "せかんどあすぐらてぃあ",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国ブレード -Sengoku Ace Episode II",
@@ -12903,7 +23349,14 @@ window.ARCADE_GAMES = [
     "name": "tengaij",
     "note": "Tengai (海外版)",
     "titleReading": "せんごくぶれーど",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "蒼穹紅蓮隊",
@@ -12912,7 +23365,14 @@ window.ARCADE_GAMES = [
     "name": "sokyugrt",
     "note": "Soukyugurentai / Terra Diver (JUET 960821 V1.000)",
     "titleReading": "そうきゅうぐれんたい",
-    "manufacturerReading": "らいじんぐ"
+    "manufacturerReading": "らいじんぐ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソニックウィングス リミテッド",
@@ -12921,7 +23381,14 @@ window.ARCADE_GAMES = [
     "name": "sncwgltd",
     "note": "日本版",
     "titleReading": "そにっくうぃんぐすりみてっど",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "対戦とっかえだま",
@@ -12930,7 +23397,14 @@ window.ARCADE_GAMES = [
     "name": "tokkae",
     "note": "ver JAA",
     "titleReading": "たいせんとっかえだま",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ターゲットパニック",
@@ -12939,7 +23413,14 @@ window.ARCADE_GAMES = [
     "name": "tgtpanic",
     "note": "Target Panic",
     "titleReading": "たげっとぱにっく",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "だい好キッス",
@@ -12948,7 +23429,14 @@ window.ARCADE_GAMES = [
     "name": "daiskiss",
     "note": "Daisu-Kiss (ver JAA)",
     "titleReading": "だいこうきっす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダイナマイト刑事",
@@ -12957,7 +23445,14 @@ window.ARCADE_GAMES = [
     "name": "dnmtdeka",
     "note": "日本版 960515 V1.000",
     "titleReading": "だいなまいとでか",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンジョンズ＆ドラゴンズ -シャドーオーバーミスタラ",
@@ -12966,7 +23461,14 @@ window.ARCADE_GAMES = [
     "name": "ddsomj",
     "note": "日本版 960619",
     "titleReading": "だんじょんず&どらごんずしゃどうおうばあみすたら",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ティンクルスタースプライツ",
@@ -12975,7 +23477,14 @@ window.ARCADE_GAMES = [
     "name": "twinspri",
     "note": "Twinkle Star Sprites",
     "titleReading": "てぃんくるすたすぷらいつ",
-    "manufacturerReading": "えでぃけいadk"
+    "manufacturerReading": "えでぃけいadk",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "電車でGO！",
@@ -12984,7 +23493,15 @@ window.ARCADE_GAMES = [
     "name": "dendego",
     "note": "",
     "titleReading": "でんしゃでgo",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "電車でGO！EX",
@@ -12993,7 +23510,15 @@ window.ARCADE_GAMES = [
     "name": "dendegox",
     "note": "",
     "titleReading": "でんしゃでgoex",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "闘姫伝承 -ANGEL EYES-",
@@ -13002,7 +23527,15 @@ window.ARCADE_GAMES = [
     "name": "tkdensho",
     "note": "Toukidenshou - Angel Eyes (VER. 960614)",
     "titleReading": "とうひめでんしょうangeleyes",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "得点王 -炎のリベロ-",
@@ -13011,7 +23544,14 @@ window.ARCADE_GAMES = [
     "name": "ssideki4",
     "note": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
     "titleReading": "とくてんおうほのおのりべろ",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "19XX -The War Against Destiny",
@@ -13020,7 +23560,14 @@ window.ARCADE_GAMES = [
     "name": "19xxj",
     "note": "日本版 951225",
     "titleReading": "ないんてぃーんだぶるえっくす",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ニンジャマスターズ -覇王忍法帳-",
@@ -13029,7 +23576,15 @@ window.ARCADE_GAMES = [
     "name": "ninjamas",
     "note": "Ninja Master's - Haoh-ninpo-cho",
     "titleReading": "にんじゃますたずはおうにんぽうちょう",
-    "manufacturerReading": "えでぃけいadk"
+    "manufacturerReading": "えでぃけいadk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネオドリフトアウト -NEW TECHNOLOGY-",
@@ -13038,7 +23593,14 @@ window.ARCADE_GAMES = [
     "name": "neodrift",
     "note": "Neo Drift Out - New Technology",
     "titleReading": "ねおどりふとあうとnewtechnology",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネオミスターＤｏ！",
@@ -13047,7 +23609,14 @@ window.ARCADE_GAMES = [
     "name": "neomrdo",
     "note": "Neo Mr. Do!",
     "titleReading": "ねおみすたdo",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ねらってチュー！",
@@ -13056,7 +23625,14 @@ window.ARCADE_GAMES = [
     "name": "nratechu",
     "note": "Neratte Chu",
     "titleReading": "ねらってちゅ",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーアスリート",
@@ -13065,7 +23641,14 @@ window.ARCADE_GAMES = [
     "name": "hyperath",
     "note": "Hyper Athlete (GV021 Japan 1.00)",
     "titleReading": "はいぱあすりと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バーチャファイターキッズ",
@@ -13074,7 +23657,15 @@ window.ARCADE_GAMES = [
     "name": "vfkids",
     "note": "Virtua Fighter Kids (JUET 960319 V0.000)",
     "titleReading": "ばちゃふぁいたきっず",
-    "manufacturerReading": "せがam2"
+    "manufacturerReading": "せがam2",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バックストリートサッカー",
@@ -13083,7 +23674,14 @@ window.ARCADE_GAMES = [
     "name": "bssoccer",
     "note": "",
     "titleReading": "ばっくすとりいとさっかあ",
-    "manufacturerReading": "さんええゆにこらいせんす"
+    "manufacturerReading": "さんええゆにこらいせんす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルガレッガ",
@@ -13092,7 +23690,14 @@ window.ARCADE_GAMES = [
     "name": "bgaregga",
     "note": "Europe / USA / Japan / Asia / 1996-02-03",
     "titleReading": "ばとるがれっが",
-    "manufacturerReading": "らいじんぐえいてぃんぐ"
+    "manufacturerReading": "らいじんぐえいてぃんぐ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バルキューブ",
@@ -13101,7 +23706,15 @@ window.ARCADE_GAMES = [
     "name": "balcube",
     "note": "",
     "titleReading": "ばるきゅうぶ",
-    "manufacturerReading": "めとろ"
+    "manufacturerReading": "めとろ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "パドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンバンボール",
@@ -13110,7 +23723,14 @@ window.ARCADE_GAMES = [
     "name": "bangball",
     "note": "ver 105",
     "titleReading": "ばんばんぼうる",
-    "manufacturerReading": "ばんぷれすとたしろくにひろぐっどはうす"
+    "manufacturerReading": "ばんぷれすとたしろくにひろぐっどはうす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル3",
@@ -13119,7 +23739,16 @@ window.ARCADE_GAMES = [
     "name": "pbobble3",
     "note": "ver 2.10 1996/09/27",
     "titleReading": "ぱずるぼぶる3",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パネル＆バラエティ あか丸Q 上昇どんどんR",
@@ -13128,7 +23757,14 @@ window.ARCADE_GAMES = [
     "name": "akamaru",
     "note": "",
     "titleReading": "ぱねるあんどばらえてぃあかまるきゅーじょうしょうどんどんあーる",
-    "manufacturerReading": "だいなっくすなかにほんらいせんす"
+    "manufacturerReading": "だいなっくすなかにほんらいせんす",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビシバシチャンプ -ミニゲーム選手権-",
@@ -13137,7 +23773,13 @@ window.ARCADE_GAMES = [
     "name": "bishi",
     "note": "Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)",
     "titleReading": "びしばしちゃんぷみにげむせんしゅけん",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ビッグトーナメントゴルフ",
@@ -13146,7 +23788,14 @@ window.ARCADE_GAMES = [
     "name": "turfmast",
     "note": "Neo Turf Masters / Big Tournament Golf",
     "titleReading": "びっぐとなめんとごるふ",
-    "manufacturerReading": "なすか"
+    "manufacturerReading": "なすか",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイターズインパクト",
@@ -13155,7 +23804,15 @@ window.ARCADE_GAMES = [
     "name": "ftimpact",
     "note": "Fighters' Impact (Ver 2.02O)",
     "titleReading": "ふぁいたずいんぱくと",
-    "manufacturerReading": "ぽりごんまじっく"
+    "manufacturerReading": "ぽりごんまじっく",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "風雲スーパータッグバトル",
@@ -13164,7 +23821,15 @@ window.ARCADE_GAMES = [
     "name": "kizuna",
     "note": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
     "titleReading": "ふううんすぱたっぐばとる",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フットサル -5on5 Mini Soccer-",
@@ -13173,7 +23838,14 @@ window.ARCADE_GAMES = [
     "name": "pgoal",
     "note": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)",
     "titleReading": "ふっとさる5on5minisoccer",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイカーズ",
@@ -13182,7 +23854,15 @@ window.ARCADE_GAMES = [
     "name": "breakers",
     "note": "",
     "titleReading": "ぶれいかあず",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぷよぷよSUN",
@@ -13191,7 +23871,14 @@ window.ARCADE_GAMES = [
     "name": "puyosun",
     "note": "日本版 961115 ver 0.001",
     "titleReading": "ぷよぷよsun",
-    "manufacturerReading": "こんぱいる"
+    "manufacturerReading": "こんぱいる",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プリクラ大作戦",
@@ -13200,7 +23887,14 @@ window.ARCADE_GAMES = [
     "name": "prikura",
     "note": "Princess Clara Daisakusen (J 960910 V1.000)",
     "titleReading": "ぷりくらだいさくせん",
-    "manufacturerReading": "あとらす"
+    "manufacturerReading": "あとらす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘブンズゲート",
@@ -13209,7 +23903,15 @@ window.ARCADE_GAMES = [
     "name": "hvnsgate",
     "note": "Heaven's Gate",
     "titleReading": "へぶんずげと",
-    "manufacturerReading": "らくじん"
+    "manufacturerReading": "らくじん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポケットレーサー",
@@ -13218,7 +23920,17 @@ window.ARCADE_GAMES = [
     "name": "pocketrc",
     "note": "Pocket Racer (Japan, PKR1/VER.B)",
     "titleReading": "ぽけっとれさ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "マクロスプラス",
@@ -13227,7 +23939,14 @@ window.ARCADE_GAMES = [
     "name": "macrossp",
     "note": "Macross Plus",
     "titleReading": "まくろすぷらす",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "まじかるで～と -ドキドキ告白大作戦-",
@@ -13236,7 +23955,14 @@ window.ARCADE_GAMES = [
     "name": "mgcldate",
     "note": "Magical Date / Magical Date - Dokidoki Kokuhaku Daisakusen (Ver 2.02J)",
     "titleReading": "まじかるで~とどきどきこくはくだいさくせん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルドロップII",
@@ -13245,7 +23971,14 @@ window.ARCADE_GAMES = [
     "name": "magdrop2",
     "note": "",
     "titleReading": "まじかるどろっぷii",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグ -Super Vehicle-001",
@@ -13254,7 +23987,15 @@ window.ARCADE_GAMES = [
     "name": "mslug",
     "note": "",
     "titleReading": "めたるすらっぐsupervehicle001",
-    "manufacturerReading": "なすか"
+    "manufacturerReading": "なすか",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "雷電ＤＸ",
@@ -13263,7 +24004,14 @@ window.ARCADE_GAMES = [
     "name": "r2dx_v33",
     "note": "Raiden II New / Raiden DX (newer V33 PCB) (Raiden DX EEPROM)",
     "titleReading": "らいでんdx",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラッシングヒーローズ",
@@ -13272,7 +24020,14 @@ window.ARCADE_GAMES = [
     "name": "rushhero",
     "note": "Rushing Heroes (ver UAB)",
     "titleReading": "らっしんぐひろず",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リアルバウト餓狼伝説スペシャル",
@@ -13281,7 +24036,15 @@ window.ARCADE_GAMES = [
     "name": "rbffspec",
     "note": "",
     "titleReading": "りあるばうと餓おおかみでんせつすぺしゃる",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "両替パズルゲーム もうぢゃ",
@@ -13290,7 +24053,14 @@ window.ARCADE_GAMES = [
     "name": "mouja",
     "note": "Mouja (Japan)",
     "titleReading": "りょうがえぱずるげむもうぢゃ",
-    "manufacturerReading": "etona"
+    "manufacturerReading": "etona",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイストーム",
@@ -13299,7 +24069,14 @@ window.ARCADE_GAMES = [
     "name": "raystorm",
     "note": "Ray Storm (Ver 2.06A)",
     "titleReading": "れいすとむ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロジックプロ",
@@ -13308,7 +24085,14 @@ window.ARCADE_GAMES = [
     "name": "logicpro",
     "note": "日本版",
     "titleReading": "ろじっくぷろ",
-    "manufacturerReading": "でにあむ"
+    "manufacturerReading": "でにあむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックマン2 ザ・パワーファイターズ",
@@ -13317,7 +24101,14 @@ window.ARCADE_GAMES = [
     "name": "rockman2j",
     "note": "日本版 960708",
     "titleReading": "ろっくまん2ざぱわあふぁいたあず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ワインディングヒート",
@@ -13326,7 +24117,18 @@ window.ARCADE_GAMES = [
     "name": "windheat",
     "note": "Winding Heat (EAA, Euro v2.11)",
     "titleReading": "わいんでぃんぐひと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "わくわく７",
@@ -13335,7 +24137,15 @@ window.ARCADE_GAMES = [
     "name": "wakuwak7",
     "note": "Waku Waku 7",
     "titleReading": "わくわく7",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァーサスネットサッカー",
@@ -13344,7 +24154,14 @@ window.ARCADE_GAMES = [
     "name": "vsnetscr",
     "note": "Versus Net Soccer (ver EAD)",
     "titleReading": "ゔぁさすねっとさっか",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "GROOVE ON FIGHT -豪血寺一族３-",
@@ -13353,7 +24170,15 @@ window.ARCADE_GAMES = [
     "name": "groovef",
     "note": "Groove on Fight - Gouketsuji Ichizoku 3 (J 970416 V1.001)",
     "titleReading": "grooveonfightごうけつじいちぞく3",
-    "manufacturerReading": "あとらす"
+    "manufacturerReading": "あとらす",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｇダライアス",
@@ -13362,7 +24187,14 @@ window.ARCADE_GAMES = [
     "name": "gdarius",
     "note": "G-Darius (Ver 2.01J)",
     "titleReading": "gだらいあす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｇダライアス Ver.２",
@@ -13371,7 +24203,14 @@ window.ARCADE_GAMES = [
     "name": "gdarius2",
     "note": "G-Darius Ver.2 (Ver 2.03J)",
     "titleReading": "gだらいあすver2",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アルカノイドリターンズ",
@@ -13380,7 +24219,17 @@ window.ARCADE_GAMES = [
     "name": "arkretrn",
     "note": "Ver 2.02O 1997/02/10",
     "titleReading": "あるかのいどりたーんず",
-    "manufacturerReading": "たいとー"
+    "manufacturerReading": "たいとー",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウィンターヒート",
@@ -13389,7 +24238,14 @@ window.ARCADE_GAMES = [
     "name": "winterht",
     "note": "JUET 971012 V1.000",
     "titleReading": "うぃんたーひーと",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウェディングラプソディ",
@@ -13398,7 +24254,14 @@ window.ARCADE_GAMES = [
     "name": "weddingr",
     "note": "Wedding Rhapsody (GX624 JAA)",
     "titleReading": "うぇでぃんぐらぷそでぃ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ウッチャンナンチャンの炎のチャレンジャー ウルトラ電流イライラ棒",
@@ -13407,7 +24270,14 @@ window.ARCADE_GAMES = [
     "name": "irrmaze",
     "note": "The Irritating Maze / Ultra Denryu Iraira Bou",
     "titleReading": "うっちゃんなんちゃんのほのおのちゃれんじゃうるとらでんりゅういらいらぼう",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "トラックボール",
+      "ボタン"
+    ]
   },
   {
     "title": "オリエンタルレジェンド",
@@ -13416,7 +24286,15 @@ window.ARCADE_GAMES = [
     "name": "orlegend",
     "note": "Oriental Legend / Xiyou Shi E Chuan (ver. 126)",
     "titleReading": "おりえんたるれじぇんど",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カプコンスポーツクラブ",
@@ -13425,7 +24303,14 @@ window.ARCADE_GAMES = [
     "name": "csclubj",
     "note": "日本版 970722",
     "titleReading": "かぷこんすぽーつくらぶ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガッポリン",
@@ -13434,7 +24319,16 @@ window.ARCADE_GAMES = [
     "name": "popbounc",
     "note": "",
     "titleReading": "がっぽりん",
-    "manufacturerReading": "びでおしすてむ"
+    "manufacturerReading": "びでおしすてむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "きらめきスターロード -♪イントロ倶楽部♪-",
@@ -13443,7 +24337,16 @@ window.ARCADE_GAMES = [
     "name": "kirameki",
     "note": "Kirameki Star Road (Ver 2.10J 1997/08/29)",
     "titleReading": "きらめきすたろど♪いんとろくらぶ♪",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギャルズ・ハスラー",
@@ -13452,7 +24355,14 @@ window.ARCADE_GAMES = [
     "name": "galhustl",
     "note": "Gals Hustler",
     "titleReading": "ぎゃるずはすら",
-    "manufacturerReading": "えすいんたなしょなる"
+    "manufacturerReading": "えすいんたなしょなる",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "子育てクイズ・マイエンジェル2",
@@ -13461,7 +24371,13 @@ window.ARCADE_GAMES = [
     "name": "myangel2",
     "note": "",
     "titleReading": "こそだてくいずまいえんじぇる2",
-    "manufacturerReading": "もすなむこ"
+    "manufacturerReading": "もすなむこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "コットン２ -マジカルナイトドリームス-",
@@ -13470,7 +24386,14 @@ window.ARCADE_GAMES = [
     "name": "cotton2",
     "note": "Cotton 2 (JUET 970902 V1.000)",
     "titleReading": "こっとん2まじかるないとどりむす",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイドバイサイド２ -エボルツィオーネ-",
@@ -13479,7 +24402,18 @@ window.ARCADE_GAMES = [
     "name": "sidebs2",
     "note": "Side by Side 2 (Ver 2.6 OK)",
     "titleReading": "さいどばいさいど2えぼるつぃおね",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サクラ大戦 花組対戦コラムス",
@@ -13488,7 +24422,14 @@ window.ARCADE_GAMES = [
     "name": "hanagumi",
     "note": "日本版 971007 V1.010",
     "titleReading": "さくらたいせんはなぐみたいせんこらむす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サーフプラネット",
@@ -13497,7 +24438,15 @@ window.ARCADE_GAMES = [
     "name": "surfplnt",
     "note": "Surf Planet (Version 4.1)",
     "titleReading": "さふぷらねっと",
-    "manufacturerReading": "gaelcoatarilicense"
+    "manufacturerReading": "gaelcoatarilicense",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "レバー"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '97",
@@ -13506,7 +24455,15 @@ window.ARCADE_GAMES = [
     "name": "kof97",
     "note": "set 1",
     "titleReading": "ざきんぐおぶふぁいたあず97",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "紫炎龍",
@@ -13515,7 +24472,14 @@ window.ARCADE_GAMES = [
     "name": "shienryu",
     "note": "Shienryu (JUET 961226 V1.000)",
     "titleReading": "しえんりゅう",
-    "manufacturerReading": "わらしわらべ"
+    "manufacturerReading": "わらしわらべ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "シーバス・フィッシング",
@@ -13524,7 +24488,14 @@ window.ARCADE_GAMES = [
     "name": "seabass",
     "note": "Sea Bass Fishing (JUET 971110 V0.001)",
     "titleReading": "しばすふぃっしんぐ",
-    "manufacturerReading": "aうえぶ"
+    "manufacturerReading": "aうえぶ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "清水市代女流四冠王監修 女流将棋教室",
@@ -13533,7 +24504,14 @@ window.ARCADE_GAMES = [
     "name": "jsk",
     "note": "Joryuu Syougi Kyoushitsu (Japan)",
     "titleReading": "しみずしだいじょりゅうよんかんおうかんしゅうじょりゅうしょうぎきょうしつ",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ショックトルーパーズ",
@@ -13542,7 +24520,15 @@ window.ARCADE_GAMES = [
     "name": "shocktro",
     "note": "Shock Troopers (set 1)",
     "titleReading": "しょっくとるぱず",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "私立ジャスティス学園 -Legion of Heroes",
@@ -13551,7 +24537,14 @@ window.ARCADE_GAMES = [
     "name": "jgakuen",
     "note": "日本版 971117",
     "titleReading": "しりつじゃすてぃすがくえんlegionofheroes",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "私立ジャスティス学園 -リージョン オブ ヒーローズ-",
@@ -13560,7 +24553,15 @@ window.ARCADE_GAMES = [
     "name": "rvschool",
     "note": "Rival Schools: United By Fate (Euro 971117)",
     "titleReading": "しりつじゃすてぃすがくえんりじょんおぶひろず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "新日本プロレスリング 闘魂烈伝３ ARCARDE EDITION",
@@ -13569,7 +24570,15 @@ window.ARCADE_GAMES = [
     "name": "toukon3",
     "note": "Shin Nihon Pro Wrestling Toukon Retsuden 3 Arcade Edition (Japan, TR1/VER.A)",
     "titleReading": "しんにほんぷろれすりんぐとうこんれつでん3arcardeedition",
-    "manufacturerReading": "ゆくす/とみ/なむこ"
+    "manufacturerReading": "ゆくす/とみ/なむこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライカーズ１９４５ II",
@@ -13578,7 +24587,14 @@ window.ARCADE_GAMES = [
     "name": "s1945ii",
     "note": "Strikers 1945 II",
     "titleReading": "すとらいかず1945ii",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターEXプラス",
@@ -13587,7 +24603,14 @@ window.ARCADE_GAMES = [
     "name": "sfexpj",
     "note": "日本版 970311 / m↑",
     "titleReading": "すとりいとふぁいたあexぷらす",
-    "manufacturerReading": "かぷこんありか"
+    "manufacturerReading": "かぷこんありか",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
@@ -13596,7 +24619,14 @@ window.ARCADE_GAMES = [
     "name": "sfiii2j",
     "note": "日本版 970930 / m↑",
     "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
@@ -13605,7 +24635,14 @@ window.ARCADE_GAMES = [
     "name": "sfiii2n",
     "note": "PSI PHB 970930 NO CD",
     "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII -ニュージェネレーション-",
@@ -13614,7 +24651,14 @@ window.ARCADE_GAMES = [
     "name": "sfiiin",
     "note": "アジ ア 孤 970204 NO CD",
     "titleReading": "すとりいとふぁいたあiiiにゅうじぇねれえしょん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII -NEW GENERATION-",
@@ -13623,7 +24667,15 @@ window.ARCADE_GAMES = [
     "name": "sfiii",
     "note": "Street Fighter III: New Generation (Euro 970204)",
     "titleReading": "すとりとふぁいたiiinewgeneration",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'９７",
@@ -13632,7 +24684,14 @@ window.ARCADE_GAMES = [
     "name": "sws97",
     "note": "Super World Stadium '97 (Japan)",
     "titleReading": "すぱわるどすたじあむ'97",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "全日本プロレス featuring Virtua",
@@ -13641,7 +24700,14 @@ window.ARCADE_GAMES = [
     "name": "znpwfv",
     "note": "日本版 971123 V1.000",
     "titleReading": "ぜんにほんぷろれすふぃーちゃりんぐばーちゃ",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソーラーアサルト",
@@ -13650,7 +24716,15 @@ window.ARCADE_GAMES = [
     "name": "slrasslt",
     "note": "Solar Assault (ver UAA)",
     "titleReading": "そらあさると",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソルディバイド -THE SWORD OF DARKNESS-",
@@ -13659,7 +24733,15 @@ window.ARCADE_GAMES = [
     "name": "soldivid",
     "note": "Sol Divide - The Sword Of Darkness",
     "titleReading": "そるでぃばいどtheswordofdarkness",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "鉄拳3",
@@ -13668,7 +24750,15 @@ window.ARCADE_GAMES = [
     "name": "tekken3",
     "note": "日 本 販 TETI/VEREI",
     "titleReading": "てっけん3",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリスプラス2",
@@ -13677,7 +24767,14 @@ window.ARCADE_GAMES = [
     "name": "tp2m32",
     "note": "MegaSystem 32 ver",
     "titleReading": "てとりすぷらす2",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "とべ！ポリスターズ",
@@ -13686,7 +24783,14 @@ window.ARCADE_GAMES = [
     "name": "polystar",
     "note": "Tobe! Polystars (ver JAA)",
     "titleReading": "とべぽりすたず",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "怒首領蜂",
@@ -13695,7 +24799,14 @@ window.ARCADE_GAMES = [
     "name": "ddonpachj",
     "note": "海外版",
     "titleReading": "どどんぱち",
-    "manufacturerReading": "けいぶあとらすらいせんす"
+    "manufacturerReading": "けいぶあとらすらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネオボンバーマン",
@@ -13704,7 +24815,14 @@ window.ARCADE_GAMES = [
     "name": "neobombe",
     "note": "Neo Bomberman",
     "titleReading": "ねおぼんばまん",
-    "manufacturerReading": "はどそん"
+    "manufacturerReading": "はどそん",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハングパイロット",
@@ -13713,7 +24831,15 @@ window.ARCADE_GAMES = [
     "name": "hangplt",
     "note": "Hang Pilot (ver JAB)",
     "titleReading": "はんぐぱいろっと",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "ハンドル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "幕末浪漫 月華の剣士",
@@ -13722,7 +24848,15 @@ window.ARCADE_GAMES = [
     "name": "lastblad",
     "note": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
     "titleReading": "ばくまつろうまんがつはなのけんし",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルサーキット",
@@ -13731,7 +24865,14 @@ window.ARCADE_GAMES = [
     "name": "batcirj",
     "note": "日本版 970319",
     "titleReading": "ばとるさあきっと",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルdeポン！Ｒ",
@@ -13740,7 +24881,14 @@ window.ARCADE_GAMES = [
     "name": "puzzldpr",
     "note": "Puzzle De Pon! R!",
     "titleReading": "ぱずるdeぽんr",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル4",
@@ -13749,7 +24897,16 @@ window.ARCADE_GAMES = [
     "name": "pbobble4",
     "note": "ver 2.04O 1997/12/19",
     "titleReading": "ぱずるぼぶる4",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア",
@@ -13758,7 +24915,18 @@ window.ARCADE_GAMES = [
     "name": "bm1stmix",
     "note": "ver JA-B",
     "titleReading": "びいとまにあ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイターズインパクトエース",
@@ -13767,7 +24935,15 @@ window.ARCADE_GAMES = [
     "name": "ftimpcta",
     "note": "Fighters' Impact A (Ver 2.00J)",
     "titleReading": "ふぁいたずいんぱくとえす",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブラッディロア",
@@ -13776,7 +24952,14 @@ window.ARCADE_GAMES = [
     "name": "bldyroar",
     "note": "日本版 1997-06-21",
     "titleReading": "ぶらっでぃろあ",
-    "manufacturerReading": "えいてぃんぐらいじんぐ"
+    "manufacturerReading": "えいてぃんぐらいじんぐ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プチカラット -ジェムストーン王国の世界-",
@@ -13785,7 +24968,17 @@ window.ARCADE_GAMES = [
     "name": "puchicar",
     "note": "Puchi Carat (Ver 2.02O 1997/10/29)",
     "titleReading": "ぷちからっとじぇむすとんおうこくのせかい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポケットファイター",
@@ -13794,7 +24987,14 @@ window.ARCADE_GAMES = [
     "name": "pfghtj",
     "note": "日本版 970904",
     "titleReading": "ぽけっとふぁいたあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぽっぷんぽっぷ",
@@ -13803,7 +25003,16 @@ window.ARCADE_GAMES = [
     "name": "popnpop",
     "note": "Pop'n Pop (Ver 2.07O 1998/02/09)",
     "titleReading": "ぽっぷんぽっぷ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーヴル・スーパーヒーローズ VS. ストリートファイター",
@@ -13812,7 +25021,14 @@ window.ARCADE_GAMES = [
     "name": "mshvsfj",
     "note": "日本版 970707",
     "titleReading": "まあゔるすうぱあひいろうずvsすとりいとふぁいたあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "まじかるで～と -卒業告白大作戦-",
@@ -13821,7 +25037,14 @@ window.ARCADE_GAMES = [
     "name": "mgcldtex",
     "note": "Magical Date EX / Magical Date - Sotsugyou Kokuhaku Daisakusen (Ver 2.01J)",
     "titleReading": "まじかるで~とそつぎょうこくはくだいさくせん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マジカルドロップ３",
@@ -13830,7 +25053,14 @@ window.ARCADE_GAMES = [
     "name": "magdrop3",
     "note": "Magical Drop III",
     "titleReading": "まじかるどろっぷ3",
-    "manufacturerReading": "でえたいいすと"
+    "manufacturerReading": "でえたいいすと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マネーアイドルエクスチェンジャー",
@@ -13839,7 +25069,14 @@ window.ARCADE_GAMES = [
     "name": "miexchng",
     "note": "Money Puzzle Exchanger / Money Idol Exchanger",
     "titleReading": "まねあいどるえくすちぇんじゃ",
-    "manufacturerReading": "ふぇいす"
+    "manufacturerReading": "ふぇいす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マルちゃんｄｅグー!!!",
@@ -13848,7 +25085,14 @@ window.ARCADE_GAMES = [
     "name": "maruchan",
     "note": "Maru-Chan de Goo! (J 971216 V1.000)",
     "titleReading": "まるちゃんdeぐ",
-    "manufacturerReading": "うぃるりんく"
+    "manufacturerReading": "うぃるりんく",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モーターレイド",
@@ -13857,7 +25101,17 @@ window.ARCADE_GAMES = [
     "name": "motoraid",
     "note": "Motor Raid - Twin",
     "titleReading": "もたれいど",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "モンスタースライダー",
@@ -13866,7 +25120,14 @@ window.ARCADE_GAMES = [
     "name": "mslider",
     "note": "Monster Slider (Japan)",
     "titleReading": "もんすたすらいだ",
-    "manufacturerReading": "visco/dattjapan"
+    "manufacturerReading": "visco/dattjapan",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライデンファイターズ2 -オペレーションヘルダイブ-",
@@ -13875,7 +25136,14 @@ window.ARCADE_GAMES = [
     "name": "rdft2j",
     "note": "",
     "titleReading": "らいでんふぁいたあず2おぺれえしょんへるだいぶ",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロジックプロ2",
@@ -13884,7 +25152,14 @@ window.ARCADE_GAMES = [
     "name": "logicpr2",
     "note": "",
     "titleReading": "ろじっくぷろ2",
-    "manufacturerReading": "でにあむ"
+    "manufacturerReading": "でにあむ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンパイアセイヴァー2 -ザ・ロードオブヴァンパイア",
@@ -13893,7 +25168,15 @@ window.ARCADE_GAMES = [
     "name": "vsav2",
     "note": "日本版 970913",
     "titleReading": "ゔぁんぱいあせいゔぁあ2ざろうどおぶゔぁんぱいあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンパイアセイヴァー -ザ・ロードオブヴァンパイア",
@@ -13902,7 +25185,14 @@ window.ARCADE_GAMES = [
     "name": "vsavj",
     "note": "日本版 970519",
     "titleReading": "ゔぁんぱいあせいゔぁあざろうどおぶゔぁんぱいあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴァンパイアハンター2 -ダークストーカーズリベンジ",
@@ -13911,7 +25201,15 @@ window.ARCADE_GAMES = [
     "name": "vhunt2",
     "note": "日本版 970929",
     "titleReading": "ゔぁんぱいあはんたあ2だあくすとうかあずりべんじ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＮＢＡプレイバイプレイ",
@@ -13920,7 +25218,14 @@ window.ARCADE_GAMES = [
     "name": "nbapbp",
     "note": "NBA Play By Play (ver JAA)",
     "titleReading": "nbaぷれいばいぷれい",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アシュラブレード -Sword of Dynasty",
@@ -13929,7 +25234,15 @@ window.ARCADE_GAMES = [
     "name": "asurabld",
     "note": "日本版",
     "titleReading": "あしゅらぶれえどswordofdynasty",
-    "manufacturerReading": "ふうき"
+    "manufacturerReading": "ふうき",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アストラスーパースターズ",
@@ -13938,7 +25251,15 @@ window.ARCADE_GAMES = [
     "name": "astrass",
     "note": "Astra SuperStars (J 980514 V1.002)",
     "titleReading": "あすとらすぱすたず",
-    "manufacturerReading": "さんたくろす/さんでんしさんそふと"
+    "manufacturerReading": "さんたくろす/さんでんしさんそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アームドポリス バトライダー",
@@ -13947,7 +25268,14 @@ window.ARCADE_GAMES = [
     "name": "batriderj",
     "note": "日本版 B version / 1998-02-13",
     "titleReading": "あーむどぽりすばとらいだー",
-    "manufacturerReading": "らいじんぐえいてぃんぐ"
+    "manufacturerReading": "らいじんぐえいてぃんぐ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦神 -SENJING-",
@@ -13956,7 +25284,14 @@ window.ARCADE_GAMES = [
     "name": "grdnstrm",
     "note": "Guardian Storm (horizontal, not encrypted)",
     "titleReading": "いくさがみsenjing",
-    "manufacturerReading": "afegaapplesindustrieslicense"
+    "manufacturerReading": "afegaapplesindustrieslicense",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "イレブンビート ワールドトーナメント",
@@ -13965,7 +25300,14 @@ window.ARCADE_GAMES = [
     "name": "11beat",
     "note": "Eleven Beat",
     "titleReading": "いれぶんびとわるどとなめんと",
-    "manufacturerReading": "はどそん"
+    "manufacturerReading": "はどそん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "オセロしようよ",
@@ -13974,7 +25316,14 @@ window.ARCADE_GAMES = [
     "name": "othellos",
     "note": "Othello Shiyouyo (J 980423 V1.002)",
     "titleReading": "おせろしようよ",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カオスヒート",
@@ -13983,7 +25332,14 @@ window.ARCADE_GAMES = [
     "name": "chaoshea",
     "note": "Chaos Heat (V2.09O 1998/10/02 17:00)",
     "titleReading": "かおすひと",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガーディアンフォース",
@@ -13992,7 +25348,14 @@ window.ARCADE_GAMES = [
     "name": "grdforce",
     "note": "Guardian Force (JUET 980318 V0.105)",
     "titleReading": "がでぃあんふぉす",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガントレット・レジェンド",
@@ -14001,7 +25364,14 @@ window.ARCADE_GAMES = [
     "name": "gauntleg",
     "note": "Gauntlet Legends (version 1.6)",
     "titleReading": "がんとれっとれじぇんど",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンバード２",
@@ -14010,7 +25380,14 @@ window.ARCADE_GAMES = [
     "name": "gunbird2",
     "note": "Gunbird 2 (set 1)",
     "titleReading": "がんばど2",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズ＆バラエティ すくすく犬福",
@@ -14019,7 +25396,14 @@ window.ARCADE_GAMES = [
     "name": "inufuku",
     "note": "Quiz & Variety Sukusuku Inufuku (Japan)",
     "titleReading": "くいず&ばらえてぃすくすくいぬふく",
-    "manufacturerReading": "びでおしすてむ/よしだやまこうぼう"
+    "manufacturerReading": "びでおしすてむ/よしだやまこうぼう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クールボーダーズ -ARCARDE JAM-",
@@ -14028,7 +25412,14 @@ window.ARCADE_GAMES = [
     "name": "cbaj",
     "note": "Cool Boarders Arcade Jam",
     "titleReading": "くるぼだずarcardejam",
-    "manufacturerReading": "うえっぷしすてむ"
+    "manufacturerReading": "うえっぷしすてむ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グラディウスIV -復活-",
@@ -14037,7 +25428,14 @@ window.ARCADE_GAMES = [
     "name": "gradius4",
     "note": "Gradius IV: Fukkatsu (ver JAC)",
     "titleReading": "ぐらでぃうすivふっかつ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グルメバトルクイズ 料理王クッキング",
@@ -14046,7 +25444,13 @@ window.ARCADE_GAMES = [
     "name": "ryorioh",
     "note": "Gourmet Battle Quiz Ryohrioh CooKing (Japan)",
     "titleReading": "ぐるめばとるくいずりょうりおうくっきんぐ",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "子育てクイズ マイエンジェル３ -マイリトルペット-",
@@ -14055,7 +25459,13 @@ window.ARCADE_GAMES = [
     "name": "myangel3",
     "note": "Kosodate Quiz My Angel 3 (Japan, KQT1/VER.A)",
     "titleReading": "こそだてくいずまいえんじぇる3まいりとるぺっと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "コットンブーメラン -マジカルナイトドリームス-",
@@ -14064,7 +25474,14 @@ window.ARCADE_GAMES = [
     "name": "cottonbm",
     "note": "Cotton Boomerang (JUET 980709 V1.000)",
     "titleReading": "こっとんぶめらんまじかるないとどりむす",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "コナミ ８０'Ｓ アーケードギャラリー",
@@ -14073,7 +25490,14 @@ window.ARCADE_GAMES = [
     "name": "konam80s",
     "note": "Konami 80's AC Special (GC826 VER. EAA)",
     "titleReading": "こなみ80'sあけどぎゃらり",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '98 -ドリームマッチネバーエンズ",
@@ -14082,7 +25506,15 @@ window.ARCADE_GAMES = [
     "name": "kof98",
     "note": "NGM-2420",
     "titleReading": "ざきんぐおぶふぁいたあず98どりいむまっちねばあえんず",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海 -真的武勇-",
@@ -14091,7 +25523,14 @@ window.ARCADE_GAMES = [
     "name": "shngmtkb",
     "note": "Shanghai Matekibuyuu",
     "titleReading": "しゃんはいまことてきぶゆう",
-    "manufacturerReading": "さんでんしさんそふと"
+    "manufacturerReading": "さんでんしさんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ショックトルーパーズ -セカンドスカッド-",
@@ -14100,7 +25539,14 @@ window.ARCADE_GAMES = [
     "name": "shocktr2",
     "note": "Shock Troopers - 2nd Squad",
     "titleReading": "しょっくとるぱずせかんどすかっど",
-    "manufacturerReading": "ざうるす"
+    "manufacturerReading": "ざうるす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジョジョの奇妙な冒険",
@@ -14109,7 +25555,15 @@ window.ARCADE_GAMES = [
     "name": "jojo",
     "note": "JoJo's Venture (Euro 990128)",
     "titleReading": "じょじょのきみょうなぼうけん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターグラディエイター2 -ナイトメア オブ ビルシュタイン",
@@ -14118,7 +25572,14 @@ window.ARCADE_GAMES = [
     "name": "stargld2",
     "note": "日本版 980316",
     "titleReading": "すたあぐらでぃえいたあ2ないとめあおぶびるしゅたいん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スターソルジャー バニシング・アース",
@@ -14127,7 +25588,14 @@ window.ARCADE_GAMES = [
     "name": "starsldr",
     "note": "Star Soldier: Vanishing Earth",
     "titleReading": "すたそるじゃばにしんぐあす",
-    "manufacturerReading": "はどそん"
+    "manufacturerReading": "はどそん",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スティープ・スロープ・スライダーズ",
@@ -14136,7 +25604,14 @@ window.ARCADE_GAMES = [
     "name": "sss",
     "note": "Steep Slope Sliders (JUET 981110 V1.000)",
     "titleReading": "すてぃぷすろぷすらいだず",
-    "manufacturerReading": "けいぶ"
+    "manufacturerReading": "けいぶ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ステッガー１",
@@ -14145,7 +25620,14 @@ window.ARCADE_GAMES = [
     "name": "stagger1",
     "note": "Stagger I (Japan)",
     "titleReading": "すてっが1",
-    "manufacturerReading": "afega"
+    "manufacturerReading": "afega",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターEX2",
@@ -14154,7 +25636,14 @@ window.ARCADE_GAMES = [
     "name": "sfex2j",
     "note": "日 本 販 980312",
     "titleReading": "すとりいとふぁいたあex2",
-    "manufacturerReading": "かぷこんありか"
+    "manufacturerReading": "かぷこんありか",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターZERO3",
@@ -14163,7 +25652,14 @@ window.ARCADE_GAMES = [
     "name": "sfz3j",
     "note": "日本版 980904",
     "titleReading": "すとりいとふぁいたあzero3",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパービシバシチャンプ",
@@ -14172,7 +25668,13 @@ window.ARCADE_GAMES = [
     "name": "sbishi",
     "note": "Super Bishi Bashi Championship (ver JAA, 2 Players)",
     "titleReading": "すぱびしばしちゃんぷ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム'９８",
@@ -14181,7 +25683,14 @@ window.ARCADE_GAMES = [
     "name": "sws98",
     "note": "Super World Stadium '98 (Japan, SS81/VER.A)",
     "titleReading": "すぱわるどすたじあむ'98",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スリルドライブ",
@@ -14190,7 +25699,18 @@ window.ARCADE_GAMES = [
     "name": "thrilld",
     "note": "Thrill Drive (JAE)",
     "titleReading": "すりるどらいぶ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ソウルキャリバー",
@@ -14199,7 +25719,14 @@ window.ARCADE_GAMES = [
     "name": "soulclbrja",
     "note": "日本版, SOC11/VER.A2 / m↑",
     "titleReading": "そうるきゃりばあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "対戦タントアール サシっす!!",
@@ -14208,7 +25735,14 @@ window.ARCADE_GAMES = [
     "name": "sasissu",
     "note": "ARR 980216 ver 1.000",
     "titleReading": "たいせんたんとああるさしっす",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダークホースレジェンド",
@@ -14217,7 +25751,14 @@ window.ARCADE_GAMES = [
     "name": "darkhleg",
     "note": "Dark Horse Legend (GX706 VER. JAA)",
     "titleReading": "だくほすれじぇんど",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "堕落天使 -The Fallen Angels-",
@@ -14226,7 +25767,15 @@ window.ARCADE_GAMES = [
     "name": "daraku",
     "note": "Daraku Tenshi - The Fallen Angels",
     "titleReading": "だらくてんしthefallenangels",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "超鋼戦紀キカイオー",
@@ -14235,7 +25784,14 @@ window.ARCADE_GAMES = [
     "name": "techromnu",
     "note": "海外版 / Tech Romancer / USA 980914",
     "titleReading": "ちょうこうせんききかいおー",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリス ザ・グランドマスター",
@@ -14244,7 +25800,14 @@ window.ARCADE_GAMES = [
     "name": "tgmj",
     "note": "BARR 980710",
     "titleReading": "てとりすざぐらんどますたあ",
-    "manufacturerReading": "ありかかぷこん"
+    "manufacturerReading": "ありかかぷこん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デッド オア アライブ プラス プラス",
@@ -14253,7 +25816,15 @@ window.ARCADE_GAMES = [
     "name": "doapp",
     "note": "Dead Or Alive ++ (Japan)",
     "titleReading": "でっどおああらいぶぷらすぷらす",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "電車でGO！2 -高速編-",
@@ -14262,7 +25833,15 @@ window.ARCADE_GAMES = [
     "name": "dendego2",
     "note": "",
     "titleReading": "でんしゃでgo2こうそくへん",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "電車でGO！2 -高速編3000番台-",
@@ -14271,7 +25850,15 @@ window.ARCADE_GAMES = [
     "name": "dendego23k",
     "note": "",
     "titleReading": "でんしゃでgo2こうそくへん3000ばんだい",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   },
   {
     "title": "闘龍伝説エランドール",
@@ -14280,7 +25867,15 @@ window.ARCADE_GAMES = [
     "name": "elandore",
     "note": "Touryuu Densetsu Elan-Doree / Elan Doree - Legend of Dragoon (JUET 980922 V1.006)",
     "titleReading": "とうりゅうでんせつえらんどる",
-    "manufacturerReading": "さいさいめいと"
+    "manufacturerReading": "さいさいめいと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ネオジオカップ'９８ -ザ・ロードトゥザビクトリー-",
@@ -14289,7 +25884,14 @@ window.ARCADE_GAMES = [
     "name": "neocup98",
     "note": "Neo-Geo Cup '98 - The Road to the Victory",
     "titleReading": "ねおじおかっぷ'98ざろどとぅざびくとり",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーオリンピック イン ナガノ",
@@ -14298,7 +25900,14 @@ window.ARCADE_GAMES = [
     "name": "nagano98",
     "note": "Nagano Winter Olympics '98 (GX720 EAA)",
     "titleReading": "はいぱおりんぴっくいんながの",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパービシバシチャンプ",
@@ -14307,7 +25916,13 @@ window.ARCADE_GAMES = [
     "name": "hyperbbc",
     "note": "Hyper Bishi Bashi Champ (GQ876 VER. EAA)",
     "titleReading": "はいぱびしばしちゃんぷ",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "幕末浪漫第二幕 月華の剣士 -月に咲く華、散りゆく花-",
@@ -14316,7 +25931,15 @@ window.ARCADE_GAMES = [
     "name": "lastbld2",
     "note": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430 ~ NGH-2430)",
     "titleReading": "ばくまつろうまんだいにまくがつはなのけんしがつにさくはなちりゆくはな",
-    "manufacturerReading": "えすえすえぬえぬけいsnk"
+    "manufacturerReading": "えすえすえぬえぬけいsnk",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バスアングラー",
@@ -14325,7 +25948,16 @@ window.ARCADE_GAMES = [
     "name": "fbaitbc",
     "note": "Fisherman's Bait - A Bass Challenge (GE765 VER. UAB)",
     "titleReading": "ばすあんぐら",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "マウス",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バスアングラー２",
@@ -14334,7 +25966,16 @@ window.ARCADE_GAMES = [
     "name": "fbait2bc",
     "note": "Fisherman's Bait 2 - A Bass Challenge (GE865 VER. UAB)",
     "titleReading": "ばすあんぐら2",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "マウス",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バトルフリップショット",
@@ -14343,7 +25984,14 @@ window.ARCADE_GAMES = [
     "name": "flipshot",
     "note": "Battle Flip Shot",
     "titleReading": "ばとるふりっぷしょっと",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パカパカパッション",
@@ -14352,7 +26000,15 @@ window.ARCADE_GAMES = [
     "name": "pacapp",
     "note": "Paca Paca Passion (Japan, PPP1/VER.A2)",
     "titleReading": "ぱかぱかぱっしょん",
-    "manufacturerReading": "ぷろでゅす"
+    "manufacturerReading": "ぷろでゅす",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア 2nd MIX",
@@ -14361,7 +26017,18 @@ window.ARCADE_GAMES = [
     "name": "bm2ndmix",
     "note": "ver JA-B",
     "titleReading": "びいとまにあ2ndmix",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア サードミックス",
@@ -14370,7 +26037,18 @@ window.ARCADE_GAMES = [
     "name": "bm3rdmix",
     "note": "beatmania 3rd MIX (ver JA-A)",
     "titleReading": "びとまにあさどみっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビビッドドールズ",
@@ -14379,7 +26057,14 @@ window.ARCADE_GAMES = [
     "name": "vivdolls",
     "note": "Vivid Dolls",
     "titleReading": "びびっどどるず",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイティングレイヤー",
@@ -14388,7 +26073,15 @@ window.ARCADE_GAMES = [
     "name": "fgtlayer",
     "note": "Fighting Layer (Japan, FTL1/VER.A)",
     "titleReading": "ふぁいてぃんぐれいや",
-    "manufacturerReading": "ありか"
+    "manufacturerReading": "ありか",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイジングスター",
@@ -14397,7 +26090,14 @@ window.ARCADE_GAMES = [
     "name": "blazstar",
     "note": "",
     "titleReading": "ぶれいじんぐすたあ",
-    "manufacturerReading": "ゆめこうぼう"
+    "manufacturerReading": "ゆめこうぼう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポップンミュージック",
@@ -14406,7 +26106,14 @@ window.ARCADE_GAMES = [
     "name": "popn1",
     "note": "Pop'n Music 1 (ver AA-A, HDD 1.00)",
     "titleReading": "ぽっぷんみゅじっく",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
@@ -14415,7 +26122,14 @@ window.ARCADE_GAMES = [
     "name": "mvscj",
     "note": "日本版 980123",
     "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
@@ -14424,7 +26138,14 @@ window.ARCADE_GAMES = [
     "name": "mvscjr1",
     "note": "日本版 980112",
     "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグ2 -Super Vehicle-001/II",
@@ -14433,7 +26154,15 @@ window.ARCADE_GAMES = [
     "name": "mslug2",
     "note": "NGM-2410 / NGH-2410",
     "titleReading": "めたるすらっぐ2supervehicle001ii",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ライデンファイターズJET",
@@ -14442,7 +26171,14 @@ window.ARCADE_GAMES = [
     "name": "rfjetj",
     "note": "BAD",
     "titleReading": "らいでんふぁいたあずjet",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturerReading": "せいぶかいはつ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ラジカルバイカーズ",
@@ -14451,7 +26187,17 @@ window.ARCADE_GAMES = [
     "name": "radikalb",
     "note": "Radikal Bikers (Version 2.02)",
     "titleReading": "らじかるばいかず",
-    "manufacturerReading": "がえるこ"
+    "manufacturerReading": "がえるこ",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ランドメーカー",
@@ -14460,7 +26206,16 @@ window.ARCADE_GAMES = [
     "name": "landmakr",
     "note": "Ver 2.01J 1998/06/01",
     "titleReading": "らんどめえかあ",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リアルバウト餓狼伝説2 -THE NEWCOMERS-",
@@ -14469,7 +26224,15 @@ window.ARCADE_GAMES = [
     "name": "rbff2",
     "note": "NGM-2400",
     "titleReading": "りあるばうと餓おおかみでんせつ2thenewcomers",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイクライシス -LOGISTIC SHOOTING-",
@@ -14478,7 +26241,14 @@ window.ARCADE_GAMES = [
     "name": "raycris",
     "note": "Ray Crisis (V2.03J 1998/11/15 15:43)",
     "titleReading": "れいくらいしすlogisticshooting",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイディアントシルバーガン",
@@ -14487,7 +26257,14 @@ window.ARCADE_GAMES = [
     "name": "rsgun",
     "note": "Radiant Silvergun (JUET 980523 V1.000)",
     "titleReading": "れいでぃあんとしるばがん",
-    "manufacturerReading": "とれじゃ"
+    "manufacturerReading": "とれじゃ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヴェイパーＴＲＸ",
@@ -14496,7 +26273,15 @@ window.ARCADE_GAMES = [
     "name": "vaportrx",
     "note": "Vapor TRX",
     "titleReading": "ゔぇいぱtrx",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクアラッシュ",
@@ -14505,7 +26290,14 @@ window.ARCADE_GAMES = [
     "name": "aquarush",
     "note": "日本版",
     "titleReading": "あくあらっしゅ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "おてなみ拝見",
@@ -14514,7 +26306,14 @@ window.ARCADE_GAMES = [
     "name": "otenamih",
     "note": "Otenami Haiken (V2.04J 1999/02/01 18:00:00)",
     "titleReading": "おてなみはいけん",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カードパズル フリップメイズ",
@@ -14523,7 +26322,14 @@ window.ARCADE_GAMES = [
     "name": "flipmaze",
     "note": "Flip Maze (V2.04J 1999/09/02 20:00)",
     "titleReading": "かどぱずるふりっぷめいず",
-    "manufacturerReading": "もす"
+    "manufacturerReading": "もす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガイア・クルセイダーズ",
@@ -14532,7 +26338,15 @@ window.ARCADE_GAMES = [
     "name": "gaia",
     "note": "Gaia Crusaders",
     "titleReading": "がいあくるせいだず",
-    "manufacturerReading": "のいずふぁくとり"
+    "manufacturerReading": "のいずふぁくとり",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "餓狼 -マーク・オブ・ザ・ウルヴス",
@@ -14541,7 +26355,15 @@ window.ARCADE_GAMES = [
     "name": "garou",
     "note": "set 1",
     "titleReading": "がろうまーくおぶざうるゔす",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガントレット ダークレガシー",
@@ -14550,7 +26372,14 @@ window.ARCADE_GAMES = [
     "name": "gauntdl",
     "note": "Gauntlet Dark Legacy (version DL 2.52)",
     "titleReading": "がんとれっとだくれがし",
-    "manufacturerReading": "midwaygames"
+    "manufacturerReading": "midwaygames",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キャプテントマディ",
@@ -14559,7 +26388,14 @@ window.ARCADE_GAMES = [
     "name": "ctomaday",
     "note": "",
     "titleReading": "きゃぷてんとまでぃ",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギガウィング",
@@ -14568,7 +26404,14 @@ window.ARCADE_GAMES = [
     "name": "gigawing",
     "note": "USA版 990222",
     "titleReading": "ぎがうぃんぐ",
-    "manufacturerReading": "たくみかぷこんらいせんす"
+    "manufacturerReading": "たくみかぷこんらいせんす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギターフリークス",
@@ -14577,7 +26420,15 @@ window.ARCADE_GAMES = [
     "name": "gtrfrks",
     "note": "Guitar Freaks (GQ886 VER. EAC)",
     "titleReading": "ぎたふりくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ギターフリークス セカンドミックス",
@@ -14586,7 +26437,15 @@ window.ARCADE_GAMES = [
     "name": "gtrfrk2m",
     "note": "Guitar Freaks 2nd Mix Ver 1.01 (GQ883 VER. JAD)",
     "titleReading": "ぎたふりくすせかんどみっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぐわんげ",
@@ -14595,7 +26454,15 @@ window.ARCADE_GAMES = [
     "name": "guwange",
     "note": "Guwange (Japan, Master Ver. 99/06/24)",
     "titleReading": "ぐわんげ",
-    "manufacturerReading": "けいぶ"
+    "manufacturerReading": "けいぶ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サンフランシスコラッシュ２０４９",
@@ -14604,7 +26471,19 @@ window.ARCADE_GAMES = [
     "name": "sf2049",
     "note": "San Francisco Rush 2049",
     "titleReading": "さんふらんしすこらっしゅ2049",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "鍵盤",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ '99 -ミレニアムバトル",
@@ -14613,7 +26492,15 @@ window.ARCADE_GAMES = [
     "name": "kof99",
     "note": "set 1",
     "titleReading": "ざきんぐおぶふぁいたあず99みれにあむばとる",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・レジェンドオブシルクロード",
@@ -14622,7 +26509,15 @@ window.ARCADE_GAMES = [
     "name": "silkroad",
     "note": "The Legend of Silkroad",
     "titleReading": "ざれじぇんどおぶしるくろど",
-    "manufacturerReading": "unico"
+    "manufacturerReading": "unico",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "システム５７３用 ＣＤ-ＲＯＭドライブアップデータ",
@@ -14631,7 +26526,14 @@ window.ARCADE_GAMES = [
     "name": "cr589fwa",
     "note": "CD-ROM Drive Updater (700A04)",
     "titleReading": "しすてむ573ようcdromどらいぶあっぷでた",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "システム５７３用 ＣＤ-ＲＯＭドライブアップデータ ２.０",
@@ -14640,7 +26542,14 @@ window.ARCADE_GAMES = [
     "name": "cr589fw",
     "note": "CD-ROM Drive Updater 2.0 (700B04)",
     "titleReading": "しすてむ573ようcdromどらいぶあっぷでた20",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ジョジョの奇妙な冒険 -未来への遺産-",
@@ -14649,7 +26558,14 @@ window.ARCADE_GAMES = [
     "name": "jojoban",
     "note": "日本版 990927,NO CD / m↑",
     "titleReading": "じょじょのきみょうなぼうけんみらいへのいさん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライカーズ1945 プラス",
@@ -14658,7 +26574,14 @@ window.ARCADE_GAMES = [
     "name": "s1945p",
     "note": "",
     "titleReading": "すとらいかあず1945ぷらす",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストライカーズ１９９９",
@@ -14667,7 +26590,14 @@ window.ARCADE_GAMES = [
     "name": "s1945iii",
     "note": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
     "titleReading": "すとらいかず1999",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターEX2プラス",
@@ -14676,7 +26606,14 @@ window.ARCADE_GAMES = [
     "name": "sfex2pj",
     "note": "日本版 990611 / m↑",
     "titleReading": "すとりいとふぁいたあex2ぷらす",
-    "manufacturerReading": "かぷこんありか"
+    "manufacturerReading": "かぷこんありか",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII 3rdストライク -ファイトフォーザフューチャー-",
@@ -14685,7 +26622,14 @@ window.ARCADE_GAMES = [
     "name": "sfiii3n",
     "note": "日本版 990608, NO CD / m↑",
     "titleReading": "すとりいとふぁいたあiii3rdすとらいくふぁいとふぉうざふゅうちゃあ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターＥＸ２ ＰＬＵＳ",
@@ -14694,7 +26638,15 @@ window.ARCADE_GAMES = [
     "name": "sfex2p",
     "note": "Street Fighter EX2 Plus (Euro 990611)",
     "titleReading": "すとりとふぁいたex2plus",
-    "manufacturerReading": "ありか"
+    "manufacturerReading": "ありか",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ストリートファイターIII ３rd STRIKE -Fight for the Future-",
@@ -14703,7 +26655,15 @@ window.ARCADE_GAMES = [
     "name": "sfiii3",
     "note": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
     "titleReading": "すとりとふぁいたiii3rdstrikefightforthefuture",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーパズルボブル",
@@ -14712,7 +26672,14 @@ window.ARCADE_GAMES = [
     "name": "spuzbobl",
     "note": "Super Puzzle Bobble (V2.05O 1999/2/24 18:00)",
     "titleReading": "すぱぱずるぼぶる",
-    "manufacturerReading": "たいとう"
+    "manufacturerReading": "たいとう",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スーパーワールドスタジアム１９９９",
@@ -14721,7 +26688,14 @@ window.ARCADE_GAMES = [
     "name": "sws99",
     "note": "Super World Stadium '99 (Japan, SS91/VER.A3)",
     "titleReading": "すぱわるどすたじあむ1999",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ダンスダンスレボリューション 2nd MIX with ビートマニアIIDX サブストリームクラブバージョン2",
@@ -14730,7 +26704,18 @@ window.ARCADE_GAMES = [
     "name": "bmiidxc2",
     "note": "beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM)",
     "titleReading": "だんすだんすれぼりゅしょん2ndmixwithびとまにあiidxさぶすとりむくらぶばじょん2",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "トラックボール",
+      "鍵盤",
+      "ターンテーブル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "チェンジエアブレード",
@@ -14739,7 +26724,14 @@ window.ARCADE_GAMES = [
     "name": "cairblad",
     "note": "日本版",
     "titleReading": "ちぇんじえあぶれえど",
-    "manufacturerReading": "さみい"
+    "manufacturerReading": "さみい",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "鉄拳タッグトーナメント",
@@ -14748,7 +26740,15 @@ window.ARCADE_GAMES = [
     "name": "tektagt",
     "note": "USARR TEGS/VERC1",
     "titleReading": "てっけんたっぐとうなめんと",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "とんでもクライシス！",
@@ -14757,7 +26757,14 @@ window.ARCADE_GAMES = [
     "name": "tondemo",
     "note": "Tondemo Crisis (Japan)",
     "titleReading": "とんでもくらいしす",
-    "manufacturerReading": "とくましょてん/はくほうどう/とっぱんいんさつ/ぽりごんまじっく"
+    "manufacturerReading": "とくましょてん/はくほうどう/とっぱんいんさつ/ぽりごんまじっく",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パカパカパッション２",
@@ -14766,7 +26773,15 @@ window.ARCADE_GAMES = [
     "name": "pacapp2",
     "note": "Paca Paca Passion 2 (Japan, PKS1/VER.A)",
     "titleReading": "ぱかぱかぱっしょん2",
-    "manufacturerReading": "ぷろでゅす"
+    "manufacturerReading": "ぷろでゅす",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パカパカパッションスペシャル",
@@ -14775,7 +26790,15 @@ window.ARCADE_GAMES = [
     "name": "pacappsp",
     "note": "Paca Paca Passion Special (Japan, PSP1/VER.A)",
     "titleReading": "ぱかぱかぱっしょんすぺしゃる",
-    "manufacturerReading": "ぷろでゅす"
+    "manufacturerReading": "ぷろでゅす",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルDEボーリング",
@@ -14784,7 +26807,14 @@ window.ARCADE_GAMES = [
     "name": "pzlbowl",
     "note": "Puzzle De Bowling (Japan)",
     "titleReading": "ぱずるdeぼりんぐ",
-    "manufacturerReading": "もす"
+    "manufacturerReading": "もす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズルボブル2",
@@ -14793,7 +26823,14 @@ window.ARCADE_GAMES = [
     "name": "pbobbl2n",
     "note": "Neo-Geo",
     "titleReading": "ぱずるぼぶる2",
-    "manufacturerReading": "たいとうえすえぬけーらいせんす"
+    "manufacturerReading": "たいとうえすえぬけーらいせんす",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ぱづり２ スーパー",
@@ -14802,7 +26839,14 @@ window.ARCADE_GAMES = [
     "name": "puzzli2",
     "note": "Puzzli 2 / Pao Pao Yu (ver. 100)",
     "titleReading": "ぱづり2すぱ",
-    "manufacturerReading": "igsmetrolicense"
+    "manufacturerReading": "igsmetrolicense",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヒドゥンキャッチ２",
@@ -14811,7 +26855,14 @@ window.ARCADE_GAMES = [
     "name": "hidctch2",
     "note": "Hidden Catch 2 (pcb ver 3.03) (Kor/Eng) (AT89c52 protected)",
     "titleReading": "ひどぅんきゃっち2",
-    "manufacturerReading": "eolith"
+    "manufacturerReading": "eolith",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア コンプリート ミックス",
@@ -14820,7 +26871,18 @@ window.ARCADE_GAMES = [
     "name": "bmcompmx",
     "note": "beatmania complete MIX (ver JA-B)",
     "titleReading": "びとまにあこんぷりとみっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア フィフスミックス -Time to get down-",
@@ -14829,7 +26891,18 @@ window.ARCADE_GAMES = [
     "name": "bm5thmix",
     "note": "beatmania 5th MIX (ver JA-A)",
     "titleReading": "びとまにあふぃふすみっくすtimetogetdown",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア フォースミックス -the beat goes on-",
@@ -14838,7 +26911,18 @@ window.ARCADE_GAMES = [
     "name": "bm4thmix",
     "note": "beatmania 4th MIX (ver JA-A)",
     "titleReading": "びとまにあふぉすみっくすthebeatgoeson",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ファイナルファイトリベンジ",
@@ -14847,7 +26931,15 @@ window.ARCADE_GAMES = [
     "name": "ffreveng",
     "note": "Final Fight Revenge (JUET 990930 V1.100)",
     "titleReading": "ふぁいなるふぁいとりべんじ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "フレームガンナー",
@@ -14856,7 +26948,14 @@ window.ARCADE_GAMES = [
     "name": "flamegun",
     "note": "Flame Gunner",
     "titleReading": "ふれむがんな",
-    "manufacturerReading": "ぎゃっぷす"
+    "manufacturerReading": "ぎゃっぷす",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プレヒストリックアイル２ 原始島",
@@ -14865,7 +26964,14 @@ window.ARCADE_GAMES = [
     "name": "preisle2",
     "note": "Prehistoric Isle 2",
     "titleReading": "ぷれひすとりっくあいる2げんししま",
-    "manufacturerReading": "ゆめこうぼう"
+    "manufacturerReading": "ゆめこうぼう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ポップンステージＥＸ",
@@ -14874,7 +26980,14 @@ window.ARCADE_GAMES = [
     "name": "popnstex",
     "note": "Pop'n Stage EX (ver JB-A)",
     "titleReading": "ぽっぷんすてじex",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ポップンミュージック２",
@@ -14883,7 +26996,14 @@ window.ARCADE_GAMES = [
     "name": "popn2",
     "note": "Pop'n Music 2 (ver JA-A)",
     "titleReading": "ぽっぷんみゅじっく2",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ポップンミュージック３",
@@ -14892,7 +27012,14 @@ window.ARCADE_GAMES = [
     "name": "popn3",
     "note": "Pop'n Music 3 (ver JA-A)",
     "titleReading": "ぽっぷんみゅじっく3",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ミスタードリラー",
@@ -14901,7 +27028,14 @@ window.ARCADE_GAMES = [
     "name": "mrdrillr",
     "note": "日本版 DRI1/VER.A2",
     "titleReading": "みすたあどりらあ",
-    "manufacturerReading": "なむこ"
+    "manufacturerReading": "なむこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "武蔵巌流記",
@@ -14910,7 +27044,14 @@ window.ARCADE_GAMES = [
     "name": "ganryu",
     "note": "",
     "titleReading": "むさしがんりゅうき",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグX -Super Vehicle-001",
@@ -14919,7 +27060,15 @@ window.ARCADE_GAMES = [
     "name": "mslugx",
     "note": "NGM-2500 / NGH-2500",
     "titleReading": "めたるすらっぐxsupervehicle001",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "リアルアンドフェイク フォトＹ２Ｋ",
@@ -14928,7 +27077,14 @@ window.ARCADE_GAMES = [
     "name": "photoy2k",
     "note": "Photo Y2K / Chaoji Bi Yi Bi / Dajia Lai Zhao Cha / Real and Fake (ver. 105)",
     "titleReading": "りあるあんどふぇいくふぉとy2k",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロジックプロ アドベンチャー",
@@ -14937,7 +27093,14 @@ window.ARCADE_GAMES = [
     "name": "lpadv",
     "note": "日本版 / m↑",
     "titleReading": "ろじっくぷろあどべんちゃあ",
-    "manufacturerReading": "あみゅうずわあるど"
+    "manufacturerReading": "あみゅうずわあるど",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックン３",
@@ -14946,7 +27109,17 @@ window.ARCADE_GAMES = [
     "name": "rockn3",
     "note": "Rock'n 3 (Japan)",
     "titleReading": "ろっくん3",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックン・トレッド",
@@ -14955,7 +27128,17 @@ window.ARCADE_GAMES = [
     "name": "rockn",
     "note": "Rock'n Tread (Japan)",
     "titleReading": "ろっくんとれっど",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックン・トレッド２",
@@ -14964,7 +27147,17 @@ window.ARCADE_GAMES = [
     "name": "rockn2",
     "note": "Rock'n Tread 2 (Japan)",
     "titleReading": "ろっくんとれっど2",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロックンメガセッション",
@@ -14973,7 +27166,17 @@ window.ARCADE_GAMES = [
     "name": "rocknms",
     "note": "Rock'n MegaSession (Japan)",
     "titleReading": "ろっくんめがせっしょん",
-    "manufacturerReading": "じゃれこ"
+    "manufacturerReading": "じゃれこ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ペダル",
+      "専用操作",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードバーナーズ",
@@ -14982,7 +27185,18 @@ window.ARCADE_GAMES = [
     "name": "roadburn",
     "note": "Road Burners (ver 1.04)",
     "titleReading": "ろどばなず",
-    "manufacturerReading": "あたりげえむず"
+    "manufacturerReading": "あたりげえむず",
+    "genres": [
+      "レーシング"
+    ],
+    "controls": [
+      "パドル",
+      "ペダル",
+      "ハンドル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "１on１ ガバメント",
@@ -14991,7 +27205,14 @@ window.ARCADE_GAMES = [
     "name": "1on1gov",
     "note": "1 on 1 Government (Japan)",
     "titleReading": "1on1がばめんと",
-    "manufacturerReading": "じょるだん"
+    "manufacturerReading": "じょるだん",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ＴＨＥ ブロックくずし",
@@ -15000,7 +27221,14 @@ window.ARCADE_GAMES = [
     "name": "tblkkuzu",
     "note": "The Block Kuzushi (Japan)",
     "titleReading": "theぶろっくくずし",
-    "manufacturerReading": "たむそふと/でぃすりでぃすりぱぶりっしゃ"
+    "manufacturerReading": "たむそふと/でぃすりでぃすりぱぶりっしゃ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "1944 -ザ・ループマスター",
@@ -15009,7 +27237,14 @@ window.ARCADE_GAMES = [
     "name": "1944j",
     "note": "USA版 000620",
     "titleReading": "いちきゅうよんよんざるーぷますたー",
-    "manufacturerReading": "えいてぃんぐらいじんぐかぷこんらいせんす"
+    "manufacturerReading": "えいてぃんぐらいじんぐかぷこんらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "英雄傳説 -LEGEND OF HEROES-",
@@ -15018,7 +27253,15 @@ window.ARCADE_GAMES = [
     "name": "legendoh",
     "note": "Legend of Heroes",
     "titleReading": "えいゆうでんせつlegendofheroes",
-    "manufacturerReading": "limenko"
+    "manufacturerReading": "limenko",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガツン",
@@ -15027,7 +27270,14 @@ window.ARCADE_GAMES = [
     "name": "gutsn",
     "note": "Guts'n (Japan)",
     "titleReading": "がつん",
-    "manufacturerReading": "ひかりゆうしゃ"
+    "manufacturerReading": "ひかりゆうしゃ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "クイズでアイドル！ホットデビュー",
@@ -15036,7 +27286,13 @@ window.ARCADE_GAMES = [
     "name": "hotdebut",
     "note": "BARR",
     "titleReading": "くいずであいどるほっとでびゅう",
-    "manufacturerReading": "もすさいきょう"
+    "manufacturerReading": "もすさいきょう",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "グレート魔法大作戦",
@@ -15045,7 +27301,14 @@ window.ARCADE_GAMES = [
     "name": "dimahoo",
     "note": "Dimahoo (Euro 000121)",
     "titleReading": "ぐれとまほうだいさくせん",
-    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "グンペイ",
@@ -15054,7 +27317,14 @@ window.ARCADE_GAMES = [
     "name": "gunpey",
     "note": "Gunpey (Japan)",
     "titleReading": "ぐんぺい",
-    "manufacturerReading": "ばんぷれすと"
+    "manufacturerReading": "ばんぷれすと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "五月陣戦３ -本格早指し将棋-",
@@ -15063,7 +27333,14 @@ window.ARCADE_GAMES = [
     "name": "mayjin3",
     "note": "Mayjinsen 3",
     "titleReading": "ごがつじんせん3ほんかくはやざししょうぎ",
-    "manufacturerReading": "せた"
+    "manufacturerReading": "せた",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイヴァリア -MEDIUM UNIT-",
@@ -15072,7 +27349,14 @@ window.ARCADE_GAMES = [
     "name": "psyvaria",
     "note": "Psyvariar -Medium Unit- (V2.02O 2000/02/22 13:00)",
     "titleReading": "さいゔぁりあmediumunit",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サイヴァリア リビジョン",
@@ -15081,7 +27365,14 @@ window.ARCADE_GAMES = [
     "name": "psyvarrv",
     "note": "Psyvariar -Revision- (V2.04J 2000/08/11 22:00)",
     "titleReading": "さいゔぁりありびじょん",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サラリーマンチャンプ -たたかうサラリーマン-",
@@ -15090,7 +27381,13 @@ window.ARCADE_GAMES = [
     "name": "salarymc",
     "note": "Salary Man Champ (GCA18 VER. JAA)",
     "titleReading": "さらりまんちゃんぷたたかうさらりまん",
-    "manufacturerReading": "さくせす/ぷらいむしすてむ"
+    "manufacturerReading": "さくせす/ぷらいむしすてむ",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ 2000",
@@ -15099,7 +27396,15 @@ window.ARCADE_GAMES = [
     "name": "kof2000",
     "note": "NGM-2570 / NGH-2570",
     "titleReading": "ざきんぐおぶふぁいたあず2000",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海 ～昇龍再臨～",
@@ -15108,7 +27413,14 @@ window.ARCADE_GAMES = [
     "name": "shanghss",
     "note": "Shanghai Shoryu Sairin (V2.03J 2000/05/26 12:45:28)",
     "titleReading": "しゃんはい~のぼるりゅうさいりん~",
-    "manufacturerReading": "わらしわらべ/あくてぃびじょん"
+    "manufacturerReading": "わらしわらべ/あくてぃびじょん",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "蒼天龍",
@@ -15117,7 +27429,14 @@ window.ARCADE_GAMES = [
     "name": "soutenry",
     "note": "Soutenryu (V2.07J 2000/12/14 11:13:02)",
     "titleReading": "そうてんりゅう",
-    "manufacturerReading": "わらしわらべ"
+    "manufacturerReading": "わらしわらべ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "団地でクイズ -奥さん4択ですよ！-",
@@ -15126,7 +27445,14 @@ window.ARCADE_GAMES = [
     "name": "danchiq",
     "note": "Danchi de Quiz: Okusan Yontaku Desuyo! (J 001128 V1.200)",
     "titleReading": "だんちでくいずおくさん4たくですよ",
-    "manufacturerReading": "あるとろん"
+    "manufacturerReading": "あるとろん",
+    "genres": [
+      "クイズ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリスT.A. -グランドマスター2-",
@@ -15135,7 +27461,14 @@ window.ARCADE_GAMES = [
     "name": "tgm2",
     "note": "",
     "titleReading": "てとりすtaぐらんどますたあ2",
-    "manufacturerReading": "ありか"
+    "manufacturerReading": "ありか",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "テトリスT.A. -グランドマスター2プラス-",
@@ -15144,7 +27477,14 @@ window.ARCADE_GAMES = [
     "name": "tgm2p",
     "note": "",
     "titleReading": "てとりすtaぐらんどますたあ2ぷらす",
-    "manufacturerReading": "ありか"
+    "manufacturerReading": "ありか",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドラゴンブレイズ",
@@ -15153,7 +27493,14 @@ window.ARCADE_GAMES = [
     "name": "dragnblz",
     "note": "Dragon Blaze",
     "titleReading": "どらごんぶれいず",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナイトメア・イン・ザ・ダーク",
@@ -15162,7 +27509,14 @@ window.ARCADE_GAMES = [
     "name": "nitd",
     "note": "",
     "titleReading": "ないとめあいんざだあく",
-    "manufacturerReading": "いれぶんがばきんぐ"
+    "manufacturerReading": "いれぶんがばきんぐ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "婆裟羅 ＜バサラ＞",
@@ -15171,7 +27525,14 @@ window.ARCADE_GAMES = [
     "name": "vasara",
     "note": "",
     "titleReading": "ばさら",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "バンビィード",
@@ -15180,7 +27541,14 @@ window.ARCADE_GAMES = [
     "name": "bangbead",
     "note": "",
     "titleReading": "ばんびぃいど",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "スポーツ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ｃｏｍｐｌｅｔｅ ＭＩＸ２",
@@ -15189,7 +27557,18 @@ window.ARCADE_GAMES = [
     "name": "bmcompm2",
     "note": "beatmania complete MIX 2 (ver JA-A)",
     "titleReading": "びとまにあcompletemix2",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニアfeat. ドリームズ・カム・トゥルー",
@@ -15198,7 +27577,18 @@ window.ARCADE_GAMES = [
     "name": "bmdct",
     "note": "beatmania featuring Dreams Come True (ver JA-A)",
     "titleReading": "びとまにあfeatどりむずかむとぅる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア クラブミックス",
@@ -15207,7 +27597,18 @@ window.ARCADE_GAMES = [
     "name": "bmclubmx",
     "note": "beatmania Club MIX (ver JA-A)",
     "titleReading": "びとまにあくらぶみっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア コアミックス",
@@ -15216,7 +27617,18 @@ window.ARCADE_GAMES = [
     "name": "bmcorerm",
     "note": "beatmania CORE REMIX (ver JA-A)",
     "titleReading": "びとまにあこあみっくす",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ツーディーエックス フォーススタイル",
@@ -15225,7 +27637,18 @@ window.ARCADE_GAMES = [
     "name": "bmiidx4",
     "note": "beatmania IIDX 4th style (GCA03 JAA)",
     "titleReading": "びとまにあつでぃえっくすふぉすすたいる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "トラックボール",
+      "鍵盤",
+      "ターンテーブル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ブレイブブレイド",
@@ -15234,7 +27657,14 @@ window.ARCADE_GAMES = [
     "name": "brvbladej",
     "note": "日本版 / m↑",
     "titleReading": "ぶれいぶぶれいど",
-    "manufacturerReading": "えいてぃんぐらいじんぐ"
+    "manufacturerReading": "えいてぃんぐらいじんぐ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ヘッドパニック -ポリーとサリーの大冒険-",
@@ -15243,7 +27673,14 @@ window.ARCADE_GAMES = [
     "name": "hedpanic",
     "note": "Head Panic (ver. 0117, 17/01/2000)",
     "titleReading": "へっどぱにっくぽりとさりのだいぼうけん",
-    "manufacturerReading": "esd"
+    "manufacturerReading": "esd",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ペンギンブラザーズ",
@@ -15252,7 +27689,14 @@ window.ARCADE_GAMES = [
     "name": "penbros",
     "note": "BAR",
     "titleReading": "ぺんぎんぶらざあず",
-    "manufacturerReading": "さぶしの"
+    "manufacturerReading": "さぶしの",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マーズマトリックス -ハイパーソリッドシューティング-",
@@ -15261,7 +27705,14 @@ window.ARCADE_GAMES = [
     "name": "mmatrixj",
     "note": "日本版 000412",
     "titleReading": "まあずまとりっくすはいぱあそりっどしゅうてぃんぐ",
-    "manufacturerReading": "たくみかぷこんらいせんす"
+    "manufacturerReading": "たくみかぷこんらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "マイティ・パン",
@@ -15270,7 +27721,14 @@ window.ARCADE_GAMES = [
     "name": "mpang",
     "note": "Mighty! Pang (Euro 001010)",
     "titleReading": "まいてぃぱん",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "三国戦紀２ -KNIGHTS OF VALOUR 武将争覇-",
@@ -15279,7 +27737,15 @@ window.ARCADE_GAMES = [
     "name": "kov2",
     "note": "Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)",
     "titleReading": "みくにせんき2knightsofvalourぶしょうそうは",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグ3",
@@ -15288,7 +27754,15 @@ window.ARCADE_GAMES = [
     "name": "mslug3",
     "note": "NGM-2560",
     "titleReading": "めたるすらっぐ3",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ロードランナー ザ・ディグファイト",
@@ -15297,7 +27771,15 @@ window.ARCADE_GAMES = [
     "name": "loderndf",
     "note": "",
     "titleReading": "ろうどらんなあざでぃぐふぁいと",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "アクション",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アシュラバスター -Eternal Warriors-",
@@ -15306,7 +27788,15 @@ window.ARCADE_GAMES = [
     "name": "asurabus",
     "note": "USA版",
     "titleReading": "あしゅらばすたーえたーなるうぉりあーず",
-    "manufacturerReading": "ふうき"
+    "manufacturerReading": "ふうき",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "形意拳",
@@ -15315,7 +27805,15 @@ window.ARCADE_GAMES = [
     "name": "martmast",
     "note": "Martial Masters / Xing Yi Quan (ver. 104, 102, 102US)",
     "titleReading": "かたちいけん",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "カプコン バーサス エス・エヌ・ケイ -ミレニアムファイト2000 プロ-",
@@ -15324,7 +27822,15 @@ window.ARCADE_GAMES = [
     "name": "cvsgd",
     "note": "Capcom Vs. SNK Millennium Fight 2000 Pro (Japan) (GDL-0004)",
     "titleReading": "かぷこんばさすえすえぬけいみれにあむふぁいと2000ぷろ",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ガンバリッチ",
@@ -15333,7 +27839,15 @@ window.ARCADE_GAMES = [
     "name": "gnbarich",
     "note": "Gunbarich",
     "titleReading": "がんばりっち",
-    "manufacturerReading": "さいきょう"
+    "manufacturerReading": "さいきょう",
+    "genres": [
+      "シューティング",
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ 2001",
@@ -15342,7 +27856,15 @@ window.ARCADE_GAMES = [
     "name": "kof2001",
     "note": "set 1",
     "titleReading": "ざきんぐおぶふぁいたあず2001",
-    "manufacturerReading": "いおりすえすえぬけー"
+    "manufacturerReading": "いおりすえすえぬけー",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・クリスタルオブキングス",
@@ -15351,7 +27873,15 @@ window.ARCADE_GAMES = [
     "name": "crysking",
     "note": "The Crystal of Kings",
     "titleReading": "ざくりすたるおぶきんぐす",
-    "manufacturerReading": "ぶれっつぁそふと"
+    "manufacturerReading": "ぶれっつぁそふと",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "式神の城",
@@ -15360,7 +27890,14 @@ window.ARCADE_GAMES = [
     "name": "shikigam",
     "note": "Shikigami no Shiro (V2.03J 2001/08/07 18:11)",
     "titleReading": "しきがみのしろ",
-    "manufacturerReading": "あるふぁしすてむ"
+    "manufacturerReading": "あるふぁしすてむ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ズパパ！",
@@ -15369,7 +27906,14 @@ window.ARCADE_GAMES = [
     "name": "zupapa",
     "note": "",
     "titleReading": "ずぱぱ",
-    "manufacturerReading": "えすえぬけー"
+    "manufacturerReading": "えすえぬけー",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "戦国伝承２００１",
@@ -15378,7 +27922,15 @@ window.ARCADE_GAMES = [
     "name": "sengoku3",
     "note": "Sengoku 3 / Sengoku Densho 2001 (set 1)",
     "titleReading": "せんごくでんしょう2001",
-    "manufacturerReading": "のいずふぁくとり"
+    "manufacturerReading": "のいずふぁくとり",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "続・おてなみ拝見",
@@ -15387,7 +27939,14 @@ window.ARCADE_GAMES = [
     "name": "zokuoten",
     "note": "Zoku Otenamihaiken (V2.03J 2001/02/16 16:00)",
     "titleReading": "ぞくおてなみはいけん",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ナイトレイド",
@@ -15396,7 +27955,14 @@ window.ARCADE_GAMES = [
     "name": "nightrai",
     "note": "Night Raid (V2.03J 2001/02/26 17:00)",
     "titleReading": "ないとれいど",
-    "manufacturerReading": "たくみ"
+    "manufacturerReading": "たくみ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ねんど玉パズル お天気ころりん",
@@ -15405,7 +27971,14 @@ window.ARCADE_GAMES = [
     "name": "otenki",
     "note": "Otenki Kororin (V2.01J 2001/07/02 10:00)",
     "titleReading": "ねんどたまぱずるおてんきころりん",
-    "manufacturerReading": "たくみ"
+    "manufacturerReading": "たくみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "婆裟羅2",
@@ -15414,7 +27987,14 @@ window.ARCADE_GAMES = [
     "name": "vasara2",
     "note": "set 1",
     "titleReading": "ばさらつー",
-    "manufacturerReading": "びすこ"
+    "manufacturerReading": "びすこ",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "パズループ ツー",
@@ -15423,7 +28003,17 @@ window.ARCADE_GAMES = [
     "name": "pzloop2",
     "note": "Puzz Loop 2 (Euro 010302)",
     "titleReading": "ぱずるぷつ",
-    "manufacturerReading": "みっちぇる"
+    "manufacturerReading": "みっちぇる",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "パドル",
+      "ダイアル",
+      "アナログ",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ６ｔｈＭＩＸ -THE UK UNDERGROUND MUSIC-",
@@ -15432,7 +28022,18 @@ window.ARCADE_GAMES = [
     "name": "bm6thmix",
     "note": "beatmania 6th MIX (ver JA-A)",
     "titleReading": "びとまにあ6thmixtheukundergroundmusic",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ７ｔｈＭＩＸ -keepin' evolution-",
@@ -15441,7 +28042,18 @@ window.ARCADE_GAMES = [
     "name": "bm7thmix",
     "note": "beatmania 7th MIX (ver JA-B)",
     "titleReading": "びとまにあ7thmixkeepin'evolution",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア  ツーディーエックス シックスススタイル",
@@ -15450,7 +28062,18 @@ window.ARCADE_GAMES = [
     "name": "bmiidx6",
     "note": "beatmania IIDX 6th style (GCB4U JAB)",
     "titleReading": "びとまにあつでぃえっくすしっくすすすたいる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "トラックボール",
+      "鍵盤",
+      "ターンテーブル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "プロギアの嵐",
@@ -15459,7 +28082,14 @@ window.ARCADE_GAMES = [
     "name": "progearj",
     "note": "日本版 010117",
     "titleReading": "ぷろぎあのあらし",
-    "manufacturerReading": "けいぶかぷこんらいせんす"
+    "manufacturerReading": "けいぶかぷこんらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "モンスターファームジャンプ",
@@ -15468,7 +28098,14 @@ window.ARCADE_GAMES = [
     "name": "mfjump",
     "note": "Monster Farm Jump (Japan)",
     "titleReading": "もんすたふぁむじゃんぷ",
-    "manufacturerReading": "てくも"
+    "manufacturerReading": "てくも",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "Ｇストリーム -G2020-",
@@ -15477,7 +28114,14 @@ window.ARCADE_GAMES = [
     "name": "gstream",
     "note": "G-Stream G2020",
     "titleReading": "gすとりむg2020",
-    "manufacturerReading": "ねくせす/orientalsoft"
+    "manufacturerReading": "ねくせす/orientalsoft",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ 2002 -Challenge to Ultimate Battle",
@@ -15486,7 +28130,15 @@ window.ARCADE_GAMES = [
     "name": "kof2002",
     "note": "NGM-2650 / NGH-2650",
     "titleReading": "ざきんぐおぶふぁいたあず2002challengetoultimatebattle",
-    "manufacturerReading": "いおりすぷれいもあ"
+    "manufacturerReading": "いおりすぷれいもあ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "上海 ～三国牌闘儀～",
@@ -15495,7 +28147,14 @@ window.ARCADE_GAMES = [
     "name": "shangtou",
     "note": "Shanghai Sangokuhai Tougi (Ver 2.01J 2002/01/18 18:26:58)",
     "titleReading": "しゃんはい~みくにぱいとうぎ~",
-    "manufacturerReading": "わらしわらべ/さんでんしさんそふと"
+    "manufacturerReading": "わらしわらべ/さんでんしさんそふと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "新豪血寺一族 闘婚  ～Matrimelee～",
@@ -15504,7 +28163,15 @@ window.ARCADE_GAMES = [
     "name": "matrim",
     "note": "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660)",
     "titleReading": "しんごうけつじいちぞくとうこん~matrimelee~",
-    "manufacturerReading": "のいずふぁくとり"
+    "manufacturerReading": "のいずふぁくとり",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "デーモンフロント（魔域戰線）",
@@ -15513,7 +28180,15 @@ window.ARCADE_GAMES = [
     "name": "dmnfrnt",
     "note": "Demon Front / Moyu Zhanxian (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX)",
     "titleReading": "でもんふろんとまいきせんせん",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "トゥエルブスタッグ",
@@ -15522,7 +28197,14 @@ window.ARCADE_GAMES = [
     "name": "xiistag",
     "note": "XII Stag (V2.01J 2002/6/26 22:27)",
     "titleReading": "とぅえるぶすたっぐ",
-    "manufacturerReading": "とらいあんぐるとらいあんぐるさびす"
+    "manufacturerReading": "とらいあんぐるとらいあんぐるさびす",
+    "genres": [
+      "シューティング"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "怒首領蜂 大往生 魂",
@@ -15531,7 +28213,14 @@ window.ARCADE_GAMES = [
     "name": "ddpdoj",
     "note": "V201, 中華版 / m↑",
     "titleReading": "どどんぱちだいおうじょうたましい",
-    "manufacturerReading": "けいぶえええむあいらいせんす"
+    "manufacturerReading": "けいぶえええむあいらいせんす",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ザ ファイナル",
@@ -15540,7 +28229,18 @@ window.ARCADE_GAMES = [
     "name": "bmfinal",
     "note": "beatmania THE FINAL (ver JA-A)",
     "titleReading": "びとまにあざふぁいなる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "ダイアル",
+      "アナログ",
+      "鍵盤",
+      "ターンテーブル",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ツーディーエックス エイススタイル",
@@ -15549,7 +28249,18 @@ window.ARCADE_GAMES = [
     "name": "bmiidx8",
     "note": "beatmania IIDX 8th style (GCC44 JAA)",
     "titleReading": "びとまにあつでぃえっくすえいすすたいる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "トラックボール",
+      "鍵盤",
+      "ターンテーブル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ビートマニア ツーディーエックス セブンススタイル",
@@ -15558,7 +28269,18 @@ window.ARCADE_GAMES = [
     "name": "bmiidx7",
     "note": "beatmania IIDX 7th style (GCB44 JAA)",
     "titleReading": "びとまにあつでぃえっくすせぶんすすたいる",
-    "manufacturerReading": "こなみ"
+    "manufacturerReading": "こなみ",
+    "genres": [
+      "アクション",
+      "リズム"
+    ],
+    "controls": [
+      "トラックボール",
+      "鍵盤",
+      "ターンテーブル",
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグ4",
@@ -15567,7 +28289,15 @@ window.ARCADE_GAMES = [
     "name": "mslug4",
     "note": "NGM-2630",
     "titleReading": "めたるすらっぐ4",
-    "manufacturerReading": "めがえんたあぷらいずのいずふぁくとりいぷれいもあ"
+    "manufacturerReading": "めがえんたあぷらいずのいずふぁくとりいぷれいもあ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "レイジ・オブ・ザ・ドラゴンズ",
@@ -15576,7 +28306,15 @@ window.ARCADE_GAMES = [
     "name": "rotd",
     "note": "Rage of the Dragons (NGM-2640?)",
     "titleReading": "れいじおぶざどらごんず",
-    "manufacturerReading": "evoga/playmore"
+    "manufacturerReading": "evoga/playmore",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "臥虎蔵龍 CROUCHING TIGER HIDDEN DRAGON 2003",
@@ -15585,7 +28323,15 @@ window.ARCADE_GAMES = [
     "name": "cthd2003",
     "note": "Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg)",
     "titleReading": "がとらぞうりゅうcrouchingtigerhiddendragon2003",
-    "manufacturerReading": "せが"
+    "manufacturerReading": "せが",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "くるくるフィーバー",
@@ -15594,7 +28340,14 @@ window.ARCADE_GAMES = [
     "name": "kurufev",
     "note": "Kurukuru Fever",
     "titleReading": "くるくるふぃば",
-    "manufacturerReading": "たくみ"
+    "manufacturerReading": "たくみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ころん",
@@ -15603,7 +28356,14 @@ window.ARCADE_GAMES = [
     "name": "kollon",
     "note": "Kollon (V2.04JA 2003/11/01 12:00)",
     "titleReading": "ころん",
-    "manufacturerReading": "さいばふろんと/まじっくぽっと"
+    "manufacturerReading": "さいばふろんと/まじっくぽっと",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サムライスピリッツ零",
@@ -15612,7 +28372,15 @@ window.ARCADE_GAMES = [
     "name": "samsho5",
     "note": "NGM-2700",
     "titleReading": "さむらいすぴりっつれい",
-    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
+    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ザ・キング・オブ・ファイターズ2003",
@@ -15621,7 +28389,15 @@ window.ARCADE_GAMES = [
     "name": "kf2k3pcb",
     "note": "日本版 JAMMA PCB",
     "titleReading": "ざきんぐおぶふぁいたあず2003",
-    "manufacturerReading": "えすえぬけーぷれいもあ"
+    "manufacturerReading": "えすえぬけーぷれいもあ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タワー＆シャフト -アレック ボードンと不愉快な仲間たち-",
@@ -15630,7 +28406,14 @@ window.ARCADE_GAMES = [
     "name": "twrshaft",
     "note": "Tower & Shaft",
     "titleReading": "たわ&しゃふとあれっくぼどんとふゆかいななかまたち",
-    "manufacturerReading": "あるぜ"
+    "manufacturerReading": "あるぜ",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "闘幻狂 -ROAD OF THE SWORD-",
@@ -15639,7 +28422,14 @@ window.ARCADE_GAMES = [
     "name": "theglad",
     "note": "The Gladiator / Shen Jian Fu Mo Lu / Shen Jian Fengyun (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107)",
     "titleReading": "とうまぼろしきょうroadofthesword",
-    "manufacturerReading": "igs"
+    "manufacturerReading": "igs",
+    "genres": [
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ドンちゃんパズル 花火でドーン！",
@@ -15648,7 +28438,14 @@ window.ARCADE_GAMES = [
     "name": "doncdoon",
     "note": "Hanabi de Doon! - Don-chan Puzzle",
     "titleReading": "どんちゃんぱずるはなびでどん",
-    "manufacturerReading": "たくみ"
+    "manufacturerReading": "たくみ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "メタルスラッグ5",
@@ -15657,7 +28454,15 @@ window.ARCADE_GAMES = [
     "name": "mslug5",
     "note": "NGM-2680",
     "titleReading": "めたるすらっぐ5",
-    "manufacturerReading": "えすえぬけーぷれいもあ"
+    "manufacturerReading": "えすえぬけーぷれいもあ",
+    "genres": [
+      "シューティング",
+      "アクション"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "アクションパズルゲーム “ズー”",
@@ -15666,7 +28471,14 @@ window.ARCADE_GAMES = [
     "name": "zooo",
     "note": "Zooo (V2.01JA 2004/04/13 12:00)",
     "titleReading": "あくしょんぱずるげむ“ず”",
-    "manufacturerReading": "さくせす/ばでぃず"
+    "manufacturerReading": "さくせす/ばでぃず",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "サムライスピリッツ零スペシャル",
@@ -15675,7 +28487,15 @@ window.ARCADE_GAMES = [
     "name": "samsh5sp",
     "note": "Samurai Shodown V Special (NGM-2720)",
     "titleReading": "さむらいすぴりっつれいすぺしゃる",
-    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
+    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "大大革命 - DAI-DAI-KAKUMEI -",
@@ -15684,7 +28504,14 @@ window.ARCADE_GAMES = [
     "name": "dai2kaku",
     "note": "Dai-Dai-Kakumei (Japan)",
     "titleReading": "だいだいかくめいdaidaikakumei",
-    "manufacturerReading": "しすてむしすてむbit"
+    "manufacturerReading": "しすてむしすてむbit",
+    "genres": [
+      "テーブル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "ハイパーストリートファイターII -アニバーサリーエディション-",
@@ -15693,7 +28520,14 @@ window.ARCADE_GAMES = [
     "name": "hsf2j",
     "note": "日 本 孤 031222",
     "titleReading": "はいぱあすとりいとふぁいたあiiあにばあさりいえでぃしょん",
-    "manufacturerReading": "かぷこん"
+    "manufacturerReading": "かぷこん",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "おてなみ拝見ファイナル",
@@ -15702,7 +28536,14 @@ window.ARCADE_GAMES = [
     "name": "otenamhf",
     "note": "Otenami Haiken Final (V2.07JC 2005/04/20 15:36)",
     "titleReading": "おてなみはいけんふぁいなる",
-    "manufacturerReading": "さくせす"
+    "manufacturerReading": "さくせす",
+    "genres": [
+      "バラエティ"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "スペクトラル ＶＳ ジェネレーション",
@@ -15711,7 +28552,15 @@ window.ARCADE_GAMES = [
     "name": "svg",
     "note": "S.V.G. - Spectral vs Generation / Sheng Mo Shiji (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201)",
     "titleReading": "すぺくとらるvsじぇねれしょん",
-    "manufacturerReading": "あいでぃあふぁくとり"
+    "manufacturerReading": "あいでぃあふぁくとり",
+    "genres": [
+      "アクション",
+      "対戦格闘"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "キュービーボップ",
@@ -15720,7 +28569,14 @@ window.ARCADE_GAMES = [
     "name": "cubybop",
     "note": "Cuby Bop (location test)",
     "titleReading": "きゅびぼっぷ",
-    "manufacturerReading": "ほっとほっとびぃ"
+    "manufacturerReading": "ほっとほっとびぃ",
+    "genres": [
+      "パズル"
+    ],
+    "controls": [
+      "レバー",
+      "ボタン"
+    ]
   },
   {
     "title": "タイムアタッカー",
@@ -15729,6 +28585,14 @@ window.ARCADE_GAMES = [
     "name": "tattack",
     "note": "Time Attacker",
     "titleReading": "たいむあたっか",
-    "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ"
+    "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ",
+    "genres": [
+      "未分類"
+    ],
+    "controls": [
+      "パドル",
+      "アナログ",
+      "ボタン"
+    ]
   }
 ];

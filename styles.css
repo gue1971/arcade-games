@@ -179,7 +179,7 @@ h1 {
 
 .controls-inner {
   display: grid;
-  grid-template-columns: minmax(140px, 220px) 150px minmax(220px, 1fr) 70px;
+  grid-template-columns: minmax(140px, 1.1fr) 125px minmax(180px, 1.2fr) minmax(130px, 0.9fr) minmax(130px, 0.9fr) 70px;
   align-items: center;
   gap: 8px;
   padding-block: 8px;
@@ -187,6 +187,10 @@ h1 {
 
 label {
   display: block;
+}
+
+.controls-inner > label {
+  min-width: 0;
 }
 
 label > span {
@@ -353,23 +357,31 @@ tbody tr:hover td {
 }
 
 .title-column {
-  width: 34%;
+  width: 25%;
 }
 
 .year-column {
-  width: 9%;
+  width: 8%;
 }
 
 .maker-column {
-  width: 21%;
+  width: 15%;
 }
 
-.name-column {
+.genre-column {
   width: 14%;
 }
 
+.control-column {
+  width: 16%;
+}
+
+.name-column {
+  width: 10%;
+}
+
 .note-column {
-  width: 22%;
+  width: 12%;
 }
 
 .game-title {
@@ -514,7 +526,7 @@ footer {
 
 @media (max-width: 880px) {
   .controls-inner {
-    grid-template-columns: 110px 120px minmax(160px, 1fr) 60px;
+    grid-template-columns: minmax(110px, 1fr) 90px minmax(130px, 1.1fr) minmax(105px, 0.9fr) minmax(105px, 0.9fr) 56px;
   }
 
   thead {
@@ -522,11 +534,11 @@ footer {
   }
 
   .title-column {
-    width: 30%;
+    width: 25%;
   }
 
   .maker-column {
-    width: 24%;
+    width: 15%;
   }
 }
 
@@ -593,8 +605,35 @@ footer {
 
   .controls-inner {
     grid-template-columns: 40fr 21fr 25fr 14fr;
+    grid-template-areas:
+      "search year manufacturer reset"
+      "genre genre control control";
     gap: 5px;
     padding-block: 6px;
+  }
+
+  .search-field {
+    grid-area: search;
+  }
+
+  .controls-inner > label:nth-of-type(2) {
+    grid-area: year;
+  }
+
+  .controls-inner > label:nth-of-type(3) {
+    grid-area: manufacturer;
+  }
+
+  .genre-filter-field {
+    grid-area: genre;
+  }
+
+  .control-filter-field {
+    grid-area: control;
+  }
+
+  #reset-filters {
+    grid-area: reset;
   }
 
   input,
@@ -652,7 +691,7 @@ footer {
   thead {
     position: sticky;
     z-index: 15;
-    top: 49px;
+    top: 92px;
     width: 100%;
   }
 
@@ -743,10 +782,6 @@ footer {
     text-overflow: ellipsis;
   }
 
-  .game-title-content {
-    gap: 4px;
-  }
-
   .favorite-star {
     width: 19px;
     height: 23px;
@@ -771,8 +806,7 @@ footer {
     text-overflow: ellipsis;
   }
 
-  td:nth-child(4),
-  td:nth-child(5) {
+  td:nth-child(n + 4) {
     display: none;
   }
 
