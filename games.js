@@ -1,3 +1,37 @@
+const EXCLUDED_GAMES = new Set([
+  // CatVer Mature entries, gambling, hanafuda, dedicated gun games, and dedicated dance panels.
+  "sos", "canvas", "hyhoo", "hyhoo2", "pcktgal", "pairsnb", "togenkyo",
+  "gundealr", "pairlove", "blandia", "plgirls", "pktgaldx", "sadari",
+  "matchit2", "plgirls2", "ladykill", "dblpoint", "3kokushi", "galhustl",
+  "vivdolls", "speedatk", "himesiki", "term2", "rchase2", "bmiidxc2", "popnstex",
+  // Euro set duplicated a Japanese set already in the catalog.
+  "sfiii",
+  // Japanese Tekken Tag sets are preliminary in MAME 0.221; no verified playable Japanese ROM set.
+  "tektagt"
+]);
+
+const JAPANESE_ROM_NAMES = {
+  "40love": "40lovej", "64street": "64streetj", "airduel": "airduelm72",
+  "aquarium": "aquariumj", "arescue": "arescuej", "blazeon": "blazeonj",
+  "bloodbro": "bloodbroj", "boogwing": "ragtime", "bouldash": "bouldashj",
+  "cameltry": "cameltryj", "citybomb": "citybombj", "cltchitr": "cltchitrj",
+  "dietgo": "dietgoj", "dimahoo": "gmahou", "ecofghtr": "uecology",
+  "gemini": "geminij", "gigawing": "gigawingj", "gloc": "glocr360j",
+  "gradius3": "gradius3j", "halleysc": "halleyscj", "hharry": "dkgensan",
+  "ikari": "ikarijp", "jojo": "jojoj", "marvland": "marvlandj",
+  "masterw": "masterwj", "mpang": "mpangj", "mrdrillr": "mrdrillrj",
+  "nspirit": "nspiritj", "pang3": "pang3j", "pktgaldx": "pktgaldxj",
+  "pulirula": "pulirulaj", "punkshot": "punkshotj", "pzloop2": "pzloop2j",
+  "redearth": "warzard", "ringdest": "smbomb", "rtypeleo": "rtypeleoj",
+  "rvschool": "jgakuen", "sfex2p": "sfex2pj",
+  "sfiiin": "sfiiij", "sfiii2n": "sfiii2j", "sfiii3": "sfiii3j",
+  "shanghai": "shanghaij", "shangha3": "shangha3j", "shdancer": "shdancerj",
+  "sidearms": "sidearmsj", "slammast": "mbomberj", "spidman": "spidmanj",
+  "strahl": "strahlj", "strkfgtr": "strkfgtrj", "tekken3": "tekken3je1",
+  "tektagt": "tektagtja", "tnzs": "tnzsj", "xmcota": "xmcotaj",
+  "xmvsf": "xmvsfj"
+};
+
 window.ARCADE_GAMES = [
   {
     "title": "ポン",
@@ -13521,7 +13555,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "究極タイガー",
-    "year": "1989",
+    "year": "1987",
     "manufacturer": "東亜プラン / タイトー",
     "name": "ktiger",
     "note": "日本版",
@@ -24720,7 +24754,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "鉄拳3",
-    "year": "1997",
+    "year": "1996",
     "manufacturer": "ナムコ",
     "name": "tekken3",
     "note": "日 本 販 TETI/VEREI",
@@ -27758,7 +27792,7 @@ window.ARCADE_GAMES = [
   },
   {
     "title": "アシュラバスター -Eternal Warriors-",
-    "year": "2001",
+    "year": "2000",
     "manufacturer": "フウキ",
     "name": "asurabus",
     "note": "USA版",
@@ -28570,4 +28604,15 @@ window.ARCADE_GAMES = [
       "ボタン"
     ]
   }
-];
+].filter((game) => !EXCLUDED_GAMES.has(game.name))
+  .map((game) => JAPANESE_ROM_NAMES[game.name]
+    ? { ...game, name: JAPANESE_ROM_NAMES[game.name], note: "日本版ROM", romNameRemapped: true }
+    : { ...game, romNameRemapped: false }
+  )
+  .reduce((unique, game) => {
+    const duplicateIndex = unique.findIndex((entry) => entry.name === game.name);
+    if (duplicateIndex === -1) unique.push(game);
+    else if (unique[duplicateIndex].romNameRemapped && !game.romNameRemapped) unique[duplicateIndex] = game;
+    return unique;
+  }, [])
+  .map(({ romNameRemapped, ...game }) => game);
