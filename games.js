@@ -1512,7 +1512,7 @@ window.ARCADE_GAMES = [
     "titleReading": "かいていたからさがし",
     "manufacturerReading": "けーけーとっきなむこらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -1560,7 +1560,7 @@ window.ARCADE_GAMES = [
     "titleReading": "きんぐ&ばるうん",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -1592,7 +1592,7 @@ window.ARCADE_GAMES = [
     "titleReading": "くれいじいくらいまあ",
     "manufacturerReading": "にほんぶっさん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "不明"
@@ -2173,7 +2173,8 @@ window.ARCADE_GAMES = [
     "titleReading": "らりいx",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション",
+      "レーシング"
     ],
     "controls": [
       "レバー",
@@ -2899,7 +2900,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どんきいこんぐ",
     "manufacturerReading": "にんてんどう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -4053,7 +4054,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どんきいこんぐjr",
     "manufacturerReading": "にんてんどう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -4772,7 +4773,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あんぶっしゅ",
     "manufacturerReading": "てくふりにほんあみゅーずらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -4823,7 +4824,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えきさいてぃんぐさっかあ",
     "manufacturerReading": "あるふぁでんし",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -5355,7 +5356,7 @@ window.ARCADE_GAMES = [
     "titleReading": "てんやーどふぁいと",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -5520,7 +5521,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はいぱあおりんぴっく",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "ボタン"
@@ -5827,7 +5828,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まっぴい",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -5859,7 +5860,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まりおぶらざあず",
     "manufacturerReading": "にんてんどう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -6199,7 +6200,7 @@ window.ARCADE_GAMES = [
     "titleReading": "からてどう",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "不明"
@@ -6311,7 +6312,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぐれえとそうどまん",
     "manufacturerReading": "あるゅめたいとう",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -6409,7 +6410,8 @@ window.ARCADE_GAMES = [
     "titleReading": "さんりんさんちゃん",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション",
+      "レーシング"
     ],
     "controls": [
       "レバー",
@@ -6472,7 +6474,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ざとうぎゅう",
     "manufacturerReading": "こあらんどせが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -6617,7 +6619,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあぜびうす",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -6698,7 +6700,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すぱるたんx",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -6762,7 +6764,8 @@ window.ARCADE_GAMES = [
     "titleReading": "そんそん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -7024,7 +7027,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばるがす",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -7073,7 +7076,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱっくらんど",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "ボタン"
@@ -7802,7 +7805,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えきさいてぃんぐあわあ",
     "manufacturerReading": "てくのすじゃぱんたいとうらいせんす",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -7867,7 +7870,8 @@ window.ARCADE_GAMES = [
     "titleReading": "がんすもうく",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -7883,7 +7887,8 @@ window.ARCADE_GAMES = [
     "titleReading": "がんとれっと",
     "manufacturerReading": "あたりげえむず",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -7981,7 +7986,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぐらでぃうす",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -8078,7 +8083,8 @@ window.ARCADE_GAMES = [
     "titleReading": "こっぷ01",
     "manufacturerReading": "にほんぶっさん",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -8288,7 +8294,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すぺらんかあ",
     "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -8304,7 +8310,7 @@ window.ARCADE_GAMES = [
     "titleReading": "せいしゅんすきゃんだる",
     "manufacturerReading": "こあらんどせが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -8337,7 +8343,8 @@ window.ARCADE_GAMES = [
     "titleReading": "せんじょうのおおかみ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -8353,7 +8360,7 @@ window.ARCADE_GAMES = [
     "titleReading": "たいがあへり",
     "manufacturerReading": "とうあぷらんたいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -8451,7 +8458,8 @@ window.ARCADE_GAMES = [
     "titleReading": "てぃーえーえぬけー",
     "manufacturerReading": "えすえぬけー",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -8686,7 +8694,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばらでゅーく",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -8797,7 +8805,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぇありいらんどすとうりい",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "アクション",
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -8894,7 +8903,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぺんぎんくんうぉうず",
     "manufacturerReading": "ゆーぴーえる",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -8910,7 +8919,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ほくはしょうりんひりゅうのけん",
     "manufacturerReading": "たいようしすてむたいとうらいせんす",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -8926,7 +8935,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まかいむら",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9040,7 +9049,7 @@ window.ARCADE_GAMES = [
     "titleReading": "りぱるす",
     "manufacturerReading": "くるっくすせが",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -9089,7 +9098,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ろうどらんなあまじんのふっかつ",
     "manufacturerReading": "あいれむぶろうだあばんどらいせんす",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9241,7 +9250,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あすとろふらっしゅ",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -9273,7 +9282,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あるかのいど",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "ダイアル",
@@ -9290,7 +9299,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あるごすのせんし",
     "manufacturerReading": "てくも",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9322,7 +9331,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あれすのつばさthelegendarysoldiers",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -9402,7 +9411,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えんでゅうろれえさあ",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "ペダル",
@@ -9435,7 +9444,7 @@ window.ARCADE_GAMES = [
     "titleReading": "おうごんのしろ",
     "manufacturerReading": "あるゅめたいとう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9451,7 +9460,7 @@ window.ARCADE_GAMES = [
     "titleReading": "かいけつやんちゃまる",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9702,7 +9711,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すくらんぶるふぉーめーしょん",
     "manufacturerReading": "たいとー",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -9833,7 +9842,8 @@ window.ARCADE_GAMES = [
     "titleReading": "せいせんしあまてらす",
     "manufacturerReading": "にほんぶっさん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9849,7 +9859,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そろもんのかぎ",
     "manufacturerReading": "てくも",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -9865,7 +9875,7 @@ window.ARCADE_GAMES = [
     "titleReading": "たたかいのばんか",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -9996,7 +10006,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だらいあす",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10096,7 +10106,8 @@ window.ARCADE_GAMES = [
     "titleReading": "とくしゅぶたいじゃっかる",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -10112,7 +10123,8 @@ window.ARCADE_GAMES = [
     "titleReading": "どごうそうけん",
     "manufacturerReading": "えすえぬけー",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -10128,7 +10140,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ねっけつこうはくにおくん",
     "manufacturerReading": "てくのすじゃぱん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -10160,7 +10172,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はれえずこめっと",
     "manufacturerReading": "たいとうあめりかこいんいっとらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10258,7 +10270,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいやあとらっぷ",
     "manufacturerReading": "うっどぷれいす",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "ボタン"
@@ -10470,7 +10482,8 @@ window.ARCADE_GAMES = [
     "titleReading": "らっしゅ&くらっしゅ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -10684,7 +10697,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ああるたいぷ",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10734,7 +10747,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あるかのいどりべんじおぶdoh",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "ダイアル",
@@ -10783,7 +10796,7 @@ window.ARCADE_GAMES = [
     "titleReading": "いちきゅうよんさんみっどうぇいかいせん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10848,7 +10861,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えすあーるでぃーすーぱーりあるだーうぃん",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10882,7 +10895,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えーじゃっくす",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10931,7 +10944,8 @@ window.ARCADE_GAMES = [
     "titleReading": "かるのふ",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -10979,7 +10993,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぎゃらが88",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11030,7 +11044,8 @@ window.ARCADE_GAMES = [
     "titleReading": "こんとら",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11212,7 +11227,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあはんぐおん",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -11230,7 +11245,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -11313,7 +11328,7 @@ window.ARCADE_GAMES = [
     "titleReading": "たっちだうんふぃいばあ",
     "manufacturerReading": "えすえぬけー",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "ダイアル",
@@ -11413,7 +11428,8 @@ window.ARCADE_GAMES = [
     "titleReading": "とっぷしいくれっと",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11429,7 +11445,7 @@ window.ARCADE_GAMES = [
     "titleReading": "とらへのみち",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11461,7 +11477,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どらごんすぴりっと",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11477,7 +11493,7 @@ window.ARCADE_GAMES = [
     "titleReading": "にんじゃうぉうりああず",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11509,7 +11525,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ねっけつこうこうどっじぼうるぶ",
     "manufacturerReading": "てくのすじゃぱん",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -11573,7 +11589,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ばとらんてぃす",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11589,7 +11606,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ばとるふぃいるど",
     "manufacturerReading": "あるふぁでんしえすえぬけーらいせんす",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11605,7 +11623,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばみゅうだとらいあんぐる",
     "manufacturerReading": "えすえぬけー",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11637,7 +11655,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱっくまにあ",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11669,7 +11687,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ひしょうざめ",
     "manufacturerReading": "とうあぷらんたいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11685,7 +11703,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ひっさつぶらいけん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11701,7 +11719,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいなるらっぷ",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -11754,7 +11772,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふるすろっとる",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -11789,7 +11807,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶたさんpigs&bombers",
     "manufacturerReading": "えぬえむけーじゃれこらいせんす",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11805,7 +11824,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶらっくどらごん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -11921,7 +11940,7 @@ window.ARCADE_GAMES = [
     "titleReading": "みすたーへりのだいぼうけん",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -11985,7 +12004,7 @@ window.ARCADE_GAMES = [
     "titleReading": "れいんぼうあいらんど",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12001,7 +12020,7 @@ window.ARCADE_GAMES = [
     "titleReading": "わあどなのもり",
     "manufacturerReading": "とうあぷらんたいとう",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12113,7 +12132,8 @@ window.ARCADE_GAMES = [
     "titleReading": "あさると",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "ボタン"
@@ -12143,7 +12163,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あすか&ひちょう",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12226,7 +12246,7 @@ window.ARCADE_GAMES = [
     "titleReading": "おうだいん",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12242,7 +12262,7 @@ window.ARCADE_GAMES = [
     "titleReading": "かげき",
     "manufacturerReading": "かねこたいとう",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -12291,7 +12311,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぎゃらくしいふぉうすii",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12322,7 +12342,8 @@ window.ARCADE_GAMES = [
     "titleReading": "くれいじいこっぷ",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12354,7 +12375,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12370,7 +12391,8 @@ window.ARCADE_GAMES = [
     "titleReading": "げいんぐらんど",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12501,7 +12523,7 @@ window.ARCADE_GAMES = [
     "titleReading": "じゅうおうき",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12517,7 +12539,8 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあたましいとらえいりあんのぎゃくしゅう",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12533,7 +12556,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すくらんぶるすぴりっつ",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12664,7 +12687,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だいまかいむら",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12696,7 +12719,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ちぇるのぶたたかうにんげんはつでんしょ",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -12793,7 +12817,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どらごんにんじゃ",
     "manufacturerReading": "でーたいーすと",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12826,7 +12850,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
     "manufacturerReading": "でーたいーすと",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -12874,7 +12899,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はいぱあすぽうつすぺしゃる",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "ボタン"
@@ -12958,7 +12983,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱっしんぐしょっと",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -12990,7 +13015,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱわあどりふと",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -13043,7 +13068,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいてぃんぐほうく",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13273,7 +13298,8 @@ window.ARCADE_GAMES = [
     "titleReading": "らすとでゅえる",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -13321,7 +13347,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ろすとわーるど",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "ダイアル",
@@ -13372,7 +13398,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ああるたいぷii",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13388,7 +13414,8 @@ window.ARCADE_GAMES = [
     "titleReading": "あくとふぇんさあ",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13467,7 +13494,8 @@ window.ARCADE_GAMES = [
     "titleReading": "うぃろー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13483,7 +13511,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えむぶいぴー",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -13565,7 +13593,7 @@ window.ARCADE_GAMES = [
     "titleReading": "きゅうきょくたいがあ",
     "manufacturerReading": "とうあぷらんたいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13629,7 +13657,7 @@ window.ARCADE_GAMES = [
     "titleReading": "くぉーす",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -13645,7 +13673,8 @@ window.ARCADE_GAMES = [
     "titleReading": "くらいむしてぃ",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13677,7 +13706,8 @@ window.ARCADE_GAMES = [
     "titleReading": "くらっくだうん",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13709,7 +13739,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ごうるでんあっくす",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -13725,7 +13755,8 @@ window.ARCADE_GAMES = [
     "titleReading": "さいばーぽりすいーすわっと",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -13741,7 +13772,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ざろーどおぶきんぐ",
     "manufacturerReading": "じゃれこ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -13821,7 +13852,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあふぉうみゅらちじょうさいそくのばとる",
     "manufacturerReading": "びでおしすてむ",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "レバー",
@@ -13855,7 +13886,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとらいだあひりゅう",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -13958,7 +13989,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だいせんぷう",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14009,7 +14040,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だらいあすii",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14025,7 +14056,7 @@ window.ARCADE_GAMES = [
     "titleReading": "てくもわあるどかっぷ90",
     "manufacturerReading": "てくも",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -14057,7 +14088,7 @@ window.ARCADE_GAMES = [
     "titleReading": "てんちをくらう",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -14219,7 +14250,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいてぃんぐふぁんたじい",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -14235,7 +14266,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいなるふぁいと",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -14364,7 +14395,8 @@ window.ARCADE_GAMES = [
     "titleReading": "べいるーと",
     "manufacturerReading": "さんそふとせが",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14412,7 +14444,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まっどぎあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "レバー",
@@ -14511,7 +14543,7 @@ window.ARCADE_GAMES = [
     "titleReading": "れっするうぉー",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -14625,7 +14657,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あしゅらぶらすたー",
     "manufacturerReading": "たいとー",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14641,7 +14673,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あたっくす",
     "manufacturerReading": "りーらんどかぷこんらいせんす",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "トラックボール",
@@ -14672,7 +14704,7 @@ window.ARCADE_GAMES = [
     "titleReading": "いちきゅうよんいちかうんたーあたっく",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14688,7 +14720,7 @@ window.ARCADE_GAMES = [
     "titleReading": "うちゅうせんかんごもら",
     "manufacturerReading": "ゆーぴーえる",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14720,7 +14752,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えあばすたあtroublespecialtyraidunit",
     "manufacturerReading": "かねこなむこらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14736,7 +14768,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えいりあんすとーむ",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -14752,7 +14784,8 @@ window.ARCADE_GAMES = [
     "titleReading": "えいりあんず",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -14863,7 +14896,7 @@ window.ARCADE_GAMES = [
     "titleReading": "こらむす",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -14879,7 +14912,7 @@ window.ARCADE_GAMES = [
     "titleReading": "こらむすiithevoyagethroughtime",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -14943,7 +14976,7 @@ window.ARCADE_GAMES = [
     "titleReading": "さんだあふぉうすac",
     "manufacturerReading": "てくのそふとせが",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15075,7 +15108,8 @@ window.ARCADE_GAMES = [
     "titleReading": "せんじょうのおおかみ2",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15091,7 +15125,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そうこばんでらっくす",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -15123,7 +15157,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ちきちきぼーいず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15171,7 +15205,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どらごんせいばああふたあすとうりいおぶどらごんすぴりっと",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15187,7 +15221,7 @@ window.ARCADE_GAMES = [
     "titleReading": "にも",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15219,7 +15253,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はっととりっくひいろう",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -15283,7 +15317,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱろでぃうすだしんわからおわらいへ",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15367,7 +15401,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁんたずむ",
     "manufacturerReading": "じゃれこ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15432,7 +15466,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ぼなんざぶらざあず",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15464,7 +15499,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まいけるじゃくそんずむーんうぉーかー",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15480,7 +15515,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まじぇすてぃっくとぅえるぶすぺえすいんべえだあぱあとiv",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15512,7 +15547,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まじっくそーど",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15575,7 +15610,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ゆーえすねいびー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15658,7 +15693,7 @@ window.ARCADE_GAMES = [
     "titleReading": "らんぱあと",
     "manufacturerReading": "あたりげえむず",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15706,7 +15741,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ろうりんぐさんだあ2",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -15834,7 +15870,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あらびあんふぁいと",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -15969,7 +16005,7 @@ window.ARCADE_GAMES = [
     "titleReading": "きゃぷてんこまんどー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -16157,7 +16193,7 @@ window.ARCADE_GAMES = [
     "titleReading": "くろすぶれいず",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -16189,7 +16225,7 @@ window.ARCADE_GAMES = [
     "titleReading": "こずもぎゃんぐざびでお",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16288,7 +16324,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ざきんぐおぶどらごんず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -16355,7 +16391,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiiざわあるどうぉうりああ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -16485,7 +16521,8 @@ window.ARCADE_GAMES = [
     "titleReading": "たたかえげんしじんじょーあんどまっく",
     "manufacturerReading": "でえたいいすと",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16517,7 +16554,8 @@ window.ARCADE_GAMES = [
     "titleReading": "たんくふぉうす",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "アクション",
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16551,7 +16589,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でぃーでぃーくるー",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -16567,7 +16605,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でたなついんびい",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16633,7 +16671,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱわあほいいるず",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -16666,7 +16704,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶらっくはーと",
     "manufacturerReading": "ゆーぴーえる",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16682,7 +16720,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶろっくぶろっく",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "ダイアル",
@@ -16747,7 +16785,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぼんばあまん",
     "manufacturerReading": "あいれむはどそんらいせんす",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -16779,7 +16817,7 @@ window.ARCADE_GAMES = [
     "titleReading": "めたるぶらっく",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -16909,7 +16947,7 @@ window.ARCADE_GAMES = [
     "titleReading": "わんだーすりー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "バラエティ"
     ],
     "controls": [
       "レバー",
@@ -17022,7 +17060,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あうとらんなーず",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -17088,7 +17126,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あらびあんまじっく",
     "manufacturerReading": "たいとー",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "ダイアル",
@@ -17106,7 +17144,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あんだあかばあこっぷす",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -17464,7 +17502,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぐりっどしいかあ",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "ダイアル",
@@ -17516,7 +17554,7 @@ window.ARCADE_GAMES = [
     "titleReading": "こずもぎゃんぐざぱずる",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -17532,7 +17570,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ごうるでんあっくすですあだあのふくしゅう",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -17629,7 +17667,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあわあるどすたじあむ92いっぱんばん",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -17661,7 +17699,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiiたあぼはいぱあふぁいてぃんぐ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -17677,7 +17715,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiiちゃんぴおんえでぃしょん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -17793,7 +17831,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そにっくうぃんぐす",
     "manufacturerReading": "びでおしすてむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -17841,7 +17879,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だあくえっじ",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -17922,7 +17960,7 @@ window.ARCADE_GAMES = [
     "titleReading": "てんちをくらう2せきへきのたたかい",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -17938,7 +17976,8 @@ window.ARCADE_GAMES = [
     "titleReading": "でざーとぶれいかー",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -18069,7 +18108,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばーすおぺれーしょんさんだーすとーむ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -18085,7 +18124,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばーにんぐらいばる",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -18183,7 +18222,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ふぁいなるすたあふぉうす",
     "manufacturerReading": "てくも",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -18264,7 +18303,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぷよぷよ",
     "manufacturerReading": "こんぱいるせが",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -18328,7 +18367,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぼんばあまんわあるど",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -18694,7 +18733,7 @@ window.ARCADE_GAMES = [
     "titleReading": "かいていだいせんそうinthehunt",
     "manufacturerReading": "あいれむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -18809,7 +18848,7 @@ window.ARCADE_GAMES = [
     "titleReading": "きゃでぃらっくすきょうりゅうしんせいき",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -19143,7 +19182,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあすとりいとふぁいたあiiざにゅうちゃれんじゃあず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -19208,7 +19247,7 @@ window.ARCADE_GAMES = [
     "titleReading": "せんごくええす",
     "manufacturerReading": "さいきょうばんぷれすとらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -19321,7 +19360,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だんじょんずあんどどらごんずたわーおぶどぅーむ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -19584,7 +19623,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばつぐん",
     "manufacturerReading": "とうあぷらん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -19600,7 +19639,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱにっしゃー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -19977,7 +20016,7 @@ window.ARCADE_GAMES = [
     "titleReading": "わいわいあにまるらんどじゅにあ",
     "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "不明"
@@ -20008,7 +20047,8 @@ window.ARCADE_GAMES = [
     "titleReading": "ありげーたーはんと",
     "manufacturerReading": "がえるこ",
     "genres": [
-      "未分類"
+      "シューティング",
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -20040,7 +20080,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えいりあんvsぷれでたあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -20056,7 +20096,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えっくすめんちるどれんおぶじあとむ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -20108,7 +20148,7 @@ window.ARCADE_GAMES = [
     "titleReading": "おおえどふぁいと",
     "manufacturerReading": "かねこ",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -20354,7 +20394,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ごくじょうぱろでぃうすかこのえいこうをもとめて",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -20402,7 +20442,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ざjりいぐ1994",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -20486,7 +20526,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すたっくこらむす",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -20828,7 +20868,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はっととりっくひいろう95",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "ダイアル",
@@ -20893,7 +20933,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はーどだんく",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -20994,7 +21034,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱずるあんどあくしょんいちだんとあーる",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "バラエティ"
     ],
     "controls": [
       "レバー",
@@ -21058,7 +21098,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱわーどぎあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -21333,7 +21373,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ゔぁんぱいあざないとうぉりああず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -21399,7 +21439,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
     "manufacturerReading": "でーたいーすと",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -21597,7 +21637,7 @@ window.ARCADE_GAMES = [
     "titleReading": "くいずとのさまのやぼう2ぜんこくばん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "クイズ"
     ],
     "controls": [
       "ボタン"
@@ -21716,7 +21756,7 @@ window.ARCADE_GAMES = [
     "titleReading": "さいばあぼっつふるめたるまっどねす",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -21882,7 +21922,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあzero",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -21996,7 +22036,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そうるえっじ",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22207,7 +22247,7 @@ window.ARCADE_GAMES = [
     "titleReading": "とうしんでんつー",
     "manufacturerReading": "かぷこんたから",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22272,7 +22312,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どんぱち",
     "manufacturerReading": "けいぶあとらすらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -22437,7 +22477,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぱずるぼぶる2x",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "ダイアル",
@@ -22587,7 +22627,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まあゔるすうぱあひいろうず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22656,7 +22696,7 @@ window.ARCADE_GAMES = [
     "titleReading": "りあるばうと餓おおかみでんせつ",
     "manufacturerReading": "えすえぬけー",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22672,7 +22712,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ろっくまんざぱわあばとる",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22737,7 +22777,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ゔぁんぱいあはんたあだあくすとうかあずりべんじ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -22838,7 +22878,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あくうぎゃれっと",
     "manufacturerReading": "がぜるばんぷれすとらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -22888,7 +22928,7 @@ window.ARCADE_GAMES = [
     "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -23191,7 +23231,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すうぱあぱずるふぁいたあiix",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -23223,7 +23263,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すたあぐらでぃえいたあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -23255,7 +23295,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあex",
     "manufacturerReading": "かぷこんありか",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -23271,7 +23311,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあzero2",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -23287,7 +23327,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりーとふぁいたーぜろ2あるふぁ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -23319,7 +23359,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すらむだんく2konamibasketballchampionship1996",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -23351,7 +23391,7 @@ window.ARCADE_GAMES = [
     "titleReading": "せんごくぶれーど",
     "manufacturerReading": "さいきょう",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -23383,7 +23423,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そにっくうぃんぐすりみてっど",
     "manufacturerReading": "びでおしすてむ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -23447,7 +23487,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だいなまいとでか",
     "manufacturerReading": "せが",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -23463,7 +23503,7 @@ window.ARCADE_GAMES = [
     "titleReading": "だんじょんず&どらごんずしゃどうおうばあみすたら",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -23495,7 +23535,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でんしゃでgo",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -23512,7 +23552,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でんしゃでgoex",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -23562,7 +23602,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ないんてぃーんだぶるえっくす",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -24103,7 +24143,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ろっくまん2ざぱわあふぁいたあず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24305,7 +24345,7 @@ window.ARCADE_GAMES = [
     "titleReading": "かぷこんすぽーつくらぶ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "スポーツ"
     ],
     "controls": [
       "レバー",
@@ -24539,7 +24579,7 @@ window.ARCADE_GAMES = [
     "titleReading": "しりつじゃすてぃすがくえんlegionofheroes",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24605,7 +24645,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあexぷらす",
     "manufacturerReading": "かぷこんありか",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24621,7 +24661,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24637,7 +24677,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24653,7 +24693,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiiiにゅうじぇねれえしょん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24769,7 +24809,7 @@ window.ARCADE_GAMES = [
     "titleReading": "てとりすぷらす2",
     "manufacturerReading": "じゃれこ",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "レバー",
@@ -24801,7 +24841,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どどんぱち",
     "manufacturerReading": "けいぶあとらすらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -24867,7 +24907,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ばとるさあきっと",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "アクション"
     ],
     "controls": [
       "レバー",
@@ -24954,7 +24994,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶらっでぃろあ",
     "manufacturerReading": "えいてぃんぐらいじんぐ",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -24989,7 +25029,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぽけっとふぁいたあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25023,7 +25063,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まあゔるすうぱあひいろうずvsすとりいとふぁいたあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25138,7 +25178,7 @@ window.ARCADE_GAMES = [
     "titleReading": "らいでんふぁいたあず2おぺれえしょんへるだいぶ",
     "manufacturerReading": "せいぶかいはつ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -25187,7 +25227,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ゔぁんぱいあせいゔぁあざろうどおぶゔぁんぱいあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25270,7 +25310,7 @@ window.ARCADE_GAMES = [
     "titleReading": "あーむどぽりすばとらいだー",
     "manufacturerReading": "らいじんぐえいてぃんぐ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -25574,7 +25614,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すたあぐらでぃえいたあ2ないとめあおぶびるしゅたいん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25638,7 +25678,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあex2",
     "manufacturerReading": "かぷこんありか",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25654,7 +25694,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあzero3",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25721,7 +25761,7 @@ window.ARCADE_GAMES = [
     "titleReading": "そうるきゃりばあ",
     "manufacturerReading": "なむこ",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25786,7 +25826,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ちょうこうせんききかいおー",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -25835,7 +25875,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でんしゃでgo2こうそくへん",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -25852,7 +25892,7 @@ window.ARCADE_GAMES = [
     "titleReading": "でんしゃでgo2こうそくへん3000ばんだい",
     "manufacturerReading": "たいとう",
     "genres": [
-      "未分類"
+      "レーシング"
     ],
     "controls": [
       "パドル",
@@ -26124,7 +26164,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -26140,7 +26180,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -26173,7 +26213,7 @@ window.ARCADE_GAMES = [
     "titleReading": "らいでんふぁいたあずjet",
     "manufacturerReading": "せいぶかいはつ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -26528,7 +26568,7 @@ window.ARCADE_GAMES = [
     "titleReading": "しすてむ573ようcdromどらいぶあっぷでた",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "その他"
     ],
     "controls": [
       "レバー",
@@ -26544,7 +26584,7 @@ window.ARCADE_GAMES = [
     "titleReading": "しすてむ573ようcdromどらいぶあっぷでた20",
     "manufacturerReading": "こなみ",
     "genres": [
-      "未分類"
+      "その他"
     ],
     "controls": [
       "レバー",
@@ -26560,7 +26600,7 @@ window.ARCADE_GAMES = [
     "titleReading": "じょじょのきみょうなぼうけんみらいへのいさん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -26608,7 +26648,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあex2ぷらす",
     "manufacturerReading": "かぷこんありか",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -26624,7 +26664,7 @@ window.ARCADE_GAMES = [
     "titleReading": "すとりいとふぁいたあiii3rdすとらいくふぁいとふぉうざふゅうちゃあ",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -27239,7 +27279,7 @@ window.ARCADE_GAMES = [
     "titleReading": "いちきゅうよんよんざるーぷますたー",
     "manufacturerReading": "えいてぃんぐらいじんぐかぷこんらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -27659,7 +27699,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぶれいぶぶれいど",
     "manufacturerReading": "えいてぃんぐらいじんぐ",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -27707,7 +27747,7 @@ window.ARCADE_GAMES = [
     "titleReading": "まあずまとりっくすはいぱあそりっどしゅうてぃんぐ",
     "manufacturerReading": "たくみかぷこんらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -28084,7 +28124,7 @@ window.ARCADE_GAMES = [
     "titleReading": "ぷろぎあのあらし",
     "manufacturerReading": "けいぶかぷこんらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -28215,7 +28255,7 @@ window.ARCADE_GAMES = [
     "titleReading": "どどんぱちだいおうじょうたましい",
     "manufacturerReading": "けいぶえええむあいらいせんす",
     "genres": [
-      "未分類"
+      "シューティング"
     ],
     "controls": [
       "レバー",
@@ -28522,7 +28562,7 @@ window.ARCADE_GAMES = [
     "titleReading": "はいぱあすとりいとふぁいたあiiあにばあさりいえでぃしょん",
     "manufacturerReading": "かぷこん",
     "genres": [
-      "未分類"
+      "対戦格闘"
     ],
     "controls": [
       "レバー",
@@ -28587,7 +28627,7 @@ window.ARCADE_GAMES = [
     "titleReading": "たいむあたっか",
     "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ",
     "genres": [
-      "未分類"
+      "パズル"
     ],
     "controls": [
       "パドル",
