@@ -31,22 +31,6 @@ window.ARCADE_GAMES = [
     ]
   },
   {
-    "title": "シーウルフ",
-    "year": "1976",
-    "manufacturer": "Dave Nutting Associates / Midway",
-    "name": "seawolf",
-    "note": "Sea Wolf (set 1)",
-    "titleReading": "しうるふ",
-    "manufacturerReading": "davenuttingassociates/midway",
-    "genres": [
-      "シューティング"
-    ],
-    "controls": [
-      "専用操作",
-      "ボタン"
-    ]
-  },
-  {
     "title": "スプリント２",
     "year": "1976",
     "manufacturer": "Atari (Kee Games)",
@@ -377,22 +361,6 @@ window.ARCADE_GAMES = [
     "controls": [
       "パドル",
       "アナログ",
-      "ボタン"
-    ]
-  },
-  {
-    "title": "シーウルフ２",
-    "year": "1978",
-    "manufacturer": "Dave Nutting Associates / Midway",
-    "name": "seawolf2",
-    "note": "Sea Wolf II",
-    "titleReading": "しうるふ2",
-    "manufacturerReading": "davenuttingassociates/midway",
-    "genres": [
-      "シューティング"
-    ],
-    "controls": [
-      "専用操作",
       "ボタン"
     ]
   },
@@ -6627,23 +6595,6 @@ window.ARCADE_GAMES = [
     ]
   },
   {
-    "title": "スーパーパンチアウト！！",
-    "year": "1984",
-    "manufacturer": "任天堂",
-    "name": "spnchout",
-    "note": "",
-    "titleReading": "すうぱあぱんちあうと",
-    "manufacturerReading": "にんてんどう",
-    "genres": [
-      "スポーツ"
-    ],
-    "controls": [
-      "専用操作",
-      "レバー",
-      "ボタン"
-    ]
-  },
-  {
     "title": "スーパーピエロ",
     "year": "1984",
     "manufacturer": "ユニバーサル",
@@ -7090,22 +7041,6 @@ window.ARCADE_GAMES = [
     "note": "Parallel Turn",
     "titleReading": "ぱられるたん",
     "manufacturerReading": "じゃれこ",
-    "genres": [
-      "スポーツ"
-    ],
-    "controls": [
-      "レバー",
-      "ボタン"
-    ]
-  },
-  {
-    "title": "パンチアウト！！",
-    "year": "1984",
-    "manufacturer": "任天堂",
-    "name": "punchout",
-    "note": "Rev B",
-    "titleReading": "ぱんちあうと",
-    "manufacturerReading": "にんてんどう",
     "genres": [
       "スポーツ"
     ],
