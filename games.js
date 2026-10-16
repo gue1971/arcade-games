@@ -15030,15 +15030,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいきょう"
   },
   {
-    "title": "ダンスダンスレボリューション インターネットランキングVer.",
-    "year": "1998",
-    "manufacturer": "コナミ",
-    "name": "ddrj",
-    "note": "Dance Dance Revolution - Internet Ranking Ver (GC845 VER. JBA)",
-    "titleReading": "だんすだんすれぼりゅしょんいんたねっとらんきんぐver",
-    "manufacturerReading": "こなみ"
-  },
-  {
     "title": "デッド オア アライブ プラス プラス",
     "year": "1998",
     "manufacturer": "テクモ",
@@ -15381,66 +15372,12 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
-    "title": "ダンシングステージ フィーチャリング トゥルーキス ディスティネーション",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "dsftkd",
-    "note": "Dancing Stage featuring TRUE KiSS DESTiNATiON (G*884 VER. JAA)",
-    "titleReading": "だんしんぐすてじふぃちゃりんぐとぅるきすでぃすてぃねしょん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ダンスダンスレボリューション",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "dstage",
-    "note": "Dancing Stage - Internet Ranking Ver (GC845 VER. EBA)",
-    "titleReading": "だんすだんすれぼりゅしょん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ダンスダンスレボリューション 2nd MIX with ビートマニアIIDX クラブバージョン",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "ddr2mc",
-    "note": "Dance Dance Revolution 2nd Mix with beatmaniaIIDX CLUB VERSiON (GE896 VER. JAA)",
-    "titleReading": "だんすだんすれぼりゅしょん2ndmixwithびとまにあiidxくらぶばじょん",
-    "manufacturerReading": "こなみ"
-  },
-  {
     "title": "ダンスダンスレボリューション 2nd MIX with ビートマニアIIDX サブストリームクラブバージョン2",
     "year": "1999",
     "manufacturer": "コナミ",
     "name": "bmiidxc2",
     "note": "beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM)",
     "titleReading": "だんすだんすれぼりゅしょん2ndmixwithびとまにあiidxさぶすとりむくらぶばじょん2",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ダンスダンスレボリューション セカンドミックス",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "ddr2m",
-    "note": "Dance Dance Revolution 2nd Mix (GN895 VER. JAA)",
-    "titleReading": "だんすだんすれぼりゅしょんせかんどみっくす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ダンスダンスレボリューション セカンドミックス リンクバージョン",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "ddr2ml",
-    "note": "Dance Dance Revolution 2nd Mix - Link Ver (GE885 VER. JAB)",
-    "titleReading": "だんすだんすれぼりゅしょんせかんどみっくすりんくばじょん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ダンスダンスレボリューション ベスト オブ クールダンサーズ",
-    "year": "1999",
-    "manufacturer": "コナミ",
-    "name": "ddrbocd",
-    "note": "Dance Dance Revolution Best of Cool Dancers (GE892 VER. JAA)",
-    "titleReading": "だんすだんすれぼりゅしょんべすとおぶくるだんさず",
     "manufacturerReading": "こなみ"
   },
   {
