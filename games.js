@@ -7,12 +7,15 @@ const EXCLUDED_GAMES = new Set([
   // Euro set duplicated a Japanese set already in the catalog.
   "sfiii",
   // Japanese Tekken Tag sets are preliminary in MAME 0.221; no verified playable Japanese ROM set.
-  "tektagt"
+  "tektagt",
+  // Consolidated with the Japanese-localized set already listed.
+  "vulcan", "spatter", "flstory", "ldrun3", "matmania", "shangkid", "kaitei",
+  "butasan", "gseeker", "sfiii3n", "mvscjr1", "xmcotajr"
 ]);
 
 const JAPANESE_ROM_NAMES = {
   "40love": "40lovej", "64street": "64streetj", "airduel": "airduelm72",
-  "aquarium": "aquariumj", "arescue": "arescuej", "blazeon": "blazeonj",
+  "ajax": "ajaxj", "aquarium": "aquariumj", "arescue": "arescuej", "blazeon": "blazeonj",
   "bloodbro": "bloodbroj", "boogwing": "ragtime", "bouldash": "bouldashj",
   "cameltry": "cameltryj", "citybomb": "citybombj", "cltchitr": "cltchitrj",
   "dietgo": "dietgoj", "dimahoo": "gmahou", "ecofghtr": "uecology",
