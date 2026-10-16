@@ -1278,15 +1278,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "みっどうぇい"
   },
   {
-    "title": "キングダービー",
-    "year": "1981",
-    "manufacturer": "辰巳電子工業",
-    "name": "kingdrby",
-    "note": "King Derby (1981)",
-    "titleReading": "きんぐだび",
-    "manufacturerReading": "たつみでんしこうぎょう"
-  },
-  {
     "title": "ギャラガ",
     "year": "1981",
     "manufacturer": "ナムコ",
@@ -3139,15 +3130,6 @@ window.ARCADE_GAMES = [
     "note": "Van-Van Car",
     "titleReading": "ばんばんか",
     "manufacturerReading": "さんりつでんき"
-  },
-  {
-    "title": "パチフィーバー",
-    "year": "1983",
-    "manufacturer": "三機電子工業",
-    "name": "pachifev",
-    "note": "Pachifever",
-    "titleReading": "ぱちふぃば",
-    "manufacturerReading": "さんきでんここうぎょう"
   },
   {
     "title": "パック＆パル",
@@ -13716,15 +13698,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいきょう"
   },
   {
-    "title": "テクニカルボーリング",
-    "year": "1997",
-    "manufacturer": "セガ",
-    "name": "techbowl",
-    "note": "Technical Bowling (J 971212 V1.000)",
-    "titleReading": "てくにかるぼりんぐ",
-    "manufacturerReading": "せが"
-  },
-  {
     "title": "鉄拳3",
     "year": "1997",
     "manufacturer": "ナムコ",
@@ -14670,15 +14643,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "けいぶ"
   },
   {
-    "title": "コロコロクエスト",
-    "year": "1999",
-    "manufacturer": "ウィザード",
-    "name": "korokoro",
-    "note": "Koro Koro Quest (Japan)",
-    "titleReading": "ころころくえすと",
-    "manufacturerReading": "うぃざど"
-  },
-  {
     "title": "サンフランシスコラッシュ２０４９",
     "year": "1999",
     "manufacturer": "アタリゲームズ",
@@ -14974,15 +14938,6 @@ window.ARCADE_GAMES = [
     "note": "Pop'n Music 3 (ver JA-A)",
     "titleReading": "ぽっぷんみゅじっく3",
     "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ミクロマン バトルチャージ",
-    "year": "1999",
-    "manufacturer": "セガ",
-    "name": "micrombc",
-    "note": "Microman Battle Charge (J 990326 V1.000)",
-    "titleReading": "みくろまんばとるちゃじ",
-    "manufacturerReading": "せが"
   },
   {
     "title": "ミスタードリラー",
@@ -15388,15 +15343,6 @@ window.ARCADE_GAMES = [
     "note": "",
     "titleReading": "ろうどらんなあざでぃぐふぁいと",
     "manufacturerReading": "さいきょう"
-  },
-  {
-    "title": "Ｖ-ライナー",
-    "year": "2001",
-    "manufacturer": "ダイナ",
-    "name": "vliner",
-    "note": "V-Liner (v0.7a)",
-    "titleReading": "vらいな",
-    "manufacturerReading": "だいな"
   },
   {
     "title": "アシュラバスター -Eternal Warriors-",
@@ -15829,14 +15775,5 @@ window.ARCADE_GAMES = [
     "note": "Time Attacker",
     "titleReading": "たいむあたっか",
     "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ"
-  },
-  {
-    "title": "メオシス・マジック",
-    "year": "不明",
-    "manufacturer": "スカラベ",
-    "name": "meosism",
-    "note": "Meosis Magic (Japan)",
-    "titleReading": "めおしすまじっく",
-    "manufacturerReading": "すからべ"
   }
 ];
