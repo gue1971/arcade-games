@@ -1,6593 +1,5 @@
 window.ARCADE_GAMES = [
   {
-    "title": "ジービー",
-    "year": "1978",
-    "manufacturer": "ナムコ",
-    "name": "geebee",
-    "note": "日本版",
-    "titleReading": "じいびい",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スペースインベーダー",
-    "year": "1978",
-    "manufacturer": "タイトー / ミッドウェイ",
-    "name": "invaders",
-    "note": "Space Invaders M",
-    "titleReading": "すぺえすいんべえだあ",
-    "manufacturerReading": "たいとうみっどうぇい"
-  },
-  {
-    "title": "アストロファイター",
-    "year": "1979",
-    "manufacturer": "データイースト",
-    "name": "astrof",
-    "note": "set 1",
-    "titleReading": "あすとろふぁいたあ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ボムビー",
-    "year": "1979",
-    "manufacturer": "ナムコ",
-    "name": "bombbee",
-    "note": "",
-    "titleReading": "ぼむびい",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "キューティーQ",
-    "year": "1979",
-    "manufacturer": "ナムコ",
-    "name": "cutieq",
-    "note": "",
-    "titleReading": "きゅうてぃいq",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ギャラクシアン",
-    "year": "1979",
-    "manufacturer": "ナムコ",
-    "name": "galaxian",
-    "note": "Namco set 1",
-    "titleReading": "ぎゃらくしあん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ヘッドオン",
-    "year": "1979",
-    "manufacturer": "グレムリン",
-    "name": "headon",
-    "note": "2 players",
-    "titleReading": "へっどおん",
-    "manufacturerReading": "ぐれむりん"
-  },
-  {
-    "title": "ヘッドオン2",
-    "year": "1979",
-    "manufacturer": "セガ",
-    "name": "headon2",
-    "note": "",
-    "titleReading": "へっどおん2",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スペースインベーダー パートII",
-    "year": "1979",
-    "manufacturer": "タイトー",
-    "name": "invadpt2",
-    "note": "Taito",
-    "titleReading": "すぺえすいんべえだあぱあとii",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ディープスキャン",
-    "year": "1979",
-    "manufacturer": "セガ",
-    "name": "invds",
-    "note": "",
-    "titleReading": "でぃいぷすきゃん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "オズマウォーズ",
-    "year": "1979",
-    "manufacturer": "SNK",
-    "name": "ozmawars",
-    "note": "set 1",
-    "titleReading": "おずまうぉうず",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ローリングクラッシュ2イン1",
-    "year": "1979",
-    "manufacturer": "日本物産",
-    "name": "rollingc",
-    "note": "",
-    "titleReading": "ろうりんぐくらっしゅ2いん1",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "バルーンボンバー",
-    "year": "1980",
-    "manufacturer": "タイトー",
-    "name": "ballbomb",
-    "note": "",
-    "titleReading": "ばるうんぼんばあ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "カーニバル",
-    "year": "1980",
-    "manufacturer": "セガ",
-    "name": "carnival",
-    "note": "upright",
-    "titleReading": "かあにばる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クレイジークライマー",
-    "year": "1980",
-    "manufacturer": "日本物産",
-    "name": "cclimberj",
-    "note": "USA版",
-    "titleReading": "くれいじいくらいまあ",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "海底宝探し",
-    "year": "1980",
-    "manufacturer": "K.K.特機 （ナムコライセンス）",
-    "name": "kaitein",
-    "note": "namco",
-    "titleReading": "かいていたからさがし",
-    "manufacturerReading": "けーけーとっきなむこらいせんす"
-  },
-  {
-    "title": "キング＆バルーン",
-    "year": "1980",
-    "manufacturer": "ナムコ",
-    "name": "kingballj",
-    "note": "USA版",
-    "titleReading": "きんぐ&ばるうん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ミサイルコマンド",
-    "year": "1980",
-    "manufacturer": "アタリ",
-    "name": "missile",
-    "note": "set 1",
-    "titleReading": "みさいるこまんど",
-    "manufacturerReading": "あたり"
-  },
-  {
-    "title": "ムーンクレスタ",
-    "year": "1980",
-    "manufacturer": "日本物産",
-    "name": "mooncrst",
-    "note": "Nichibutsu",
-    "titleReading": "むうんくれすた",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "パックマン",
-    "year": "1980",
-    "manufacturer": "ナムコ",
-    "name": "puckman",
-    "note": "日本版 set 1",
-    "titleReading": "ぱっくまん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ラリーX",
-    "year": "1980",
-    "manufacturer": "ナムコ",
-    "name": "rallyxa",
-    "note": "",
-    "titleReading": "らりいx",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "サスケVSコマンダ",
-    "year": "1980",
-    "manufacturer": "SNK",
-    "name": "sasuke",
-    "note": "",
-    "titleReading": "さすけvsこまんだ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "タンクバタリアン",
-    "year": "1980",
-    "manufacturer": "ナムコ",
-    "name": "tankbatt",
-    "note": "",
-    "titleReading": "たんくばたりあん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アストロブラスター",
-    "year": "1981",
-    "manufacturer": "セガ",
-    "name": "astrob",
-    "note": "ver 3",
-    "titleReading": "あすとろぶらすたあ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "バトル・オブ・アトランティス",
-    "year": "1981",
-    "manufacturer": "コムソフト",
-    "name": "atlantis",
-    "note": "set 1",
-    "titleReading": "ばとるおぶあとらんてぃす",
-    "manufacturerReading": "こむそふと"
-  },
-  {
-    "title": "ボスコニアン",
-    "year": "1981",
-    "manufacturer": "ナムコ",
-    "name": "bosco",
-    "note": "new ver",
-    "titleReading": "ぼすこにあん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "クラッシュローラー",
-    "year": "1981",
-    "manufacturer": "アルファ電子 / クラル・サンノー電機",
-    "name": "crush",
-    "note": "Kural Samno",
-    "titleReading": "くらっしゅろうらあ",
-    "manufacturerReading": "あるふぁでんしくらるさんのうでんき"
-  },
-  {
-    "title": "ドンキーコング",
-    "year": "1981",
-    "manufacturer": "任天堂",
-    "name": "dkongjo",
-    "note": "日本版 set 1",
-    "titleReading": "どんきいこんぐ",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "フロッガー",
-    "year": "1981",
-    "manufacturer": "コナミ",
-    "name": "frogger",
-    "note": "",
-    "titleReading": "ふろっがあ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ギャラガ",
-    "year": "1981",
-    "manufacturer": "ナムコ",
-    "name": "galaga",
-    "note": "Namco rev B",
-    "titleReading": "ぎゃらが",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ニューラリーX",
-    "year": "1981",
-    "manufacturer": "ナムコ",
-    "name": "nrallyx",
-    "note": "",
-    "titleReading": "にゅうらりいx",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "クイックス",
-    "year": "1981",
-    "manufacturer": "タイトー・アメリカ",
-    "name": "qix",
-    "note": "set 1",
-    "titleReading": "くいっくす",
-    "manufacturerReading": "たいとうあめりか"
-  },
-  {
-    "title": "クイックスII",
-    "year": "1981",
-    "manufacturer": "タイトー・アメリカ",
-    "name": "qix2",
-    "note": "トーナメント",
-    "titleReading": "くいっくすii",
-    "manufacturerReading": "たいとうあめりか"
-  },
-  {
-    "title": "スクランブル",
-    "year": "1981",
-    "manufacturer": "コナミ",
-    "name": "scramble",
-    "note": "",
-    "titleReading": "すくらんぶる",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "バンガード",
-    "year": "1981",
-    "manufacturer": "SNK",
-    "name": "vanguard",
-    "note": "SN",
-    "titleReading": "ばんがあど",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ワープ＆ワープ",
-    "year": "1981",
-    "manufacturer": "ナムコ",
-    "name": "warpwarp",
-    "note": "",
-    "titleReading": "わあぷ&わあぷ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アルペンスキー",
-    "year": "1982",
-    "manufacturer": "タイトー",
-    "name": "alpine",
-    "note": "set 1",
-    "titleReading": "あるぺんすきい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アミダー",
-    "year": "1982",
-    "manufacturer": "コナミ",
-    "name": "amidar",
-    "note": "",
-    "titleReading": "あみだあ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "バーニンラバー",
-    "year": "1982",
-    "manufacturer": "データイースト",
-    "name": "brubber",
-    "note": "",
-    "titleReading": "ばあにんらばあ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ハンバーガー",
-    "year": "1982",
-    "manufacturer": "データイースト",
-    "name": "btime",
-    "note": "Burger Time (Data East set 1)",
-    "titleReading": "はんばあがあ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ディグダグ",
-    "year": "1982",
-    "manufacturer": "ナムコ",
-    "name": "digdug",
-    "note": "rev 2",
-    "titleReading": "でぃぐだぐ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ドンキーコングJr.",
-    "year": "1982",
-    "manufacturer": "任天堂",
-    "name": "dkongjrj",
-    "note": "日本版",
-    "titleReading": "どんきいこんぐjr",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "フロントライン",
-    "year": "1982",
-    "manufacturer": "タイトー",
-    "name": "frontlin",
-    "note": "",
-    "titleReading": "ふろんとらいん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "Mr.Do！",
-    "year": "1982",
-    "manufacturer": "ユニバーサル",
-    "name": "mrdo",
-    "note": "",
-    "titleReading": "みすたーどぅ",
-    "manufacturerReading": "ゆにばあさる"
-  },
-  {
-    "title": "ペンゴ",
-    "year": "1982",
-    "manufacturer": "セガ",
-    "name": "pengo",
-    "note": "set 1 rev c",
-    "titleReading": "ぺんご",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "プーヤン",
-    "year": "1982",
-    "manufacturer": "コナミ",
-    "name": "pooyan",
-    "note": "",
-    "titleReading": "ぷうやん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ポパイ",
-    "year": "1982",
-    "manufacturer": "任天堂",
-    "name": "popeye",
-    "note": "rev D",
-    "titleReading": "ぽぱい",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "スーパーパックマン",
-    "year": "1982",
-    "manufacturer": "ナムコ",
-    "name": "superpac",
-    "note": "",
-    "titleReading": "すうぱあぱっくまん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパーロコモーティブ",
-    "year": "1982",
-    "manufacturer": "セガ",
-    "name": "suprloco",
-    "note": "Rev.A",
-    "titleReading": "すうぱあろこもうてぃぶ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スイマー",
-    "year": "1982",
-    "manufacturer": "テーカン",
-    "name": "swimmer",
-    "note": "set 1",
-    "titleReading": "すいまあ",
-    "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "スーパーザクソン",
-    "year": "1982",
-    "manufacturer": "セガ",
-    "name": "szaxxon",
-    "note": "315-5013",
-    "titleReading": "すうぱあざくそん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "タイムパイロット",
-    "year": "1982",
-    "manufacturer": "コナミ",
-    "name": "timeplt",
-    "note": "",
-    "titleReading": "たいむぱいろっと",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ワイピング",
-    "year": "1982",
-    "manufacturer": "日本物産",
-    "name": "wiping",
-    "note": "",
-    "titleReading": "わいぴんぐ",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "ゼビウス",
-    "year": "1982",
-    "manufacturer": "ナムコ",
-    "name": "xevious",
-    "note": "Namco",
-    "titleReading": "ぜびうす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパーゼビウス",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "sxeviousj",
-    "note": "BARR",
-    "titleReading": "すうぱあぜびうす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ザクソン",
-    "year": "1982",
-    "manufacturer": "セガ",
-    "name": "zaxxon",
-    "note": "set 1",
-    "titleReading": "ざくそん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "アンブッシュ",
-    "year": "1983",
-    "manufacturer": "テクフリ （日本アミューズライセンス）",
-    "name": "ambushj",
-    "note": "日本版 / m↑",
-    "titleReading": "あんぶっしゅ",
-    "manufacturerReading": "てくふりにほんあみゅーずらいせんす"
-  },
-  {
-    "title": "ザ・ビッグ・プロレスリング",
-    "year": "1983",
-    "manufacturer": "テクノスジャパン",
-    "name": "bigprowr",
-    "note": "",
-    "titleReading": "ざびっぐぷろれすりんぐ",
-    "manufacturerReading": "てくのすじゃぱん"
-  },
-  {
-    "title": "ちゃっくんぽっぷ",
-    "year": "1983",
-    "manufacturer": "タイトー",
-    "name": "chaknpop",
-    "note": "",
-    "titleReading": "ちゃっくんぽっぷ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "コマンド",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "commsega",
-    "note": "Sega",
-    "titleReading": "こまんど",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ティップタップ",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "congo",
-    "note": "Congo Bongo (rev C 2 board stack)",
-    "titleReading": "てぃっぷたっぷ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "Mr.Do！ VS ユニコーン",
-    "year": "1983",
-    "manufacturer": "ユニバーサル",
-    "name": "docastle",
-    "note": "Mr. Do's Castle (set 1)",
-    "titleReading": "みすたーどぅばーさすゆにこーん",
-    "manufacturerReading": "ゆにばあさる"
-  },
-  {
-    "title": "エレベーターアクション",
-    "year": "1983",
-    "manufacturer": "タイトー",
-    "name": "elevator",
-    "note": "",
-    "titleReading": "えれべえたああくしょん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "エキサイティングサッカー",
-    "year": "1983",
-    "manufacturer": "アルファ電子",
-    "name": "exctsccrj",
-    "note": "BAIR set 1",
-    "titleReading": "えきさいてぃんぐさっかあ",
-    "manufacturerReading": "あるふぁでんし"
-  },
-  {
-    "title": "エクセリオン",
-    "year": "1983",
-    "manufacturer": "ジャレコ",
-    "name": "exerion",
-    "note": "",
-    "titleReading": "えくせりおん",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "ホッパーロボ",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "hopprobo",
-    "note": "",
-    "titleReading": "ほっぱあろぼ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "イクシオン",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "ixion",
-    "note": "prototype",
-    "titleReading": "いくしおん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "リブルラブル",
-    "year": "1983",
-    "manufacturer": "ナムコ",
-    "name": "liblrabl",
-    "note": "",
-    "titleReading": "りぶるらぶる",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "マッピー",
-    "year": "1983",
-    "manufacturer": "ナムコ",
-    "name": "mappyj",
-    "note": "日本版",
-    "titleReading": "まっぴい",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "マリオブラザーズ",
-    "year": "1983",
-    "manufacturer": "任天堂",
-    "name": "marioj",
-    "note": "USA版 rev F",
-    "titleReading": "まりおぶらざあず",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "ポールポジションII",
-    "year": "1983",
-    "manufacturer": "ナムコ",
-    "name": "polepos2",
-    "note": "",
-    "titleReading": "ぽうるぽじしょんii",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ラズマタズ",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "razmataz",
-    "note": "",
-    "titleReading": "らずまたず",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "レグルス",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "regulus",
-    "note": "315-8088 rev A",
-    "titleReading": "れぐるす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ロックンロープ",
-    "year": "1983",
-    "manufacturer": "コナミ",
-    "name": "rocnrope",
-    "note": "",
-    "titleReading": "ろっくんろうぷ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "SF-X -スペースファイターX",
-    "year": "1983",
-    "manufacturer": "日本ゲーム （東京日本物産ライセンス）",
-    "name": "sfx",
-    "note": "",
-    "titleReading": "えすえふえっくすすぺーすふぁいたーえっくす",
-    "manufacturerReading": "にほんげーむとうきょうにほんぶっさんらいせんす"
-  },
-  {
-    "title": "シンドバッドミステリー",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "sindbadm",
-    "note": "",
-    "titleReading": "しんどばっどみすてりい",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "Qバート",
-    "year": "1982",
-    "manufacturer": "ゴットリーブ",
-    "name": "qbert",
-    "note": "USA版 set 1",
-    "titleReading": "きゅーばーと",
-    "manufacturerReading": "ごっとりいぶ"
-  },
-  {
-    "title": "スタージャッカー",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "starjack",
-    "note": "Sega",
-    "titleReading": "すたあじゃっかあ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ハイパーオリンピック",
-    "year": "1983",
-    "manufacturer": "コナミ",
-    "name": "hyprolym",
-    "note": "",
-    "titleReading": "はいぱあおりんぴっく",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "アップンダウン",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "upndown",
-    "note": "315-5030",
-    "titleReading": "あっぷんだうん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ヤマト",
-    "year": "1983",
-    "manufacturer": "セガ",
-    "name": "yamato",
-    "note": "",
-    "titleReading": "やまと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "1942",
-    "year": "1984",
-    "manufacturer": "カプコン",
-    "name": "1942",
-    "note": "rev B",
-    "titleReading": "いちきゅうよんに",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "40-0 ＜フォーティラブ＞",
-    "year": "1984",
-    "manufacturer": "タイトー",
-    "name": "40love",
-    "note": "",
-    "titleReading": "ふぉーてぃらぶ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アッポー",
-    "year": "1984",
-    "manufacturer": "サンリツ / セガ",
-    "name": "appoooh",
-    "note": "",
-    "titleReading": "あっぽう",
-    "manufacturerReading": "さんりつせが"
-  },
-  {
-    "title": "ザ・バトルロード",
-    "year": "1984",
-    "manufacturer": "アイレム",
-    "name": "battroad",
-    "note": "",
-    "titleReading": "ざばとるろうど",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "べんべろべえ",
-    "year": "1984",
-    "manufacturer": "タイトー",
-    "name": "benberob",
-    "note": "日本版",
-    "titleReading": "べんべろべえ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ボンジャック",
-    "year": "1984",
-    "manufacturer": "テーカン",
-    "name": "bombjack",
-    "note": "set 1",
-    "titleReading": "ぼんじゃっく",
-    "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "ザ・闘牛",
-    "year": "1984",
-    "manufacturer": "コアランド / セガ",
-    "name": "thetogyu",
-    "note": "315-5065, 日本版",
-    "titleReading": "ざとうぎゅう",
-    "manufacturerReading": "こあらんどせが"
-  },
-  {
-    "title": "B-ウィング",
-    "year": "1984",
-    "manufacturer": "データイースト",
-    "name": "bwings",
-    "note": "日本版",
-    "titleReading": "びーういんぐ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "チャイニーズヒーロー",
-    "year": "1984",
-    "manufacturer": "タイヨーシステム",
-    "name": "chinhero",
-    "note": "",
-    "titleReading": "ちゃいにいずひいろう",
-    "manufacturerReading": "たいようしすてむ"
-  },
-  {
-    "title": "サーカスチャーリー",
-    "year": "1984",
-    "manufacturer": "コナミ",
-    "name": "circusc",
-    "note": "level select set 1",
-    "titleReading": "さあかすちゃありい",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "バッテンオハラのスチャラカ空中戦",
-    "year": "1984",
-    "manufacturer": "テクノスジャパン",
-    "name": "dogfgt",
-    "note": "Acrobatic Dog-Fight",
-    "titleReading": "ばってんおはらのすちゃらかくうちゅうせん",
-    "manufacturerReading": "てくのすじゃぱん"
-  },
-  {
-    "title": "スーパーピエロ",
-    "year": "1984",
-    "manufacturer": "ユニバーサル",
-    "name": "dorunrun",
-    "note": "Do! Run Run (set 1)",
-    "titleReading": "すうぱあぴえろ",
-    "manufacturerReading": "ゆにばあさる"
-  },
-  {
-    "title": "Mr.Do's ワイルドライド",
-    "year": "1984",
-    "manufacturer": "ユニバーサル",
-    "name": "dowild",
-    "note": "",
-    "titleReading": "みすたーどぅーずわいるどらいど",
-    "manufacturerReading": "ゆにばあさる"
-  },
-  {
-    "title": "ドラゴンバスター",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "drgnbstr",
-    "note": "",
-    "titleReading": "どらごんばすたあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "フリッキー",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "flicky",
-    "note": "128k ver system 2 315-5051",
-    "titleReading": "ふりっきい",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "フューチャースパイ",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "futspy",
-    "note": "315-6061",
-    "titleReading": "ふゅうちゃあすぱい",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ギャプラス",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "gaplus",
-    "note": "rev D",
-    "titleReading": "ぎゃぷらす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "グロブダー",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "grobda",
-    "note": "new ver",
-    "titleReading": "ぐろぶだあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "グレートソードマン",
-    "year": "1984",
-    "manufacturer": "アルュメ / タイトー",
-    "name": "gsword2",
-    "note": "日本版",
-    "titleReading": "ぐれえとそうどまん",
-    "manufacturerReading": "あるゅめたいとう"
-  },
-  {
-    "title": "ハイパーオリンピック '84",
-    "year": "1984",
-    "manufacturer": "コナミ （センチュリライセンス）",
-    "name": "hyperspt",
-    "note": "Hyper Sports",
-    "titleReading": "はいぱあおりんぴっく84",
-    "manufacturerReading": "こなみせんちゅりらいせんす"
-  },
-  {
-    "title": "対戦 空手道 -青春美少女編",
-    "year": "1984",
-    "manufacturer": "データイースト",
-    "name": "karatevs",
-    "note": "日本版 VS ver",
-    "titleReading": "たいせんからてどうせいしゅんびしょうじょへん",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "空手道",
-    "year": "1984",
-    "manufacturer": "データイースト",
-    "name": "karatedo",
-    "note": "日本版",
-    "titleReading": "からてどう",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "スパルタンX",
-    "year": "1984",
-    "manufacturer": "アイレム",
-    "name": "spartanx",
-    "note": "日本版",
-    "titleReading": "すぱるたんx",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "ロードランナー",
-    "year": "1984",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "ldrun",
-    "note": "set 1",
-    "titleReading": "ろうどらんなあ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "ロードランナー -バンゲリング帝国の逆襲",
-    "year": "1984",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "ldrun2",
-    "note": "",
-    "titleReading": "ろうどらんなあばんげりんぐていこくのぎゃくしゅう",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "影の伝説",
-    "year": "1984",
-    "manufacturer": "タイトー",
-    "name": "lkage",
-    "note": "",
-    "titleReading": "かげのでんせつ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "マーブルマッドネス",
-    "year": "1984",
-    "manufacturer": "アタリゲームズ",
-    "name": "marble",
-    "note": "set 1",
-    "titleReading": "まあぶるまっどねす",
-    "manufacturerReading": "あたりげえむず"
-  },
-  {
-    "title": "新入社員とおるくん",
-    "year": "1984",
-    "manufacturer": "コナミ",
-    "name": "mikie",
-    "note": "Mikie",
-    "titleReading": "しんにゅうしゃいんとおるくん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ミスターバイキング",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "mrviking",
-    "note": "315-5041",
-    "titleReading": "みすたあばいきんぐ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "忍者くん -魔城の冒険",
-    "year": "1984",
-    "manufacturer": "UPL （タイトーライセンス）",
-    "name": "ninjakun",
-    "note": "",
-    "titleReading": "にんじゃくんまじょうのぼうけん",
-    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
-  },
-  {
-    "title": "パックランド",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "paclandj",
-    "note": "set 1",
-    "titleReading": "ぱっくらんど",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "パンチアウト！！",
-    "year": "1984",
-    "manufacturer": "任天堂",
-    "name": "punchout",
-    "note": "Rev B",
-    "titleReading": "ぱんちあうと",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "ロードファイター",
-    "year": "1984",
-    "manufacturer": "コナミ",
-    "name": "roadf",
-    "note": "set 1",
-    "titleReading": "ろうどふぁいたあ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ソンソン",
-    "year": "1984",
-    "manufacturer": "カプコン",
-    "name": "sonsonj",
-    "note": "日本版",
-    "titleReading": "そんそん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "三輪サンちゃん",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "ssanchan",
-    "note": "日本版",
-    "titleReading": "さんりんさんちゃん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スーパーパンチアウト！！",
-    "year": "1984",
-    "manufacturer": "任天堂",
-    "name": "spnchout",
-    "note": "",
-    "titleReading": "すうぱあぱんちあうと",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "出世大相撲",
-    "year": "1984",
-    "manufacturer": "テクノスジャパン",
-    "name": "ssozumo",
-    "note": "日本版",
-    "titleReading": "しゅっせおおずもう",
-    "manufacturerReading": "てくのすじゃぱん"
-  },
-  {
-    "title": "スターフォース",
-    "year": "1984",
-    "manufacturer": "テーカン",
-    "name": "starforc",
-    "note": "",
-    "titleReading": "すたあふぉうす",
-    "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "ドルアーガの塔",
-    "year": "1984",
-    "manufacturer": "ナムコ",
-    "name": "todruaga",
-    "note": "new ver",
-    "titleReading": "どるああがのとう",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ヴァンガードII",
-    "year": "1984",
-    "manufacturer": "SNK",
-    "name": "vangrd2",
-    "note": "",
-    "titleReading": "ゔぁんがあどii",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "バルガス",
-    "year": "1984",
-    "manufacturer": "カプコン",
-    "name": "vulgusj",
-    "note": "日本版？",
-    "titleReading": "ばるがす",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ウォーターマッチ",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "wmatch",
-    "note": "315-5064",
-    "titleReading": "うぉうたあまっち",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "チャンピオンプロレス",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "chwrestl",
-    "note": "",
-    "titleReading": "ちゃんぴおんぷろれす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "シティコネクション",
-    "year": "1985",
-    "manufacturer": "ジャレコ",
-    "name": "citycon",
-    "note": "set 1",
-    "titleReading": "してぃこねくしょん",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "戦場の狼",
-    "year": "1985",
-    "manufacturer": "カプコン",
-    "name": "commandoj",
-    "note": "",
-    "titleReading": "せんじょうのおおかみ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "コップ01",
-    "year": "1985",
-    "manufacturer": "日本物産",
-    "name": "cop01a",
-    "note": "",
-    "titleReading": "こっぷ01",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "ディグダグII",
-    "year": "1985",
-    "manufacturer": "ナムコ",
-    "name": "digdug2",
-    "note": "new ver",
-    "titleReading": "でぃぐだぐii",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "エグゼドエグゼス",
-    "year": "1985",
-    "manufacturer": "カプコン",
-    "name": "exedexes",
-    "note": "",
-    "titleReading": "えぐぜどえぐぜす",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ファイナライザー -スーパートランスフォーメーション",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "finalizr",
-    "note": "",
-    "titleReading": "ふぁいならいざあすうぱあとらんすふぉうめえしょん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "フラッシュギャル",
-    "year": "1985",
-    "manufacturer": "九娯貿易 / セガ",
-    "name": "flashgal",
-    "note": "set 1",
-    "titleReading": "ふらっしゅぎゃる",
-    "manufacturerReading": "きゅうごぼうえきせが"
-  },
-  {
-    "title": "フェアリーランドストーリー",
-    "year": "1985",
-    "manufacturer": "タイトー",
-    "name": "flstoryj",
-    "note": "日本版",
-    "titleReading": "ふぇありいらんどすとうりい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ガントレット",
-    "year": "1985",
-    "manufacturer": "アタリゲームズ",
-    "name": "gauntletj",
-    "note": "rev 14",
-    "titleReading": "がんとれっと",
-    "manufacturerReading": "あたりげえむず"
-  },
-  {
-    "title": "グリーンベレー",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "gberet",
-    "note": "",
-    "titleReading": "ぐりいんべれえ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "魔界村",
-    "year": "1985",
-    "manufacturer": "カプコン",
-    "name": "makaimur",
-    "note": "日本版",
-    "titleReading": "まかいむら",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ガンスモーク",
-    "year": "1985",
-    "manufacturer": "カプコン",
-    "name": "gunsmokej",
-    "note": "海外版",
-    "titleReading": "がんすもうく",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ハングオン",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "hangon",
-    "note": "rev A",
-    "titleReading": "はんぐおん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ヘビーメタル",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "hvymetal",
-    "note": "315-5135",
-    "titleReading": "へびいめたる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "いっき",
-    "year": "1985",
-    "manufacturer": "サン電子",
-    "name": "ikki",
-    "note": "日本版",
-    "titleReading": "いっき",
-    "manufacturerReading": "さんでんし"
-  },
-  {
-    "title": "少林寺への道",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "kicker",
-    "note": "Kicker",
-    "titleReading": "しょうりんじへのみち",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ザ・高校野球",
-    "year": "1985",
-    "manufacturer": "アルファ電子",
-    "name": "kouyakyu",
-    "note": "",
-    "titleReading": "ざこうこうやきゅう",
-    "manufacturerReading": "あるふぁでんし"
-  },
-  {
-    "title": "ロードランナー -魔神の復活",
-    "year": "1985",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "ldrun3j",
-    "note": "",
-    "titleReading": "ろうどらんなあまじんのふっかつ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "ロットロット",
-    "year": "1985",
-    "manufacturer": "アイレム （徳間書店ライセンス）",
-    "name": "lotlot",
-    "note": "",
-    "titleReading": "ろっとろっと",
-    "manufacturerReading": "あいれむとくましょてんらいせんす"
-  },
-  {
-    "title": "マグマックス",
-    "year": "1985",
-    "manufacturer": "日本物産",
-    "name": "magmax",
-    "note": "",
-    "titleReading": "まぐまっくす",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "エキサイティングアワー",
-    "year": "1985",
-    "manufacturer": "テクノスジャパン （タイトーライセンス）",
-    "name": "excthour",
-    "note": "",
-    "titleReading": "えきさいてぃんぐあわあ",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
-  },
-  {
-    "title": "メトロクロス",
-    "year": "1985",
-    "manufacturer": "ナムコ",
-    "name": "metrocrs",
-    "note": "set 1",
-    "titleReading": "めとろくろす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "モトス",
-    "year": "1985",
-    "manufacturer": "ナムコ",
-    "name": "motos",
-    "note": "",
-    "titleReading": "もとす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "青春スキャンダル",
-    "year": "1985",
-    "manufacturer": "コアランド / セガ",
-    "name": "sscandal",
-    "note": "日本版 315-5132",
-    "titleReading": "せいしゅんすきゃんだる",
-    "manufacturerReading": "こあらんどせが"
-  },
-  {
-    "title": "グラディウス",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "gradius",
-    "note": "BANE rom ver",
-    "titleReading": "ぐらでぃうす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ピンボールアクション",
-    "year": "1985",
-    "manufacturer": "テーカン",
-    "name": "pbaction",
-    "note": "set 1",
-    "titleReading": "ぴんぼうるあくしょん",
-    "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "コナミのピンポン",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "pingpong",
-    "note": "",
-    "titleReading": "こなみのぴんぽん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ピットフォールII -The Lost Caverns",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "pitfall2",
-    "note": "315-5093",
-    "titleReading": "ぴっとふぉうるiithelostcaverns",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ぺんぎんくんウォーズ",
-    "year": "1985",
-    "manufacturer": "UPL",
-    "name": "pkunwarj",
-    "note": "日本版",
-    "titleReading": "ぺんぎんくんうぉうず",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "リターン・オブ・ザ・インベーダーズ",
-    "year": "1985",
-    "manufacturer": "タイトー",
-    "name": "retofinv",
-    "note": "",
-    "titleReading": "りたあんおぶざいんべえだあず",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "セクションZ",
-    "year": "1985",
-    "manufacturer": "カプコン",
-    "name": "sectionz",
-    "note": "set 1",
-    "titleReading": "せくしょんz",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "忍者プリンセス",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "seganinj",
-    "note": "Sega Ninja",
-    "titleReading": "にんじゃぷりんせす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "北派少林 飛龍の拳",
-    "year": "1985",
-    "manufacturer": "タイヨーシステム （タイトーライセンス）",
-    "name": "hiryuken",
-    "note": "",
-    "titleReading": "ほくはしょうりんひりゅうのけん",
-    "manufacturerReading": "たいようしすてむたいとうらいせんす"
-  },
-  {
-    "title": "スペースハリアー",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "sharrier",
-    "note": "Rev A, 8751 317-5163A / m↑",
-    "titleReading": "すぺえすはりああ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スカイキッド",
-    "year": "1985",
-    "manufacturer": "ナムコ",
-    "name": "skykid",
-    "note": "new ver",
-    "titleReading": "すかいきっど",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スペランカー",
-    "year": "1985",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "spelunkrj",
-    "note": "日本版",
-    "titleReading": "すぺらんかあ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "テディーボーイ・ブルース",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "teddybb",
-    "note": "315-5115 new ver",
-    "titleReading": "てでぃいぼういぶるうす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "テーカンワールドカップ",
-    "year": "1985",
-    "manufacturer": "テーカン",
-    "name": "tehkanwc",
-    "note": "set 1",
-    "titleReading": "てえかんわあるどかっぷ",
-    "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "テラクレスタ",
-    "year": "1985",
-    "manufacturer": "日本物産",
-    "name": "terracre",
-    "note": "YM3526 set 1",
-    "titleReading": "てらくれすた",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "タイガーヘリ",
-    "year": "1985",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "tigerhj",
-    "note": "日本版 set 2",
-    "titleReading": "たいがあへり",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "T.A.N.K.",
-    "year": "1985",
-    "manufacturer": "SNK",
-    "name": "tnk3j",
-    "note": "日本版",
-    "titleReading": "てぃーえーえぬけー",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "侍日本一",
-    "year": "1985",
-    "manufacturer": "カネコ / タイトー",
-    "name": "tsamurai",
-    "note": "",
-    "titleReading": "さむらいにっぽんいち",
-    "manufacturerReading": "かねこたいとう"
-  },
-  {
-    "title": "ツインビー",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "twinbee",
-    "note": "rom ver",
-    "titleReading": "ついんびい",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "決死の探検サバイバル ゆけゆけ！山口君",
-    "year": "1985",
-    "manufacturer": "カネコ / タイトー",
-    "name": "yamagchi",
-    "note": "",
-    "titleReading": "けっしのたんけんさばいばるゆけゆけやまぐちくん",
-    "manufacturerReading": "かねこたいとう"
-  },
-  {
-    "title": "イー・アル・カンフー",
-    "year": "1985",
-    "manufacturer": "コナミ",
-    "name": "yiear",
-    "note": "set 1",
-    "titleReading": "いいあるかんふう",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "スラップファイト",
-    "year": "1986",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "slapfigh",
-    "note": "set 1",
-    "titleReading": "すらっぷふぁいと",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "聖戦士アマテラス",
-    "year": "1986",
-    "manufacturer": "日本物産",
-    "name": "amatelas",
-    "note": "",
-    "titleReading": "せいせんしあまてらす",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "アーガス",
-    "year": "1986",
-    "manufacturer": "NMK （ジャレコライセンス）",
-    "name": "argus",
-    "note": "",
-    "titleReading": "ああがす",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
-  },
-  {
-    "title": "アルカノイド",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "arkanoidj",
-    "note": "日本版, newer / m↑",
-    "titleReading": "あるかのいど",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アテナ",
-    "year": "1986",
-    "manufacturer": "SNK",
-    "name": "athena",
-    "note": "",
-    "titleReading": "あてな",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "バルバルークの伝説",
-    "year": "1986",
-    "manufacturer": "エイブル",
-    "name": "baluba",
-    "note": "",
-    "titleReading": "ばるばるうくのでんせつ",
-    "manufacturerReading": "えいぶる"
-  },
-  {
-    "title": "バトルレーンVol.5",
-    "year": "1986",
-    "manufacturer": "テクノスジャパン （タイトーライセンス）",
-    "name": "battlane",
-    "note": "set 1",
-    "titleReading": "ばとるれえんvol5",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
-  },
-  {
-    "title": "バブルボブル",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "bublbobl",
-    "note": "",
-    "titleReading": "ばぶるぼぶる",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "UFOロボ ダンガー",
-    "year": "1986",
-    "manufacturer": "日本物産",
-    "name": "dangar",
-    "note": "12/1/1986",
-    "titleReading": "ゆーふぉーろぼだんがー",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "ダライアス",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "dariusj",
-    "note": "日本版",
-    "titleReading": "だらいあす",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ダライアス",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "dariuse",
-    "note": "日本版 Extra ver",
-    "titleReading": "だらいあす",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ダーウィン4078",
-    "year": "1986",
-    "manufacturer": "データイースト",
-    "name": "darwin",
-    "note": "日本版",
-    "titleReading": "だあうぃん4078",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ダンクショット",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "dunkshot",
-    "note": "Rev C, FD1089A 317-0022 / m↑",
-    "titleReading": "だんくしょっと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "エンデューロレーサー",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "endurobl",
-    "note": "bootleg set 1",
-    "titleReading": "えんでゅうろれえさあ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ファンタジーゾーン",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "fantzone",
-    "note": "rev A unprotected",
-    "titleReading": "ふぁんたじいぞうん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ファイヤートラップ",
-    "year": "1986",
-    "manufacturer": "ウッドプレイス",
-    "name": "firetrapj",
-    "note": "日本版 / m↑",
-    "titleReading": "ふぁいやあとらっぷ",
-    "manufacturerReading": "うっどぷれいす"
-  },
-  {
-    "title": "源平討魔伝",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "genpeitd",
-    "note": "",
-    "titleReading": "げんぺいとうまでん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "黄金の城",
-    "year": "1986",
-    "manufacturer": "アルュメ / タイトー",
-    "name": "ogonsiro",
-    "note": "日本版",
-    "titleReading": "おうごんのしろ",
-    "manufacturerReading": "あるゅめたいとう"
-  },
-  {
-    "title": "ハレーズコメット",
-    "year": "1986",
-    "manufacturer": "タイトー・アメリカ （Coin-Itライセンス）",
-    "name": "halleysc",
-    "note": "日本版 newer",
-    "titleReading": "はれえずこめっと",
-    "manufacturerReading": "たいとうあめりかこいんいっとらいせんす"
-  },
-  {
-    "title": "ホッピングマッピー",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "hopmappy",
-    "note": "",
-    "titleReading": "ほっぴんぐまっぴい",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "怒",
-    "year": "1986",
-    "manufacturer": "SNK",
-    "name": "ikari",
-    "note": "Ikari Warriors (USA版)",
-    "titleReading": "いかり",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "大列車強盗",
-    "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "ironhors",
-    "note": "",
-    "titleReading": "だいれっしゃごうとう",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "特殊部隊ジャッカル",
-    "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "jackalj",
-    "note": "日本版",
-    "titleReading": "とくしゅぶたいじゃっかる",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "奇々怪界",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "kikikai",
-    "note": "",
-    "titleReading": "ききかいかい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ロードランナー -帝国からの脱出",
-    "year": "1986",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "ldrun4",
-    "note": "",
-    "titleReading": "ろうどらんなあていこくからのだっしゅつ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "アレスの翼 -The Legendary Soldiers",
-    "year": "1986",
-    "manufacturer": "カプコン",
-    "name": "lwingsj",
-    "note": "日本版 rev. B",
-    "titleReading": "あれすのつばさthelegendarysoldiers",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "Mr.五右衛門",
-    "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "mrgoemon",
-    "note": "日本版",
-    "titleReading": "みすたーごえもん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "アウトラン",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "outrun",
-    "note": "set 1",
-    "titleReading": "あうとらん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "熱血硬派くにおくん",
-    "year": "1986",
-    "manufacturer": "テクノスジャパン",
-    "name": "kuniokun",
-    "note": "日本版",
-    "titleReading": "ねっけつこうはくにおくん",
-    "manufacturerReading": "てくのすじゃぱん"
-  },
-  {
-    "title": "ピタゴラスの謎",
-    "year": "1986",
-    "manufacturer": "セガ / ナスコ",
-    "name": "ridleofp",
-    "note": "AAR",
-    "titleReading": "ぴたごらすのなぞ",
-    "manufacturerReading": "せがなすこ"
-  },
-  {
-    "title": "イシターの復活",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "roishtar",
-    "note": "",
-    "titleReading": "いしたあのふっかつ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ローリングサンダー",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "rthunder",
-    "note": "new ver",
-    "titleReading": "ろうりんぐさんだあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アルゴスの戦士",
-    "year": "1986",
-    "manufacturer": "テクモ",
-    "name": "rygarj",
-    "note": "日本版",
-    "titleReading": "あるごすのせんし",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "沙羅曼蛇",
-    "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "salamand",
-    "note": "ver D",
-    "titleReading": "さらまんだ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "サイドアーム -Hyper Dyne",
-    "year": "1986",
-    "manufacturer": "カプコン",
-    "name": "sidearms",
-    "note": "海外版",
-    "titleReading": "さいどああむhyperdyne",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スカイキッドDX",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "skykiddx",
-    "note": "set 1",
-    "titleReading": "すかいきっどdx",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ソロモンの鍵",
-    "year": "1986",
-    "manufacturer": "テクモ",
-    "name": "solomonj",
-    "note": "日本版",
-    "titleReading": "そろもんのかぎ",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "スペランカーII -23の鍵",
-    "year": "1986",
-    "manufacturer": "アイレム （ブローダーバンドライセンス）",
-    "name": "spelunk2",
-    "note": "",
-    "titleReading": "すぺらんかあii23のかぎ",
-    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
-  },
-  {
-    "title": "S.R.D.ミッション",
-    "year": "1986",
-    "manufacturer": "九娯貿易 / タイトー",
-    "name": "srdmissn",
-    "note": "",
-    "titleReading": "えすあーるでぃーみっしょん",
-    "manufacturerReading": "きゅうごぼうえきたいとう"
-  },
-  {
-    "title": "ラッシュ＆クラッシュ",
-    "year": "1986",
-    "manufacturer": "カプコン",
-    "name": "rushcrsh",
-    "note": "日本版",
-    "titleReading": "らっしゅ&くらっしゅ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "トイポップ",
-    "year": "1986",
-    "manufacturer": "ナムコ",
-    "name": "toypop",
-    "note": "",
-    "titleReading": "といぽっぷ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アストロフラッシュ",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "astrofl",
-    "note": "日本版",
-    "titleReading": "あすとろふらっしゅ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "闘いの挽歌",
-    "year": "1986",
-    "manufacturer": "カプコン",
-    "name": "trojanj",
-    "note": "日本版",
-    "titleReading": "たたかいのばんか",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "バルトリック",
-    "year": "1986",
-    "manufacturer": "NMK （ジャレコライセンス）",
-    "name": "valtric",
-    "note": "",
-    "titleReading": "ばるとりっく",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
-  },
-  {
-    "title": "怒号層圏",
-    "year": "1986",
-    "manufacturer": "SNK",
-    "name": "dogosoke",
-    "note": "",
-    "titleReading": "どごうそうけん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ワンダーボーイ",
-    "year": "1986",
-    "manufacturer": "エスケープ （セガライセンス）",
-    "name": "wboy",
-    "note": "set 1 new encryption",
-    "titleReading": "わんだあぼうい",
-    "manufacturerReading": "えすけえぷせがらいせんす"
-  },
-  {
-    "title": "WECル・マン24",
-    "year": "1986",
-    "manufacturer": "コナミ",
-    "name": "wecleman",
-    "note": "",
-    "titleReading": "だぶりゅーいーしーるまんにじゅうよん",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "XXミッション",
-    "year": "1986",
-    "manufacturer": "UPL",
-    "name": "xxmissio",
-    "note": "",
-    "titleReading": "だぶるえっくすみっしょん",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "1943 -ミッドウェイ海戦",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "1943j",
-    "note": "1943 -The Battle of Midway (欧州版)",
-    "titleReading": "いちきゅうよんさんみっどうぇいかいせん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "1943改 -ミッドウェイ海戦",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "1943kai",
-    "note": "日本版",
-    "titleReading": "いちきゅうよんさんかいみっどうぇいかいせん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アフターバーナーII",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "aburner2",
-    "note": "",
-    "titleReading": "あふたあばあなあii",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "A-JAX",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "ajaxj",
-    "note": "日本版",
-    "titleReading": "えーじゃっくす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "エイリアンシンドローム",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "aliensyn",
-    "note": "set 4, System 16B, プロテクト無し",
-    "titleReading": "えいりあんしんどろうむ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "アルカノイド -リベンジオブDOH",
-    "year": "1987",
-    "manufacturer": "タイトー",
-    "name": "arknoid2j",
-    "note": "日本版",
-    "titleReading": "あるかのいどりべんじおぶdoh",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "必殺！無頼拳",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "buraiken",
-    "note": "日本版",
-    "titleReading": "ひっさつぶらいけん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "バトランティス",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "battlntsj",
-    "note": "日本版",
-    "titleReading": "ばとらんてぃす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "Mr.HELIの大冒険",
-    "year": "1987",
-    "manufacturer": "アイレム",
-    "name": "mrheli",
-    "note": "",
-    "titleReading": "みすたーへりのだいぼうけん",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "バミューダトライアングル",
-    "year": "1987",
-    "manufacturer": "SNK",
-    "name": "bermudatj",
-    "note": "日本版",
-    "titleReading": "ばみゅうだとらいあんぐる",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "トップ・シークレット",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "topsecrt",
-    "note": "日本版 old ver",
-    "titleReading": "とっぷしいくれっと",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ブレイザー",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "blazer",
-    "note": "日本版",
-    "titleReading": "ぶれいざあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ぶたさん -Pig's ＆ Bomber's",
-    "year": "1987",
-    "manufacturer": "NMK （ジャレコライセンス）",
-    "name": "butasanj",
-    "note": "日本版",
-    "titleReading": "ぶたさんpigs&bombers",
-    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
-  },
-  {
-    "title": "シティーボンバー",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "citybomb",
-    "note": "海外 孤",
-    "titleReading": "してぃいぼんばあ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "魂斗羅",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "contraj",
-    "note": "日本版",
-    "titleReading": "こんとら",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "双截龍 ＜ダブルドラゴン＞",
-    "year": "1987",
-    "manufacturer": "テクノスジャパン （タイトーライセンス）",
-    "name": "ddragon",
-    "note": "日本版",
-    "titleReading": "だぶるどらごん",
-    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
-  },
-  {
-    "title": "ドラゴンスピリット",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "dspirit",
-    "note": "new ver",
-    "titleReading": "どらごんすぴりっと",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ドラゴンスピリット",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "dspirit1",
-    "note": "old ver",
-    "titleReading": "どらごんすぴりっと",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ファイナルラップ",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "finallapjb",
-    "note": "日本版, Rev B / m↑",
-    "titleReading": "ふぁいなるらっぷ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "飛翔鮫",
-    "year": "1987",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "hishouza",
-    "note": "日本版",
-    "titleReading": "ひしょうざめ",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "ギャラガ '88",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "galaga88j",
-    "note": "",
-    "titleReading": "ぎゃらが88",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ジェミニウイング",
-    "year": "1987",
-    "manufacturer": "テクモ",
-    "name": "gemini",
-    "note": "日本版",
-    "titleReading": "じぇみにういんぐ",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "銀河任侠伝",
-    "year": "1987",
-    "manufacturer": "ジャレコ",
-    "name": "ginganin",
-    "note": "set 1",
-    "titleReading": "ぎんがにんきょうでん",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "カルノフ",
-    "year": "1987",
-    "manufacturer": "データイースト",
-    "name": "karnovj",
-    "note": "日本版",
-    "titleReading": "かるのふ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "フラックアタック",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "mx5000",
-    "note": "MX5000",
-    "titleReading": "ふらっくあたっく",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "忍者くん 阿修羅の章",
-    "year": "1987",
-    "manufacturer": "UPL",
-    "name": "ninjakd2",
-    "note": "Ninja Kid II (set 1)",
-    "titleReading": "にんじゃくんあしゅらのしょう",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "ニンジャウォーリアーズ",
-    "year": "1987",
-    "manufacturer": "タイトー",
-    "name": "ninjawj",
-    "note": "日本版",
-    "titleReading": "にんじゃうぉうりああず",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "パックマニア",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "pacmaniaj",
-    "note": "",
-    "titleReading": "ぱっくまにあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ラビオレプス",
-    "year": "1987",
-    "manufacturer": "ビデオシステム",
-    "name": "rabiolep",
-    "note": "日本版",
-    "titleReading": "らびおれぷす",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "レインボーアイランド",
-    "year": "1987",
-    "manufacturer": "タイトー",
-    "name": "rbisland",
-    "note": "new ver",
-    "titleReading": "れいんぼうあいらんど",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アール・タイプ",
-    "year": "1987",
-    "manufacturer": "アイレム",
-    "name": "rtypej",
-    "note": "日本版",
-    "titleReading": "ああるたいぷ",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "SDI ＜Strategic Defense Initiative＞",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "sdi",
-    "note": "日本版",
-    "titleReading": "えすでぃーあい",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ストリートファイター",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "sfj",
-    "note": "海外版 analog buttons",
-    "titleReading": "すとりいとふぁいたあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "妖怪道中記",
-    "year": "1987",
-    "manufacturer": "ナムコ",
-    "name": "shadowld",
-    "note": "日本版 new ver",
-    "titleReading": "ようかいどうちゅうき",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパーハングオン",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "shangonro",
-    "note": "シットダウン・アップライト筐体 / プロテクト無し / m↑",
-    "titleReading": "すうぱあはんぐおん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "忍",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "shinobi",
-    "note": "set 5 System16A unprotected",
-    "titleReading": "しのび",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "エクセライザー",
-    "year": "1987",
-    "manufacturer": "ジャレコ （日本物産USAライセンス）",
-    "name": "skyfox",
-    "note": "",
-    "titleReading": "えくせらいざあ",
-    "manufacturerReading": "じゃれこにほんぶっさんゆーえすええらいせんす"
-  },
-  {
-    "title": "熱血高校ドッジボール部",
-    "year": "1987",
-    "manufacturer": "テクノスジャパン",
-    "name": "nkdodge",
-    "note": "日本版",
-    "titleReading": "ねっけつこうこうどっじぼうるぶ",
-    "manufacturerReading": "てくのすじゃぱん"
-  },
-  {
-    "title": "スーパークイックス",
-    "year": "1987",
-    "manufacturer": "カネコ / タイトー",
-    "name": "sqix",
-    "note": "日本版/海外版, V1.2 / m↑",
-    "titleReading": "すうぱあくいっくす",
-    "manufacturerReading": "かねこたいとう"
-  },
-  {
-    "title": "SRD ＜スーパーリアルダーウィン＞",
-    "year": "1987",
-    "manufacturer": "データイースト",
-    "name": "srdarwinj",
-    "note": "海外版",
-    "titleReading": "えすあーるでぃーすーぱーりあるだーうぃん",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "タッチダウンフィーバー",
-    "year": "1987",
-    "manufacturer": "SNK",
-    "name": "tdfeverj",
-    "note": "日本",
-    "titleReading": "たっちだうんふぃいばあ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "バトルフィールド",
-    "year": "1987",
-    "manufacturer": "アルファ電子 （SNKライセンス）",
-    "name": "btlfield",
-    "note": "日本版",
-    "titleReading": "ばとるふぃいるど",
-    "manufacturerReading": "あるふぁでんしえすえぬけーらいせんす"
-  },
-  {
-    "title": "フルスロットル",
-    "year": "1987",
-    "manufacturer": "タイトー",
-    "name": "fullthrl",
-    "note": "日本版",
-    "titleReading": "ふるすろっとる",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "究極タイガー",
-    "year": "1989",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "ktiger",
-    "note": "日本版",
-    "titleReading": "きゅうきょくたいがあ",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "ワードナの森",
-    "year": "1987",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "wardnerj",
-    "note": "Wardner (海外版)",
-    "titleReading": "わあどなのもり",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "ザイボット",
-    "year": "1987",
-    "manufacturer": "アタリゲームズ",
-    "name": "xybots",
-    "note": "",
-    "titleReading": "ざいぼっと",
-    "manufacturerReading": "あたりげえむず"
-  },
-  {
-    "title": "ハイパースポーツスペシャル",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "hypsptsp",
-    "note": "日本版",
-    "titleReading": "はいぱあすぽうつすぺしゃる",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "エンゼルキッズ",
-    "year": "1988",
-    "manufacturer": "セガ / ナスコ?",
-    "name": "angelkds",
-    "note": "日本版",
-    "titleReading": "えんぜるきっず",
-    "manufacturerReading": "せがなすこ"
-  },
-  {
-    "title": "アークエリア",
-    "year": "1988",
-    "manufacturer": "UPL",
-    "name": "arkarea",
-    "note": "",
-    "titleReading": "ああくえりあ",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "アサルトプラス",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "assaultp",
-    "note": "日本版",
-    "titleReading": "あさるとぷらす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "飛鳥＆飛鳥",
-    "year": "1988",
-    "manufacturer": "タイトー",
-    "name": "asukaj",
-    "note": "日本版",
-    "titleReading": "あすか&ひちょう",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "爆突機銃艇 -バラデュークII",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "bakutotu",
-    "note": "",
-    "titleReading": "ばくとつきじゅうてい",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "超絶倫人ベラボーマン",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "berabohm",
-    "note": "日本版, Rev C",
-    "titleReading": "ちょうぜつりんじんべらぼうまん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "カプコンボーリング",
-    "year": "1988",
-    "manufacturer": "インクレディブルテクノロジーズ / カプコン",
-    "name": "capbowl",
-    "note": "set 1",
-    "titleReading": "かぷこんぼうりんぐ",
-    "manufacturerReading": "いんくれでぃぶるてくのろじいずかぷこん"
-  },
-  {
-    "title": "クレイジークライマー2",
-    "year": "1988",
-    "manufacturer": "日本物産",
-    "name": "cclimbr2",
-    "note": "日本版",
-    "titleReading": "くれいじいくらいまあ2",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "チェルノブ -戦う人間発電所",
-    "year": "1988",
-    "manufacturer": "データイースト",
-    "name": "chelnovj",
-    "note": "日本版",
-    "titleReading": "ちぇるのぶたたかうにんげんはつでんしょ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ファンタジーゾーンII -オパオパの涙-",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "fantzn2",
-    "note": "MG-8123 317-0057",
-    "titleReading": "ふぁんたじいぞうんiiおぱおぱのなみだ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ファイティングホーク",
-    "year": "1988",
-    "manufacturer": "タイトー",
-    "name": "fhawkj",
-    "note": "日本版",
-    "titleReading": "ふぁいてぃんぐほうく",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ハードパンチャー -血まみれの栄光-",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "fround",
-    "note": "The Final Round (ver M)",
-    "titleReading": "はあどぱんちゃあちまみれのえいこう",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "クレイジーコップ",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "crazycop",
-    "note": "日本版",
-    "titleReading": "くれいじいこっぷ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ギャラクシーフォースII",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "gforce2j",
-    "note": "m↑",
-    "titleReading": "ぎゃらくしいふぉうすii",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "悪魔城ドラキュラ",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "hcastle",
-    "note": "日本版 ver P",
-    "titleReading": "あくまじょうどらきゅら",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "火激",
-    "year": "1988",
-    "manufacturer": "カネコ / タイトー",
-    "name": "kagekij",
-    "note": "日本版",
-    "titleReading": "かげき",
-    "manufacturerReading": "かねこたいとう"
-  },
-  {
-    "title": "未来忍者",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "mirninja",
-    "note": "日本版",
-    "titleReading": "みらいにんじゃ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "最後の忍道",
-    "year": "1988",
-    "manufacturer": "アイレム",
-    "name": "nspirit",
-    "note": "Ninja Spirit",
-    "titleReading": "さいごのにんどう",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "オーダイン",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "ordynej",
-    "note": "日本版",
-    "titleReading": "おうだいん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "パワードリフト",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "pdriftj",
-    "note": "",
-    "titleReading": "ぱわあどりふと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "フェリオス",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "phelios",
-    "note": "日本版",
-    "titleReading": "ふぇりおす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパー魂斗羅 -エイリアンの逆襲",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "scontraj",
-    "note": "日本版",
-    "titleReading": "すうぱあたましいとらえいりあんのぎゃくしゅう",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "上海",
-    "year": "1988",
-    "manufacturer": "サンソフト",
-    "name": "shanghai",
-    "note": "日本版",
-    "titleReading": "しゃんはい",
-    "manufacturerReading": "さんそふと"
-  },
-  {
-    "title": "サイバリオン",
-    "year": "1988",
-    "manufacturer": "タイトー",
-    "name": "syvalion",
-    "note": "日本版",
-    "titleReading": "さいばりおん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "テトリス",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "tetris",
-    "note": "日本版 set 4 System16A FD1094 317-0093",
-    "titleReading": "てとりす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ザ・ニュージーランドストーリー",
-    "year": "1988",
-    "manufacturer": "タイトー",
-    "name": "tnzs",
-    "note": "日本版",
-    "titleReading": "ざにゅうじいらんどすとうりい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "達人",
-    "year": "1988",
-    "manufacturer": "東亜プラン / タイトー",
-    "name": "truxton",
-    "note": "Truxton",
-    "titleReading": "たつじん",
-    "manufacturerReading": "とうあぷらんたいとう"
-  },
-  {
-    "title": "ツインイーグル -Revenge Joe's Brother",
-    "year": "1988",
-    "manufacturer": "セタ （タイトーライセンス）",
-    "name": "twineagl",
-    "note": "",
-    "titleReading": "ついんいいぐるrevengejoesbrother",
-    "manufacturerReading": "せたたいとうらいせんす"
-  },
-  {
-    "title": "グラディウスII -ゴーファーの野望",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "gradius2",
-    "note": "日本版 new ver.",
-    "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ワンダーボーイIII モンスターレア",
-    "year": "1988",
-    "manufacturer": "セガ / ウエストン",
-    "name": "wb3",
-    "note": "set 1",
-    "titleReading": "わんだあぼういiiiもんすたあれあ",
-    "manufacturerReading": "せがうえすとん"
-  },
-  {
-    "title": "プロテニス ワールドコート",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "wldcourt",
-    "note": "日本版",
-    "titleReading": "ぷろてにすわあるどこうと",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "プロ野球ワールドスタジアム",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "ws",
-    "note": "日本版",
-    "titleReading": "ぷろやきゅうわあるどすたじあむ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ワールドスタジアム '89 -開幕版!!-",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "ws89",
-    "note": "日本版",
-    "titleReading": "わあるどすたじあむ89かいまくばん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "プロ野球ワールドスタジアム'90 -激闘版",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "ws90",
-    "note": "日本版",
-    "titleReading": "ぷろやきゅうわあるどすたじあむ90げきとうばん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アクトフェンサー",
-    "year": "1989",
-    "manufacturer": "データイースト",
-    "name": "actfancrj",
-    "note": "日本版 revision 1",
-    "titleReading": "あくとふぇんさあ",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ブラスト・オフ",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "blastoff",
-    "note": "日本版",
-    "titleReading": "ぶらすとおふ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ブロックアウト",
-    "year": "1989",
-    "manufacturer": "テクノスジャパン / カリフォルニア・ドリームス",
-    "name": "blockout",
-    "note": "set 1",
-    "titleReading": "ぶろっくあうと",
-    "manufacturerReading": "てくのすじゃぱんかりふぉるにあどりいむす"
-  },
-  {
-    "title": "バーニングフォース",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "burnforc",
-    "note": "日本版 new ver",
-    "titleReading": "ばあにんぐふぉうす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "キャメルトライ",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "cameltry",
-    "note": "USA版",
-    "titleReading": "きゃめるとらい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "クライムシティ",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "crimecj",
-    "note": "",
-    "titleReading": "くらいむしてぃ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アドベンチャークイズ カプコンワールド",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "cworld",
-    "note": "日本版",
-    "titleReading": "あどべんちゃあくいずかぷこんわあるど",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "デンジャラスシード",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "dangseed",
-    "note": "日本版",
-    "titleReading": "でんじゃらすしいど",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ダライアスII",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "darius2",
-    "note": "日本版 triple screen",
-    "titleReading": "だらいあすii",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ダライアスII",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "darius2d",
-    "note": "日本版 rev 2 dual screen",
-    "titleReading": "だらいあすii",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ドカベン",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "dokaben",
-    "note": "日本版",
-    "titleReading": "どかべん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ファイナルファイト",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "ffightj",
-    "note": "海外版 set 1",
-    "titleReading": "ふぁいなるふぁいと",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ファイネストアワー",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "finehour",
-    "note": "日本版",
-    "titleReading": "ふぁいねすとあわあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ゴールデンアックス",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "goldnaxej",
-    "note": "set 4, 日本版 / FD1094 317-0121 / m↑",
-    "titleReading": "ごうるでんあっくす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "グラディウスIII -伝説から神話へ",
-    "year": "1989",
-    "manufacturer": "コナミ",
-    "name": "gradius3",
-    "note": "日本版",
-    "titleReading": "ぐらでぃうすiiiでんせつからしんわへ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ファイティングファンタジー",
-    "year": "1989",
-    "manufacturer": "データイースト",
-    "name": "ffantasy",
-    "note": "日本版 rev 2",
-    "titleReading": "ふぁいてぃんぐふぁんたじい",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "実力！！プロ野球",
-    "year": "1989",
-    "manufacturer": "ジャレコ",
-    "name": "jitsupro",
-    "note": "AAR",
-    "titleReading": "じつりょくぷろやきゅう",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "マーベルランド",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "marvland",
-    "note": "USA版",
-    "titleReading": "まあべるらんど",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "マスターオブウエポン",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "masterw",
-    "note": "",
-    "titleReading": "ますたあおぶうえぽん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ロンパーズ",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "rompers",
-    "note": "日本版",
-    "titleReading": "ろんぱあず",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アール・タイプII",
-    "year": "1989",
-    "manufacturer": "アイレム",
-    "name": "rtype2j",
-    "note": "日 本 阪",
-    "titleReading": "ああるたいぷii",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "上海II",
-    "year": "1989",
-    "manufacturer": "サンソフト",
-    "name": "shangha2",
-    "note": "",
-    "titleReading": "しゃんはいii",
-    "manufacturerReading": "さんそふと"
-  },
-  {
-    "title": "シャドーダンサー",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "shdancer",
-    "note": "海外 孤",
-    "titleReading": "しゃどうだんさあ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ストライダー飛竜",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "striderj",
-    "note": "日本版",
-    "titleReading": "すとらいだあひりゅう",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スーパーバレーボール",
-    "year": "1989",
-    "manufacturer": "ビデオシステム",
-    "name": "svolley",
-    "note": "",
-    "titleReading": "すうぱあばれえぼうる",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "スーパーフォーミュラ -地上最速のバトル",
-    "year": "1989",
-    "manufacturer": "ビデオシステム",
-    "name": "sformula",
-    "note": "日本版",
-    "titleReading": "すうぱあふぉうみゅらちじょうさいそくのばとる",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "ターボアウトラン",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "toutrun",
-    "note": "Out Run upgrade FD1094 317-0118",
-    "titleReading": "たあぼあうとらん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "大旋風",
-    "year": "1989",
-    "manufacturer": "タイトー",
-    "name": "daisenpu",
-    "note": "日本版",
-    "titleReading": "だいせんぷう",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ワルキューレの伝説",
-    "year": "1989",
-    "manufacturer": "ナムコ",
-    "name": "valkyrie",
-    "note": "日本版",
-    "titleReading": "わるきゅうれのでんせつ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "テクモワールドカップ'90",
-    "year": "1989",
-    "manufacturer": "テクモ",
-    "name": "twcup90",
-    "note": "set 1",
-    "titleReading": "てくもわあるどかっぷ90",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "エア・バスター -Trouble Specialty Raid Unit",
-    "year": "1990",
-    "manufacturer": "カネコ （ナムコライセンス）",
-    "name": "airbustrj",
-    "note": "日本版",
-    "titleReading": "えあばすたあtroublespecialtyraidunit",
-    "manufacturerReading": "かねこなむこらいせんす"
-  },
-  {
-    "title": "エア・デュエル",
-    "year": "1990",
-    "manufacturer": "アイレム",
-    "name": "airduel",
-    "note": "日本版",
-    "titleReading": "えあでゅえる",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "エイリアンズ",
-    "year": "1990",
-    "manufacturer": "コナミ",
-    "name": "aliensj",
-    "note": "日本語版 set 1",
-    "titleReading": "えいりあんず",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "オーライル",
-    "year": "1990",
-    "manufacturer": "セガ / ウエストン",
-    "name": "aurail",
-    "note": "USA版 set 3 unprotected",
-    "titleReading": "おうらいる",
-    "manufacturerReading": "せがうえすとん"
-  },
-  {
-    "title": "ボナンザブラザーズ",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "bnzabrosj",
-    "note": "BAIR floppy DS3-5000-07b based",
-    "titleReading": "ぼなんざぶらざあず",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ボレンチ",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "borench",
-    "note": "",
-    "titleReading": "ぼれんち",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "バルダーダッシュ",
-    "year": "1990",
-    "manufacturer": "データイースト （ファーストスターライセンス）",
-    "name": "bouldash",
-    "note": "1990年版",
-    "titleReading": "ばるだあだっしゅ",
-    "manufacturerReading": "でえたいいすとふぁあすとすたあらいせんす"
-  },
-  {
-    "title": "倉庫番デラックス",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "soukobdx",
-    "note": "日本版, SB1",
-    "titleReading": "そうこばんでらっくす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "シスコヒート",
-    "year": "1990",
-    "manufacturer": "ジャレコ",
-    "name": "cischeat",
-    "note": "",
-    "titleReading": "しすこひいと",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "コラムス",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "columnsj",
-    "note": "日本版",
-    "titleReading": "こらむす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "コラムスII -The Voyage Through Time",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "column2j",
-    "note": "日本版",
-    "titleReading": "こらむすiithevoyagethroughtime",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ドラゴンセイバー -アフターストーリー オブ ドラゴンスピリット",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "dsaberj",
-    "note": "日本版",
-    "titleReading": "どらごんせいばああふたあすとうりいおぶどらごんすぴりっと",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ハットトリックヒーロー",
-    "year": "1990",
-    "manufacturer": "タイトー",
-    "name": "hthero",
-    "note": "日本版",
-    "titleReading": "はっととりっくひいろう",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "アドベンチャークイズ2 ハテナ？の大冒険",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "hatena",
-    "note": "日本版 900228",
-    "titleReading": "あどべんちゃあくいず2はてなのだいぼうけん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "大工の源さん -べらんめ町騒動記",
-    "year": "1990",
-    "manufacturer": "アイレム",
-    "name": "hharry",
-    "note": "Hammerin' Harry (海外版)",
-    "titleReading": "だいくのげんさん",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "球界道中記",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "kyukaidk",
-    "note": "日本版 new ver",
-    "titleReading": "きゅうかいどうちゅうき",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "パロディウスだ！ -神話からお笑いへ",
-    "year": "1990",
-    "manufacturer": "コナミ",
-    "name": "parodiusj",
-    "note": "日本版 / m↑",
-    "titleReading": "ぱろでぃうすだしんわからおわらいへ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "パンクショット",
-    "year": "1990",
-    "manufacturer": "コナミ",
-    "name": "punkshot",
-    "note": "USAl 4 players",
-    "titleReading": "ぱんくしょっと",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "パズルクラブ",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "puzlclub",
-    "note": "日本版 プロトタイプ",
-    "titleReading": "ぱずるくらぶ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "雷電",
-    "year": "1990",
-    "manufacturer": "セイブ開発",
-    "name": "raiden",
-    "note": "",
-    "titleReading": "らいでん",
-    "manufacturerReading": "せいぶかいはつ"
-  },
-  {
-    "title": "ランパート",
-    "year": "1990",
-    "manufacturer": "アタリゲームズ",
-    "name": "rampartj",
-    "note": "trackball",
-    "titleReading": "らんぱあと",
-    "manufacturerReading": "あたりげえむず"
-  },
-  {
-    "title": "ローリングサンダー2",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "rthun2j",
-    "note": "日本版",
-    "titleReading": "ろうりんぐさんだあ2",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "マジェスティック トゥエルブ -スペースインベーダー・パートIV",
-    "year": "1990",
-    "manufacturer": "タイトー",
-    "name": "majest12j",
-    "note": "日本版",
-    "titleReading": "まじぇすてぃっくとぅえるぶすぺえすいんべえだあぱあとiv",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "サンダーフォースAC",
-    "year": "1990",
-    "manufacturer": "テクノソフト / セガ",
-    "name": "tfrceacj",
-    "note": "日本版",
-    "titleReading": "さんだあふぉうすac",
-    "manufacturerReading": "てくのそふとせが"
-  },
-  {
-    "title": "バンダイク",
-    "year": "1990",
-    "manufacturer": "UPL",
-    "name": "vandyke",
-    "note": "日本版",
-    "titleReading": "ばんだいく",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "2020年スーパーベースボール",
-    "year": "1991",
-    "manufacturer": "SNK / パラス",
-    "name": "2020bb",
-    "note": "set 1",
-    "titleReading": "にせんにじゅうねんすーぱーべーすぼーる",
-    "manufacturerReading": "えすえぬけーぱらす"
-  },
-  {
-    "title": "64番街",
-    "year": "1991",
-    "manufacturer": "ジャレコ",
-    "name": "64street",
-    "note": "64th. Street -A Detective Story- (海外版)",
-    "titleReading": "ろくじゅうよんばんがい",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "アクロバットミッション",
-    "year": "1991",
-    "manufacturer": "UPL （タイトーライセンス）",
-    "name": "acrobatm",
-    "note": "",
-    "titleReading": "あくろばっとみっしょん",
-    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
-  },
-  {
-    "title": "ASO II -ラストガーディアン-",
-    "year": "1991",
-    "manufacturer": "SNK",
-    "name": "alpham2",
-    "note": "Alpha Mission II",
-    "titleReading": "えーえすおーつーらすとがーでぃあん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ファンタズム",
-    "year": "1990",
-    "manufacturer": "ジャレコ",
-    "name": "phantasm",
-    "note": "日本版",
-    "titleReading": "ふぁんたずむ",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "出たな！！ ツインビー",
-    "year": "1991",
-    "manufacturer": "コナミ",
-    "name": "detatwin",
-    "note": "日本版 ver J",
-    "titleReading": "でたなついんびい",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "戦え原始人 ジョー＆マック",
-    "year": "1991",
-    "manufacturer": "データイースト",
-    "name": "joemac",
-    "note": "日本版 ver 1",
-    "titleReading": "たたかえげんしじんじょーあんどまっく",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "コズモギャング・ザ・ビデオ",
-    "year": "1991",
-    "manufacturer": "ナムコ",
-    "name": "cosmogngj",
-    "note": "日本版",
-    "titleReading": "こずもぎゃんぐざびでお",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "パワーホイールズ",
-    "year": "1991",
-    "manufacturer": "タイトー",
-    "name": "pwheelsj",
-    "note": "日本版",
-    "titleReading": "ぱわあほいいるず",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ボンバーマン",
-    "year": "1991",
-    "manufacturer": "アイレム （ハドソンライセンス）",
-    "name": "bombrman",
-    "note": "日本版",
-    "titleReading": "ぼんばあまん",
-    "manufacturerReading": "あいれむはどそんらいせんす"
-  },
-  {
-    "title": "グランプリスター",
-    "year": "1992",
-    "manufacturer": "ジャレコ",
-    "name": "f1gpstar",
-    "note": "",
-    "titleReading": "ぐらんぷりすたあ",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "餓狼伝説 -宿命の闘い",
-    "year": "1991",
-    "manufacturer": "SNK",
-    "name": "fatfury1",
-    "note": "NGM-033 / NGH-033",
-    "titleReading": "がろうでんせつしゅくめいのたたかい",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "メタルブラック",
-    "year": "1991",
-    "manufacturer": "タイトー",
-    "name": "metalbj",
-    "note": "日本版",
-    "titleReading": "めたるぶらっく",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "プリルラ",
-    "year": "1991",
-    "manufacturer": "タイトー",
-    "name": "pulirula",
-    "note": "海外版",
-    "titleReading": "ぷりるら",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ライオットシティ",
-    "year": "1991",
-    "manufacturer": "セガ / ウエストン",
-    "name": "riotcity",
-    "note": "日本版",
-    "titleReading": "らいおっとしてぃ",
-    "manufacturerReading": "せがうえすとん"
-  },
-  {
-    "title": "ストリートファイターII -ザ・ワールドウォーリアー-",
-    "year": "1991",
-    "manufacturer": "カプコン",
-    "name": "sf2j",
-    "note": "BARR 911210",
-    "titleReading": "すとりいとふぁいたあiiざわあるどうぉうりああ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スーパーハイインパクト",
-    "year": "1991",
-    "manufacturer": "ミッドウェイ",
-    "name": "shimpact",
-    "note": "rev LAT 09/80/91",
-    "titleReading": "すうぱあはいいんぱくと",
-    "manufacturerReading": "みっどうぇい"
-  },
-  {
-    "title": "タンクフォース",
-    "year": "1991",
-    "manufacturer": "ナムコ",
-    "name": "tankfrcej",
-    "note": "日本版",
-    "titleReading": "たんくふぉうす",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ターボフォース",
-    "year": "1991",
-    "manufacturer": "ビデオシステム",
-    "name": "turbofrc",
-    "note": "old ver",
-    "titleReading": "たあぼふぉうす",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "ウルトラマン -空想特撮シリーズ",
-    "year": "1991",
-    "manufacturer": "バンプレスト / バンダイ",
-    "name": "ultraman",
-    "note": "日本版",
-    "titleReading": "うるとらまんくうそうとくさつしりいず",
-    "manufacturerReading": "ばんぷれすとばんだい"
-  },
-  {
-    "title": "ソニックウィングス",
-    "year": "1992",
-    "manufacturer": "ビデオシステム",
-    "name": "sonicwi",
-    "note": "日本版",
-    "titleReading": "そにっくうぃんぐす",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "アーケードクラシックス",
-    "year": "1992",
-    "manufacturer": "アタリゲームズ",
-    "name": "arcadecl",
-    "note": "prototype",
-    "titleReading": "ああけえどくらしっくす",
-    "manufacturerReading": "あたりげえむず"
-  },
-  {
-    "title": "エアレスキュー",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "arescue",
-    "note": "",
-    "titleReading": "えあれすきゅう",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "バルーンブラザーズ",
-    "year": "1992",
-    "manufacturer": "イーストテクノロジー",
-    "name": "ballbros",
-    "note": "",
-    "titleReading": "ばるうんぶらざあず",
-    "manufacturerReading": "いいすとてくのろじい"
-  },
-  {
-    "title": "ボンバーマンワールド",
-    "year": "1992",
-    "manufacturer": "アイレム",
-    "name": "bbmanwj",
-    "note": "New Dyna Blaster -Global Quest",
-    "titleReading": "ぼんばあまんわあるど",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "コズモギャング・ザ・パズル",
-    "year": "1992",
-    "manufacturer": "ナムコ",
-    "name": "cgangpzlj",
-    "note": "",
-    "titleReading": "こずもぎゃんぐざぱずる",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ダークエッジ",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "darkedgej",
-    "note": "日本版 / m↑",
-    "titleReading": "だあくえっじ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "F-1グランプリ Part II",
-    "year": "1992",
-    "manufacturer": "ビデオシステム",
-    "name": "f1gp2",
-    "note": "",
-    "titleReading": "えふわんぐらんぷりぱーとつー",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "餓狼伝説2 -新たなる闘い-",
-    "year": "1992",
-    "manufacturer": "SNK",
-    "name": "fatfury2",
-    "note": "NGM-047 / NGH-047",
-    "titleReading": "がろうでんせつつーあらたなるたたかい",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ファイナル・スターフォース",
-    "year": "1992",
-    "manufacturer": "テクモ",
-    "name": "fstarfrcj",
-    "note": "USA版",
-    "titleReading": "ふぁいなるすたあふぉうす",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "ゴールデンアックス -デスアダーの復讐-",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "ga2j",
-    "note": "日本版",
-    "titleReading": "ごうるでんあっくすですあだあのふくしゅう",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "グリッドシーカー",
-    "year": "1992",
-    "manufacturer": "タイトー",
-    "name": "gseekerj",
-    "note": "ver 13J",
-    "titleReading": "ぐりっどしいかあ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "超時空要塞マクロス",
-    "year": "1992",
-    "manufacturer": "バンプレスト",
-    "name": "macross",
-    "note": "",
-    "titleReading": "ちょうじくうようさいまくろす",
-    "manufacturerReading": "ばんぷれすと"
-  },
-  {
-    "title": "ぷよぷよ",
-    "year": "1992",
-    "manufacturer": "コンパイル / セガ",
-    "name": "puyoja",
-    "note": "日本版 rev A",
-    "titleReading": "ぷよぷよ",
-    "manufacturerReading": "こんぱいるせが"
-  },
-  {
-    "title": "クイズ＆心理ゲーム クイズココロジー",
-    "year": "1992",
-    "manufacturer": "テクモ",
-    "name": "qzkklogy",
-    "note": "",
-    "titleReading": "くいず&しんりげえむくいずこころじい",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "アールタイプ・レオ",
-    "year": "1992",
-    "manufacturer": "アイレム",
-    "name": "rtypeleo",
-    "note": "日本版",
-    "titleReading": "ああるたいぷれお",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "ストリートファイターII' -チャンピオンエディション",
-    "year": "1992",
-    "manufacturer": "カプコン",
-    "name": "sf2ceja",
-    "note": "日本版 920322",
-    "titleReading": "すとりいとふぁいたあiiちゃんぴおんえでぃしょん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターII' ターボ -ハイパーファイティング-",
-    "year": "1992",
-    "manufacturer": "カプコン",
-    "name": "sf2hfj",
-    "note": "BABAR 921209",
-    "titleReading": "すとりいとふぁいたあiiたあぼはいぱあふぁいてぃんぐ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "セガソニック・ザ・ヘッジホッグ",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "sonic",
-    "note": "BARR rev C",
-    "titleReading": "せがそにっくざへっじほっぐ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "鋼鉄要塞シュトラール",
-    "year": "1992",
-    "manufacturer": "UPL",
-    "name": "strahl",
-    "note": "日本版 set 1",
-    "titleReading": "こうてつようさいしゅとらある",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "スーパーワールドスタジアム'92",
-    "year": "1992",
-    "manufacturer": "ナムコ",
-    "name": "sws92",
-    "note": "",
-    "titleReading": "すうぱあわあるどすたじあむ92",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパーワールドスタジアム'92 一般版",
-    "year": "1992",
-    "manufacturer": "ナムコ",
-    "name": "sws92g",
-    "note": "日本版",
-    "titleReading": "すうぱあわあるどすたじあむ92いっぱんばん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "パズル＆アクション タントア～ル",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "tantr",
-    "note": "日本版",
-    "titleReading": "ぱずる&あくしょんたんとある",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "達人王",
-    "year": "1992",
-    "manufacturer": "東亜プラン",
-    "name": "truxton2",
-    "note": "Truxton 0",
-    "titleReading": "たつじんおう",
-    "manufacturerReading": "とうあぷらん"
-  },
-  {
-    "title": "アンダーカバー コップス",
-    "year": "1992",
-    "manufacturer": "アイレム",
-    "name": "uccopsj",
-    "note": "日本版",
-    "titleReading": "あんだあかばあこっぷす",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "ワールドヒーローズ",
-    "year": "1992",
-    "manufacturer": "アルファ電子",
-    "name": "wh1",
-    "note": "ALNM-005",
-    "titleReading": "わあるどひいろうず",
-    "manufacturerReading": "あるふぁでんし"
-  },
-  {
-    "title": "アテナのハテナ？",
-    "year": "1993",
-    "manufacturer": "アテナ",
-    "name": "atehate",
-    "note": "",
-    "titleReading": "あてなのはてな",
-    "manufacturerReading": "あてな"
-  },
-  {
-    "title": "バツグン",
-    "year": "1993",
-    "manufacturer": "東亜プラン",
-    "name": "batsugun",
-    "note": "",
-    "titleReading": "ばつぐん",
-    "manufacturerReading": "とうあぷらん"
-  },
-  {
-    "title": "バツグン",
-    "year": "1993",
-    "manufacturer": "東亜プラン",
-    "name": "batsugunsp",
-    "note": "special ver",
-    "titleReading": "ばつぐん",
-    "manufacturerReading": "とうあぷらん"
-  },
-  {
-    "title": "餓狼伝説スペシャル",
-    "year": "1993",
-    "manufacturer": "SNK",
-    "name": "fatfursp",
-    "note": "set 1",
-    "titleReading": "がろうでんせつすぺしゃる",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "海底大戦争 -In The Hunt",
-    "year": "1993",
-    "manufacturer": "アイレム",
-    "name": "kaiteids",
-    "note": "日本版",
-    "titleReading": "かいていだいせんそうinthehunt",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "J.J.スコーカーズ",
-    "year": "1993",
-    "manufacturer": "アテナ / エイブル",
-    "name": "jjsquawk",
-    "note": "",
-    "titleReading": "じぇいじぇいすこーかーず",
-    "manufacturerReading": "あてなえいぶる"
-  },
-  {
-    "title": "超時空要塞マクロスII",
-    "year": "1993",
-    "manufacturer": "バンプレスト",
-    "name": "macross2",
-    "note": "",
-    "titleReading": "ちょうじくうようさいまくろすii",
-    "manufacturerReading": "ばんぷれすと"
-  },
-  {
-    "title": "クイズクレヨンしんちゃん",
-    "year": "1993",
-    "manufacturer": "タイトー",
-    "name": "qcrayon",
-    "note": "AAR",
-    "titleReading": "くいずくれよんしんちゃん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "クレヨンしんちゃん おらと遊ぼ",
-    "year": "1993",
-    "manufacturer": "タイトー",
-    "name": "qcrayon2",
-    "note": "AAR",
-    "titleReading": "くれよんしんちゃんおらとあそぼ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "サムライスピリッツ",
-    "year": "1993",
-    "manufacturer": "SNK",
-    "name": "samsho",
-    "note": "NGM-045",
-    "titleReading": "さむらいすぴりっつ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "戦国エース",
-    "year": "1993",
-    "manufacturer": "彩京 （バンプレストライセンス）",
-    "name": "sngkace",
-    "note": "日本版",
-    "titleReading": "せんごくええす",
-    "manufacturerReading": "さいきょうばんぷれすとらいせんす"
-  },
-  {
-    "title": "ハットトリックヒーロー'93",
-    "year": "1993",
-    "manufacturer": "タイトー",
-    "name": "scfinals",
-    "note": "Super Cup Finals (ver 2.10 1998/11/19)",
-    "titleReading": "はっととりっくひいろう93",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "上海III",
-    "year": "1993",
-    "manufacturer": "サンソフト",
-    "name": "shangha3",
-    "note": "日本版",
-    "titleReading": "しゃんはいiii",
-    "manufacturerReading": "さんそふと"
-  },
-  {
-    "title": "スーパーストリートファイターII -ザ・ニューチャレンジャーズ",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "ssf2j",
-    "note": "日本版 931005",
-    "titleReading": "すうぱあすとりいとふぁいたあiiざにゅうちゃれんじゃあず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スーパーワールドスタジアム'93 -激闘版-",
-    "year": "1993",
-    "manufacturer": "ナムコ",
-    "name": "sws93",
-    "note": "B AHR",
-    "titleReading": "すうぱあわあるどすたじあむ93げきとうばん",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "ワールドヒーローズ2",
-    "year": "1993",
-    "manufacturer": "ADK",
-    "name": "wh2",
-    "note": "ALNM-006 / ALH-006",
-    "titleReading": "わあるどひいろうず2",
-    "manufacturerReading": "ええでぃーけー"
-  },
-  {
-    "title": "痛快GANGAN行進曲",
-    "year": "1994",
-    "manufacturer": "ADK / SNK",
-    "name": "aodk",
-    "note": "ADM-008 / ADH-008",
-    "titleReading": "つうかいganganこうしんきょく",
-    "manufacturerReading": "ええでぃーけーえすえぬけー"
-  },
-  {
-    "title": "龍虎の拳2",
-    "year": "1994",
-    "manufacturer": "SNK",
-    "name": "aof2",
-    "note": "Art of Fighting 2",
-    "titleReading": "りゅうこのけんつー",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "エイリアンVSプレデター",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "avspj",
-    "note": "日本版 940520",
-    "titleReading": "えいりあんvsぷれでたあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ベストバウトボクシング",
-    "year": "1994",
-    "manufacturer": "ジャレコ",
-    "name": "bbbxing",
-    "note": "",
-    "titleReading": "べすとばうとぼくしんぐ",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "バトルクロード",
-    "year": "1994",
-    "manufacturer": "彩京",
-    "name": "btlkroad",
-    "note": "",
-    "titleReading": "ばとるくろうど",
-    "manufacturerReading": "さいきょう"
-  },
-  {
-    "title": "バブルシンフォニー",
-    "year": "1994",
-    "manufacturer": "タイトー",
-    "name": "bublbob2",
-    "note": "Bubble Bobble II",
-    "titleReading": "ばぶるしんふぉにい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ダライアス外伝 -シルバーホーク",
-    "year": "1994",
-    "manufacturer": "タイトー",
-    "name": "dariusg",
-    "note": "ver 2.5O 1994/09/19",
-    "titleReading": "だらいあすがいでんしるばあほうく",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ドラゴンボールZ 2 -スーパーバトル",
-    "year": "1994",
-    "manufacturer": "バンプレスト",
-    "name": "dbz2",
-    "note": "",
-    "titleReading": "どらごんぼうるz2すうぱあばとる",
-    "manufacturerReading": "ばんぷれすと"
-  },
-  {
-    "title": "ヴァンパイア -ザ・ナイト・ウォリアーズ-",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "vampj",
-    "note": "日本版 940705",
-    "titleReading": "ゔぁんぱいあざないとうぉりああず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "極上パロディウス - 過去の栄光を求めて",
-    "year": "1994",
-    "manufacturer": "コナミ",
-    "name": "gokuparo",
-    "note": "ver JAD",
-    "titleReading": "ごくじょうぱろでぃうすかこのえいこうをもとめて",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ゴールデンアックス・ザ・デュエル",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "gaxeduel",
-    "note": "USA / 欧州 / G38 / ST UAB 950117 ver 1.000)",
-    "titleReading": "ごうるでんあっくすざでゅえる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ファイターズヒストリーダイナマイト",
-    "year": "1994",
-    "manufacturer": "データイースト",
-    "name": "karnovr",
-    "note": "",
-    "titleReading": "ふぁいたあずひすとりいだいなまいと",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '94",
-    "year": "1994",
-    "manufacturer": "SNK",
-    "name": "kof94",
-    "note": "NGM-055 / NGH-055",
-    "titleReading": "ざきんぐおぶふぁいたあず94",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "パズルボブル",
-    "year": "1994",
-    "manufacturer": "タイトー",
-    "name": "pbobble",
-    "note": "",
-    "titleReading": "ぱずるぼぶる",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ポトポト",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "potopoto",
-    "note": "日本版, Rev A",
-    "titleReading": "ぽとぽと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "パワースパイクスII",
-    "year": "1994",
-    "manufacturer": "ビデオシステム",
-    "name": "pspikes2",
-    "note": "NGM-068",
-    "titleReading": "ぱわあすぱいくすii",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "ぷよぷよ通",
-    "year": "1994",
-    "manufacturer": "コンパイル （セガライセンス）",
-    "name": "puyopuy2",
-    "note": "日本版",
-    "titleReading": "ぷよぷよどおり",
-    "manufacturerReading": "こんぱいるせがらいせんす"
-  },
-  {
-    "title": "対戦ぱずるだま",
-    "year": "1994",
-    "manufacturer": "コナミ",
-    "name": "puzldama",
-    "note": "ver JAA",
-    "titleReading": "たいせんぱずるだま",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ハットトリックヒーロー'95",
-    "year": "1994",
-    "manufacturer": "タイトー",
-    "name": "hthero95",
-    "note": "Ver 2.5J 1994/11/03",
-    "titleReading": "はっととりっくひいろう95",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "真サムライスピリッツ -覇王丸地獄変-",
-    "year": "1994",
-    "manufacturer": "SNK",
-    "name": "samsho2",
-    "note": "NGM-063 / NGH-063",
-    "titleReading": "しんさむらいすぴりっつ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "スーパーストリートファイターII X -グランドマスターチャレンジ",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "ssf2xj",
-    "note": "日本版 940223",
-    "titleReading": "すうぱあすとりいとふぁいたあiixぐらんどますたあちゃれんじ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ザ・Jリーグ 1994",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "jleague",
-    "note": "日本版",
-    "titleReading": "ざjりいぐ1994",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "登龍門",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "toryumon",
-    "note": "",
-    "titleReading": "とうりゅうもん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ツインイーグルII -The Rescue Mission",
-    "year": "1994",
-    "manufacturer": "セタ",
-    "name": "twineag2",
-    "note": "",
-    "titleReading": "ついんいいぐるiitherescuemission",
-    "manufacturerReading": "せた"
-  },
-  {
-    "title": "X-MEN -チルドレン オブ ジ アトム",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "xmcotajr",
-    "note": "日本版 941208 rent ver",
-    "titleReading": "えっくすめんちるどれんおぶじあとむ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ずんずん教の野望",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "zunkyou",
-    "note": "日本版",
-    "titleReading": "ずんずんきょうのやぼう",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ばくばくアニマル -世界飼育係選手権-",
-    "year": "1995",
-    "manufacturer": "セガ",
-    "name": "bakubaku",
-    "note": "J 950407 V1.000",
-    "titleReading": "ばくばくあにまるせかいしいくがかりせんしゅけん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII",
-    "year": "1995",
-    "manufacturer": "タイトー",
-    "name": "bubblem",
-    "note": "ver 2.40 1996/02/15",
-    "titleReading": "ばぶるめもりいずざすとうりいおぶばぶるぼぶるiii",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "サイバーボッツ -フルメタルマッドネス-",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "cybotsj",
-    "note": "日本版 950420",
-    "titleReading": "さいばあぼっつふるめたるまっどねす",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "大牌砦",
-    "year": "1995",
-    "manufacturer": "メトロ",
-    "name": "daitorid",
-    "note": "",
-    "titleReading": "だいとりで",
-    "manufacturerReading": "めとろ"
-  },
-  {
-    "title": "首領蜂",
-    "year": "1995",
-    "manufacturer": "ケイブ （アトラスライセンス）",
-    "name": "donpachij",
-    "note": "BAM",
-    "titleReading": "どんぱち",
-    "manufacturerReading": "けいぶあとらすらいせんす"
-  },
-  {
-    "title": "餓狼伝説3 -遥かなる闘い",
-    "year": "1995",
-    "manufacturer": "SNK",
-    "name": "fatfury3",
-    "note": "NGM-069 / NGH-069",
-    "titleReading": "がろうでんせつすりーはるかなるたたかい",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ゲーム天国 -The Game Paradise!",
-    "year": "1995",
-    "manufacturer": "ジャレコ",
-    "name": "gametngk",
-    "note": "",
-    "titleReading": "げえむてんごくthegameparadise",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '95",
-    "year": "1995",
-    "manufacturer": "SNK",
-    "name": "kof95",
-    "note": "set 1",
-    "titleReading": "ざきんぐおぶふぁいたあず95",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ロックマン ザ・パワーバトル",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "rockmanj",
-    "note": "日本版 950922 CPS1",
-    "titleReading": "ろっくまんざぱわあばとる",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マーヴルスーパーヒーローズ",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "mshj",
-    "note": "BARR 951117",
-    "titleReading": "まあゔるすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "脳力向上委員会",
-    "year": "1995",
-    "manufacturer": "テクモ",
-    "name": "nouryoku",
-    "note": "",
-    "titleReading": "のうりょくこうじょういいんかい",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "ヴァンパイアハンター -ダークストーカーズリベンジ",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "vhuntj",
-    "note": "日本版 950316",
-    "titleReading": "ゔぁんぱいあはんたあだあくすとうかあずりべんじ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "パズルボブル2",
-    "year": "1995",
-    "manufacturer": "タイトー",
-    "name": "pbobble2",
-    "note": "ver 280 1995/07/31",
-    "titleReading": "ぱずるぼぶる2",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "パズルボブル2X",
-    "year": "1995",
-    "manufacturer": "タイトー",
-    "name": "pbobble2x",
-    "note": "ver 22J 1995/11/11",
-    "titleReading": "ぱずるぼぶる2x",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "リアルバウト餓狼伝説",
-    "year": "1995",
-    "manufacturer": "SNK",
-    "name": "rbff1a",
-    "note": "bug fix rev",
-    "titleReading": "りあるばうと餓おおかみでんせつ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "サムライスピリッツ -斬紅郎無双剣-",
-    "year": "1995",
-    "manufacturer": "SNK",
-    "name": "samsho3",
-    "note": "NGM-087",
-    "titleReading": "さむらいすぴりっつきべにろうむそうけん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "戦球",
-    "year": "1995",
-    "manufacturer": "セイブ開発",
-    "name": "senkyu",
-    "note": "日本版, newer / m↑",
-    "titleReading": "せんきゅう",
-    "manufacturerReading": "せいぶかいはつ"
-  },
-  {
-    "title": "ストリートファイターZERO",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "sfzj",
-    "note": "日本版 950727",
-    "titleReading": "すとりいとふぁいたあzero",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "そこぬけ対戦ゲーム",
-    "year": "1995",
-    "manufacturer": "サミー",
-    "name": "sokonuke",
-    "note": "",
-    "titleReading": "そこぬけたいせんげえむ",
-    "manufacturerReading": "さみい"
-  },
-  {
-    "title": "得点王3 -栄光への挑戦-",
-    "year": "1995",
-    "manufacturer": "SNK",
-    "name": "ssideki3",
-    "note": "",
-    "titleReading": "とくてんおう3えいこうへのちょうせん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ツインビーヤッホー！ -ふしぎの国で大あばれ！！",
-    "year": "1995",
-    "manufacturer": "コナミ",
-    "name": "tbyahhoo",
-    "note": "ver JAA",
-    "titleReading": "ついんびいやっほうふしぎのくにでだいあばれ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "テトリスプラス",
-    "year": "1995",
-    "manufacturer": "ジャレコ / BPS",
-    "name": "tetrisp",
-    "note": "",
-    "titleReading": "てとりすぷらす",
-    "manufacturerReading": "じゃれこびーぴーえす"
-  },
-  {
-    "title": "闘神伝2",
-    "year": "1995",
-    "manufacturer": "カプコン / タカラ",
-    "name": "ts2j",
-    "note": "日本版 951124",
-    "titleReading": "とうしんでんつー",
-    "manufacturerReading": "かぷこんたから"
-  },
-  {
-    "title": "ワールドヒーローズパーフェクト",
-    "year": "1995",
-    "manufacturer": "ADK / SNK",
-    "name": "whp",
-    "note": "",
-    "titleReading": "わあるどひいろうずぱあふぇくと",
-    "manufacturerReading": "ええでぃーけーえすえぬけー"
-  },
-  {
-    "title": "19XX -The War Against Destiny",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "19xxj",
-    "note": "日本版 951225",
-    "titleReading": "ないんてぃーんだぶるえっくす",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "三刻志",
-    "year": "1996",
-    "manufacturer": "ミッチェル",
-    "name": "3kokushi",
-    "note": "",
-    "titleReading": "さんごくし",
-    "manufacturerReading": "みっちぇる"
-  },
-  {
-    "title": "アートオブファイティング 龍虎の拳外伝",
-    "year": "1996",
-    "manufacturer": "SNK",
-    "name": "aof3",
-    "note": "Art of Fighting 3",
-    "titleReading": "ああとおぶふぁいてぃんぐりゅうとらのこぶしがいでん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "アクアリウム",
-    "year": "1996",
-    "manufacturer": "エクセレントシステム",
-    "name": "aquarium",
-    "note": "日本版",
-    "titleReading": "あくありうむ",
-    "manufacturerReading": "えくせれんとしすてむ"
-  },
-  {
-    "title": "バルキューブ",
-    "year": "1996",
-    "manufacturer": "メトロ",
-    "name": "balcube",
-    "note": "",
-    "titleReading": "ばるきゅうぶ",
-    "manufacturerReading": "めとろ"
-  },
-  {
-    "title": "バンバンボール",
-    "year": "1996",
-    "manufacturer": "バンプレスト / 田代邦博+グッドハウス",
-    "name": "bangball",
-    "note": "ver 105",
-    "titleReading": "ばんばんぼうる",
-    "manufacturerReading": "ばんぷれすとたしろくにひろぐっどはうす"
-  },
-  {
-    "title": "ブレイカーズ",
-    "year": "1996",
-    "manufacturer": "ビスコ",
-    "name": "breakers",
-    "note": "",
-    "titleReading": "ぶれいかあず",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "バックストリートサッカー",
-    "year": "1996",
-    "manufacturer": "SunA （ユニコライセンス）",
-    "name": "bssoccer",
-    "note": "",
-    "titleReading": "ばっくすとりいとさっかあ",
-    "manufacturerReading": "さんええゆにこらいせんす"
-  },
-  {
-    "title": "クレオパトラフォーチュン",
-    "year": "1996",
-    "manufacturer": "タイトー",
-    "name": "cleopatr",
-    "note": "Ver 2.1J 1996/09/05",
-    "titleReading": "くれおぱとらふぉうちゅん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ダンジョンズ＆ドラゴンズ -シャドーオーバーミスタラ",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "ddsomj",
-    "note": "日本版 960619",
-    "titleReading": "だんじょんず&どらごんずしゃどうおうばあみすたら",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "電車でGO！",
-    "year": "1996",
-    "manufacturer": "タイトー",
-    "name": "dendego",
-    "note": "",
-    "titleReading": "でんしゃでgo",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "電車でGO！EX",
-    "year": "1996",
-    "manufacturer": "タイトー",
-    "name": "dendegox",
-    "note": "",
-    "titleReading": "でんしゃでgoex",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ギャロップレーサー",
-    "year": "1996",
-    "manufacturer": "テクモ",
-    "name": "glpracr",
-    "note": "BWR ver 9.01.12",
-    "titleReading": "ぎゃろっぷれえさあ",
-    "manufacturerReading": "てくも"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '96",
-    "year": "1996",
-    "manufacturer": "SNK",
-    "name": "kof96",
-    "note": "set 1",
-    "titleReading": "ざきんぐおぶふぁいたあず96",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ロジックプロ",
-    "year": "1996",
-    "manufacturer": "デニアム",
-    "name": "logicpro",
-    "note": "日本版",
-    "titleReading": "ろじっくぷろ",
-    "manufacturerReading": "でにあむ"
-  },
-  {
-    "title": "マジカルドロップII",
-    "year": "1996",
-    "manufacturer": "データイースト",
-    "name": "magdrop2",
-    "note": "",
-    "titleReading": "まじかるどろっぷii",
-    "manufacturerReading": "でえたいいすと"
-  },
-  {
-    "title": "ロックマン2 ザ・パワーファイターズ",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "rockman2j",
-    "note": "日本版 960708",
-    "titleReading": "ろっくまん2ざぱわあふぁいたあず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "メタルスラッグ -Super Vehicle-001",
-    "year": "1996",
-    "manufacturer": "ナスカ",
-    "name": "mslug",
-    "note": "",
-    "titleReading": "めたるすらっぐsupervehicle001",
-    "manufacturerReading": "なすか"
-  },
-  {
-    "title": "子育てクイズ・マイエンジェル",
-    "year": "1996",
-    "manufacturer": "MOSS / ナムコ",
-    "name": "myangel",
-    "note": "日 本 阪",
-    "titleReading": "こそだてくいずまいえんじぇる",
-    "manufacturerReading": "もすなむこ"
-  },
-  {
-    "title": "逆転！！パズル番長",
-    "year": "1996",
-    "manufacturer": "フウキ",
-    "name": "pbancho",
-    "note": "日 本 孤",
-    "titleReading": "ぎゃくてんぱずるばんちょう",
-    "manufacturerReading": "ふうき"
-  },
-  {
-    "title": "パズルボブル3",
-    "year": "1996",
-    "manufacturer": "タイトー",
-    "name": "pbobble3",
-    "note": "ver 2.10 1996/09/27",
-    "titleReading": "ぱずるぼぶる3",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ぷよぷよSUN",
-    "year": "1996",
-    "manufacturer": "コンパイル",
-    "name": "puyosun",
-    "note": "日本版 961115 ver 0.001",
-    "titleReading": "ぷよぷよsun",
-    "manufacturerReading": "こんぱいる"
-  },
-  {
-    "title": "クイズなないろドリームス 虹色町の奇跡",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "qndream",
-    "note": "日 本 孤 960826",
-    "titleReading": "くいずなないろどりいむすにじいろまちのきせき",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "リアルバウト餓狼伝説スペシャル",
-    "year": "1996",
-    "manufacturer": "SNK",
-    "name": "rbffspec",
-    "note": "",
-    "titleReading": "りあるばうと餓おおかみでんせつすぺしゃる",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "スラムダンク2 -Konami Basketball Championship 1996",
-    "year": "1996",
-    "manufacturer": "コナミ",
-    "name": "slamdnk2",
-    "note": "ver JAA",
-    "titleReading": "すらむだんく2konamibasketballchampionship1996",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "サムライスピリッツ -天草降臨-",
-    "year": "1996",
-    "manufacturer": "SNK",
-    "name": "samsho4",
-    "note": "Samurai Shodown IV - Amakusa's Revenge",
-    "titleReading": "さむらいすぴりっつてんぐさこうりん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ストリートファイターZERO 2",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "sfz2j",
-    "note": "日本版 960430",
-    "titleReading": "すとりいとふぁいたあzero2",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターEX",
-    "year": "1996",
-    "manufacturer": "カプコン / アリカ",
-    "name": "sfexj",
-    "note": "日本版 961130",
-    "titleReading": "すとりいとふぁいたあex",
-    "manufacturerReading": "かぷこんありか"
-  },
-  {
-    "title": "ソウルエッジ",
-    "year": "1995",
-    "manufacturer": "ナムコ",
-    "name": "souledgeja",
-    "note": "日本版, SO1/VER.A / m↑",
-    "titleReading": "そうるえっじ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "スーパーパズルファイターII X",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "spf2xj",
-    "note": "日本版 960531",
-    "titleReading": "すうぱあぱずるふぁいたあiix",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ステークスウィナー2",
-    "year": "1996",
-    "manufacturer": "ザウルス",
-    "name": "stakwin2",
-    "note": "",
-    "titleReading": "すてえくすうぃなあ2",
-    "manufacturerReading": "ざうるす"
-  },
-  {
-    "title": "スターグラディエイター",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "stargladj",
-    "note": "日 本 販 960627",
-    "titleReading": "すたあぐらでぃえいたあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "鉄拳3",
-    "year": "1997",
-    "manufacturer": "ナムコ",
-    "name": "tekken3",
-    "note": "日 本 販 TETI/VEREI",
-    "titleReading": "てっけん3",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "戦国ブレード -Sengoku Ace Episode II",
-    "year": "1996",
-    "manufacturer": "彩京",
-    "name": "tengaij",
-    "note": "Tengai (海外版)",
-    "titleReading": "せんごくぶれーど",
-    "manufacturerReading": "さいきょう"
-  },
-  {
-    "title": "対戦とっかえだま",
-    "year": "1996",
-    "manufacturer": "コナミ",
-    "name": "tokkae",
-    "note": "ver JAA",
-    "titleReading": "たいせんとっかえだま",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "バトルサーキット",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "batcirj",
-    "note": "日本版 970319",
-    "titleReading": "ばとるさあきっと",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ビートマニア",
-    "year": "1997",
-    "manufacturer": "コナミ",
-    "name": "bm1stmix",
-    "note": "ver JA-B",
-    "titleReading": "びいとまにあ",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "怒首領蜂",
-    "year": "1997",
-    "manufacturer": "ケイブ （アトラスライセンス）",
-    "name": "ddonpachj",
-    "note": "海外版",
-    "titleReading": "どどんぱち",
-    "manufacturerReading": "けいぶあとらすらいせんす"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '97",
-    "year": "1997",
-    "manufacturer": "SNK",
-    "name": "kof97",
-    "note": "set 1",
-    "titleReading": "ざきんぐおぶふぁいたあず97",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ロジックプロ2",
-    "year": "1997",
-    "manufacturer": "デニアム",
-    "name": "logicpr2",
-    "note": "",
-    "titleReading": "ろじっくぷろ2",
-    "manufacturerReading": "でにあむ"
-  },
-  {
-    "title": "マーヴル・スーパーヒーローズ VS. ストリートファイター",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "mshvsfj",
-    "note": "日本版 970707",
-    "titleReading": "まあゔるすうぱあひいろうずvsすとりいとふぁいたあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "子育てクイズ・マイエンジェル2",
-    "year": "1997",
-    "manufacturer": "MOSS / ナムコ",
-    "name": "myangel2",
-    "note": "",
-    "titleReading": "こそだてくいずまいえんじぇる2",
-    "manufacturerReading": "もすなむこ"
-  },
-  {
-    "title": "パズルボブル4",
-    "year": "1997",
-    "manufacturer": "タイトー",
-    "name": "pbobble4",
-    "note": "ver 2.04O 1997/12/19",
-    "titleReading": "ぱずるぼぶる4",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ガッポリン",
-    "year": "1997",
-    "manufacturer": "ビデオシステム",
-    "name": "popbounc",
-    "note": "",
-    "titleReading": "がっぽりん",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "ライデンファイターズ2 -オペレーションヘルダイブ-",
-    "year": "1997",
-    "manufacturer": "セイブ開発",
-    "name": "rdft2j",
-    "note": "",
-    "titleReading": "らいでんふぁいたあず2おぺれえしょんへるだいぶ",
-    "manufacturerReading": "せいぶかいはつ"
-  },
-  {
-    "title": "私立ジャスティス学園 -Legion of Heroes",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "jgakuen",
-    "note": "日本版 971117",
-    "titleReading": "しりつじゃすてぃすがくえんlegionofheroes",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターEXプラス",
-    "year": "1997",
-    "manufacturer": "カプコン / アリカ",
-    "name": "sfexpj",
-    "note": "日本版 970311 / m↑",
-    "titleReading": "すとりいとふぁいたあexぷらす",
-    "manufacturerReading": "かぷこんありか"
-  },
-  {
-    "title": "ストリートファイターIII -ニュージェネレーション-",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "sfiiin",
-    "note": "アジ ア 孤 970204 NO CD",
-    "titleReading": "すとりいとふぁいたあiiiにゅうじぇねれえしょん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "sfiii2j",
-    "note": "日本版 970930 / m↑",
-    "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "sfiii2n",
-    "note": "PSI PHB 970930 NO CD",
-    "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ポケットファイター",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "pfghtj",
-    "note": "日本版 970904",
-    "titleReading": "ぽけっとふぁいたあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "テトリスプラス2",
-    "year": "1997",
-    "manufacturer": "ジャレコ",
-    "name": "tp2m32",
-    "note": "MegaSystem 32 ver",
-    "titleReading": "てとりすぷらす2",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "ヴァンパイアハンター2 -ダークストーカーズリベンジ",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "vhunt2",
-    "note": "日本版 970929",
-    "titleReading": "ゔぁんぱいあはんたあ2だあくすとうかあずりべんじ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ヴァンパイアセイヴァー -ザ・ロードオブヴァンパイア",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "vsavj",
-    "note": "日本版 970519",
-    "titleReading": "ゔぁんぱいあせいゔぁあざろうどおぶゔぁんぱいあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ヴァンパイアセイヴァー2 -ザ・ロードオブヴァンパイア",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "vsav2",
-    "note": "日本版 970913",
-    "titleReading": "ゔぁんぱいあせいゔぁあ2ざろうどおぶゔぁんぱいあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アシュラブレード -Sword of Dynasty",
-    "year": "1998",
-    "manufacturer": "フウキ",
-    "name": "asurabld",
-    "note": "日本版",
-    "titleReading": "あしゅらぶれえどswordofdynasty",
-    "manufacturerReading": "ふうき"
-  },
-  {
-    "title": "ブレイジングスター",
-    "year": "1998",
-    "manufacturer": "夢工房",
-    "name": "blazstar",
-    "note": "",
-    "titleReading": "ぶれいじんぐすたあ",
-    "manufacturerReading": "ゆめこうぼう"
-  },
-  {
-    "title": "ビートマニア 2nd MIX",
-    "year": "1998",
-    "manufacturer": "コナミ",
-    "name": "bm2ndmix",
-    "note": "ver JA-B",
-    "titleReading": "びいとまにあ2ndmix",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "電車でGO！2 -高速編-",
-    "year": "1998",
-    "manufacturer": "タイトー",
-    "name": "dendego2",
-    "note": "",
-    "titleReading": "でんしゃでgo2こうそくへん",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "電車でGO！2 -高速編3000番台-",
-    "year": "1998",
-    "manufacturer": "タイトー",
-    "name": "dendego23k",
-    "note": "",
-    "titleReading": "でんしゃでgo2こうそくへん3000ばんだい",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '98 -ドリームマッチネバーエンズ",
-    "year": "1998",
-    "manufacturer": "SNK",
-    "name": "kof98",
-    "note": "NGM-2420",
-    "titleReading": "ざきんぐおぶふぁいたあず98どりいむまっちねばあえんず",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ランドメーカー",
-    "year": "1998",
-    "manufacturer": "タイトー",
-    "name": "landmakr",
-    "note": "Ver 2.01J 1998/06/01",
-    "titleReading": "らんどめえかあ",
-    "manufacturerReading": "たいとう"
-  },
-  {
-    "title": "メタルスラッグ2 -Super Vehicle-001/II",
-    "year": "1998",
-    "manufacturer": "SNK",
-    "name": "mslug2",
-    "note": "NGM-2410 / NGH-2410",
-    "titleReading": "めたるすらっぐ2supervehicle001ii",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
-    "year": "1998",
-    "manufacturer": "カプコン",
-    "name": "mvscj",
-    "note": "日本版 980123",
-    "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
-    "year": "1998",
-    "manufacturer": "カプコン",
-    "name": "mvscjr1",
-    "note": "日本版 980112",
-    "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スターグラディエイター2 -ナイトメア オブ ビルシュタイン",
-    "year": "1998",
-    "manufacturer": "カプコン",
-    "name": "stargld2",
-    "note": "日本版 980316",
-    "titleReading": "すたあぐらでぃえいたあ2ないとめあおぶびるしゅたいん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "リアルバウト餓狼伝説2 -THE NEWCOMERS-",
-    "year": "1998",
-    "manufacturer": "SNK",
-    "name": "rbff2",
-    "note": "NGM-2400",
-    "titleReading": "りあるばうと餓おおかみでんせつ2thenewcomers",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ライデンファイターズJET",
-    "year": "1998",
-    "manufacturer": "セイブ開発",
-    "name": "rfjetj",
-    "note": "BAD",
-    "titleReading": "らいでんふぁいたあずjet",
-    "manufacturerReading": "せいぶかいはつ"
-  },
-  {
-    "title": "対戦タントアール サシっす!!",
-    "year": "1998",
-    "manufacturer": "セガ",
-    "name": "sasissu",
-    "note": "ARR 980216 ver 1.000",
-    "titleReading": "たいせんたんとああるさしっす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ストリートファイターZERO3",
-    "year": "1998",
-    "manufacturer": "カプコン",
-    "name": "sfz3j",
-    "note": "日本版 980904",
-    "titleReading": "すとりいとふぁいたあzero3",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターEX2",
-    "year": "1998",
-    "manufacturer": "カプコン / アリカ",
-    "name": "sfex2j",
-    "note": "日 本 販 980312",
-    "titleReading": "すとりいとふぁいたあex2",
-    "manufacturerReading": "かぷこんありか"
-  },
-  {
-    "title": "ソウルキャリバー",
-    "year": "1998",
-    "manufacturer": "ナムコ",
-    "name": "soulclbrja",
-    "note": "日本版, SOC11/VER.A2 / m↑",
-    "titleReading": "そうるきゃりばあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "テトリス ザ・グランドマスター",
-    "year": "1998",
-    "manufacturer": "アリカ / カプコン",
-    "name": "tgmj",
-    "note": "BARR 980710",
-    "titleReading": "てとりすざぐらんどますたあ",
-    "manufacturerReading": "ありかかぷこん"
-  },
-  {
-    "title": "アクアラッシュ",
-    "year": "1999",
-    "manufacturer": "ナムコ",
-    "name": "aquarush",
-    "note": "日本版",
-    "titleReading": "あくあらっしゅ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "チェンジエアブレード",
-    "year": "1999",
-    "manufacturer": "サミー",
-    "name": "cairblad",
-    "note": "日本版",
-    "titleReading": "ちぇんじえあぶれえど",
-    "manufacturerReading": "さみい"
-  },
-  {
-    "title": "キャプテントマディ",
-    "year": "1999",
-    "manufacturer": "ビスコ",
-    "name": "ctomaday",
-    "note": "",
-    "titleReading": "きゃぷてんとまでぃ",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "武蔵巌流記",
-    "year": "1999",
-    "manufacturer": "ビスコ",
-    "name": "ganryu",
-    "note": "",
-    "titleReading": "むさしがんりゅうき",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "餓狼 -マーク・オブ・ザ・ウルヴス",
-    "year": "1999",
-    "manufacturer": "SNK",
-    "name": "garou",
-    "note": "set 1",
-    "titleReading": "がろうまーくおぶざうるゔす",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ギガウィング",
-    "year": "1999",
-    "manufacturer": "タクミ （カプコンライセンス）",
-    "name": "gigawing",
-    "note": "USA版 990222",
-    "titleReading": "ぎがうぃんぐ",
-    "manufacturerReading": "たくみかぷこんらいせんす"
-  },
-  {
-    "title": "ジョジョの奇妙な冒険 -未来への遺産-",
-    "year": "1999",
-    "manufacturer": "カプコン",
-    "name": "jojoban",
-    "note": "日本版 990927,NO CD / m↑",
-    "titleReading": "じょじょのきみょうなぼうけんみらいへのいさん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ '99 -ミレニアムバトル",
-    "year": "1999",
-    "manufacturer": "SNK",
-    "name": "kof99",
-    "note": "set 1",
-    "titleReading": "ざきんぐおぶふぁいたあず99みれにあむばとる",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ロジックプロ アドベンチャー",
-    "year": "1999",
-    "manufacturer": "アミューズワールド",
-    "name": "lpadv",
-    "note": "日本版 / m↑",
-    "titleReading": "ろじっくぷろあどべんちゃあ",
-    "manufacturerReading": "あみゅうずわあるど"
-  },
-  {
-    "title": "ミスタードリラー",
-    "year": "1999",
-    "manufacturer": "ナムコ",
-    "name": "mrdrillr",
-    "note": "日本版 DRI1/VER.A2",
-    "titleReading": "みすたあどりらあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "メタルスラッグX -Super Vehicle-001",
-    "year": "1999",
-    "manufacturer": "SNK",
-    "name": "mslugx",
-    "note": "NGM-2500 / NGH-2500",
-    "titleReading": "めたるすらっぐxsupervehicle001",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "パズルボブル2",
-    "year": "1999",
-    "manufacturer": "タイトー （SNKライセンス）",
-    "name": "pbobbl2n",
-    "note": "Neo-Geo",
-    "titleReading": "ぱずるぼぶる2",
-    "manufacturerReading": "たいとうえすえぬけーらいせんす"
-  },
-  {
-    "title": "ストライカーズ1945 プラス",
-    "year": "1999",
-    "manufacturer": "彩京",
-    "name": "s1945p",
-    "note": "",
-    "titleReading": "すとらいかあず1945ぷらす",
-    "manufacturerReading": "さいきょう"
-  },
-  {
-    "title": "ストリートファイターEX2プラス",
-    "year": "1999",
-    "manufacturer": "カプコン / アリカ",
-    "name": "sfex2pj",
-    "note": "日本版 990611 / m↑",
-    "titleReading": "すとりいとふぁいたあex2ぷらす",
-    "manufacturerReading": "かぷこんありか"
-  },
-  {
-    "title": "ストリートファイターIII 3rdストライク -ファイトフォーザフューチャー-",
-    "year": "1999",
-    "manufacturer": "カプコン",
-    "name": "sfiii3n",
-    "note": "日本版 990608, NO CD / m↑",
-    "titleReading": "すとりいとふぁいたあiii3rdすとらいくふぁいとふぉうざふゅうちゃあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "鉄拳タッグトーナメント",
-    "year": "1999",
-    "manufacturer": "ナムコ",
-    "name": "tektagt",
-    "note": "USARR TEGS/VERC1",
-    "titleReading": "てっけんたっぐとうなめんと",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "1944 -ザ・ループマスター",
-    "year": "2000",
-    "manufacturer": "エイティング / ライジング （カプコンライセンス）",
-    "name": "1944j",
-    "note": "USA版 000620",
-    "titleReading": "いちきゅうよんよんざるーぷますたー",
-    "manufacturerReading": "えいてぃんぐらいじんぐかぷこんらいせんす"
-  },
-  {
-    "title": "ブレイブブレイド",
-    "year": "2000",
-    "manufacturer": "エイティング / ライジング",
-    "name": "brvbladej",
-    "note": "日本版 / m↑",
-    "titleReading": "ぶれいぶぶれいど",
-    "manufacturerReading": "えいてぃんぐらいじんぐ"
-  },
-  {
-    "title": "クイズでアイドル！ホットデビュー",
-    "year": "2000",
-    "manufacturer": "MOSS / 彩京",
-    "name": "hotdebut",
-    "note": "BARR",
-    "titleReading": "くいずであいどるほっとでびゅう",
-    "manufacturerReading": "もすさいきょう"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ 2000",
-    "year": "2000",
-    "manufacturer": "SNK",
-    "name": "kof2000",
-    "note": "NGM-2570 / NGH-2570",
-    "titleReading": "ざきんぐおぶふぁいたあず2000",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ロードランナー ザ・ディグファイト",
-    "year": "2000",
-    "manufacturer": "彩京",
-    "name": "loderndf",
-    "note": "",
-    "titleReading": "ろうどらんなあざでぃぐふぁいと",
-    "manufacturerReading": "さいきょう"
-  },
-  {
-    "title": "マーズマトリックス -ハイパーソリッドシューティング-",
-    "year": "2000",
-    "manufacturer": "タクミ （カプコンライセンス）",
-    "name": "mmatrixj",
-    "note": "日本版 000412",
-    "titleReading": "まあずまとりっくすはいぱあそりっどしゅうてぃんぐ",
-    "manufacturerReading": "たくみかぷこんらいせんす"
-  },
-  {
-    "title": "メタルスラッグ3",
-    "year": "2000",
-    "manufacturer": "SNK",
-    "name": "mslug3",
-    "note": "NGM-2560",
-    "titleReading": "めたるすらっぐ3",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "ナイトメア・イン・ザ・ダーク",
-    "year": "2000",
-    "manufacturer": "イレブン / ガバキング",
-    "name": "nitd",
-    "note": "",
-    "titleReading": "ないとめあいんざだあく",
-    "manufacturerReading": "いれぶんがばきんぐ"
-  },
-  {
-    "title": "ペンギンブラザーズ",
-    "year": "2000",
-    "manufacturer": "サブシノ",
-    "name": "penbros",
-    "note": "BAR",
-    "titleReading": "ぺんぎんぶらざあず",
-    "manufacturerReading": "さぶしの"
-  },
-  {
-    "title": "テトリスT.A. -グランドマスター2-",
-    "year": "2000",
-    "manufacturer": "アリカ",
-    "name": "tgm2",
-    "note": "",
-    "titleReading": "てとりすtaぐらんどますたあ2",
-    "manufacturerReading": "ありか"
-  },
-  {
-    "title": "テトリスT.A. -グランドマスター2プラス-",
-    "year": "2000",
-    "manufacturer": "アリカ",
-    "name": "tgm2p",
-    "note": "",
-    "titleReading": "てとりすtaぐらんどますたあ2ぷらす",
-    "manufacturerReading": "ありか"
-  },
-  {
-    "title": "婆裟羅 ＜バサラ＞",
-    "year": "2000",
-    "manufacturer": "ビスコ",
-    "name": "vasara",
-    "note": "",
-    "titleReading": "ばさら",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ 2001",
-    "year": "2001",
-    "manufacturer": "イオリス / SNK",
-    "name": "kof2001",
-    "note": "set 1",
-    "titleReading": "ざきんぐおぶふぁいたあず2001",
-    "manufacturerReading": "いおりすえすえぬけー"
-  },
-  {
-    "title": "プロギアの嵐",
-    "year": "2001",
-    "manufacturer": "ケイブ （カプコンライセンス）",
-    "name": "progearj",
-    "note": "日本版 010117",
-    "titleReading": "ぷろぎあのあらし",
-    "manufacturerReading": "けいぶかぷこんらいせんす"
-  },
-  {
-    "title": "婆裟羅2",
-    "year": "2001",
-    "manufacturer": "ビスコ",
-    "name": "vasara2",
-    "note": "set 1",
-    "titleReading": "ばさらつー",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "ズパパ！",
-    "year": "2001",
-    "manufacturer": "SNK",
-    "name": "zupapa",
-    "note": "",
-    "titleReading": "ずぱぱ",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "怒首領蜂 大往生 魂",
-    "year": "2002",
-    "manufacturer": "ケイブ （AMIライセンス）",
-    "name": "ddpdoj",
-    "note": "V201, 中華版 / m↑",
-    "titleReading": "どどんぱちだいおうじょうたましい",
-    "manufacturerReading": "けいぶえええむあいらいせんす"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ 2002 -Challenge to Ultimate Battle",
-    "year": "2002",
-    "manufacturer": "イオリス / プレイモア",
-    "name": "kof2002",
-    "note": "NGM-2650 / NGH-2650",
-    "titleReading": "ざきんぐおぶふぁいたあず2002challengetoultimatebattle",
-    "manufacturerReading": "いおりすぷれいもあ"
-  },
-  {
-    "title": "メタルスラッグ4",
-    "year": "2002",
-    "manufacturer": "メガエンタープライズ / ノイズファクトリー / プレイモア",
-    "name": "mslug4",
-    "note": "NGM-2630",
-    "titleReading": "めたるすらっぐ4",
-    "manufacturerReading": "めがえんたあぷらいずのいずふぁくとりいぷれいもあ"
-  },
-  {
-    "title": "メタルスラッグ5",
-    "year": "2003",
-    "manufacturer": "SNKプレイモア",
-    "name": "mslug5",
-    "note": "NGM-2680",
-    "titleReading": "めたるすらっぐ5",
-    "manufacturerReading": "えすえぬけーぷれいもあ"
-  },
-  {
-    "title": "ハイパーストリートファイターII -アニバーサリーエディション-",
-    "year": "2004",
-    "manufacturer": "カプコン",
-    "name": "hsf2j",
-    "note": "日 本 孤 031222",
-    "titleReading": "はいぱあすとりいとふぁいたあiiあにばあさりいえでぃしょん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "サムライスピリッツ零スペシャル",
-    "year": "2004",
-    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
-    "name": "samsh5sp",
-    "note": "Samurai Shodown V Special (NGM-2720)",
-    "titleReading": "さむらいすぴりっつれいすぺしゃる",
-    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
-  },
-  {
-    "title": "虎への道",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "toramich",
-    "note": "日本版",
-    "titleReading": "とらへのみち",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アサルト",
-    "year": "1988",
-    "manufacturer": "ナムコ",
-    "name": "assaultj",
-    "note": "日本版",
-    "titleReading": "あさると",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "大魔界村",
-    "year": "1988",
-    "manufacturer": "カプコン",
-    "name": "daimakai",
-    "note": "日本版",
-    "titleReading": "だいまかいむら",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "機動戦士ガンダム",
-    "year": "1993",
-    "manufacturer": "バンプレスト / アルュメ",
-    "name": "msgundam",
-    "note": "",
-    "titleReading": "きどうせんしがんだむ",
-    "manufacturerReading": "ばんぷれすとあるゅめ"
-  },
-  {
-    "title": "ステークスウィナー -GI完全制覇への道-",
-    "year": "1995",
-    "manufacturer": "ザウルス",
-    "name": "stakwin",
-    "note": "",
-    "titleReading": "すてえくすうぃなあgiかんぜんせいはへのみち",
-    "manufacturerReading": "ざうるす"
-  },
-  {
-    "title": "バンビィード",
-    "year": "2000",
-    "manufacturer": "ビスコ",
-    "name": "bangbead",
-    "note": "",
-    "titleReading": "ばんびぃいど",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "ザ・キング・オブ・ファイターズ2003",
-    "year": "2003",
-    "manufacturer": "SNKプレイモア",
-    "name": "kf2k3pcb",
-    "note": "日本版 JAMMA PCB",
-    "titleReading": "ざきんぐおぶふぁいたあず2003",
-    "manufacturerReading": "えすえぬけーぷれいもあ"
-  },
-  {
-    "title": "サムライスピリッツ零",
-    "year": "2003",
-    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
-    "name": "samsho5",
-    "note": "NGM-2700",
-    "titleReading": "さむらいすぴりっつれい",
-    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
-  },
-  {
-    "title": "ガルディア",
-    "year": "1986",
-    "manufacturer": "セガ / コアランド",
-    "name": "gardia",
-    "note": "317-0006",
-    "titleReading": "がるでぃあ",
-    "manufacturerReading": "せがこあらんど"
-  },
-  {
-    "title": "スクランブルフォーメーション",
-    "year": "1986",
-    "manufacturer": "タイトー",
-    "name": "tokiob",
-    "note": "bootleg",
-    "titleReading": "すくらんぶるふぉーめーしょん",
-    "manufacturerReading": "たいとー"
-  },
-  {
-    "title": "快傑ヤンチャ丸",
-    "year": "1986",
-    "manufacturer": "アイレム",
-    "name": "yanchamr",
-    "note": "日本版",
-    "titleReading": "かいけつやんちゃまる",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "1941 -カウンターアタック-",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "1941j",
-    "note": "日本版",
-    "titleReading": "いちきゅうよんいちかうんたーあたっく",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ワンダー3",
-    "year": "1991",
-    "manufacturer": "カプコン",
-    "name": "wonder3",
-    "note": "日本版 910520",
-    "titleReading": "わんだーすりー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "パワードギア",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "pgear",
-    "note": "日本版 941024 / Strategic Variant Armor Equipment",
-    "titleReading": "ぱわーどぎあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ブラックドラゴン",
-    "year": "1987",
-    "manufacturer": "カプコン",
-    "name": "blkdrgon",
-    "note": "日本版",
-    "titleReading": "ぶらっくどらごん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "キャプテンコマンドー",
-    "year": "1991",
-    "manufacturer": "カプコン",
-    "name": "captcommj",
-    "note": "日本版 911202",
-    "titleReading": "きゃぷてんこまんどー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "U.S.ネイビー",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "cawingj",
-    "note": "日本版 901012",
-    "titleReading": "ゆーえすねいびー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "カプコンベースボール",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "cbasebal",
-    "note": "日本版",
-    "titleReading": "かぷこんべーすぼーる",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "カプコンスポーツクラブ",
-    "year": "1997",
-    "manufacturer": "カプコン",
-    "name": "csclubj",
-    "note": "日本版 970722",
-    "titleReading": "かぷこんすぽーつくらぶ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アドベンチャークイズ カプコンワールド2",
-    "year": "1992",
-    "manufacturer": "カプコン",
-    "name": "cworld2j",
-    "note": "日本版 920611",
-    "titleReading": "あどべんちゃーくいずかぷこんわーるど2",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "天地を喰らう",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "dynwarj",
-    "note": "日本版",
-    "titleReading": "てんちをくらう",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アルティメット エコロジー",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "ecofghtr",
-    "note": "海外版 / Eco Fighters / World 931203",
-    "titleReading": "あるてぃめっとえころじー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ひげ丸",
-    "year": "1984",
-    "manufacturer": "カプコン",
-    "name": "higemaru",
-    "note": "Pirate Ship Higemaru",
-    "titleReading": "ひげまる",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ザ・キングオブドラゴンズ",
-    "year": "1991",
-    "manufacturer": "カプコン",
-    "name": "kodj",
-    "note": "日本版 910805",
-    "titleReading": "ざきんぐおぶどらごんず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マッスルボマーDUO -HEAT UP WARRIORS-",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "mbombrdj",
-    "note": "日本版 931206",
-    "titleReading": "まっするぼまーでゅおひーとあっぷうぉりあーず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マジックソード",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "mswordj",
-    "note": "日本版 900623 / Heroic Fantasy",
-    "titleReading": "まじっくそーど",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "チキチキボーイズ",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "chikij",
-    "note": "日本版 900619",
-    "titleReading": "ちきちきぼーいず",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "パニッシャー",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "punisherj",
-    "note": "日本版 930422",
-    "titleReading": "ぱにっしゃー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "クイズ殿様の野望2 全国版",
-    "year": "1995",
-    "manufacturer": "カプコン",
-    "name": "qtono2j",
-    "note": "日本版 950123",
-    "titleReading": "くいずとのさまのやぼう2ぜんこくばん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "スーパーマッスルボマー -THE INTERNATIONAL BLOWOUT-",
-    "year": "1994",
-    "manufacturer": "カプコン",
-    "name": "ringdest",
-    "note": "海外版 / Ring of Destruction: Slammasters II / Europe 940902",
-    "titleReading": "すーぱーまっするぼまーじいんたーなしょなるぶろーあうと",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストリートファイターZERO2 ALPHA",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "sfz2alj",
-    "note": "日本版 960805",
-    "titleReading": "すとりーとふぁいたーぜろ2あるふぁ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マッスルボマー -THE BODY EXPLOSION-",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "slammast",
-    "note": "海外版 / Saturday Night Slam Masters / World 930713",
-    "titleReading": "まっするぼまーざぼでぃえくすぷろーじょん",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "超鋼戦紀キカイオー",
-    "year": "1998",
-    "manufacturer": "カプコン",
-    "name": "techromnu",
-    "note": "海外版 / Tech Romancer / USA 980914",
-    "titleReading": "ちょうこうせんききかいおー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "バース -オペレーションサンダーストーム-",
-    "year": "1992",
-    "manufacturer": "カプコン",
-    "name": "varthj",
-    "note": "日本版 920714",
-    "titleReading": "ばーすおぺれーしょんさんだーすとーむ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ウィロー",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "willowj",
-    "note": "日本版",
-    "titleReading": "うぃろー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "天地を喰らうII 赤壁の戦い",
-    "year": "1992",
-    "manufacturer": "カプコン",
-    "name": "wofj",
-    "note": "日本版 921031",
-    "titleReading": "てんちをくらう2せきへきのたたかい",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "X-MEN VS. ストリートファイター",
-    "year": "1996",
-    "manufacturer": "カプコン",
-    "name": "xmvsfj",
-    "note": "日本版 970113",
-    "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ダンジョンズ＆ドラゴンズ -タワーオブドゥーム-",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "ddtodj",
-    "note": "日本版 940412",
-    "titleReading": "だんじょんずあんどどらごんずたわーおぶどぅーむ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "キャディラックス 恐竜新世紀",
-    "year": "1993",
-    "manufacturer": "カプコン",
-    "name": "dinoj",
-    "note": "日本版 930201",
-    "titleReading": "きゃでぃらっくすきょうりゅうしんせいき",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ロストワールド",
-    "year": "1988",
-    "manufacturer": "カプコン",
-    "name": "lostwrld",
-    "note": "日本版",
-    "titleReading": "ろすとわーるど",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ラストデュエル",
-    "year": "1988",
-    "manufacturer": "カプコン",
-    "name": "lastduelj",
-    "note": "日本版",
-    "titleReading": "らすとでゅえる",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "マッドギア",
-    "year": "1989",
-    "manufacturer": "カプコン",
-    "name": "madgearj",
-    "note": "日本版",
-    "titleReading": "まっどぎあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "戦場の狼II",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "mercsj",
-    "note": "日本版 900302",
-    "titleReading": "せんじょうのおおかみ2",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ニモ",
-    "year": "1990",
-    "manufacturer": "カプコン",
-    "name": "nemoj",
-    "note": "日本版 901120",
-    "titleReading": "にも",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "アレックスキッド ザ・ロストスターズ",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "alexkidd",
-    "note": "set 2, unprotected",
-    "titleReading": "あれっくすきっどざろすとすたーず",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "獣王記",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "altbeastj",
-    "note": "日本版 set 7 / 8751 317-0077",
-    "titleReading": "じゅうおうき",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "アラビアンファイト",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "arabfgtj",
-    "note": "日本版",
-    "titleReading": "あらびあんふぁいと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "エイリアンストーム",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "astormj",
-    "note": "日本版 2 Players / FD1094 317-0146",
-    "titleReading": "えいりあんすとーむ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ブロクシード",
-    "year": "1989",
-    "manufacturer": "セガ / Elorg",
-    "name": "bloxeed",
-    "note": "日本版 / FD1094 317-0139",
-    "titleReading": "ぶろくしーど",
-    "manufacturerReading": "せがえろーぐ"
-  },
-  {
-    "title": "バーニングライバル",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "brivalj",
-    "note": "日本版",
-    "titleReading": "ばーにんぐらいばる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "バレット",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "bullet",
-    "note": "FD1094 317-0041",
-    "titleReading": "ばれっと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "カロリーくんVSモグラニアン",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "calorie",
-    "note": "",
-    "titleReading": "かろりーくんばーさすもぐらにあん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "チャンピオンボクシング",
-    "year": "1984",
-    "manufacturer": "セガ",
-    "name": "chboxing",
-    "note": "",
-    "titleReading": "ちゃんぴおんぼくしんぐ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "チョップリフター",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "choplift",
-    "note": "8751 315-5151",
-    "titleReading": "ちょっぷりふたー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クラッチヒッター",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "cltchitr",
-    "note": "USA版 / FD1094 317-0176",
-    "titleReading": "くらっちひったー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クラックダウン",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "crkdownj",
-    "note": "日本版, Floppy Based / FD1094 317-0058-04b Rev A",
-    "titleReading": "くらっくだうん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "D.D.クルー",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "ddcrewj",
-    "note": "日本版 4 Players / FD1094 317-0185",
-    "titleReading": "でぃーでぃーくるー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ダイナマイトダックス",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "ddux",
-    "note": "海外版 set 3 / World / FD1094 317-0096",
-    "titleReading": "だいなまいとだっくす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "デザートブレイカー",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "desertbrj",
-    "note": "日本版 / FD1094 317-0194",
-    "titleReading": "でざーとぶれいかー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ダイナマイト刑事",
-    "year": "1996",
-    "manufacturer": "セガ",
-    "name": "dnmtdeka",
-    "note": "日本版 960515 V1.000",
-    "titleReading": "だいなまいとでか",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "どきどきペンギンランド",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "dokidoki",
-    "note": "",
-    "titleReading": "どきどきぺんぎんらんど",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "絵本探偵事務所",
-    "year": "1995",
-    "manufacturer": "セガ",
-    "name": "ejihon",
-    "note": "日本版 950613 V1.000",
-    "titleReading": "えほんたんていじむしょ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "サイバーポリス イースワット",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "eswatj",
-    "note": "日本版 set 2 / FD1094 317-0128",
-    "titleReading": "さいばーぽりすいーすわっと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ファンキーヘッドボクサーズ",
-    "year": "1995",
-    "manufacturer": "セガ",
-    "name": "fhboxers",
-    "note": "JUETBKAL 951218 V1.000",
-    "titleReading": "ふぁんきーへっどぼくさーず",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "フラッシュポイント",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "fpoint",
-    "note": "日本版 set 2 / FD1094 317-0127A",
-    "titleReading": "ふらっしゅぽいんと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ゲイングランド",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "ggroundj",
-    "note": "日本版 2 Players, Floppy Based / FD1094 317-0058-03b",
-    "titleReading": "げいんぐらんど",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ギガス",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "gigas",
-    "note": "MC-8123 / 317-5002",
-    "titleReading": "ぎがす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "G-LOC エアバトル",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "gloc",
-    "note": "World",
-    "titleReading": "じーろっくえあばとる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "サクラ大戦 花組対戦コラムス",
-    "year": "1997",
-    "manufacturer": "セガ",
-    "name": "hanagumi",
-    "note": "日本版 971007 V1.010",
-    "titleReading": "さくらたいせんはなぐみたいせんこらむす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ハードダンク",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "harddunkj",
-    "note": "日本版",
-    "titleReading": "はーどだんく",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "パズル＆アクション イチダントアール",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "ichirj",
-    "note": "日本版",
-    "titleReading": "ぱずるあんどあくしょんいちだんとあーる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "メジャーリーグ",
-    "year": "1985",
-    "manufacturer": "セガ",
-    "name": "mjleague",
-    "note": "",
-    "titleReading": "めじゃーりーぐ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "MVP",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "mvpj",
-    "note": "日本版 set 1 / FD1094 317-0142",
-    "titleReading": "えむぶいぴー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "マイケル・ジャクソンズ・ムーンウォーカー",
-    "year": "1990",
-    "manufacturer": "セガ",
-    "name": "mwalkj",
-    "note": "日本版 / FD1094/8751 317-0157",
-    "titleReading": "まいけるじゃくそんずむーんうぉーかー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "オパオパ",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "opaopa",
-    "note": "MC-8123 / 317-0042",
-    "titleReading": "おぱおぱ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "アウトランナーズ",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "orunnersj",
-    "note": "日本版",
-    "titleReading": "あうとらんなーず",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "パッシングショット",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "passshtj",
-    "note": "日本版 4 Players / FD1094 317-0070",
-    "titleReading": "ぱっしんぐしょっと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クイズゴーストハンター",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "qgh",
-    "note": "日本版, ROM Based",
-    "titleReading": "くいずごーすとはんたー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クイズ廊下に立ってなさい！",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "qrouka",
-    "note": "日本版, ROM Based",
-    "titleReading": "くいずろうかにたってなさい",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クイズ宿題を忘れました",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "qsww",
-    "note": "日本版, Floppy Based / FD1094 317-0058-08b",
-    "titleReading": "くいずしゅくだいをわすれました",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "カルテット",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "quartet",
-    "note": "Rev A / 8751 315-5194",
-    "titleReading": "かるてっと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "カルテット2",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "quartet2",
-    "note": "8751 317-0010",
-    "titleReading": "かるてっと2",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "クイズめくるめくストーリー",
-    "year": "1992",
-    "manufacturer": "セガ",
-    "name": "quizmeku",
-    "note": "日本版, ROM Based",
-    "titleReading": "くいずめくるめくすとーりー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "リパルス",
-    "year": "1985",
-    "manufacturer": "Crux / セガ",
-    "name": "repulse",
-    "note": "",
-    "titleReading": "りぱるす",
-    "manufacturerReading": "くるっくすせが"
-  },
-  {
-    "title": "パズル＆アクション サンドアール",
-    "year": "1995",
-    "manufacturer": "セガ",
-    "name": "sandor",
-    "note": "日本版 951114 V1.000",
-    "titleReading": "ぱずるあんどあくしょんさんどあーる",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ソニックブーム",
-    "year": "1987",
-    "manufacturer": "セガ",
-    "name": "sonicbom",
-    "note": "FD1094 317-0053",
-    "titleReading": "そにっくぶーむ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スパイダーマン ザ・ビデオゲーム",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "spidman",
-    "note": "World",
-    "titleReading": "すぱいだーまんざびでおげーむ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スクランブルスピリッツ",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "sspiritj",
-    "note": "日本版, Floppy DS3-5000-02-REV-A Based",
-    "titleReading": "すくらんぶるすぴりっつ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "スタックコラムス",
-    "year": "1994",
-    "manufacturer": "セガ",
-    "name": "stkclmnsj",
-    "note": "日本版",
-    "titleReading": "すたっくこらむす",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ストライクファイター",
-    "year": "1991",
-    "manufacturer": "セガ",
-    "name": "strkfgtr",
-    "note": "World",
-    "titleReading": "すとらいくふぁいたー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "UFO戦士ようこちゃん",
-    "year": "1988",
-    "manufacturer": "セガ",
-    "name": "ufosensi",
-    "note": "MC-8123 / 317-0064",
-    "titleReading": "ゆーふぉーせんしようこちゃん",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ウィンターヒート",
-    "year": "1997",
-    "manufacturer": "セガ",
-    "name": "winterht",
-    "note": "JUET 971012 V1.000",
-    "titleReading": "うぃんたーひーと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "レッスルウォー",
-    "year": "1989",
-    "manufacturer": "セガ",
-    "name": "wrestwar1",
-    "note": "日本版 set 1 / FD1094 317-0090",
-    "titleReading": "れっするうぉー",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "全日本プロレス featuring Virtua",
-    "year": "1997",
-    "manufacturer": "セガ",
-    "name": "znpwfv",
-    "note": "日本版 971123 V1.000",
-    "titleReading": "ぜんにほんぷろれすふぃーちゃりんぐばーちゃ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "005",
-    "year": "1981",
-    "manufacturer": "セガ",
-    "name": "005",
-    "note": "",
-    "titleReading": "ぜろぜろふぁいぶ",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "10ヤードファイト",
-    "year": "1983",
-    "manufacturer": "アイレム",
-    "name": "10yardj",
-    "note": "日本版",
-    "titleReading": "てんやーどふぁいと",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "ファイヤースープレックス",
-    "year": "1993",
-    "manufacturer": "SNK",
-    "name": "3countb",
-    "note": "3 Count Bout / NGM-043 / NGH-043",
-    "titleReading": "ふぁいやーすーぷれっくす",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "4-Dウォリアーズ",
-    "year": "1985",
-    "manufacturer": "コアランド / セガ",
-    "name": "4dwarrio",
-    "note": "315-5162",
-    "titleReading": "ふぉーでぃーうぉりあーず",
-    "manufacturerReading": "こあらんどせが"
-  },
-  {
-    "title": "ソニックウィングス リミテッド",
-    "year": "1996",
-    "manufacturer": "ビデオシステム",
-    "name": "sncwgltd",
-    "note": "日本版",
-    "titleReading": "そにっくうぃんぐすりみてっど",
-    "manufacturerReading": "びでおしすてむ"
-  },
-  {
-    "title": "アクウギャレット",
-    "year": "1996",
-    "manufacturer": "ガゼル（バンプレストライセンス）",
-    "name": "agalletj",
-    "note": "日本版",
-    "titleReading": "あくうぎゃれっと",
-    "manufacturerReading": "がぜるばんぷれすとらいせんす"
-  },
-  {
-    "title": "アグレス -ミサイル大戦略-",
-    "year": "1991",
-    "manufacturer": "パルコ",
-    "name": "agress",
-    "note": "日本版",
-    "titleReading": "あぐれすみさいるだいせんりゃく",
-    "manufacturerReading": "ぱるこ"
-  },
-  {
-    "title": "パネル＆バラエティ あか丸Q 上昇どんどんR",
-    "year": "1996",
-    "manufacturer": "ダイナックス（中日本ライセンス）",
-    "name": "akamaru",
-    "note": "",
-    "titleReading": "ぱねるあんどばらえてぃあかまるきゅーじょうしょうどんどんあーる",
-    "manufacturerReading": "だいなっくすなかにほんらいせんす"
-  },
-  {
-    "title": "バラデューク",
-    "year": "1985",
-    "manufacturer": "ナムコ",
-    "name": "baraduke",
-    "note": "",
-    "titleReading": "ばらでゅーく",
-    "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アリゲーターハント",
-    "year": "1994",
-    "manufacturer": "ガエルコ",
-    "name": "aligatorun",
-    "note": "unprotected / checksum F9C6891D",
-    "titleReading": "ありげーたーはんと",
-    "manufacturerReading": "がえるこ"
-  },
-  {
-    "title": "アンドロデュノス",
-    "year": "1992",
-    "manufacturer": "ビスコ",
-    "name": "androdun",
-    "note": "NGM-049 / NGH-049",
-    "titleReading": "あんどろでゅのす",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "わいわいアニマルランドJr.",
-    "year": "1993",
-    "manufacturer": "中日本 / イーストテクノロジー（タイトーライセンス）",
-    "name": "animaljrj",
-    "note": "日本版",
-    "titleReading": "わいわいあにまるらんどじゅにあ",
-    "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす"
-  },
-  {
-    "title": "アンティーター",
-    "year": "1982",
-    "manufacturer": "タゴエレクトロニクス",
-    "name": "anteater",
-    "note": "",
-    "titleReading": "あんてぃーたー",
-    "manufacturerReading": "たごえれくとろにくす"
-  },
-  {
-    "title": "龍虎の拳",
-    "year": "1992",
-    "manufacturer": "SNK",
-    "name": "aof",
-    "note": "Art of Fighting / NGM-044 / NGH-044",
-    "titleReading": "りゅうこのけん",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "アラビアン",
-    "year": "1983",
-    "manufacturer": "サン電子",
-    "name": "arabian",
-    "note": "",
-    "titleReading": "あらびあん",
-    "manufacturerReading": "さんでんし"
-  },
-  {
-    "title": "アラビアンマジック",
-    "year": "1992",
-    "manufacturer": "タイトー",
-    "name": "arabianmj",
-    "note": "日本版 Ver 1.0J 1992/07/06",
-    "titleReading": "あらびあんまじっく",
-    "manufacturerReading": "たいとー"
-  },
-  {
-    "title": "アルバレスタ",
-    "year": "1989",
-    "manufacturer": "ジョルダン / セタ",
-    "name": "arbalest",
-    "note": "",
-    "titleReading": "あるばれすた",
-    "manufacturerReading": "じょるだんせた"
-  },
-  {
-    "title": "アーチライバルズ",
-    "year": "1989",
-    "manufacturer": "バリーミッドウェイ",
-    "name": "archrivl",
-    "note": "rev 4.0 6/29/89",
-    "titleReading": "あーちらいばるず",
-    "manufacturerReading": "ばりーみっどうぇい"
-  },
-  {
-    "title": "アルカノイドリターンズ",
-    "year": "1997",
-    "manufacturer": "タイトー",
-    "name": "arkretrn",
-    "note": "Ver 2.02O 1997/02/10",
-    "titleReading": "あるかのいどりたーんず",
-    "manufacturerReading": "たいとー"
-  },
-  {
-    "title": "アームドF",
-    "year": "1988",
-    "manufacturer": "日本物産",
-    "name": "armedf",
-    "note": "日本版",
-    "titleReading": "あーむどえふ",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
-    "title": "アーマーアタック",
-    "year": "1980",
-    "manufacturer": "シネマトロニクス",
-    "name": "armora",
-    "note": "",
-    "titleReading": "あーまーあたっく",
-    "manufacturerReading": "しねまとろにくす"
-  },
-  {
-    "title": "アーマードカー",
-    "year": "1981",
-    "manufacturer": "スターンエレクトロニクス",
-    "name": "armorcar",
-    "note": "set 1",
-    "titleReading": "あーまーどかー",
-    "manufacturerReading": "すたーんえれくとろにくす"
-  },
-  {
-    "title": "アシュラブラスター",
-    "year": "1990",
-    "manufacturer": "タイトー",
-    "name": "ashuraj",
-    "note": "日本版",
-    "titleReading": "あしゅらぶらすたー",
-    "manufacturerReading": "たいとー"
-  },
-  {
-    "title": "ASO -Armored Scrum Object-",
-    "year": "1985",
-    "manufacturer": "SNK",
-    "name": "aso",
-    "note": "",
-    "titleReading": "あそーあーマーどすくらむおぶじぇくと",
-    "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "アステリックス",
-    "year": "1992",
-    "manufacturer": "コナミ",
-    "name": "asterix",
-    "note": "ver EAD",
-    "titleReading": "あすてりっくす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ザ・ロードオブキング",
-    "year": "1989",
-    "manufacturer": "ジャレコ",
-    "name": "lordofk",
-    "note": "日本版",
-    "titleReading": "ざろーどおぶきんぐ",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "アシュラバスター -Eternal Warriors-",
-    "year": "2001",
-    "manufacturer": "フウキ",
-    "name": "asurabus",
-    "note": "USA版",
-    "titleReading": "あしゅらばすたーえたーなるうぉりあーず",
-    "manufacturerReading": "ふうき"
-  },
-  {
-    "title": "アタックス",
-    "year": "1990",
-    "manufacturer": "リーランド（カプコンライセンス）",
-    "name": "ataxxj",
-    "note": "日本版",
-    "titleReading": "あたっくす",
-    "manufacturerReading": "りーらんどかぷこんらいせんす"
-  },
-  {
-    "title": "アベンジャーズ・イン・ギャラクティックストーム",
-    "year": "1995",
-    "manufacturer": "データイースト",
-    "name": "avengrgsj",
-    "note": "日本版 1.2",
-    "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
-    "manufacturerReading": "でーたいーすと"
-  },
-  {
-    "title": "バックファイア！",
-    "year": "1995",
-    "manufacturer": "データイースト",
-    "name": "backfire",
-    "note": "日本版 set 1",
-    "titleReading": "ばっくふぁいあ",
-    "manufacturerReading": "でーたいーすと"
-  },
-  {
-    "title": "ドラゴンニンジャ",
-    "year": "1988",
-    "manufacturer": "データイースト",
-    "name": "drgninja",
-    "note": "日本版 revision 1",
-    "titleReading": "どらごんにんじゃ",
-    "manufacturerReading": "でーたいーすと"
-  },
-  {
-    "title": "バッドランズ",
-    "year": "1989",
-    "manufacturer": "アタリゲームズ",
-    "name": "badlands",
-    "note": "",
-    "titleReading": "ばっどらんず",
-    "manufacturerReading": "あたりげーむず"
-  },
-  {
-    "title": "バッグマン",
-    "year": "1982",
-    "manufacturer": "Valadon Automation",
-    "name": "bagman",
-    "note": "",
-    "titleReading": "ばっぐまん",
-    "manufacturerReading": "ばらどんおーとめーしょん"
-  },
-  {
-    "title": "VS.バルーンファイト",
-    "year": "1984",
-    "manufacturer": "任天堂",
-    "name": "balonfgt",
-    "note": "set BF4 A-3",
-    "titleReading": "ばーさすばるーんふぁいと",
-    "manufacturerReading": "にんてんどう"
-  },
-  {
-    "title": "バンクパニック",
-    "year": "1984",
-    "manufacturer": "サンリツ / セガ",
-    "name": "bankp",
-    "note": "",
-    "titleReading": "ばんくぱにっく",
-    "manufacturerReading": "さんりつせが"
-  },
-  {
-    "title": "アームドポリス バトライダー",
-    "year": "1998",
-    "manufacturer": "ライジング / エイティング",
-    "name": "batriderj",
-    "note": "日本版 B version / 1998-02-13",
-    "titleReading": "あーむどぽりすばとらいだー",
-    "manufacturerReading": "らいじんぐえいてぃんぐ"
-  },
-  {
-    "title": "バトルクライ",
-    "year": "1991",
-    "manufacturer": "ホームデータ",
-    "name": "battlcry",
-    "note": "Version E",
-    "titleReading": "ばとるくらい",
-    "manufacturerReading": "ほーむでーた"
-  },
-  {
-    "title": "ならず者戦闘部隊 ブラッディウルフ",
-    "year": "1988",
-    "manufacturer": "データイースト",
-    "name": "bldwolfj",
-    "note": "日本版",
-    "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
-    "manufacturerReading": "でーたいーすと"
-  },
-  {
-    "title": "ベイルート",
-    "year": "1989",
-    "manufacturer": "サンソフト / セガ",
-    "name": "bayroutej",
-    "note": "日本版 set 2 / FD1094 317-0115",
-    "titleReading": "べいるーと",
-    "manufacturerReading": "さんそふとせが"
-  },
-  {
-    "title": "ブラッディロア",
-    "year": "1997",
-    "manufacturer": "エイティング / ライジング",
-    "name": "bldyroar",
-    "note": "日本版 1997-06-21",
-    "titleReading": "ぶらっでぃろあ",
-    "manufacturerReading": "えいてぃんぐらいじんぐ"
-  },
-  {
-    "title": "ベルリンの壁",
-    "year": "1991",
-    "manufacturer": "カネコ",
-    "name": "berlwall",
-    "note": "The Berlin Wall",
-    "titleReading": "べるりんのかべ",
-    "manufacturerReading": "かねこ"
-  },
-  {
-    "title": "バトルガレッガ",
-    "year": "1996",
-    "manufacturer": "ライジング / エイティング",
-    "name": "bgaregga",
-    "note": "Europe / USA / Japan / Asia / 1996-02-03",
-    "titleReading": "ばとるがれっが",
-    "manufacturerReading": "らいじんぐえいてぃんぐ"
-  },
-  {
-    "title": "ビッグファイト -Big Trouble In The Atlantic Ocean-",
-    "year": "1992",
-    "manufacturer": "タツミ",
-    "name": "bigfight",
-    "note": "",
-    "titleReading": "びっぐふぁいとびっぐとらぶるいんじあとらんてぃっくおーしゃん",
-    "manufacturerReading": "たつみ"
-  },
-  {
-    "title": "ビッグストライカー",
-    "year": "1992",
-    "manufacturer": "ジャレコ",
-    "name": "bigstrik",
-    "note": "",
-    "titleReading": "びっぐすとらいかー",
-    "manufacturerReading": "じゃれこ"
-  },
-  {
-    "title": "宇宙戦艦ゴモラ",
-    "year": "1990",
-    "manufacturer": "UPL",
-    "name": "sbsgomo",
-    "note": "日本版",
-    "titleReading": "うちゅうせんかんごもら",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "ラギ",
-    "year": "1990",
-    "manufacturer": "アルファ電子",
-    "name": "bjourney",
-    "note": "Blue's Journey / ALM-001 / ALH-001",
-    "titleReading": "らぎ",
-    "manufacturerReading": "あるふぁでんし"
-  },
-  {
-    "title": "ボンジャックツイン",
-    "year": "1993",
-    "manufacturer": "NMK",
-    "name": "bjtwin",
-    "note": "set 1",
-    "titleReading": "ぼんじゃっくついん",
-    "manufacturerReading": "えぬえむけー"
-  },
-  {
-    "title": "ブランディア",
-    "year": "1992",
-    "manufacturer": "アルュメ",
-    "name": "blandia",
-    "note": "",
-    "titleReading": "ぶらんでぃあ",
-    "manufacturerReading": "あるゅめ"
-  },
-  {
-    "title": "ブラスティッド",
-    "year": "1988",
-    "manufacturer": "バリーミッドウェイ",
-    "name": "blasted",
-    "note": "",
-    "titleReading": "ぶらすてぃっど",
-    "manufacturerReading": "ばりーみっどうぇい"
-  },
-  {
-    "title": "ブレイゾン",
-    "year": "1992",
-    "manufacturer": "A.I（アトラスライセンス）",
-    "name": "blazeon",
-    "note": "World",
-    "titleReading": "ぶれいぞん",
-    "manufacturerReading": "えーあいあとらすらいせんす"
-  },
-  {
-    "title": "ブラックハート",
-    "year": "1991",
-    "manufacturer": "UPL",
-    "name": "blkheartj",
-    "note": "日本版",
-    "titleReading": "ぶらっくはーと",
-    "manufacturerReading": "ゆーぴーえる"
-  },
-  {
-    "title": "ブラックパンサー",
-    "year": "1987",
-    "manufacturer": "コナミ",
-    "name": "blkpnthr",
-    "note": "",
-    "titleReading": "ぶらっくぱんさー",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ブロックブロック",
-    "year": "1991",
-    "manufacturer": "カプコン",
-    "name": "blockj",
-    "note": "日本版 910910",
-    "titleReading": "ぶろっくぶろっく",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ブロックカーニバル",
-    "year": "1992",
-    "manufacturer": "ビスコ",
-    "name": "blockcar",
-    "note": "Thunder & Lightning 2",
-    "titleReading": "ぶろっくかーにばる",
-    "manufacturerReading": "びすこ"
-  },
-  {
-    "title": "ブロッケン",
-    "year": "1994",
-    "manufacturer": "ビスコ / KID",
-    "name": "blocken",
-    "note": "日本版",
-    "titleReading": "ぶろっけん",
-    "manufacturerReading": "びすこきっど"
-  },
-  {
-    "title": "クォース",
-    "year": "1989",
-    "manufacturer": "コナミ",
-    "name": "quarth",
-    "note": "日本版",
-    "titleReading": "くぉーす",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ブラッドブラザーズ",
-    "year": "1990",
-    "manufacturer": "TAD",
-    "name": "bloodbro",
-    "note": "World?",
-    "titleReading": "ぶらっどぶらざーず",
-    "manufacturerReading": "てぃーえーでぃー"
-  },
-  {
-    "title": "大江戸ファイト",
-    "year": "1994",
-    "manufacturer": "カネコ",
-    "name": "oedfight",
-    "note": "日本版 Bloodshed version",
-    "titleReading": "おおえどふぁいと",
-    "manufacturerReading": "かねこ"
-  },
-  {
-    "title": "ブレイジングトルネード",
-    "year": "1994",
-    "manufacturer": "ヒューマン",
-    "name": "blzntrnd",
-    "note": "",
-    "titleReading": "ぶれいじんぐとるねーど",
-    "manufacturerReading": "ひゅーまん"
-  },
-  {
-    "title": "クロスブレイズ！",
-    "year": "1991",
-    "manufacturer": "アイレム",
-    "name": "crossbld",
-    "note": "日本版",
-    "titleReading": "くろすぶれいず",
-    "manufacturerReading": "あいれむ"
-  },
-  {
-    "title": "VS.バンゲリングベイ",
-    "year": "1985",
-    "manufacturer": "任天堂 / ブローダーバンド",
-    "name": "bnglngby",
-    "note": "RD4-2 B",
-    "titleReading": "ばーさすばんげりんぐべい",
-    "manufacturerReading": "にんてんどうぶろーだーばんど"
-  },
-  {
-    "title": "リバーパトロール",
-    "year": "1981",
-    "manufacturer": "オルカ",
-    "name": "rpatrol",
-    "note": "日本版",
-    "titleReading": "りばーぱとろーる",
-    "manufacturerReading": "おるか"
-  },
-  {
     "title": "ポン",
     "year": "1972",
     "manufacturer": "アタリ",
@@ -6804,6 +216,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "davenuttingassociates/midway"
   },
   {
+    "title": "ジービー",
+    "year": "1978",
+    "manufacturer": "ナムコ",
+    "name": "geebee",
+    "note": "日本版",
+    "titleReading": "じいびい",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ジプシージャグラー",
     "year": "1978",
     "manufacturer": "Meadows Games, Inc.",
@@ -6829,6 +250,15 @@ window.ARCADE_GAMES = [
     "note": "Super Breakout (rev 04)",
     "titleReading": "すぱぶれいくあうと",
     "manufacturerReading": "あたり"
+  },
+  {
+    "title": "スペースインベーダー",
+    "year": "1978",
+    "manufacturer": "タイトー / ミッドウェイ",
+    "name": "invaders",
+    "note": "Space Invaders M",
+    "titleReading": "すぺえすいんべえだあ",
+    "manufacturerReading": "たいとうみっどうぇい"
   },
   {
     "title": "スペースインベーダー （ロジテック版）",
@@ -6930,6 +360,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたり"
   },
   {
+    "title": "アストロファイター",
+    "year": "1979",
+    "manufacturer": "データイースト",
+    "name": "astrof",
+    "note": "set 1",
+    "titleReading": "あすとろふぁいたあ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "オズマウォーズ",
+    "year": "1979",
+    "manufacturer": "SNK",
+    "name": "ozmawars",
+    "note": "set 1",
+    "titleReading": "おずまうぉうず",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "カラースペースフィーバー",
     "year": "1979",
     "manufacturer": "任天堂レジャーシステム（任天堂）",
@@ -6937,6 +385,24 @@ window.ARCADE_GAMES = [
     "note": "Space Fever (New Ver.)",
     "titleReading": "からすぺすふぃば",
     "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+  },
+  {
+    "title": "キューティーQ",
+    "year": "1979",
+    "manufacturer": "ナムコ",
+    "name": "cutieq",
+    "note": "",
+    "titleReading": "きゅうてぃいq",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ギャラクシアン",
+    "year": "1979",
+    "manufacturer": "ナムコ",
+    "name": "galaxian",
+    "note": "Namco set 1",
+    "titleReading": "ぎゃらくしあん",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ギャラクシアンターボ",
@@ -7092,6 +558,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とよさかさんぎょうこあらんど"
   },
   {
+    "title": "スペースインベーダー パートII",
+    "year": "1979",
+    "manufacturer": "タイトー",
+    "name": "invadpt2",
+    "note": "Taito",
+    "titleReading": "すぺえすいんべえだあぱあとii",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "スペシャルデュアルII -インビンコ＆ヘッドオン・パート２-",
     "year": "1979",
     "manufacturer": "セガ",
@@ -7164,6 +639,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しねまとろにくす"
   },
   {
+    "title": "ディープスキャン",
+    "year": "1979",
+    "manufacturer": "セガ",
+    "name": "invds",
+    "note": "",
+    "titleReading": "でぃいぷすきゃん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "バスケットボール",
     "year": "1979",
     "manufacturer": "アタリ",
@@ -7189,6 +673,33 @@ window.ARCADE_GAMES = [
     "note": "Video Pinball",
     "titleReading": "びでおぴんぼる",
     "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ヘッドオン",
+    "year": "1979",
+    "manufacturer": "グレムリン",
+    "name": "headon",
+    "note": "2 players",
+    "titleReading": "へっどおん",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ヘッドオン2",
+    "year": "1979",
+    "manufacturer": "セガ",
+    "name": "headon2",
+    "note": "",
+    "titleReading": "へっどおん2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ボムビー",
+    "year": "1979",
+    "manufacturer": "ナムコ",
+    "name": "bombbee",
+    "note": "",
+    "titleReading": "ぼむびい",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ムーンエイリアン",
@@ -7225,6 +736,15 @@ window.ARCADE_GAMES = [
     "note": "Lunar Rescue",
     "titleReading": "るなれすきゅ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ローリングクラッシュ2イン1",
+    "year": "1979",
+    "manufacturer": "日本物産",
+    "name": "rollingc",
+    "note": "",
+    "titleReading": "ろうりんぐくらっしゅ2いん1",
+    "manufacturerReading": "にほんぶっさん"
   },
   {
     "title": "ロータリーファイター",
@@ -7272,6 +792,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ひしふじでんき"
   },
   {
+    "title": "アーマーアタック",
+    "year": "1980",
+    "manufacturer": "シネマトロニクス",
+    "name": "armora",
+    "note": "",
+    "titleReading": "あーまーあたっく",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
     "title": "インデアン・バトル",
     "year": "1980",
     "manufacturer": "タイトー",
@@ -7288,6 +817,24 @@ window.ARCADE_GAMES = [
     "note": "Warlords",
     "titleReading": "うぉろど",
     "manufacturerReading": "あたり"
+  },
+  {
+    "title": "カーニバル",
+    "year": "1980",
+    "manufacturer": "セガ",
+    "name": "carnival",
+    "note": "upright",
+    "titleReading": "かあにばる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "海底宝探し",
+    "year": "1980",
+    "manufacturer": "K.K.特機 （ナムコライセンス）",
+    "name": "kaitein",
+    "note": "namco",
+    "titleReading": "かいていたからさがし",
+    "manufacturerReading": "けーけーとっきなむこらいせんす"
   },
   {
     "title": "海底宝さがし",
@@ -7308,6 +855,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "キング＆バルーン",
+    "year": "1980",
+    "manufacturer": "ナムコ",
+    "name": "kingballj",
+    "note": "USA版",
+    "titleReading": "きんぐ&ばるうん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "銀河帝国の逆襲",
     "year": "1980",
     "manufacturer": "アイレム",
@@ -7317,6 +873,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あいれむ"
   },
   {
+    "title": "クレイジークライマー",
+    "year": "1980",
+    "manufacturer": "日本物産",
+    "name": "cclimberj",
+    "note": "USA版",
+    "titleReading": "くれいじいくらいまあ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
     "title": "クレージーバルーン",
     "year": "1980",
     "manufacturer": "タイトー",
@@ -7324,6 +889,15 @@ window.ARCADE_GAMES = [
     "note": "Crazy Balloon (set 1)",
     "titleReading": "くれじばるん",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "サスケVSコマンダ",
+    "year": "1980",
+    "manufacturer": "SNK",
+    "name": "sasuke",
+    "note": "",
+    "titleReading": "さすけvsこまんだ",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "ジ・エンド",
@@ -7425,6 +999,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "exidy"
   },
   {
+    "title": "タンクバタリアン",
+    "year": "1980",
+    "manufacturer": "ナムコ",
+    "name": "tankbatt",
+    "note": "",
+    "titleReading": "たんくばたりあん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "チーキーマウス",
     "year": "1980",
     "manufacturer": "ユニバーサル",
@@ -7506,6 +1089,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたり"
   },
   {
+    "title": "バルーンボンバー",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "ballbomb",
+    "note": "",
+    "titleReading": "ばるうんぼんばあ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "パックマン",
+    "year": "1980",
+    "manufacturer": "ナムコ",
+    "name": "puckman",
+    "note": "日本版 set 1",
+    "titleReading": "ぱっくまん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "フェニックス",
     "year": "1980",
     "manufacturer": "Amstar",
@@ -7560,6 +1161,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ミサイルコマンド",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "missile",
+    "note": "set 1",
+    "titleReading": "みさいるこまんど",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ムーンクレスタ",
+    "year": "1980",
+    "manufacturer": "日本物産",
+    "name": "mooncrst",
+    "note": "Nichibutsu",
+    "titleReading": "むうんくれすた",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
     "title": "ムーンエイリアンパート２",
     "year": "1980",
     "manufacturer": "日本物産",
@@ -7576,6 +1195,15 @@ window.ARCADE_GAMES = [
     "note": "Moon Quasar",
     "titleReading": "むんくえさ",
     "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ラリーX",
+    "year": "1980",
+    "manufacturer": "ナムコ",
+    "name": "rallyxa",
+    "note": "",
+    "titleReading": "らりいx",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "リップオフ",
@@ -7603,6 +1231,24 @@ window.ARCADE_GAMES = [
     "note": "Radar Scope",
     "titleReading": "れだすこぷ",
     "manufacturerReading": "いけがみつうしんき"
+  },
+  {
+    "title": "アストロブラスター",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "astrob",
+    "note": "ver 3",
+    "titleReading": "あすとろぶらすたあ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アーマードカー",
+    "year": "1981",
+    "manufacturer": "スターンエレクトロニクス",
+    "name": "armorcar",
+    "note": "set 1",
+    "titleReading": "あーまーどかー",
+    "manufacturerReading": "すたーんえれくとろにくす"
   },
   {
     "title": "ウッドペッカー",
@@ -7641,6 +1287,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たつみでんしこうぎょう"
   },
   {
+    "title": "ギャラガ",
+    "year": "1981",
+    "manufacturer": "ナムコ",
+    "name": "galaga",
+    "note": "Namco rev B",
+    "titleReading": "ぎゃらが",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ギャンブラー",
     "year": "1981",
     "manufacturer": "富士商",
@@ -7648,6 +1303,33 @@ window.ARCADE_GAMES = [
     "note": "The Hand",
     "titleReading": "ぎゃんぶら",
     "manufacturerReading": "ふじしょう"
+  },
+  {
+    "title": "クイックス",
+    "year": "1981",
+    "manufacturer": "タイトー・アメリカ",
+    "name": "qix",
+    "note": "set 1",
+    "titleReading": "くいっくす",
+    "manufacturerReading": "たいとうあめりか"
+  },
+  {
+    "title": "クイックスII",
+    "year": "1981",
+    "manufacturer": "タイトー・アメリカ",
+    "name": "qix2",
+    "note": "トーナメント",
+    "titleReading": "くいっくすii",
+    "manufacturerReading": "たいとうあめりか"
+  },
+  {
+    "title": "クラッシュローラー",
+    "year": "1981",
+    "manufacturer": "アルファ電子 / クラル・サンノー電機",
+    "name": "crush",
+    "note": "Kural Samno",
+    "titleReading": "くらっしゅろうらあ",
+    "manufacturerReading": "あるふぁでんしくらるさんのうでんき"
   },
   {
     "title": "クレイジーコング",
@@ -7785,6 +1467,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かみや"
   },
   {
+    "title": "スクランブル",
+    "year": "1981",
+    "manufacturer": "コナミ",
+    "name": "scramble",
+    "note": "",
+    "titleReading": "すくらんぶる",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "スターゲート",
     "year": "1981",
     "manufacturer": "Williams / Vid Kidz",
@@ -7875,6 +1566,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "005",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "005",
+    "note": "",
+    "titleReading": "ぜろぜろふぁいぶ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ターピン",
     "year": "1981",
     "manufacturer": "コナミ工業",
@@ -7909,6 +1609,42 @@ window.ARCADE_GAMES = [
     "note": "Defend the Terra Attack on the Red UFO",
     "titleReading": "でぃふぇんどざてらあたっくおんざれっどufo",
     "manufacturerReading": "うこ"
+  },
+  {
+    "title": "ドンキーコング",
+    "year": "1981",
+    "manufacturer": "任天堂",
+    "name": "dkongjo",
+    "note": "日本版 set 1",
+    "titleReading": "どんきいこんぐ",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "ニューラリーX",
+    "year": "1981",
+    "manufacturer": "ナムコ",
+    "name": "nrallyx",
+    "note": "",
+    "titleReading": "にゅうらりいx",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "バトル・オブ・アトランティス",
+    "year": "1981",
+    "manufacturer": "コムソフト",
+    "name": "atlantis",
+    "note": "set 1",
+    "titleReading": "ばとるおぶあとらんてぃす",
+    "manufacturerReading": "こむそふと"
+  },
+  {
+    "title": "バンガード",
+    "year": "1981",
+    "manufacturer": "SNK",
+    "name": "vanguard",
+    "note": "SN",
+    "titleReading": "ばんがあど",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "パルサー",
@@ -7956,6 +1692,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいと"
   },
   {
+    "title": "フロッガー",
+    "year": "1981",
+    "manufacturer": "コナミ",
+    "name": "frogger",
+    "note": "",
+    "titleReading": "ふろっがあ",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "ブラックホール",
     "year": "1981",
     "manufacturer": "東京電子設計（TDS）",
@@ -7992,6 +1737,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "exidy"
   },
   {
+    "title": "ボスコニアン",
+    "year": "1981",
+    "manufacturer": "ナムコ",
+    "name": "bosco",
+    "note": "new ver",
+    "titleReading": "ぼすこにあん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ポパイマン",
     "year": "1981",
     "manufacturer": "hack",
@@ -8008,6 +1762,15 @@ window.ARCADE_GAMES = [
     "note": "Mouse Trap (version 5)",
     "titleReading": "まうすとらっぷ",
     "manufacturerReading": "exidy"
+  },
+  {
+    "title": "リバーパトロール",
+    "year": "1981",
+    "manufacturer": "オルカ",
+    "name": "rpatrol",
+    "note": "日本版",
+    "titleReading": "りばーぱとろーる",
+    "manufacturerReading": "おるか"
   },
   {
     "title": "ルート１６",
@@ -8046,6 +1809,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ワープ＆ワープ",
+    "year": "1981",
+    "manufacturer": "ナムコ",
+    "name": "warpwarp",
+    "note": "",
+    "titleReading": "わあぷ&わあぷ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "アミーゴ",
     "year": "1982",
     "manufacturer": "セガ",
@@ -8053,6 +1825,33 @@ window.ARCADE_GAMES = [
     "note": "Amigo (bootleg of Amidar, set 1)",
     "titleReading": "あみご",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "アミダー",
+    "year": "1982",
+    "manufacturer": "コナミ",
+    "name": "amidar",
+    "note": "",
+    "titleReading": "あみだあ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "アルペンスキー",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "alpine",
+    "note": "set 1",
+    "titleReading": "あるぺんすきい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "アンティーター",
+    "year": "1982",
+    "manufacturer": "タゴエレクトロニクス",
+    "name": "anteater",
+    "note": "",
+    "titleReading": "あんてぃーたー",
+    "manufacturerReading": "たごえれくとろにくす"
   },
   {
     "title": "カンガルー",
@@ -8071,6 +1870,15 @@ window.ARCADE_GAMES = [
     "note": "Loco-Motion",
     "titleReading": "がったんごっとん",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "Qバート",
+    "year": "1982",
+    "manufacturer": "ゴットリーブ",
+    "name": "qbert",
+    "note": "USA版 set 1",
+    "titleReading": "きゅーばーと",
+    "manufacturerReading": "ごっとりいぶ"
   },
   {
     "title": "ギャラッグ",
@@ -8098,6 +1906,15 @@ window.ARCADE_GAMES = [
     "note": "Subroc-3D",
     "titleReading": "さぶろっく3d",
     "manufacturerReading": "せが/まつしたでんき"
+  },
+  {
+    "title": "ザクソン",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "zaxxon",
+    "note": "set 1",
+    "titleReading": "ざくそん",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ザ・バウンティ",
@@ -8190,6 +2007,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "スイマー",
+    "year": "1982",
+    "manufacturer": "テーカン",
+    "name": "swimmer",
+    "note": "set 1",
+    "titleReading": "すいまあ",
+    "manufacturerReading": "てえかん"
+  },
+  {
+    "title": "スーパーザクソン",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "szaxxon",
+    "note": "315-5013",
+    "titleReading": "すうぱあざくそん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スーパーパックマン",
+    "year": "1982",
+    "manufacturer": "ナムコ",
+    "name": "superpac",
+    "note": "",
+    "titleReading": "すうぱあぱっくまん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スーパーロコモーティブ",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "suprloco",
+    "note": "Rev.A",
+    "titleReading": "すうぱあろこもうてぃぶ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "スカイアーミー",
     "year": "1982",
     "manufacturer": "ショウエイ",
@@ -8262,6 +2115,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "ゼビウス",
+    "year": "1982",
+    "manufacturer": "ナムコ",
+    "name": "xevious",
+    "note": "Namco",
+    "titleReading": "ぜびうす",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ゼビオス",
     "year": "1982",
     "manufacturer": "セガ",
@@ -8278,6 +2140,15 @@ window.ARCADE_GAMES = [
     "note": "Time Tunnel",
     "titleReading": "たいむとんねる",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "タイムパイロット",
+    "year": "1982",
+    "manufacturer": "コナミ",
+    "name": "timeplt",
+    "note": "",
+    "titleReading": "たいむぱいろっと",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "タクティシャン",
@@ -8334,6 +2205,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "ディグダグ",
+    "year": "1982",
+    "manufacturer": "ナムコ",
+    "name": "digdug",
+    "note": "rev 2",
+    "titleReading": "でぃぐだぐ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ディスコナンバーワン",
     "year": "1982",
     "manufacturer": "データイースト",
@@ -8379,6 +2259,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ふぁるこん"
   },
   {
+    "title": "ドンキーコングJr.",
+    "year": "1982",
+    "manufacturer": "任天堂",
+    "name": "dkongjrj",
+    "note": "日本版",
+    "titleReading": "どんきいこんぐjr",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
     "title": "ニブラー",
     "year": "1982",
     "manufacturer": "Rock-Ola",
@@ -8404,6 +2293,33 @@ window.ARCADE_GAMES = [
     "note": "Hana Awase",
     "titleReading": "はなあわせ",
     "manufacturerReading": "よたきかくせた"
+  },
+  {
+    "title": "ハンバーガー",
+    "year": "1982",
+    "manufacturer": "データイースト",
+    "name": "btime",
+    "note": "Burger Time (Data East set 1)",
+    "titleReading": "はんばあがあ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "バーニンラバー",
+    "year": "1982",
+    "manufacturer": "データイースト",
+    "name": "brubber",
+    "note": "",
+    "titleReading": "ばあにんらばあ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "バッグマン",
+    "year": "1982",
+    "manufacturer": "Valadon Automation",
+    "name": "bagman",
+    "note": "",
+    "titleReading": "ばっぐまん",
+    "manufacturerReading": "ばらどんおーとめーしょん"
   },
   {
     "title": "バーディーキング",
@@ -8487,6 +2403,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かねこせいさくしょかねこ"
   },
   {
+    "title": "フロントライン",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "frontlin",
+    "note": "",
+    "titleReading": "ふろんとらいん",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "ブループリント",
     "year": "1982",
     "manufacturer": "Zilec Electronics / Bally Midway",
@@ -8496,12 +2421,30 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "zilecelectronics/ballymidway"
   },
   {
+    "title": "プーヤン",
+    "year": "1982",
+    "manufacturer": "コナミ",
+    "name": "pooyan",
+    "note": "",
+    "titleReading": "ぷうやん",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "プータン",
     "year": "1982",
     "manufacturer": "セガ",
     "name": "pootan",
     "note": "Pootan",
     "titleReading": "ぷたん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ペンゴ",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "pengo",
+    "note": "set 1 rev c",
+    "titleReading": "ぺんご",
     "manufacturerReading": "せが"
   },
   {
@@ -8530,6 +2473,15 @@ window.ARCADE_GAMES = [
     "note": "Dock Man (set 1)",
     "titleReading": "ぽとまん",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ポパイ",
+    "year": "1982",
+    "manufacturer": "任天堂",
+    "name": "popeye",
+    "note": "rev D",
+    "titleReading": "ぽぱい",
+    "manufacturerReading": "にんてんどう"
   },
   {
     "title": "ポンポコ",
@@ -8566,6 +2518,15 @@ window.ARCADE_GAMES = [
     "note": "Mr. Lo!",
     "titleReading": "みすたlo",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "Mr.Do！",
+    "year": "1982",
+    "manufacturer": "ユニバーサル",
+    "name": "mrdo",
+    "note": "",
+    "titleReading": "みすたーどぅ",
+    "manufacturerReading": "ゆにばあさる"
   },
   {
     "title": "ミッションＸ",
@@ -8676,6 +2637,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "williams/vidkidz"
   },
   {
+    "title": "ワイピング",
+    "year": "1982",
+    "manufacturer": "日本物産",
+    "name": "wiping",
+    "note": "",
+    "titleReading": "わいぴんぐ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
     "title": "ワイルドウエスタン",
     "year": "1982",
     "manufacturer": "タイトー",
@@ -8685,6 +2655,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "アップンダウン",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "upndown",
+    "note": "315-5030",
+    "titleReading": "あっぷんだうん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アラビアン",
+    "year": "1983",
+    "manufacturer": "サン電子",
+    "name": "arabian",
+    "note": "",
+    "titleReading": "あらびあん",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "アンブッシュ",
+    "year": "1983",
+    "manufacturer": "テクフリ （日本アミューズライセンス）",
+    "name": "ambushj",
+    "note": "日本版 / m↑",
+    "titleReading": "あんぶっしゅ",
+    "manufacturerReading": "てくふりにほんあみゅーずらいせんす"
+  },
+  {
+    "title": "イクシオン",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "ixion",
+    "note": "prototype",
+    "titleReading": "いくしおん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "インテレピッド",
     "year": "1983",
     "manufacturer": "Nova Games Ltd.",
@@ -8692,6 +2698,42 @@ window.ARCADE_GAMES = [
     "note": "Intrepid (set 1)",
     "titleReading": "いんてれぴっど",
     "manufacturerReading": "novagamesltd"
+  },
+  {
+    "title": "エキサイティングサッカー",
+    "year": "1983",
+    "manufacturer": "アルファ電子",
+    "name": "exctsccrj",
+    "note": "BAIR set 1",
+    "titleReading": "えきさいてぃんぐさっかあ",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "エクセリオン",
+    "year": "1983",
+    "manufacturer": "ジャレコ",
+    "name": "exerion",
+    "note": "",
+    "titleReading": "えくせりおん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "SF-X -スペースファイターX",
+    "year": "1983",
+    "manufacturer": "日本ゲーム （東京日本物産ライセンス）",
+    "name": "sfx",
+    "note": "",
+    "titleReading": "えすえふえっくすすぺーすふぁいたーえっくす",
+    "manufacturerReading": "にほんげーむとうきょうにほんぶっさんらいせんす"
+  },
+  {
+    "title": "エレベーターアクション",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "elevator",
+    "note": "",
+    "titleReading": "えれべえたああくしょん",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "カージャンボリー",
@@ -8728,6 +2770,33 @@ window.ARCADE_GAMES = [
     "note": "Kick Boy",
     "titleReading": "きっくぼい",
     "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "コマンド",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "commsega",
+    "note": "Sega",
+    "titleReading": "こまんど",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ザ・ビッグ・プロレスリング",
+    "year": "1983",
+    "manufacturer": "テクノスジャパン",
+    "name": "bigprowr",
+    "note": "",
+    "titleReading": "ざびっぐぷろれすりんぐ",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "シンドバッドミステリー",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "sindbadm",
+    "note": "",
+    "titleReading": "しんどばっどみすてりい",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ジェネシス",
@@ -8791,6 +2860,15 @@ window.ARCADE_GAMES = [
     "note": "Scrambled Egg",
     "titleReading": "すくらんぶるえっぐ",
     "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "スタージャッカー",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "starjack",
+    "note": "Sega",
+    "titleReading": "すたあじゃっかあ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "スティンガー",
@@ -8874,6 +2952,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にほんぶっさん"
   },
   {
+    "title": "ちゃっくんぽっぷ",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "chaknpop",
+    "note": "",
+    "titleReading": "ちゃっくんぽっぷ",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "チャンピオンベースボール",
     "year": "1983",
     "manufacturer": "アルファ電子（ADK)",
@@ -8892,6 +2979,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるふぁでんしadk"
   },
   {
+    "title": "ティップタップ",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "congo",
+    "note": "Congo Bongo (rev C 2 board stack)",
+    "titleReading": "てぃっぷたっぷ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ティンスター",
     "year": "1983",
     "manufacturer": "タイトー",
@@ -8899,6 +2995,15 @@ window.ARCADE_GAMES = [
     "note": "The Tin Star (A10, 4 PCB version)",
     "titleReading": "てぃんすた",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "10ヤードファイト",
+    "year": "1983",
+    "manufacturer": "アイレム",
+    "name": "10yardj",
+    "note": "日本版",
+    "titleReading": "てんやーどふぁいと",
+    "manufacturerReading": "あいれむ"
   },
   {
     "title": "ディスクスオブトロン",
@@ -8980,6 +3085,15 @@ window.ARCADE_GAMES = [
     "note": "High Way Race",
     "titleReading": "はいうぇいれす",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ハイパーオリンピック",
+    "year": "1983",
+    "manufacturer": "コナミ",
+    "name": "hyprolym",
+    "note": "",
+    "titleReading": "はいぱあおりんぴっく",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "バイオアタック",
@@ -9081,6 +3195,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ホッパーロボ",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "hopprobo",
+    "note": "",
+    "titleReading": "ほっぱあろぼ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ボギー'８３",
     "year": "1983",
     "manufacturer": "金子製作所（カネコ）",
@@ -9088,6 +3211,15 @@ window.ARCADE_GAMES = [
     "note": "Boggy '84",
     "titleReading": "ぼぎ'83",
     "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ポールポジションII",
+    "year": "1983",
+    "manufacturer": "ナムコ",
+    "name": "polepos2",
+    "note": "",
+    "titleReading": "ぽうるぽじしょんii",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ポッパー",
@@ -9135,6 +3267,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "mylstar"
   },
   {
+    "title": "マッピー",
+    "year": "1983",
+    "manufacturer": "ナムコ",
+    "name": "mappyj",
+    "note": "日本版",
+    "titleReading": "まっぴい",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "マービンメイズ",
     "year": "1983",
     "manufacturer": "新日本企画（SNK）",
@@ -9142,6 +3283,24 @@ window.ARCADE_GAMES = [
     "note": "Marvin's Maze",
     "titleReading": "まびんめいず",
     "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "マリオブラザーズ",
+    "year": "1983",
+    "manufacturer": "任天堂",
+    "name": "marioj",
+    "note": "USA版 rev F",
+    "titleReading": "まりおぶらざあず",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "Mr.Do！ VS ユニコーン",
+    "year": "1983",
+    "manufacturer": "ユニバーサル",
+    "name": "docastle",
+    "note": "Mr. Do's Castle (set 1)",
+    "titleReading": "みすたーどぅばーさすゆにこーん",
+    "manufacturerReading": "ゆにばあさる"
   },
   {
     "title": "メガゾーン",
@@ -9160,6 +3319,51 @@ window.ARCADE_GAMES = [
     "note": "Monoshiri Quiz Osyaberi Macha (Japan)",
     "titleReading": "ものしりくいずおしゃべりまちゃ",
     "manufacturerReading": "ろじてっく"
+  },
+  {
+    "title": "ヤマト",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "yamato",
+    "note": "",
+    "titleReading": "やまと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ラズマタズ",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "razmataz",
+    "note": "",
+    "titleReading": "らずまたず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "リブルラブル",
+    "year": "1983",
+    "manufacturer": "ナムコ",
+    "name": "liblrabl",
+    "note": "",
+    "titleReading": "りぶるらぶる",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "レグルス",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "regulus",
+    "note": "315-8088 rev A",
+    "titleReading": "れぐるす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ロックンロープ",
+    "year": "1983",
+    "manufacturer": "コナミ",
+    "name": "rocnrope",
+    "note": "",
+    "titleReading": "ろっくんろうぷ",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "Ｄ－ＤＡＹ ＜ディー･デー＞",
@@ -9189,6 +3393,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にんてんどう"
   },
   {
+    "title": "アッポー",
+    "year": "1984",
+    "manufacturer": "サンリツ / セガ",
+    "name": "appoooh",
+    "note": "",
+    "titleReading": "あっぽう",
+    "manufacturerReading": "さんりつせが"
+  },
+  {
     "title": "功夫大君 ＜カンフータイクン＞",
     "year": "1984",
     "manufacturer": "セイブ開発",
@@ -9196,6 +3409,24 @@ window.ARCADE_GAMES = [
     "note": "Kung-Fu Taikun (set 1)",
     "titleReading": "いさおたいくん<かんふたいくん>",
     "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "1942",
+    "year": "1984",
+    "manufacturer": "カプコン",
+    "name": "1942",
+    "note": "rev B",
+    "titleReading": "いちきゅうよんに",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ウォーターマッチ",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "wmatch",
+    "note": "315-5064",
+    "titleReading": "うぉうたあまっち",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ウォールクラッシュ",
@@ -9234,13 +3465,22 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるふぁでんしadk"
   },
   {
-    "title": "カントリーガール",
+    "title": "影の伝説",
     "year": "1984",
-    "manufacturer": "日本物産",
-    "name": "cntrygrl",
-    "note": "Country Girl (Japan set 1)",
-    "titleReading": "かんとりがる",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturer": "タイトー",
+    "name": "lkage",
+    "note": "",
+    "titleReading": "かげのでんせつ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "空手道",
+    "year": "1984",
+    "manufacturer": "データイースト",
+    "name": "karatedo",
+    "note": "日本版",
+    "titleReading": "からてどう",
+    "manufacturerReading": "でえたいいすと"
   },
   {
     "title": "キックスタート",
@@ -9259,6 +3499,15 @@ window.ARCADE_GAMES = [
     "note": "Kick Rider",
     "titleReading": "きっくらいだ",
     "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "ギャプラス",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "gaplus",
+    "note": "rev D",
+    "titleReading": "ぎゃぷらす",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "クラウンズゴルフ",
@@ -9288,6 +3537,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しんにほんきかくsnk"
   },
   {
+    "title": "グレートソードマン",
+    "year": "1984",
+    "manufacturer": "アルュメ / タイトー",
+    "name": "gsword2",
+    "note": "日本版",
+    "titleReading": "ぐれえとそうどまん",
+    "manufacturerReading": "あるゅめたいとう"
+  },
+  {
+    "title": "グロブダー",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "grobda",
+    "note": "new ver",
+    "titleReading": "ぐろぶだあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ゴルフ",
     "year": "1984",
     "manufacturer": "任天堂",
@@ -9295,6 +3562,15 @@ window.ARCADE_GAMES = [
     "note": "Vs. Stroke & Match Golf (Men Version, set GF4-2 F)",
     "titleReading": "ごるふ",
     "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "サーカスチャーリー",
+    "year": "1984",
+    "manufacturer": "コナミ",
+    "name": "circusc",
+    "note": "level select set 1",
+    "titleReading": "さあかすちゃありい",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "サイオン",
@@ -9313,6 +3589,15 @@ window.ARCADE_GAMES = [
     "note": "Cycle Maabou (Japan)",
     "titleReading": "さいくるまぼう",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "三輪サンちゃん",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "ssanchan",
+    "note": "日本版",
+    "titleReading": "さんりんさんちゃん",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ザ・運動会",
@@ -9342,6 +3627,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "mylstar"
   },
   {
+    "title": "ザ・闘牛",
+    "year": "1984",
+    "manufacturer": "コアランド / セガ",
+    "name": "thetogyu",
+    "note": "315-5065, 日本版",
+    "titleReading": "ざとうぎゅう",
+    "manufacturerReading": "こあらんどせが"
+  },
+  {
+    "title": "ザ・バトルロード",
+    "year": "1984",
+    "manufacturer": "アイレム",
+    "name": "battroad",
+    "note": "",
+    "titleReading": "ざばとるろうど",
+    "manufacturerReading": "あいれむ"
+  },
+  {
     "title": "ザビガ",
     "year": "1984",
     "manufacturer": "データイースト",
@@ -9358,6 +3661,24 @@ window.ARCADE_GAMES = [
     "note": "Sea Fighter Poseidon",
     "titleReading": "しふぁいたぽせいどん",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "出世大相撲",
+    "year": "1984",
+    "manufacturer": "テクノスジャパン",
+    "name": "ssozumo",
+    "note": "日本版",
+    "titleReading": "しゅっせおおずもう",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "新入社員とおるくん",
+    "year": "1984",
+    "manufacturer": "コナミ",
+    "name": "mikie",
+    "note": "Mikie",
+    "titleReading": "しんにゅうしゃいんとおるくん",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ジャイロダイン",
@@ -9387,6 +3708,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ゆにばあさる"
   },
   {
+    "title": "スーパーゼビウス",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "sxeviousj",
+    "note": "BARR",
+    "titleReading": "すうぱあぜびうす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スーパーパンチアウト！！",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "spnchout",
+    "note": "",
+    "titleReading": "すうぱあぱんちあうと",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "スーパーピエロ",
+    "year": "1984",
+    "manufacturer": "ユニバーサル",
+    "name": "dorunrun",
+    "note": "Do! Run Run (set 1)",
+    "titleReading": "すうぱあぴえろ",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "スターフォース",
+    "year": "1984",
+    "manufacturer": "テーカン",
+    "name": "starforc",
+    "note": "",
+    "titleReading": "すたあふぉうす",
+    "manufacturerReading": "てえかん"
+  },
+  {
     "title": "スーパーバスケットボール",
     "year": "1984",
     "manufacturer": "コナミ工業",
@@ -9394,6 +3751,15 @@ window.ARCADE_GAMES = [
     "note": "Super Basketball (version I, encrypted)",
     "titleReading": "すぱばすけっとぼる",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スパルタンX",
+    "year": "1984",
+    "manufacturer": "アイレム",
+    "name": "spartanx",
+    "note": "日本版",
+    "titleReading": "すぱるたんx",
+    "manufacturerReading": "あいれむ"
   },
   {
     "title": "スピードアタック！",
@@ -9423,6 +3789,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ありす"
   },
   {
+    "title": "ソンソン",
+    "year": "1984",
+    "manufacturer": "カプコン",
+    "name": "sonsonj",
+    "note": "日本版",
+    "titleReading": "そんそん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "対戦 空手道 -青春美少女編",
+    "year": "1984",
+    "manufacturer": "データイースト",
+    "name": "karatevs",
+    "note": "日本版 VS ver",
+    "titleReading": "たいせんからてどうせいしゅんびしょうじょへん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
     "title": "タイムパイロット'８４ -Further into unknown world.-",
     "year": "1984",
     "manufacturer": "コナミ工業",
@@ -9439,6 +3823,24 @@ window.ARCADE_GAMES = [
     "note": "Dynamic Ski",
     "titleReading": "だいなみっくすき",
     "manufacturerReading": "たいようしすてむ"
+  },
+  {
+    "title": "チャイニーズヒーロー",
+    "year": "1984",
+    "manufacturer": "タイヨーシステム",
+    "name": "chinhero",
+    "note": "",
+    "titleReading": "ちゃいにいずひいろう",
+    "manufacturerReading": "たいようしすてむ"
+  },
+  {
+    "title": "チャンピオンボクシング",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "chboxing",
+    "note": "",
+    "titleReading": "ちゃんぴおんぼくしんぐ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "チューブパニック",
@@ -9468,6 +3870,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こすもでんし"
   },
   {
+    "title": "ドラゴンバスター",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "drgnbstr",
+    "note": "",
+    "titleReading": "どらごんばすたあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ドルアーガの塔",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "todruaga",
+    "note": "new ver",
+    "titleReading": "どるああがのとう",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "忍者くん -魔城の冒険",
+    "year": "1984",
+    "manufacturer": "UPL （タイトーライセンス）",
+    "name": "ninjakun",
+    "note": "",
+    "titleReading": "にんじゃくんまじょうのぼうけん",
+    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
+  },
+  {
+    "title": "ハイパーオリンピック '84",
+    "year": "1984",
+    "manufacturer": "コナミ （センチュリライセンス）",
+    "name": "hyperspt",
+    "note": "Hyper Sports",
+    "titleReading": "はいぱあおりんぴっく84",
+    "manufacturerReading": "こなみせんちゅりらいせんす"
+  },
+  {
     "title": "バギー・チャレンジ",
     "year": "1984",
     "manufacturer": "タイトー",
@@ -9486,6 +3924,51 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "くらっくす"
   },
   {
+    "title": "バッテンオハラのスチャラカ空中戦",
+    "year": "1984",
+    "manufacturer": "テクノスジャパン",
+    "name": "dogfgt",
+    "note": "Acrobatic Dog-Fight",
+    "titleReading": "ばってんおはらのすちゃらかくうちゅうせん",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "バルガス",
+    "year": "1984",
+    "manufacturer": "カプコン",
+    "name": "vulgusj",
+    "note": "日本版？",
+    "titleReading": "ばるがす",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "バンクパニック",
+    "year": "1984",
+    "manufacturer": "サンリツ / セガ",
+    "name": "bankp",
+    "note": "",
+    "titleReading": "ばんくぱにっく",
+    "manufacturerReading": "さんりつせが"
+  },
+  {
+    "title": "VS.バルーンファイト",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "balonfgt",
+    "note": "set BF4 A-3",
+    "titleReading": "ばーさすばるーんふぁいと",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "パックランド",
+    "year": "1984",
+    "manufacturer": "ナムコ",
+    "name": "paclandj",
+    "note": "set 1",
+    "titleReading": "ぱっくらんど",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "パラレルターン",
     "year": "1984",
     "manufacturer": "ジャレコ",
@@ -9495,6 +3978,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
+    "title": "パンチアウト！！",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "punchout",
+    "note": "Rev B",
+    "titleReading": "ぱんちあうと",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "ひげ丸",
+    "year": "1984",
+    "manufacturer": "カプコン",
+    "name": "higemaru",
+    "note": "Pirate Ship Higemaru",
+    "titleReading": "ひげまる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ビクトリアス ナイン",
     "year": "1984",
     "manufacturer": "タイトー",
@@ -9502,6 +4003,15 @@ window.ARCADE_GAMES = [
     "note": "Victorious Nine",
     "titleReading": "びくとりあすないん",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "B-ウィング",
+    "year": "1984",
+    "manufacturer": "データイースト",
+    "name": "bwings",
+    "note": "日本版",
+    "titleReading": "びーういんぐ",
+    "manufacturerReading": "でえたいいすと"
   },
   {
     "title": "ピーターパックラット",
@@ -9540,6 +4050,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
+    "title": "40-0 ＜フォーティラブ＞",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "40love",
+    "note": "",
+    "titleReading": "ふぉーてぃらぶ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "フューチャースパイ",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "futspy",
+    "note": "315-6061",
+    "titleReading": "ふゅうちゃあすぱい",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "フリッキー",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "flicky",
+    "note": "128k ver system 2 315-5051",
+    "titleReading": "ふりっきい",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ブルファイター",
     "year": "1984",
     "manufacturer": "アルファ電子（ADK)",
@@ -9556,6 +4093,15 @@ window.ARCADE_GAMES = [
     "note": "Progress",
     "titleReading": "ぷろぐれす",
     "manufacturerReading": "ろらとろん"
+  },
+  {
+    "title": "べんべろべえ",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "benberob",
+    "note": "日本版",
+    "titleReading": "べんべろべえ",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "ペーパーボーイ",
@@ -9576,6 +4122,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "tecfri"
   },
   {
+    "title": "ボンジャック",
+    "year": "1984",
+    "manufacturer": "テーカン",
+    "name": "bombjack",
+    "note": "set 1",
+    "titleReading": "ぼんじゃっく",
+    "manufacturerReading": "てえかん"
+  },
+  {
+    "title": "マーブルマッドネス",
+    "year": "1984",
+    "manufacturer": "アタリゲームズ",
+    "name": "marble",
+    "note": "set 1",
+    "titleReading": "まあぶるまっどねす",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
     "title": "マイキー -HIGHSCHOOL GRAFFITI-",
     "year": "1984",
     "manufacturer": "コナミ工業",
@@ -9594,6 +4158,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しんにほんきかくsnk"
   },
   {
+    "title": "ミスターバイキング",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "mrviking",
+    "note": "315-5041",
+    "titleReading": "みすたあばいきんぐ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ミスタークーガー",
     "year": "1984",
     "manufacturer": "ATW",
@@ -9601,6 +4174,15 @@ window.ARCADE_GAMES = [
     "note": "Mr. Kougar",
     "titleReading": "みすたくが",
     "manufacturerReading": "atw"
+  },
+  {
+    "title": "Mr.Do's ワイルドライド",
+    "year": "1984",
+    "manufacturer": "ユニバーサル",
+    "name": "dowild",
+    "note": "",
+    "titleReading": "みすたーどぅーずわいるどらいど",
+    "manufacturerReading": "ゆにばあさる"
   },
   {
     "title": "ミステリアスストーンズ -Dr.キックの大冒険-",
@@ -9639,13 +4221,31 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
-    "title": "ロイヤルカジノ",
+    "title": "ロードファイター",
     "year": "1984",
-    "manufacturer": "ダイナエレクトロニクス（ダイナックス）",
-    "name": "rcasino",
-    "note": "Royal Casino (D-2608208A1-2)",
-    "titleReading": "ろいやるかじの",
-    "manufacturerReading": "だいなえれくとろにくすだいなっくす"
+    "manufacturer": "コナミ",
+    "name": "roadf",
+    "note": "set 1",
+    "titleReading": "ろうどふぁいたあ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ロードランナー",
+    "year": "1984",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "ldrun",
+    "note": "set 1",
+    "titleReading": "ろうどらんなあ",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+  },
+  {
+    "title": "ロードランナー -バンゲリング帝国の逆襲",
+    "year": "1984",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "ldrun2",
+    "note": "",
+    "titleReading": "ろうどらんなあばんげりんぐていこくのぎゃくしゅう",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
   },
   {
     "title": "ワイリータワー",
@@ -9664,6 +4264,15 @@ window.ARCADE_GAMES = [
     "note": "Wai Wai Jockey Gate-In!",
     "titleReading": "わいわいじょっきげといん",
     "manufacturerReading": "かしお"
+  },
+  {
+    "title": "ヴァンガードII",
+    "year": "1984",
+    "manufacturer": "SNK",
+    "name": "vangrd2",
+    "note": "",
+    "titleReading": "ゔぁんがあどii",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "ＲＦ-２ ＜レッドファイター2＞",
@@ -9702,6 +4311,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "ASO -Armored Scrum Object-",
+    "year": "1985",
+    "manufacturer": "SNK",
+    "name": "aso",
+    "note": "",
+    "titleReading": "あそーあーマーどすくらむおぶじぇくと",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "イー・アル・カンフー",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "yiear",
+    "note": "set 1",
+    "titleReading": "いいあるかんふう",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "いっき",
+    "year": "1985",
+    "manufacturer": "サン電子",
+    "name": "ikki",
+    "note": "日本版",
+    "titleReading": "いっき",
+    "manufacturerReading": "さんでんし"
+  },
+  {
     "title": "インディージョーンズ -魔宮の伝説-",
     "year": "1985",
     "manufacturer": "アタリゲームズ",
@@ -9729,6 +4365,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せいぶかいはつ"
   },
   {
+    "title": "エキサイティングアワー",
+    "year": "1985",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
+    "name": "excthour",
+    "note": "",
+    "titleReading": "えきさいてぃんぐあわあ",
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+  },
+  {
     "title": "エキサイティング・アワー -ザ・プロレスリング・ネットワーク-",
     "year": "1985",
     "manufacturer": "テクノスジャパン",
@@ -9738,6 +4383,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "てくのすじゃぱん"
   },
   {
+    "title": "エグゼドエグゼス",
+    "year": "1985",
+    "manufacturer": "カプコン",
+    "name": "exedexes",
+    "note": "",
+    "titleReading": "えぐぜどえぐぜす",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "女三四郎 -TYPHOON GAL-",
     "year": "1985",
     "manufacturer": "タイトー",
@@ -9745,6 +4399,24 @@ window.ARCADE_GAMES = [
     "note": "Onna Sanshirou - Typhoon Gal",
     "titleReading": "おんなさんしろうtyphoongal",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ガンスモーク",
+    "year": "1985",
+    "manufacturer": "カプコン",
+    "name": "gunsmokej",
+    "note": "海外版",
+    "titleReading": "がんすもうく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ガントレット",
+    "year": "1985",
+    "manufacturer": "アタリゲームズ",
+    "name": "gauntletj",
+    "note": "rev 14",
+    "titleReading": "がんとれっと",
+    "manufacturerReading": "あたりげえむず"
   },
   {
     "title": "北派少林 飛龍の拳 -異種格闘技 世界選手権-",
@@ -9792,6 +4464,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいへいぎけんなすこ"
   },
   {
+    "title": "グラディウス",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "gradius",
+    "note": "BANE rom ver",
+    "titleReading": "ぐらでぃうす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "グリーンベレー",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "gberet",
+    "note": "",
+    "titleReading": "ぐりいんべれえ",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "グリダイアンファイト",
     "year": "1985",
     "manufacturer": "テーカン（テクモ）",
@@ -9799,6 +4489,15 @@ window.ARCADE_GAMES = [
     "note": "Gridiron Fight",
     "titleReading": "ぐりだいあんふぁいと",
     "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "決死の探検サバイバル ゆけゆけ！山口君",
+    "year": "1985",
+    "manufacturer": "カネコ / タイトー",
+    "name": "yamagchi",
+    "note": "",
+    "titleReading": "けっしのたんけんさばいばるゆけゆけやまぐちくん",
+    "manufacturerReading": "かねこたいとう"
   },
   {
     "title": "激走",
@@ -9819,6 +4518,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にほんぶっさん"
   },
   {
+    "title": "コップ01",
+    "year": "1985",
+    "manufacturer": "日本物産",
+    "name": "cop01a",
+    "note": "",
+    "titleReading": "こっぷ01",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "コナミのピンポン",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "pingpong",
+    "note": "",
+    "titleReading": "こなみのぴんぽん",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "サッカー",
     "year": "1985",
     "manufacturer": "任天堂",
@@ -9837,6 +4554,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しぐま"
   },
   {
+    "title": "侍日本一",
+    "year": "1985",
+    "manufacturer": "カネコ / タイトー",
+    "name": "tsamurai",
+    "note": "",
+    "titleReading": "さむらいにっぽんいち",
+    "manufacturerReading": "かねこたいとう"
+  },
+  {
+    "title": "ザ・高校野球",
+    "year": "1985",
+    "manufacturer": "アルファ電子",
+    "name": "kouyakyu",
+    "note": "",
+    "titleReading": "ざこうこうやきゅう",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
     "title": "ザ・フェアリーランドストーリー",
     "year": "1985",
     "manufacturer": "タイトー",
@@ -9844,6 +4579,24 @@ window.ARCADE_GAMES = [
     "note": "The FairyLand Story",
     "titleReading": "ざふぇありらんどすとり",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "シティコネクション",
+    "year": "1985",
+    "manufacturer": "ジャレコ",
+    "name": "citycon",
+    "note": "set 1",
+    "titleReading": "してぃこねくしょん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "少林寺への道",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "kicker",
+    "note": "Kicker",
+    "titleReading": "しょうりんじへのみち",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ショットライダー",
@@ -9855,6 +4608,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せいぶかいはつ"
   },
   {
+    "title": "スカイキッド",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "skykid",
+    "note": "new ver",
+    "titleReading": "すかいきっど",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "スプレンダー・ブラスト",
     "year": "1985",
     "manufacturer": "アルファ電子（ADK）",
@@ -9862,6 +4624,60 @@ window.ARCADE_GAMES = [
     "note": "Splendor Blast (set 1)",
     "titleReading": "すぷれんだぶらすと",
     "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "スペースハリアー",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "sharrier",
+    "note": "Rev A, 8751 317-5163A / m↑",
+    "titleReading": "すぺえすはりああ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スペランカー",
+    "year": "1985",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "spelunkrj",
+    "note": "日本版",
+    "titleReading": "すぺらんかあ",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+  },
+  {
+    "title": "青春スキャンダル",
+    "year": "1985",
+    "manufacturer": "コアランド / セガ",
+    "name": "sscandal",
+    "note": "日本版 315-5132",
+    "titleReading": "せいしゅんすきゃんだる",
+    "manufacturerReading": "こあらんどせが"
+  },
+  {
+    "title": "セクションZ",
+    "year": "1985",
+    "manufacturer": "カプコン",
+    "name": "sectionz",
+    "note": "set 1",
+    "titleReading": "せくしょんz",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "戦場の狼",
+    "year": "1985",
+    "manufacturer": "カプコン",
+    "name": "commandoj",
+    "note": "",
+    "titleReading": "せんじょうのおおかみ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "タイガーヘリ",
+    "year": "1985",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "tigerhj",
+    "note": "日本版 set 2",
+    "titleReading": "たいがあへり",
+    "manufacturerReading": "とうあぷらんたいとう"
   },
   {
     "title": "タンクバスターズ",
@@ -9882,6 +4698,87 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "チャンピオンプロレス",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "chwrestl",
+    "note": "",
+    "titleReading": "ちゃんぴおんぷろれす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "チョップリフター",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "choplift",
+    "note": "8751 315-5151",
+    "titleReading": "ちょっぷりふたー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ツインビー",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "twinbee",
+    "note": "rom ver",
+    "titleReading": "ついんびい",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "T.A.N.K.",
+    "year": "1985",
+    "manufacturer": "SNK",
+    "name": "tnk3j",
+    "note": "日本版",
+    "titleReading": "てぃーえーえぬけー",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "テーカンワールドカップ",
+    "year": "1985",
+    "manufacturer": "テーカン",
+    "name": "tehkanwc",
+    "note": "set 1",
+    "titleReading": "てえかんわあるどかっぷ",
+    "manufacturerReading": "てえかん"
+  },
+  {
+    "title": "テディーボーイ・ブルース",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "teddybb",
+    "note": "315-5115 new ver",
+    "titleReading": "てでぃいぼういぶるうす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "テラクレスタ",
+    "year": "1985",
+    "manufacturer": "日本物産",
+    "name": "terracre",
+    "note": "YM3526 set 1",
+    "titleReading": "てらくれすた",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ディグダグII",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "digdug2",
+    "note": "new ver",
+    "titleReading": "でぃぐだぐii",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "どきどきペンギンランド",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "dokidoki",
+    "note": "",
+    "titleReading": "どきどきぺんぎんらんど",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ナックルジョー",
     "year": "1985",
     "manufacturer": "セイブ開発",
@@ -9889,6 +4786,15 @@ window.ARCADE_GAMES = [
     "note": "Knuckle Joe (set 1)",
     "titleReading": "なっくるじょ",
     "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "忍者プリンセス",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "seganinj",
+    "note": "Sega Ninja",
+    "titleReading": "にんじゃぷりんせす",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ヌンチャクン",
@@ -9918,6 +4824,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しんにほんきかくsnk"
   },
   {
+    "title": "ハングオン",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "hangon",
+    "note": "rev A",
+    "titleReading": "はんぐおん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ハング・オン・ジュニア",
     "year": "1985",
     "manufacturer": "セガ",
@@ -9936,6 +4851,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たつみでんしこうぎょう"
   },
   {
+    "title": "バラデューク",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "baraduke",
+    "note": "",
+    "titleReading": "ばらでゅーく",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "VS.バンゲリングベイ",
+    "year": "1985",
+    "manufacturer": "任天堂 / ブローダーバンド",
+    "name": "bnglngby",
+    "note": "RD4-2 B",
+    "titleReading": "ばーさすばんげりんぐべい",
+    "manufacturerReading": "にんてんどうぶろーだーばんど"
+  },
+  {
     "title": "パフォーマン",
     "year": "1985",
     "manufacturer": "東亜プラン",
@@ -9945,6 +4878,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とうあぷらん"
   },
   {
+    "title": "ピットフォールII -The Lost Caverns",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "pitfall2",
+    "note": "315-5093",
+    "titleReading": "ぴっとふぉうるiithelostcaverns",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ピンボールアクション",
+    "year": "1985",
+    "manufacturer": "テーカン",
+    "name": "pbaction",
+    "note": "set 1",
+    "titleReading": "ぴんぼうるあくしょん",
+    "manufacturerReading": "てえかん"
+  },
+  {
     "title": "ピンポンキング",
     "year": "1985",
     "manufacturer": "セタ / 金子製作所",
@@ -9952,6 +4903,42 @@ window.ARCADE_GAMES = [
     "note": "Ping-Pong King",
     "titleReading": "ぴんぽんきんぐ",
     "manufacturerReading": "せた/かねこせいさくしょ"
+  },
+  {
+    "title": "ファイナライザー -スーパートランスフォーメーション",
+    "year": "1985",
+    "manufacturer": "コナミ",
+    "name": "finalizr",
+    "note": "",
+    "titleReading": "ふぁいならいざあすうぱあとらんすふぉうめえしょん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "フェアリーランドストーリー",
+    "year": "1985",
+    "manufacturer": "タイトー",
+    "name": "flstoryj",
+    "note": "日本版",
+    "titleReading": "ふぇありいらんどすとうりい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "4-Dウォリアーズ",
+    "year": "1985",
+    "manufacturer": "コアランド / セガ",
+    "name": "4dwarrio",
+    "note": "315-5162",
+    "titleReading": "ふぉーでぃーうぉりあーず",
+    "manufacturerReading": "こあらんどせが"
+  },
+  {
+    "title": "フラッシュギャル",
+    "year": "1985",
+    "manufacturer": "九娯貿易 / セガ",
+    "name": "flashgal",
+    "note": "set 1",
+    "titleReading": "ふらっしゅぎゃる",
+    "manufacturerReading": "きゅうごぼうえきせが"
   },
   {
     "title": "ブギーマナー",
@@ -9972,6 +4959,60 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ヘビーメタル",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "hvymetal",
+    "note": "315-5135",
+    "titleReading": "へびいめたる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ぺんぎんくんウォーズ",
+    "year": "1985",
+    "manufacturer": "UPL",
+    "name": "pkunwarj",
+    "note": "日本版",
+    "titleReading": "ぺんぎんくんうぉうず",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "北派少林 飛龍の拳",
+    "year": "1985",
+    "manufacturer": "タイヨーシステム （タイトーライセンス）",
+    "name": "hiryuken",
+    "note": "",
+    "titleReading": "ほくはしょうりんひりゅうのけん",
+    "manufacturerReading": "たいようしすてむたいとうらいせんす"
+  },
+  {
+    "title": "魔界村",
+    "year": "1985",
+    "manufacturer": "カプコン",
+    "name": "makaimur",
+    "note": "日本版",
+    "titleReading": "まかいむら",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マグマックス",
+    "year": "1985",
+    "manufacturer": "日本物産",
+    "name": "magmax",
+    "note": "",
+    "titleReading": "まぐまっくす",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "メジャーリーグ",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "mjleague",
+    "note": "",
+    "titleReading": "めじゃーりーぐ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "メタルクラッシュ",
     "year": "1985",
     "manufacturer": "データイースト",
@@ -9981,22 +5022,40 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
-    "title": "ラッキーガール",
+    "title": "メトロクロス",
     "year": "1985",
-    "manufacturer": "ウィング",
-    "name": "luckygrl",
-    "note": "Lucky Girl (Wing)",
-    "titleReading": "らっきがる",
-    "manufacturerReading": "うぃんぐ"
+    "manufacturer": "ナムコ",
+    "name": "metrocrs",
+    "note": "set 1",
+    "titleReading": "めとろくろす",
+    "manufacturerReading": "なむこ"
   },
   {
-    "title": "ラブリー・ポーカー",
+    "title": "モトス",
     "year": "1985",
-    "manufacturer": "テーカン（テクモ）",
-    "name": "lvpoker",
-    "note": "Lovely Poker [BET]",
-    "titleReading": "らぶりぽか",
-    "manufacturerReading": "てかんてくも"
+    "manufacturer": "ナムコ",
+    "name": "motos",
+    "note": "",
+    "titleReading": "もとす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "リターン・オブ・ザ・インベーダーズ",
+    "year": "1985",
+    "manufacturer": "タイトー",
+    "name": "retofinv",
+    "note": "",
+    "titleReading": "りたあんおぶざいんべえだあず",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "リパルス",
+    "year": "1985",
+    "manufacturer": "Crux / セガ",
+    "name": "repulse",
+    "note": "",
+    "titleReading": "りぱるす",
+    "manufacturerReading": "くるっくすせが"
   },
   {
     "title": "レイダース５",
@@ -10015,6 +5074,24 @@ window.ARCADE_GAMES = [
     "note": "Lady Master of Kung Fu (set 1, newer)",
     "titleReading": "れでぃますた",
     "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ロードランナー -魔神の復活",
+    "year": "1985",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "ldrun3j",
+    "note": "",
+    "titleReading": "ろうどらんなあまじんのふっかつ",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+  },
+  {
+    "title": "ロットロット",
+    "year": "1985",
+    "manufacturer": "アイレム （徳間書店ライセンス）",
+    "name": "lotlot",
+    "note": "",
+    "titleReading": "ろっとろっと",
+    "manufacturerReading": "あいれむとくましょてんらいせんす"
   },
   {
     "title": "ロードランナーIII -魔神の復活-",
@@ -10053,6 +5130,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にんてんどう"
   },
   {
+    "title": "アーガス",
+    "year": "1986",
+    "manufacturer": "NMK （ジャレコライセンス）",
+    "name": "argus",
+    "note": "",
+    "titleReading": "ああがす",
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+  },
+  {
+    "title": "アウトラン",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "outrun",
+    "note": "set 1",
+    "titleReading": "あうとらん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "アクションファイター",
     "year": "1986",
     "manufacturer": "セガ",
@@ -10060,6 +5155,42 @@ window.ARCADE_GAMES = [
     "note": "Action Fighter (FD1089A 317-0018)",
     "titleReading": "あくしょんふぁいた",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "アストロフラッシュ",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "astrofl",
+    "note": "日本版",
+    "titleReading": "あすとろふらっしゅ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アテナ",
+    "year": "1986",
+    "manufacturer": "SNK",
+    "name": "athena",
+    "note": "",
+    "titleReading": "あてな",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "アルカノイド",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "arkanoidj",
+    "note": "日本版, newer / m↑",
+    "titleReading": "あるかのいど",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "アルゴスの戦士",
+    "year": "1986",
+    "manufacturer": "テクモ",
+    "name": "rygarj",
+    "note": "日本版",
+    "titleReading": "あるごすのせんし",
+    "manufacturerReading": "てくも"
   },
   {
     "title": "アルファックス・ゼット",
@@ -10071,6 +5202,60 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "うっどぷれいす"
   },
   {
+    "title": "アレスの翼 -The Legendary Soldiers",
+    "year": "1986",
+    "manufacturer": "カプコン",
+    "name": "lwingsj",
+    "note": "日本版 rev. B",
+    "titleReading": "あれすのつばさthelegendarysoldiers",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "アレックスキッド ザ・ロストスターズ",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "alexkidd",
+    "note": "set 2, unprotected",
+    "titleReading": "あれっくすきっどざろすとすたーず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "怒",
+    "year": "1986",
+    "manufacturer": "SNK",
+    "name": "ikari",
+    "note": "Ikari Warriors (USA版)",
+    "titleReading": "いかり",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "イシターの復活",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "roishtar",
+    "note": "",
+    "titleReading": "いしたあのふっかつ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "S.R.D.ミッション",
+    "year": "1986",
+    "manufacturer": "九娯貿易 / タイトー",
+    "name": "srdmissn",
+    "note": "",
+    "titleReading": "えすあーるでぃーみっしょん",
+    "manufacturerReading": "きゅうごぼうえきたいとう"
+  },
+  {
+    "title": "エンデューロレーサー",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "endurobl",
+    "note": "bootleg set 1",
+    "titleReading": "えんでゅうろれえさあ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "エンパイア シティ:１９３１",
     "year": "1986",
     "manufacturer": "セイブ開発",
@@ -10078,6 +5263,78 @@ window.ARCADE_GAMES = [
     "note": "Empire City: 1931 (bootleg?)",
     "titleReading": "えんぱいあしてぃ1931",
     "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "黄金の城",
+    "year": "1986",
+    "manufacturer": "アルュメ / タイトー",
+    "name": "ogonsiro",
+    "note": "日本版",
+    "titleReading": "おうごんのしろ",
+    "manufacturerReading": "あるゅめたいとう"
+  },
+  {
+    "title": "快傑ヤンチャ丸",
+    "year": "1986",
+    "manufacturer": "アイレム",
+    "name": "yanchamr",
+    "note": "日本版",
+    "titleReading": "かいけつやんちゃまる",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "カルテット",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "quartet",
+    "note": "Rev A / 8751 315-5194",
+    "titleReading": "かるてっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カルテット2",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "quartet2",
+    "note": "8751 317-0010",
+    "titleReading": "かるてっと2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カロリーくんVSモグラニアン",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "calorie",
+    "note": "",
+    "titleReading": "かろりーくんばーさすもぐらにあん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ガルディア",
+    "year": "1986",
+    "manufacturer": "セガ / コアランド",
+    "name": "gardia",
+    "note": "317-0006",
+    "titleReading": "がるでぃあ",
+    "manufacturerReading": "せがこあらんど"
+  },
+  {
+    "title": "奇々怪界",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "kikikai",
+    "note": "",
+    "titleReading": "ききかいかい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ギガス",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "gigas",
+    "note": "MC-8123 / 317-5002",
+    "titleReading": "ぎがす",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ギガス MARKII",
@@ -10098,6 +5355,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "うっどぷれいす"
   },
   {
+    "title": "源平討魔伝",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "genpeitd",
+    "note": "",
+    "titleReading": "げんぺいとうまでん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "コンペティションゴルフ・決勝ラウンド",
     "year": "1986",
     "manufacturer": "データイースト",
@@ -10107,6 +5373,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "サイドアーム -Hyper Dyne",
+    "year": "1986",
+    "manufacturer": "カプコン",
+    "name": "sidearms",
+    "note": "海外版",
+    "titleReading": "さいどああむhyperdyne",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "沙羅曼蛇",
+    "year": "1986",
+    "manufacturer": "コナミ",
+    "name": "salamand",
+    "note": "ver D",
+    "titleReading": "さらまんだ",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "サンダーセプター",
     "year": "1986",
     "manufacturer": "ナムコ",
@@ -10114,6 +5398,24 @@ window.ARCADE_GAMES = [
     "note": "Thunder Ceptor",
     "titleReading": "さんだせぷた",
     "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スカイキッドDX",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "skykiddx",
+    "note": "set 1",
+    "titleReading": "すかいきっどdx",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スクランブルフォーメーション",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "tokiob",
+    "note": "bootleg",
+    "titleReading": "すくらんぶるふぉーめーしょん",
+    "manufacturerReading": "たいとー"
   },
   {
     "title": "スーパーオセロ",
@@ -10161,6 +5463,60 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "おおひらぎけんなすこ"
   },
   {
+    "title": "スペランカーII -23の鍵",
+    "year": "1986",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "spelunk2",
+    "note": "",
+    "titleReading": "すぺらんかあii23のかぎ",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+  },
+  {
+    "title": "スラップファイト",
+    "year": "1986",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "slapfigh",
+    "note": "set 1",
+    "titleReading": "すらっぷふぁいと",
+    "manufacturerReading": "とうあぷらんたいとう"
+  },
+  {
+    "title": "聖戦士アマテラス",
+    "year": "1986",
+    "manufacturer": "日本物産",
+    "name": "amatelas",
+    "note": "",
+    "titleReading": "せいせんしあまてらす",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ソロモンの鍵",
+    "year": "1986",
+    "manufacturer": "テクモ",
+    "name": "solomonj",
+    "note": "日本版",
+    "titleReading": "そろもんのかぎ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "闘いの挽歌",
+    "year": "1986",
+    "manufacturer": "カプコン",
+    "name": "trojanj",
+    "note": "日本版",
+    "titleReading": "たたかいのばんか",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ダーウィン4078",
+    "year": "1986",
+    "manufacturer": "データイースト",
+    "name": "darwin",
+    "note": "日本版",
+    "titleReading": "だあうぃん4078",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
     "title": "大怪獣の逆襲",
     "year": "1986",
     "manufacturer": "テクノスジャパン",
@@ -10168,6 +5524,15 @@ window.ARCADE_GAMES = [
     "note": "Daikaiju no Gyakushu",
     "titleReading": "だいかいじゅうのぎゃくしゅう",
     "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "大列車強盗",
+    "year": "1986",
+    "manufacturer": "コナミ",
+    "name": "ironhors",
+    "note": "",
+    "titleReading": "だいれっしゃごうとう",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ダークミスト -THE LOST CASTLE IN DARKMIST-",
@@ -10179,6 +5544,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せいぶかいはつ"
   },
   {
+    "title": "WECル・マン24",
+    "year": "1986",
+    "manufacturer": "コナミ",
+    "name": "wecleman",
+    "note": "",
+    "titleReading": "だぶりゅーいーしーるまんにじゅうよん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "XXミッション",
+    "year": "1986",
+    "manufacturer": "UPL",
+    "name": "xxmissio",
+    "note": "",
+    "titleReading": "だぶるえっくすみっしょん",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
     "title": "ダブルドリブル -The Ultimate Basketball Game-",
     "year": "1986",
     "manufacturer": "コナミ工業",
@@ -10186,6 +5569,24 @@ window.ARCADE_GAMES = [
     "note": "Double Dribble",
     "titleReading": "だぶるどりぶるtheultimatebasketballgame",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ダライアス",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "dariusj",
+    "note": "日本版",
+    "titleReading": "だらいあす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ダライアス",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "dariuse",
+    "note": "日本版 Extra ver",
+    "titleReading": "だらいあす",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "ダンプ松本",
@@ -10215,6 +5616,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しねまとろにくす"
   },
   {
+    "title": "トイポップ",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "toypop",
+    "note": "",
+    "titleReading": "といぽっぷ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "特殊部隊ジャッカル",
+    "year": "1986",
+    "manufacturer": "コナミ",
+    "name": "jackalj",
+    "note": "日本版",
+    "titleReading": "とくしゅぶたいじゃっかる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "怒号層圏",
+    "year": "1986",
+    "manufacturer": "SNK",
+    "name": "dogosoke",
+    "note": "",
+    "titleReading": "どごうそうけん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "熱血硬派くにおくん",
+    "year": "1986",
+    "manufacturer": "テクノスジャパン",
+    "name": "kuniokun",
+    "note": "日本版",
+    "titleReading": "ねっけつこうはくにおくん",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
     "title": "のぼらんか",
     "year": "1986",
     "manufacturer": "コアランド（バンプレスト）",
@@ -10222,6 +5659,78 @@ window.ARCADE_GAMES = [
     "note": "Noboranka (Japan)",
     "titleReading": "のぼらんか",
     "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "ハレーズコメット",
+    "year": "1986",
+    "manufacturer": "タイトー・アメリカ （Coin-Itライセンス）",
+    "name": "halleysc",
+    "note": "日本版 newer",
+    "titleReading": "はれえずこめっと",
+    "manufacturerReading": "たいとうあめりかこいんいっとらいせんす"
+  },
+  {
+    "title": "バトルレーンVol.5",
+    "year": "1986",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
+    "name": "battlane",
+    "note": "set 1",
+    "titleReading": "ばとるれえんvol5",
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+  },
+  {
+    "title": "バブルボブル",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "bublbobl",
+    "note": "",
+    "titleReading": "ばぶるぼぶる",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バルトリック",
+    "year": "1986",
+    "manufacturer": "NMK （ジャレコライセンス）",
+    "name": "valtric",
+    "note": "",
+    "titleReading": "ばるとりっく",
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+  },
+  {
+    "title": "バルバルークの伝説",
+    "year": "1986",
+    "manufacturer": "エイブル",
+    "name": "baluba",
+    "note": "",
+    "titleReading": "ばるばるうくのでんせつ",
+    "manufacturerReading": "えいぶる"
+  },
+  {
+    "title": "ピタゴラスの謎",
+    "year": "1986",
+    "manufacturer": "セガ / ナスコ",
+    "name": "ridleofp",
+    "note": "AAR",
+    "titleReading": "ぴたごらすのなぞ",
+    "manufacturerReading": "せがなすこ"
+  },
+  {
+    "title": "ファイヤートラップ",
+    "year": "1986",
+    "manufacturer": "ウッドプレイス",
+    "name": "firetrapj",
+    "note": "日本版 / m↑",
+    "titleReading": "ふぁいやあとらっぷ",
+    "manufacturerReading": "うっどぷれいす"
+  },
+  {
+    "title": "ファンタジーゾーン",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "fantzone",
+    "note": "rev A unprotected",
+    "titleReading": "ふぁんたじいぞうん",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ブレイン",
@@ -10240,6 +5749,15 @@ window.ARCADE_GAMES = [
     "note": "Prebillian",
     "titleReading": "ぷれびりあん",
     "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ホッピングマッピー",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "hopmappy",
+    "note": "",
+    "titleReading": "ほっぴんぐまっぴい",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ボブルボブル",
@@ -10269,6 +5787,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "Mr.五右衛門",
+    "year": "1986",
+    "manufacturer": "コナミ",
+    "name": "mrgoemon",
+    "note": "日本版",
+    "titleReading": "みすたーごえもん",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "名人戦",
     "year": "1986",
     "manufacturer": "アルファ電子（ADK)",
@@ -10287,6 +5814,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
+    "title": "UFOロボ ダンガー",
+    "year": "1986",
+    "manufacturer": "日本物産",
+    "name": "dangar",
+    "note": "12/1/1986",
+    "titleReading": "ゆーふぉーろぼだんがー",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
     "title": "妖獣伝",
     "year": "1986",
     "manufacturer": "アイレム",
@@ -10294,6 +5830,15 @@ window.ARCADE_GAMES = [
     "note": "Youjyuden (Japan)",
     "titleReading": "ようじゅうでん",
     "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "ラッシュ＆クラッシュ",
+    "year": "1986",
+    "manufacturer": "カプコン",
+    "name": "rushcrsh",
+    "note": "日本版",
+    "titleReading": "らっしゅ&くらっしゅ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ラフレシア",
@@ -10332,6 +5877,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "きゅうごぼうえき"
   },
   {
+    "title": "ロードランナー -帝国からの脱出",
+    "year": "1986",
+    "manufacturer": "アイレム （ブローダーバンドライセンス）",
+    "name": "ldrun4",
+    "note": "",
+    "titleReading": "ろうどらんなあていこくからのだっしゅつ",
+    "manufacturerReading": "あいれむぶろうだあばんどらいせんす"
+  },
+  {
+    "title": "ローリングサンダー",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "rthunder",
+    "note": "new ver",
+    "titleReading": "ろうりんぐさんだあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ロックオン",
     "year": "1986",
     "manufacturer": "辰巳電子工業",
@@ -10348,6 +5911,15 @@ window.ARCADE_GAMES = [
     "note": "Robo Wres 2001",
     "titleReading": "ろぼれす2001",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "ワンダーボーイ",
+    "year": "1986",
+    "manufacturer": "エスケープ （セガライセンス）",
+    "name": "wboy",
+    "note": "set 1 new encryption",
+    "titleReading": "わんだあぼうい",
+    "manufacturerReading": "えすけえぷせがらいせんす"
   },
   {
     "title": "Ａ－ＪＡＸ ＜エー・ジャックス＞",
@@ -10377,6 +5949,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かねこせいさくしょかねこ"
   },
   {
+    "title": "アール・タイプ",
+    "year": "1987",
+    "manufacturer": "アイレム",
+    "name": "rtypej",
+    "note": "日本版",
+    "titleReading": "ああるたいぷ",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "アフターバーナーII",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "aburner2",
+    "note": "",
+    "titleReading": "あふたあばあなあii",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "アフターバーナー",
     "year": "1987",
     "manufacturer": "セガ（AM2）",
@@ -10386,13 +5976,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せがam2"
   },
   {
-    "title": "アンタッチャブル",
+    "title": "アルカノイド -リベンジオブDOH",
     "year": "1987",
-    "manufacturer": "ダイナックス",
-    "name": "untoucha",
-    "note": "Untouchable (Ver. 2.10)",
-    "titleReading": "あんたっちゃぶる",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "タイトー",
+    "name": "arknoid2j",
+    "note": "日本版",
+    "titleReading": "あるかのいどりべんじおぶdoh",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "イグジーザス",
@@ -10404,6 +5994,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "1943改 -ミッドウェイ海戦",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "1943kai",
+    "note": "日本版",
+    "titleReading": "いちきゅうよんさんかいみっどうぇいかいせん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "1943 -ミッドウェイ海戦",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "1943j",
+    "note": "1943 -The Battle of Midway (欧州版)",
+    "titleReading": "いちきゅうよんさんみっどうぇいかいせん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "エアーウルフ",
     "year": "1987",
     "manufacturer": "九娯貿易",
@@ -10413,6 +6021,60 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "きゅうごぼうえき"
   },
   {
+    "title": "エイリアンシンドローム",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "aliensyn",
+    "note": "set 4, System 16B, プロテクト無し",
+    "titleReading": "えいりあんしんどろうむ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "エクセライザー",
+    "year": "1987",
+    "manufacturer": "ジャレコ （日本物産USAライセンス）",
+    "name": "skyfox",
+    "note": "",
+    "titleReading": "えくせらいざあ",
+    "manufacturerReading": "じゃれこにほんぶっさんゆーえすええらいせんす"
+  },
+  {
+    "title": "SRD ＜スーパーリアルダーウィン＞",
+    "year": "1987",
+    "manufacturer": "データイースト",
+    "name": "srdarwinj",
+    "note": "海外版",
+    "titleReading": "えすあーるでぃーすーぱーりあるだーうぃん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "SDI ＜Strategic Defense Initiative＞",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "sdi",
+    "note": "日本版",
+    "titleReading": "えすでぃーあい",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "A-JAX",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "ajaxj",
+    "note": "日本版",
+    "titleReading": "えーじゃっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "オパオパ",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "opaopa",
+    "note": "MC-8123 / 317-0042",
+    "titleReading": "おぱおぱ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "カイロスの館",
     "year": "1987",
     "manufacturer": "アルファ電子",
@@ -10420,6 +6082,15 @@ window.ARCADE_GAMES = [
     "note": "Kyros",
     "titleReading": "かいろすのかん",
     "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "カルノフ",
+    "year": "1987",
+    "manufacturer": "データイースト",
+    "name": "karnovj",
+    "note": "日本版",
+    "titleReading": "かるのふ",
+    "manufacturerReading": "でえたいいすと"
   },
   {
     "title": "臥竜列伝",
@@ -10440,6 +6111,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にほんぶっさん"
   },
   {
+    "title": "ギャラガ '88",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "galaga88j",
+    "note": "",
+    "titleReading": "ぎゃらが88",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "銀河任侠伝",
+    "year": "1987",
+    "manufacturer": "ジャレコ",
+    "name": "ginganin",
+    "note": "set 1",
+    "titleReading": "ぎんがにんきょうでん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
     "title": "クエスター",
     "year": "1987",
     "manufacturer": "ナムコ",
@@ -10447,6 +6136,15 @@ window.ARCADE_GAMES = [
     "note": "Quester (Japan)",
     "titleReading": "くえすた",
     "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "魂斗羅",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "contraj",
+    "note": "日本版",
+    "titleReading": "こんとら",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "コンバットホーク",
@@ -10476,6 +6174,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "ザイボット",
+    "year": "1987",
+    "manufacturer": "アタリゲームズ",
+    "name": "xybots",
+    "note": "",
+    "titleReading": "ざいぼっと",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
     "title": "ザ・ディープ",
     "year": "1987",
     "manufacturer": "ウッドプレイス",
@@ -10492,6 +6199,60 @@ window.ARCADE_GAMES = [
     "note": "Rack 'em Up (program code L)",
     "titleReading": "ざはすら",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "シティーボンバー",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "citybomb",
+    "note": "海外 孤",
+    "titleReading": "してぃいぼんばあ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "忍",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "shinobi",
+    "note": "set 5 System16A unprotected",
+    "titleReading": "しのび",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ジェミニウイング",
+    "year": "1987",
+    "manufacturer": "テクモ",
+    "name": "gemini",
+    "note": "日本版",
+    "titleReading": "じぇみにういんぐ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "スーパークイックス",
+    "year": "1987",
+    "manufacturer": "カネコ / タイトー",
+    "name": "sqix",
+    "note": "日本版/海外版, V1.2 / m↑",
+    "titleReading": "すうぱあくいっくす",
+    "manufacturerReading": "かねこたいとう"
+  },
+  {
+    "title": "スーパーハングオン",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "shangonro",
+    "note": "シットダウン・アップライト筐体 / プロテクト無し / m↑",
+    "titleReading": "すうぱあはんぐおん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ストリートファイター",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "sfj",
+    "note": "海外版 analog buttons",
+    "titleReading": "すとりいとふぁいたあ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "スーパーリーグ",
@@ -10512,12 +6273,48 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ばりーみっどうぇい"
   },
   {
+    "title": "ソニックブーム",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "sonicbom",
+    "note": "FD1094 317-0053",
+    "titleReading": "そにっくぶーむ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "タイムスキャナー",
     "year": "1987",
     "manufacturer": "セガ",
     "name": "timescan",
     "note": "Time Scanner (set 2, System 16B)",
     "titleReading": "たいむすきゃな",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "タッチダウンフィーバー",
+    "year": "1987",
+    "manufacturer": "SNK",
+    "name": "tdfeverj",
+    "note": "日本",
+    "titleReading": "たっちだうんふぃいばあ",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "双截龍 ＜ダブルドラゴン＞",
+    "year": "1987",
+    "manufacturer": "テクノスジャパン （タイトーライセンス）",
+    "name": "ddragon",
+    "note": "日本版",
+    "titleReading": "だぶるどらごん",
+    "manufacturerReading": "てくのすじゃぱんたいとうらいせんす"
+  },
+  {
+    "title": "ダンクショット",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "dunkshot",
+    "note": "Rev C, FD1089A 317-0022 / m↑",
+    "titleReading": "だんくしょっと",
     "manufacturerReading": "せが"
   },
   {
@@ -10548,6 +6345,69 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せた"
   },
   {
+    "title": "トップ・シークレット",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "topsecrt",
+    "note": "日本版 old ver",
+    "titleReading": "とっぷしいくれっと",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "虎への道",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "toramich",
+    "note": "日本版",
+    "titleReading": "とらへのみち",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ドラゴンスピリット",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "dspirit",
+    "note": "new ver",
+    "titleReading": "どらごんすぴりっと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ドラゴンスピリット",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "dspirit1",
+    "note": "old ver",
+    "titleReading": "どらごんすぴりっと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ニンジャウォーリアーズ",
+    "year": "1987",
+    "manufacturer": "タイトー",
+    "name": "ninjawj",
+    "note": "日本版",
+    "titleReading": "にんじゃうぉうりああず",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "忍者くん 阿修羅の章",
+    "year": "1987",
+    "manufacturer": "UPL",
+    "name": "ninjakd2",
+    "note": "Ninja Kid II (set 1)",
+    "titleReading": "にんじゃくんあしゅらのしょう",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "熱血高校ドッジボール部",
+    "year": "1987",
+    "manufacturer": "テクノスジャパン",
+    "name": "nkdodge",
+    "note": "日本版",
+    "titleReading": "ねっけつこうこうどっじぼうるぶ",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
     "title": "ハイパークラッシュ",
     "year": "1987",
     "manufacturer": "コナミ工業",
@@ -10555,15 +6415,6 @@ window.ARCADE_GAMES = [
     "note": "Hyper Crash (version D)",
     "titleReading": "はいぱくらっしゅ",
     "manufacturerReading": "こなみこうぎょう"
-  },
-  {
-    "title": "華吹雪",
-    "year": "1987",
-    "manufacturer": "ダイナックス",
-    "name": "hnfubuki",
-    "note": "Hana Fubuki [BET] (Japan)",
-    "titleReading": "はなふぶき",
-    "manufacturerReading": "だいなっくす"
   },
   {
     "title": "早押し対戦クイズ ハイホー",
@@ -10584,6 +6435,51 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にほんぶっさん"
   },
   {
+    "title": "バトランティス",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "battlntsj",
+    "note": "日本版",
+    "titleReading": "ばとらんてぃす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "バトルフィールド",
+    "year": "1987",
+    "manufacturer": "アルファ電子 （SNKライセンス）",
+    "name": "btlfield",
+    "note": "日本版",
+    "titleReading": "ばとるふぃいるど",
+    "manufacturerReading": "あるふぁでんしえすえぬけーらいせんす"
+  },
+  {
+    "title": "バミューダトライアングル",
+    "year": "1987",
+    "manufacturer": "SNK",
+    "name": "bermudatj",
+    "note": "日本版",
+    "titleReading": "ばみゅうだとらいあんぐる",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "バレット",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "bullet",
+    "note": "FD1094 317-0041",
+    "titleReading": "ばれっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パックマニア",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "pacmaniaj",
+    "note": "",
+    "titleReading": "ぱっくまにあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "パーフェクトビリヤード",
     "year": "1987",
     "manufacturer": "日本システム",
@@ -10591,6 +6487,42 @@ window.ARCADE_GAMES = [
     "note": "Perfect Billiard",
     "titleReading": "ぱふぇくとびりやど",
     "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "飛翔鮫",
+    "year": "1987",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "hishouza",
+    "note": "日本版",
+    "titleReading": "ひしょうざめ",
+    "manufacturerReading": "とうあぷらんたいとう"
+  },
+  {
+    "title": "必殺！無頼拳",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "buraiken",
+    "note": "日本版",
+    "titleReading": "ひっさつぶらいけん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ファイナルラップ",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "finallapjb",
+    "note": "日本版, Rev B / m↑",
+    "titleReading": "ふぁいなるらっぷ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "フラックアタック",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "mx5000",
+    "note": "MX5000",
+    "titleReading": "ふらっくあたっく",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "フリーキック",
@@ -10602,6 +6534,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にっぽんしすてむ"
   },
   {
+    "title": "フルスロットル",
+    "year": "1987",
+    "manufacturer": "タイトー",
+    "name": "fullthrl",
+    "note": "日本版",
+    "titleReading": "ふるすろっとる",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "ぶたさん",
     "year": "1987",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -10609,6 +6550,42 @@ window.ARCADE_GAMES = [
     "note": "Butasan - Pig's & Bomber's (Japan, English)",
     "titleReading": "ぶたさん",
     "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ぶたさん -Pig's ＆ Bomber's",
+    "year": "1987",
+    "manufacturer": "NMK （ジャレコライセンス）",
+    "name": "butasanj",
+    "note": "日本版",
+    "titleReading": "ぶたさんpigs&bombers",
+    "manufacturerReading": "えぬえむけーじゃれこらいせんす"
+  },
+  {
+    "title": "ブラックドラゴン",
+    "year": "1987",
+    "manufacturer": "カプコン",
+    "name": "blkdrgon",
+    "note": "日本版",
+    "titleReading": "ぶらっくどらごん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ブラックパンサー",
+    "year": "1987",
+    "manufacturer": "コナミ",
+    "name": "blkpnthr",
+    "note": "",
+    "titleReading": "ぶらっくぱんさー",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ブレイザー",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "blazer",
+    "note": "日本版",
+    "titleReading": "ぶれいざあ",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "プランプポップ",
@@ -10647,6 +6624,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せいぶかいはつ"
   },
   {
+    "title": "Mr.HELIの大冒険",
+    "year": "1987",
+    "manufacturer": "アイレム",
+    "name": "mrheli",
+    "note": "",
+    "titleReading": "みすたーへりのだいぼうけん",
+    "manufacturerReading": "あいれむ"
+  },
+  {
     "title": "ミュータントナイト",
     "year": "1987",
     "manufacturer": "ユーピーエル（UPL）",
@@ -10654,6 +6640,42 @@ window.ARCADE_GAMES = [
     "note": "Mutant Night",
     "titleReading": "みゅたんとないと",
     "manufacturerReading": "ゆぴえるupl"
+  },
+  {
+    "title": "妖怪道中記",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "shadowld",
+    "note": "日本版 new ver",
+    "titleReading": "ようかいどうちゅうき",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ラビオレプス",
+    "year": "1987",
+    "manufacturer": "ビデオシステム",
+    "name": "rabiolep",
+    "note": "日本版",
+    "titleReading": "らびおれぷす",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "レインボーアイランド",
+    "year": "1987",
+    "manufacturer": "タイトー",
+    "name": "rbisland",
+    "note": "new ver",
+    "titleReading": "れいんぼうあいらんど",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ワードナの森",
+    "year": "1987",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "wardnerj",
+    "note": "Wardner (海外版)",
+    "titleReading": "わあどなのもり",
+    "manufacturerReading": "とうあぷらんたいとう"
   },
   {
     "title": "ワンダープラネット",
@@ -10692,6 +6714,60 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かぷこん"
   },
   {
+    "title": "アークエリア",
+    "year": "1988",
+    "manufacturer": "UPL",
+    "name": "arkarea",
+    "note": "",
+    "titleReading": "ああくえりあ",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "悪魔城ドラキュラ",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "hcastle",
+    "note": "日本版 ver P",
+    "titleReading": "あくまじょうどらきゅら",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "アサルト",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "assaultj",
+    "note": "日本版",
+    "titleReading": "あさると",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "アサルトプラス",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "assaultp",
+    "note": "日本版",
+    "titleReading": "あさるとぷらす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "飛鳥＆飛鳥",
+    "year": "1988",
+    "manufacturer": "タイトー",
+    "name": "asukaj",
+    "note": "日本版",
+    "titleReading": "あすか&ひちょう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "アームドF",
+    "year": "1988",
+    "manufacturer": "日本物産",
+    "name": "armedf",
+    "note": "日本版",
+    "titleReading": "あーむどえふ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
     "title": "エキサイトリーグ",
     "year": "1988",
     "manufacturer": "セガ",
@@ -10710,6 +6786,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "エンゼルキッズ",
+    "year": "1988",
+    "manufacturer": "セガ / ナスコ?",
+    "name": "angelkds",
+    "note": "日本版",
+    "titleReading": "えんぜるきっず",
+    "manufacturerReading": "せがなすこ"
+  },
+  {
+    "title": "オーダイン",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "ordynej",
+    "note": "日本版",
+    "titleReading": "おうだいん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "火激",
+    "year": "1988",
+    "manufacturer": "カネコ / タイトー",
+    "name": "kagekij",
+    "note": "日本版",
+    "titleReading": "かげき",
+    "manufacturerReading": "かねこたいとう"
+  },
+  {
+    "title": "カプコンボーリング",
+    "year": "1988",
+    "manufacturer": "インクレディブルテクノロジーズ / カプコン",
+    "name": "capbowl",
+    "note": "set 1",
+    "titleReading": "かぷこんぼうりんぐ",
+    "manufacturerReading": "いんくれでぃぶるてくのろじいずかぷこん"
+  },
+  {
     "title": "キック・オフ -Jaleco Cup-",
     "year": "1988",
     "manufacturer": "ジャレコ",
@@ -10717,6 +6829,33 @@ window.ARCADE_GAMES = [
     "note": "Kick Off - Jaleco Cup (Japan)",
     "titleReading": "きっくおふjalecocup",
     "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ギャラクシーフォースII",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "gforce2j",
+    "note": "m↑",
+    "titleReading": "ぎゃらくしいふぉうすii",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クレイジークライマー2",
+    "year": "1988",
+    "manufacturer": "日本物産",
+    "name": "cclimbr2",
+    "note": "日本版",
+    "titleReading": "くれいじいくらいまあ2",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "クレイジーコップ",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "crazycop",
+    "note": "日本版",
+    "titleReading": "くれいじいこっぷ",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "グラディウスII -GOFERの野望-",
@@ -10728,6 +6867,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "グラディウスII -ゴーファーの野望",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "gradius2",
+    "note": "日本版 new ver.",
+    "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ゲイングランド",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "ggroundj",
+    "note": "日本版 2 Players, Floppy Based / FD1094 317-0058-03b",
+    "titleReading": "げいんぐらんど",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ゴールドメダリスト",
     "year": "1988",
     "manufacturer": "アルファ電子（ADK)",
@@ -10735,6 +6892,15 @@ window.ARCADE_GAMES = [
     "note": "Gold Medalist (set 1, Alpha68k II PCB)",
     "titleReading": "ごるどめだりすと",
     "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "最後の忍道",
+    "year": "1988",
+    "manufacturer": "アイレム",
+    "name": "nspirit",
+    "note": "Ninja Spirit",
+    "titleReading": "さいごのにんどう",
+    "manufacturerReading": "あいれむ"
   },
   {
     "title": "サイバータンク",
@@ -10746,6 +6912,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こあらんどばんぷれすと"
   },
   {
+    "title": "サイバリオン",
+    "year": "1988",
+    "manufacturer": "タイトー",
+    "name": "syvalion",
+    "note": "日本版",
+    "titleReading": "さいばりおん",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "サンダークロス",
     "year": "1988",
     "manufacturer": "コナミ工業",
@@ -10753,6 +6928,51 @@ window.ARCADE_GAMES = [
     "note": "Thunder Cross (set 1)",
     "titleReading": "さんだくろす",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ザ・ニュージーランドストーリー",
+    "year": "1988",
+    "manufacturer": "タイトー",
+    "name": "tnzs",
+    "note": "日本版",
+    "titleReading": "ざにゅうじいらんどすとうりい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "上海",
+    "year": "1988",
+    "manufacturer": "サンソフト",
+    "name": "shanghai",
+    "note": "日本版",
+    "titleReading": "しゃんはい",
+    "manufacturerReading": "さんそふと"
+  },
+  {
+    "title": "獣王記",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "altbeastj",
+    "note": "日本版 set 7 / 8751 317-0077",
+    "titleReading": "じゅうおうき",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スーパー魂斗羅 -エイリアンの逆襲",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "scontraj",
+    "note": "日本版",
+    "titleReading": "すうぱあたましいとらえいりあんのぎゃくしゅう",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "スクランブルスピリッツ",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "sspiritj",
+    "note": "日本版, Floppy DS3-5000-02-REV-A Based",
+    "titleReading": "すくらんぶるすぴりっつ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "スタジアムヒーロー",
@@ -10782,6 +7002,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "達人",
+    "year": "1988",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "truxton",
+    "note": "Truxton",
+    "titleReading": "たつじん",
+    "manufacturerReading": "とうあぷらんたいとう"
+  },
+  {
     "title": "タートルシップ",
     "year": "1988",
     "manufacturer": "Philko (Sharp Image license)",
@@ -10789,6 +7018,15 @@ window.ARCADE_GAMES = [
     "note": "Turtle Ship (North America)",
     "titleReading": "たとるしっぷ",
     "manufacturerReading": "philkosharpimagelicense"
+  },
+  {
+    "title": "ダイナマイトダックス",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "ddux",
+    "note": "海外版 set 3 / World / FD1094 317-0096",
+    "titleReading": "だいなまいとだっくす",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ダイナミックシュート競争",
@@ -10800,6 +7038,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
+    "title": "大魔界村",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "daimakai",
+    "note": "日本版",
+    "titleReading": "だいまかいむら",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ダッシュ野郎",
     "year": "1988",
     "manufacturer": "東亜プラン",
@@ -10807,6 +7054,42 @@ window.ARCADE_GAMES = [
     "note": "Rally Bike / Dash Yarou",
     "titleReading": "だっしゅやろう",
     "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "チェルノブ -戦う人間発電所",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "chelnovj",
+    "note": "日本版",
+    "titleReading": "ちぇるのぶたたかうにんげんはつでんしょ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "超絶倫人ベラボーマン",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "berabohm",
+    "note": "日本版, Rev C",
+    "titleReading": "ちょうぜつりんじんべらぼうまん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ツインイーグル -Revenge Joe's Brother",
+    "year": "1988",
+    "manufacturer": "セタ （タイトーライセンス）",
+    "name": "twineagl",
+    "note": "",
+    "titleReading": "ついんいいぐるrevengejoesbrother",
+    "manufacturerReading": "せたたいとうらいせんす"
+  },
+  {
+    "title": "テトリス",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "tetris",
+    "note": "日本版 set 4 System16A FD1094 317-0093",
+    "titleReading": "てとりす",
+    "manufacturerReading": "せが"
   },
   {
     "title": "テトリス （システムＥ版）",
@@ -10827,6 +7110,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいと"
   },
   {
+    "title": "ドラゴンニンジャ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "drgninja",
+    "note": "日本版 revision 1",
+    "titleReading": "どらごんにんじゃ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
     "title": "ナーク",
     "year": "1988",
     "manufacturer": "Williams",
@@ -10834,6 +7126,15 @@ window.ARCADE_GAMES = [
     "note": "Narc (rev 7.00)",
     "titleReading": "なく",
     "manufacturerReading": "williams"
+  },
+  {
+    "title": "ならず者戦闘部隊 ブラッディウルフ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "bldwolfj",
+    "note": "日本版",
+    "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
+    "manufacturerReading": "でーたいーすと"
   },
   {
     "title": "にゃんにゃんパニック",
@@ -10845,6 +7146,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "ハードパンチャー -血まみれの栄光-",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "fround",
+    "note": "The Final Round (ver M)",
+    "titleReading": "はあどぱんちゃあちまみれのえいこう",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ハイパースポーツスペシャル",
+    "year": "1988",
+    "manufacturer": "コナミ",
+    "name": "hypsptsp",
+    "note": "日本版",
+    "titleReading": "はいぱあすぽうつすぺしゃる",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "ハードドライビング",
     "year": "1988",
     "manufacturer": "アタリゲームズ",
@@ -10854,13 +7173,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたりげえむず"
   },
   {
-    "title": "花六",
+    "title": "爆突機銃艇 -バラデュークII",
     "year": "1988",
-    "manufacturer": "アルバ",
-    "name": "hanaroku",
-    "note": "Hanaroku",
-    "titleReading": "はなろく",
-    "manufacturerReading": "あるば"
+    "manufacturer": "ナムコ",
+    "name": "bakutotu",
+    "note": "",
+    "titleReading": "ばくとつきじゅうてい",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "バックファイヤー",
@@ -10881,13 +7200,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
-    "title": "バーライン",
+    "title": "パッシングショット",
     "year": "1988",
-    "manufacturer": "日本物産?",
-    "name": "barline",
-    "note": "Barline (Japan?)",
-    "titleReading": "ばらいん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturer": "セガ",
+    "name": "passshtj",
+    "note": "日本版 4 Players / FD1094 317-0070",
+    "titleReading": "ぱっしんぐしょっと",
+    "manufacturerReading": "せが"
   },
   {
     "title": "パドルマニア",
@@ -10897,6 +7216,15 @@ window.ARCADE_GAMES = [
     "note": "Paddle Mania",
     "titleReading": "ぱどるまにあ",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "パワードリフト",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "pdriftj",
+    "note": "",
+    "titleReading": "ぱわあどりふと",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ファイティングゴルフ",
@@ -10917,12 +7245,66 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "ファイティングホーク",
+    "year": "1988",
+    "manufacturer": "タイトー",
+    "name": "fhawkj",
+    "note": "日本版",
+    "titleReading": "ふぁいてぃんぐほうく",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ファンタジーゾーンII -オパオパの涙-",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "fantzn2",
+    "note": "MG-8123 317-0057",
+    "titleReading": "ふぁんたじいぞうんiiおぱおぱのなみだ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "フェイスオフ",
     "year": "1988",
     "manufacturer": "ナムコ",
     "name": "faceoff",
     "note": "Face Off (Japan 2 Players)",
     "titleReading": "ふぇいすおふ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "フェリオス",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "phelios",
+    "note": "日本版",
+    "titleReading": "ふぇりおす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ブラスティッド",
+    "year": "1988",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "blasted",
+    "note": "",
+    "titleReading": "ぶらすてぃっど",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "プロテニス ワールドコート",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "wldcourt",
+    "note": "日本版",
+    "titleReading": "ぷろてにすわあるどこうと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "プロ野球ワールドスタジアム",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "ws",
+    "note": "日本版",
+    "titleReading": "ぷろやきゅうわあるどすたじあむ",
     "manufacturerReading": "なむこ"
   },
   {
@@ -10933,6 +7315,15 @@ window.ARCADE_GAMES = [
     "note": "Hot Chase (set 1)",
     "titleReading": "ほっとちぇいす",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "未来忍者",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "mirninja",
+    "note": "日本版",
+    "titleReading": "みらいにんじゃ",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "迷宮島",
@@ -10971,13 +7362,22 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
-    "title": "ラッキー７４",
+    "title": "UFO戦士ようこちゃん",
     "year": "1988",
-    "manufacturer": "ウィング",
-    "name": "lucky74",
-    "note": "Lucky 74 (bootleg, set 1)",
-    "titleReading": "らっき74",
-    "manufacturerReading": "うぃんぐ"
+    "manufacturer": "セガ",
+    "name": "ufosensi",
+    "note": "MC-8123 / 317-0064",
+    "titleReading": "ゆーふぉーせんしようこちゃん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ラストデュエル",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "lastduelj",
+    "note": "日本版",
+    "titleReading": "らすとでゅえる",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "リードアングル",
@@ -10998,6 +7398,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみこうぎょう"
   },
   {
+    "title": "ロストワールド",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "lostwrld",
+    "note": "日本版",
+    "titleReading": "ろすとわーるど",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ワンダーボーイIII モンスターレア",
+    "year": "1988",
+    "manufacturer": "セガ / ウエストン",
+    "name": "wb3",
+    "note": "set 1",
+    "titleReading": "わんだあぼういiiiもんすたあれあ",
+    "manufacturerReading": "せがうえすとん"
+  },
+  {
     "title": "Ｍ.Ｉ.Ａ. ＜ミッシングインアクション＞",
     "year": "1989",
     "manufacturer": "コナミ工業",
@@ -11005,6 +7423,51 @@ window.ARCADE_GAMES = [
     "note": "M.I.A. - Missing in Action (version T)",
     "titleReading": "mia<みっしんぐいんあくしょん>",
     "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "アール・タイプII",
+    "year": "1989",
+    "manufacturer": "アイレム",
+    "name": "rtype2j",
+    "note": "日 本 阪",
+    "titleReading": "ああるたいぷii",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "アクトフェンサー",
+    "year": "1989",
+    "manufacturer": "データイースト",
+    "name": "actfancrj",
+    "note": "日本版 revision 1",
+    "titleReading": "あくとふぇんさあ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "アドベンチャークイズ カプコンワールド",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "cworld",
+    "note": "日本版",
+    "titleReading": "あどべんちゃあくいずかぷこんわあるど",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "アルバレスタ",
+    "year": "1989",
+    "manufacturer": "ジョルダン / セタ",
+    "name": "arbalest",
+    "note": "",
+    "titleReading": "あるばれすた",
+    "manufacturerReading": "じょるだんせた"
+  },
+  {
+    "title": "アーチライバルズ",
+    "year": "1989",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "archrivl",
+    "note": "rev 4.0 6/29/89",
+    "titleReading": "あーちらいばるず",
+    "manufacturerReading": "ばりーみっどうぇい"
   },
   {
     "title": "ウィッツ",
@@ -11016,6 +7479,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あてな"
   },
   {
+    "title": "ウィロー",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "willowj",
+    "note": "日本版",
+    "titleReading": "うぃろー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "MVP",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "mvpj",
+    "note": "日本版 set 1 / FD1094 317-0142",
+    "titleReading": "えむぶいぴー",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "オメガファイター",
     "year": "1989",
     "manufacturer": "ユーピーエル（UPL）",
@@ -11025,6 +7506,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ゆぴえるupl"
   },
   {
+    "title": "カプコンベースボール",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "cbasebal",
+    "note": "日本版",
+    "titleReading": "かぷこんべーすぼーる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "キャッスルオブドラゴン",
     "year": "1989",
     "manufacturer": "アテナ",
@@ -11032,6 +7522,24 @@ window.ARCADE_GAMES = [
     "note": "Dragon Unit / Castle of Dragon",
     "titleReading": "きゃっするおぶどらごん",
     "manufacturerReading": "あてな"
+  },
+  {
+    "title": "キャメルトライ",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "cameltry",
+    "note": "USA版",
+    "titleReading": "きゃめるとらい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "究極タイガー",
+    "year": "1989",
+    "manufacturer": "東亜プラン / タイトー",
+    "name": "ktiger",
+    "note": "日本版",
+    "titleReading": "きゅうきょくたいがあ",
+    "manufacturerReading": "とうあぷらんたいとう"
   },
   {
     "title": "究極のストライカー",
@@ -11061,6 +7569,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるふぁでんしadk"
   },
   {
+    "title": "クォース",
+    "year": "1989",
+    "manufacturer": "コナミ",
+    "name": "quarth",
+    "note": "日本版",
+    "titleReading": "くぉーす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "クライムシティ",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "crimecj",
+    "note": "",
+    "titleReading": "くらいむしてぃ",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "クラックス",
     "year": "1989",
     "manufacturer": "アタリゲームズ",
@@ -11070,6 +7596,96 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたりげえむず"
   },
   {
+    "title": "クラックダウン",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "crkdownj",
+    "note": "日本版, Floppy Based / FD1094 317-0058-04b Rev A",
+    "titleReading": "くらっくだうん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "グラディウスIII -伝説から神話へ",
+    "year": "1989",
+    "manufacturer": "コナミ",
+    "name": "gradius3",
+    "note": "日本版",
+    "titleReading": "ぐらでぃうすiiiでんせつからしんわへ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ゴールデンアックス",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "goldnaxej",
+    "note": "set 4, 日本版 / FD1094 317-0121 / m↑",
+    "titleReading": "ごうるでんあっくす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "サイバーポリス イースワット",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "eswatj",
+    "note": "日本版 set 2 / FD1094 317-0128",
+    "titleReading": "さいばーぽりすいーすわっと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ザ・ロードオブキング",
+    "year": "1989",
+    "manufacturer": "ジャレコ",
+    "name": "lordofk",
+    "note": "日本版",
+    "titleReading": "ざろーどおぶきんぐ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "シャドーダンサー",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "shdancer",
+    "note": "海外 孤",
+    "titleReading": "しゃどうだんさあ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "上海II",
+    "year": "1989",
+    "manufacturer": "サンソフト",
+    "name": "shangha2",
+    "note": "",
+    "titleReading": "しゃんはいii",
+    "manufacturerReading": "さんそふと"
+  },
+  {
+    "title": "実力！！プロ野球",
+    "year": "1989",
+    "manufacturer": "ジャレコ",
+    "name": "jitsupro",
+    "note": "AAR",
+    "titleReading": "じつりょくぷろやきゅう",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "スーパーバレーボール",
+    "year": "1989",
+    "manufacturer": "ビデオシステム",
+    "name": "svolley",
+    "note": "",
+    "titleReading": "すうぱあばれえぼうる",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "スーパーフォーミュラ -地上最速のバトル",
+    "year": "1989",
+    "manufacturer": "ビデオシステム",
+    "name": "sformula",
+    "note": "日本版",
+    "titleReading": "すうぱあふぉうみゅらちじょうさいそくのばとる",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
     "title": "スタンランナー",
     "year": "1989",
     "manufacturer": "アタリゲームズ",
@@ -11077,6 +7693,15 @@ window.ARCADE_GAMES = [
     "note": "S.T.U.N. Runner (rev 6)",
     "titleReading": "すたんらんな",
     "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ストライダー飛竜",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "striderj",
+    "note": "日本版",
+    "titleReading": "すとらいだあひりゅう",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "スーパーオフロード",
@@ -11097,6 +7722,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とうあぷらん"
   },
   {
+    "title": "ターボアウトラン",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "toutrun",
+    "note": "Out Run upgrade FD1094 317-0118",
+    "titleReading": "たあぼあうとらん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "タスクフォースハリアー",
     "year": "1989",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -11115,6 +7749,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さんでんしさんそふと"
   },
   {
+    "title": "大旋風",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "daisenpu",
+    "note": "日本版",
+    "titleReading": "だいせんぷう",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "ダートフォックス",
     "year": "1989",
     "manufacturer": "ナムコ",
@@ -11124,6 +7767,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "ダライアスII",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "darius2",
+    "note": "日本版 triple screen",
+    "titleReading": "だらいあすii",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ダライアスII",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "darius2d",
+    "note": "日本版 rev 2 dual screen",
+    "titleReading": "だらいあすii",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "テクモワールドカップ'90",
+    "year": "1989",
+    "manufacturer": "テクモ",
+    "name": "twcup90",
+    "note": "set 1",
+    "titleReading": "てくもわあるどかっぷ90",
+    "manufacturerReading": "てくも"
+  },
+  {
     "title": "天聖龍 ＜セイントドラゴン＞",
     "year": "1989",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -11131,6 +7801,24 @@ window.ARCADE_GAMES = [
     "note": "Saint Dragon (set 1)",
     "titleReading": "てんせいりゅう<せいんとどらごん>",
     "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "天地を喰らう",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "dynwarj",
+    "note": "日本版",
+    "titleReading": "てんちをくらう",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "デンジャラスシード",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "dangseed",
+    "note": "日本版",
+    "titleReading": "でんじゃらすしいど",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "電脳神経衰弱 ペアーズ",
@@ -11151,6 +7839,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にほんぶっさん"
   },
   {
+    "title": "ドカベン",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "dokaben",
+    "note": "日本版",
+    "titleReading": "どかべん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ネクストスペース",
     "year": "1989",
     "manufacturer": "パサデナインターナショナル",
@@ -11169,13 +7866,22 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
-    "title": "華胡蝶",
+    "title": "バーニングフォース",
     "year": "1989",
-    "manufacturer": "ダイナックス",
-    "name": "hnkochou",
-    "note": "Hana Kochou (Japan, Bet)",
-    "titleReading": "はなこちょう",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "ナムコ",
+    "name": "burnforc",
+    "note": "日本版 new ver",
+    "titleReading": "ばあにんぐふぉうす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "バッドランズ",
+    "year": "1989",
+    "manufacturer": "アタリゲームズ",
+    "name": "badlands",
+    "note": "",
+    "titleReading": "ばっどらんず",
+    "manufacturerReading": "あたりげーむず"
   },
   {
     "title": "姫四季舞",
@@ -11185,6 +7891,69 @@ window.ARCADE_GAMES = [
     "note": "Himeshikibu (Japan)",
     "titleReading": "ひめしきまい",
     "manufacturerReading": "はいそふと"
+  },
+  {
+    "title": "ファイティングファンタジー",
+    "year": "1989",
+    "manufacturer": "データイースト",
+    "name": "ffantasy",
+    "note": "日本版 rev 2",
+    "titleReading": "ふぁいてぃんぐふぁんたじい",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ファイナルファイト",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "ffightj",
+    "note": "海外版 set 1",
+    "titleReading": "ふぁいなるふぁいと",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ファイネストアワー",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "finehour",
+    "note": "日本版",
+    "titleReading": "ふぁいねすとあわあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "フラッシュポイント",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "fpoint",
+    "note": "日本版 set 2 / FD1094 317-0127A",
+    "titleReading": "ふらっしゅぽいんと",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ブラスト・オフ",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "blastoff",
+    "note": "日本版",
+    "titleReading": "ぶらすとおふ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ブロクシード",
+    "year": "1989",
+    "manufacturer": "セガ / Elorg",
+    "name": "bloxeed",
+    "note": "日本版 / FD1094 317-0139",
+    "titleReading": "ぶろくしーど",
+    "manufacturerReading": "せがえろーぐ"
+  },
+  {
+    "title": "ブロックアウト",
+    "year": "1989",
+    "manufacturer": "テクノスジャパン / カリフォルニア・ドリームス",
+    "name": "blockout",
+    "note": "set 1",
+    "titleReading": "ぶろっくあうと",
+    "manufacturerReading": "てくのすじゃぱんかりふぉるにあどりいむす"
   },
   {
     "title": "プラスアルファ",
@@ -11203,6 +7972,42 @@ window.ARCADE_GAMES = [
     "note": "Hellfire (2P set)",
     "titleReading": "へるふぁいあ",
     "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ベイルート",
+    "year": "1989",
+    "manufacturer": "サンソフト / セガ",
+    "name": "bayroutej",
+    "note": "日本版 set 2 / FD1094 317-0115",
+    "titleReading": "べいるーと",
+    "manufacturerReading": "さんそふとせが"
+  },
+  {
+    "title": "マーベルランド",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "marvland",
+    "note": "USA版",
+    "titleReading": "まあべるらんど",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "マスターオブウエポン",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "masterw",
+    "note": "",
+    "titleReading": "ますたあおぶうえぽん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "マッドギア",
+    "year": "1989",
+    "manufacturer": "カプコン",
+    "name": "madgearj",
+    "note": "日本版",
+    "titleReading": "まっどぎあ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "メイズオブフロット",
@@ -11250,6 +8055,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にっぽんえれこむ"
   },
   {
+    "title": "レッスルウォー",
+    "year": "1989",
+    "manufacturer": "セガ",
+    "name": "wrestwar1",
+    "note": "日本版 set 1 / FD1094 317-0090",
+    "titleReading": "れっするうぉー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ロンパーズ",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "rompers",
+    "note": "日本版",
+    "titleReading": "ろんぱあず",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ワールドスタジアム '89 -開幕版!!-",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "ws89",
+    "note": "日本版",
+    "titleReading": "わあるどすたじあむ89かいまくばん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ワイルドファング",
     "year": "1989",
     "manufacturer": "テクモ",
@@ -11257,6 +8089,15 @@ window.ARCADE_GAMES = [
     "note": "Wild Fang / Tecmo Knight",
     "titleReading": "わいるどふぁんぐ",
     "manufacturerReading": "てくも"
+  },
+  {
+    "title": "ワルキューレの伝説",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "valkyrie",
+    "note": "日本版",
+    "titleReading": "わるきゅうれのでんせつ",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "嗚呼栄光の甲子園",
@@ -11277,6 +8118,96 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とうあぷらん"
   },
   {
+    "title": "アシュラブラスター",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "ashuraj",
+    "note": "日本版",
+    "titleReading": "あしゅらぶらすたー",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "アタックス",
+    "year": "1990",
+    "manufacturer": "リーランド（カプコンライセンス）",
+    "name": "ataxxj",
+    "note": "日本版",
+    "titleReading": "あたっくす",
+    "manufacturerReading": "りーらんどかぷこんらいせんす"
+  },
+  {
+    "title": "アドベンチャークイズ2 ハテナ？の大冒険",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "hatena",
+    "note": "日本版 900228",
+    "titleReading": "あどべんちゃあくいず2はてなのだいぼうけん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "1941 -カウンターアタック-",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "1941j",
+    "note": "日本版",
+    "titleReading": "いちきゅうよんいちかうんたーあたっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "宇宙戦艦ゴモラ",
+    "year": "1990",
+    "manufacturer": "UPL",
+    "name": "sbsgomo",
+    "note": "日本版",
+    "titleReading": "うちゅうせんかんごもら",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "エア・デュエル",
+    "year": "1990",
+    "manufacturer": "アイレム",
+    "name": "airduel",
+    "note": "日本版",
+    "titleReading": "えあでゅえる",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "エア・バスター -Trouble Specialty Raid Unit",
+    "year": "1990",
+    "manufacturer": "カネコ （ナムコライセンス）",
+    "name": "airbustrj",
+    "note": "日本版",
+    "titleReading": "えあばすたあtroublespecialtyraidunit",
+    "manufacturerReading": "かねこなむこらいせんす"
+  },
+  {
+    "title": "エイリアンストーム",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "astormj",
+    "note": "日本版 2 Players / FD1094 317-0146",
+    "titleReading": "えいりあんすとーむ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "エイリアンズ",
+    "year": "1990",
+    "manufacturer": "コナミ",
+    "name": "aliensj",
+    "note": "日本語版 set 1",
+    "titleReading": "えいりあんず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "オーライル",
+    "year": "1990",
+    "manufacturer": "セガ / ウエストン",
+    "name": "aurail",
+    "note": "USA版 set 3 unprotected",
+    "titleReading": "おうらいる",
+    "manufacturerReading": "せがうえすとん"
+  },
+  {
     "title": "ガンディーラー",
     "year": "1990",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -11284,6 +8215,15 @@ window.ARCADE_GAMES = [
     "note": "Gun Dealer",
     "titleReading": "がんでぃら",
     "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "球界道中記",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "kyukaidk",
+    "note": "日本版 new ver",
+    "titleReading": "きゅうかいどうちゅうき",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "究極のオセロゲーム",
@@ -11313,6 +8253,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "コラムス",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "columnsj",
+    "note": "日本版",
+    "titleReading": "こらむす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "コラムスII -The Voyage Through Time",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "column2j",
+    "note": "日本版",
+    "titleReading": "こらむすiithevoyagethroughtime",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "サイバーリップ",
     "year": "1990",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11340,6 +8298,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "びすこ"
   },
   {
+    "title": "サンダーフォースAC",
+    "year": "1990",
+    "manufacturer": "テクノソフト / セガ",
+    "name": "tfrceacj",
+    "note": "日本版",
+    "titleReading": "さんだあふぉうすac",
+    "manufacturerReading": "てくのそふとせが"
+  },
+  {
     "title": "ザ・スーパースパイ",
     "year": "1990",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11347,6 +8314,15 @@ window.ARCADE_GAMES = [
     "note": "The Super Spy (NGM-011 ~ NGH-011)",
     "titleReading": "ざすぱすぱい",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "シスコヒート",
+    "year": "1990",
+    "manufacturer": "ジャレコ",
+    "name": "cischeat",
+    "note": "",
+    "titleReading": "しすこひいと",
+    "manufacturerReading": "じゃれこ"
   },
   {
     "title": "ジョイジョイキッド",
@@ -11358,13 +8334,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
-    "title": "ジョッキークラブ",
+    "title": "G-LOC エアバトル",
     "year": "1990",
-    "manufacturer": "セタ",
-    "name": "jockeyc",
-    "note": "Jockey Club (v1.18)",
-    "titleReading": "じょっきくらぶ",
-    "manufacturerReading": "せた"
+    "manufacturer": "セガ",
+    "name": "gloc",
+    "note": "World",
+    "titleReading": "じーろっくえあばとる",
+    "manufacturerReading": "せが"
   },
   {
     "title": "スカイスマッシャー",
@@ -11394,6 +8370,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "williams"
   },
   {
+    "title": "戦場の狼II",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "mercsj",
+    "note": "日本版 900302",
+    "titleReading": "せんじょうのおおかみ2",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "倉庫番デラックス",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "soukobdx",
+    "note": "日本版, SB1",
+    "titleReading": "そうこばんでらっくす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "大工の源さん -べらんめ町騒動記",
+    "year": "1990",
+    "manufacturer": "アイレム",
+    "name": "hharry",
+    "note": "Hammerin' Harry (海外版)",
+    "titleReading": "だいくのげんさん",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "チキチキボーイズ",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "chikij",
+    "note": "日本版 900619",
+    "titleReading": "ちきちきぼーいず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "トッププレイヤーズゴルフ",
     "year": "1990",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11412,6 +8424,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "ドラゴンセイバー -アフターストーリー オブ ドラゴンスピリット",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "dsaberj",
+    "note": "日本版",
+    "titleReading": "どらごんせいばああふたあすとうりいおぶどらごんすぴりっと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ニモ",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "nemoj",
+    "note": "日本版 901120",
+    "titleReading": "にも",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ニンジャコンバット",
     "year": "1990",
     "manufacturer": "アルファ電子（ADK）",
@@ -11421,13 +8451,58 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるふぁでんしadk"
   },
   {
-    "title": "華仁義",
+    "title": "ハットトリックヒーロー",
     "year": "1990",
-    "manufacturer": "ダイナックス",
-    "name": "hjingi",
-    "note": "Hana Jingi (Japan, Bet)",
-    "titleReading": "はなじんぎ",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "タイトー",
+    "name": "hthero",
+    "note": "日本版",
+    "titleReading": "はっととりっくひいろう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バルダーダッシュ",
+    "year": "1990",
+    "manufacturer": "データイースト （ファーストスターライセンス）",
+    "name": "bouldash",
+    "note": "1990年版",
+    "titleReading": "ばるだあだっしゅ",
+    "manufacturerReading": "でえたいいすとふぁあすとすたあらいせんす"
+  },
+  {
+    "title": "バンダイク",
+    "year": "1990",
+    "manufacturer": "UPL",
+    "name": "vandyke",
+    "note": "日本版",
+    "titleReading": "ばんだいく",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "パズルクラブ",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "puzlclub",
+    "note": "日本版 プロトタイプ",
+    "titleReading": "ぱずるくらぶ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "パロディウスだ！ -神話からお笑いへ",
+    "year": "1990",
+    "manufacturer": "コナミ",
+    "name": "parodiusj",
+    "note": "日本版 / m↑",
+    "titleReading": "ぱろでぃうすだしんわからおわらいへ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "パンクショット",
+    "year": "1990",
+    "manufacturer": "コナミ",
+    "name": "punkshot",
+    "note": "USAl 4 players",
+    "titleReading": "ぱんくしょっと",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ピストル大名の冒険",
@@ -11457,6 +8532,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "ファンタズム",
+    "year": "1990",
+    "manufacturer": "ジャレコ",
+    "name": "phantasm",
+    "note": "日本版",
+    "titleReading": "ふぁんたずむ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ブラッドブラザーズ",
+    "year": "1990",
+    "manufacturer": "TAD",
+    "name": "bloodbro",
+    "note": "World?",
+    "titleReading": "ぶらっどぶらざーず",
+    "manufacturerReading": "てぃーえーでぃー"
+  },
+  {
+    "title": "プロ野球ワールドスタジアム'90 -激闘版",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "ws90",
+    "note": "日本版",
+    "titleReading": "ぷろやきゅうわあるどすたじあむ90げきとうばん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "ベースボールスターズプロフェッショナル",
     "year": "1990",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11466,22 +8568,40 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
-    "title": "舞妓花",
+    "title": "ボナンザブラザーズ",
     "year": "1990",
-    "manufacturer": "日本物産",
-    "name": "maiko",
-    "note": "Maikobana (Japan 900802)",
-    "titleReading": "まいこはな",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturer": "セガ",
+    "name": "bnzabrosj",
+    "note": "BAIR floppy DS3-5000-07b based",
+    "titleReading": "ぼなんざぶらざあず",
+    "manufacturerReading": "せが"
   },
   {
-    "title": "舞妓花 （BET版）",
+    "title": "ボレンチ",
     "year": "1990",
-    "manufacturer": "日本物産",
-    "name": "mmaiko",
-    "note": "Maikobana [BET] (Japan 900911)",
-    "titleReading": "まいこはなbetはん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturer": "セガ",
+    "name": "borench",
+    "note": "",
+    "titleReading": "ぼれんち",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "マイケル・ジャクソンズ・ムーンウォーカー",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "mwalkj",
+    "note": "日本版 / FD1094/8751 317-0157",
+    "titleReading": "まいけるじゃくそんずむーんうぉーかー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "マジェスティック トゥエルブ -スペースインベーダー・パートIV",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "majest12j",
+    "note": "日本版",
+    "titleReading": "まじぇすてぃっくとぅえるぶすぺえすいんべえだあぱあとiv",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "マジシャンロード",
@@ -11491,6 +8611,15 @@ window.ARCADE_GAMES = [
     "note": "Magician Lord (NGM-005)",
     "titleReading": "まじしゃんろど",
     "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "マジックソード",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "mswordj",
+    "note": "日本版 900623 / Heroic Fantasy",
+    "titleReading": "まじっくそーど",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ミニベーダー",
@@ -11520,6 +8649,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "U.S.ネイビー",
+    "year": "1990",
+    "manufacturer": "カプコン",
+    "name": "cawingj",
+    "note": "日本版 901012",
+    "titleReading": "ゆーえすねいびー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ライディングヒーロー",
     "year": "1990",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11529,6 +8667,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "雷電",
+    "year": "1990",
+    "manufacturer": "セイブ開発",
+    "name": "raiden",
+    "note": "",
+    "titleReading": "らいでん",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ラギ",
+    "year": "1990",
+    "manufacturer": "アルファ電子",
+    "name": "bjourney",
+    "note": "Blue's Journey / ALM-001 / ALH-001",
+    "titleReading": "らぎ",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
     "title": "ラフレーサー",
     "year": "1990",
     "manufacturer": "セガ",
@@ -11536,6 +8692,15 @@ window.ARCADE_GAMES = [
     "note": "Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)",
     "titleReading": "らふれさ",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "ランパート",
+    "year": "1990",
+    "manufacturer": "アタリゲームズ",
+    "name": "rampartj",
+    "note": "trackball",
+    "titleReading": "らんぱあと",
+    "manufacturerReading": "あたりげえむず"
   },
   {
     "title": "リーグボウリング",
@@ -11554,6 +8719,15 @@ window.ARCADE_GAMES = [
     "note": "RyuKyu (Rev A, Japan) (FD1094 317-5023A)",
     "titleReading": "りゅうきゅう",
     "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "ローリングサンダー2",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "rthun2j",
+    "note": "日本版",
+    "titleReading": "ろうりんぐさんだあ2",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "８マン ＜エイトマン＞",
@@ -11592,6 +8766,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あてな"
   },
   {
+    "title": "アクロバットミッション",
+    "year": "1991",
+    "manufacturer": "UPL （タイトーライセンス）",
+    "name": "acrobatm",
+    "note": "",
+    "titleReading": "あくろばっとみっしょん",
+    "manufacturerReading": "ゆーぴーえるたいとうらいせんす"
+  },
+  {
+    "title": "アグレス -ミサイル大戦略-",
+    "year": "1991",
+    "manufacturer": "パルコ",
+    "name": "agress",
+    "note": "日本版",
+    "titleReading": "あぐれすみさいるだいせんりゃく",
+    "manufacturerReading": "ぱるこ"
+  },
+  {
     "title": "あしたのジョー伝説",
     "year": "1991",
     "manufacturer": "ウェイブ",
@@ -11599,6 +8791,15 @@ window.ARCADE_GAMES = [
     "note": "Legend of Success Joe / Ashita no Joe Densetsu",
     "titleReading": "あしたのじょでんせつ",
     "manufacturerReading": "うぇいぶ"
+  },
+  {
+    "title": "アラビアンファイト",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "arabfgtj",
+    "note": "日本版",
+    "titleReading": "あらびあんふぁいと",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ウイニングラン９１",
@@ -11619,6 +8820,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "ウルトラマン -空想特撮シリーズ",
+    "year": "1991",
+    "manufacturer": "バンプレスト / バンダイ",
+    "name": "ultraman",
+    "note": "日本版",
+    "titleReading": "うるとらまんくうそうとくさつしりいず",
+    "manufacturerReading": "ばんぷれすとばんだい"
+  },
+  {
+    "title": "ASO II -ラストガーディアン-",
+    "year": "1991",
+    "manufacturer": "SNK",
+    "name": "alpham2",
+    "note": "Alpha Mission II",
+    "titleReading": "えーえすおーつーらすとがーでぃあん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ガルフストーム",
     "year": "1991",
     "manufacturer": "Dooyong",
@@ -11628,6 +8847,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "dooyong"
   },
   {
+    "title": "餓狼伝説 -宿命の闘い",
+    "year": "1991",
+    "manufacturer": "SNK",
+    "name": "fatfury1",
+    "note": "NGM-033 / NGH-033",
+    "titleReading": "がろうでんせつしゅくめいのたたかい",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "機動戦士ＳＤガンダム -サイコサラマンダーの脅威-",
     "year": "1991",
     "manufacturer": "イスコ（ISCO）",
@@ -11635,6 +8863,15 @@ window.ARCADE_GAMES = [
     "note": "SD Gundam Psycho Salamander no Kyoui",
     "titleReading": "きどうせんしsdがんだむさいこさらまんだのきょうい",
     "manufacturerReading": "いすこisco"
+  },
+  {
+    "title": "キャプテンコマンドー",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "captcommj",
+    "note": "日本版 911202",
+    "titleReading": "きゃぷてんこまんどー",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "キング・オブ・ザ・モンスターズ",
@@ -11673,6 +8910,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かぷこん"
   },
   {
+    "title": "クイズ宿題を忘れました",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "qsww",
+    "note": "日本版, Floppy Based / FD1094 317-0058-08b",
+    "titleReading": "くいずしゅくだいをわすれました",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "クイズ大捜査線 -THE LAST COUNT DOWN-",
     "year": "1991",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11700,6 +8946,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かぷこん"
   },
   {
+    "title": "クイズ廊下に立ってなさい！",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "qrouka",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずろうかにたってなさい",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クラッチヒッター",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "cltchitr",
+    "note": "USA版 / FD1094 317-0176",
+    "titleReading": "くらっちひったー",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "クロスソード",
     "year": "1991",
     "manufacturer": "アルファ電子（ADK)",
@@ -11709,6 +8973,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるふぁでんしadk"
   },
   {
+    "title": "クロスブレイズ！",
+    "year": "1991",
+    "manufacturer": "アイレム",
+    "name": "crossbld",
+    "note": "日本版",
+    "titleReading": "くろすぶれいず",
+    "manufacturerReading": "あいれむ"
+  },
+  {
     "title": "剣豪 KEN-GO",
     "year": "1991",
     "manufacturer": "アイレム",
@@ -11716,6 +8989,15 @@ window.ARCADE_GAMES = [
     "note": "Ken-Go (set 1)",
     "titleReading": "けんごうkengo",
     "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "コズモギャング・ザ・ビデオ",
+    "year": "1991",
+    "manufacturer": "ナムコ",
+    "name": "cosmogngj",
+    "note": "日本版",
+    "titleReading": "こずもぎゃんぐざびでお",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ゴークス",
@@ -11763,6 +9045,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えぬえむけいnmk"
   },
   {
+    "title": "ザ・キングオブドラゴンズ",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "kodj",
+    "note": "日本版 910805",
+    "titleReading": "ざきんぐおぶどらごんず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スーパーハイインパクト",
+    "year": "1991",
+    "manufacturer": "ミッドウェイ",
+    "name": "shimpact",
+    "note": "rev LAT 09/80/91",
+    "titleReading": "すうぱあはいいんぱくと",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
     "title": "スティールタロンズ",
     "year": "1991",
     "manufacturer": "アタリゲームズ",
@@ -11770,6 +9070,33 @@ window.ARCADE_GAMES = [
     "note": "Steel Talons (rev 2)",
     "titleReading": "すてぃるたろんず",
     "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ストライクファイター",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "strkfgtr",
+    "note": "World",
+    "titleReading": "すとらいくふぁいたー",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ストリートファイターII -ザ・ワールドウォーリアー-",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "sf2j",
+    "note": "BARR 911210",
+    "titleReading": "すとりいとふぁいたあiiざわあるどうぉうりああ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スパイダーマン ザ・ビデオゲーム",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "spidman",
+    "note": "World",
+    "titleReading": "すぱいだーまんざびでおげーむ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "スラッシュラリー",
@@ -11817,6 +9144,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ターボフォース",
+    "year": "1991",
+    "manufacturer": "ビデオシステム",
+    "name": "turbofrc",
+    "note": "old ver",
+    "titleReading": "たあぼふぉうす",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "戦え原始人 ジョー＆マック",
+    "year": "1991",
+    "manufacturer": "データイースト",
+    "name": "joemac",
+    "note": "日本版 ver 1",
+    "titleReading": "たたかえげんしじんじょーあんどまっく",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
     "title": "ターミネーター２ -ジャッジメントデイ-",
     "year": "1991",
     "manufacturer": "ミッドウェイ",
@@ -11826,22 +9171,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "みっどうぇい"
   },
   {
-    "title": "チェリーマスター",
+    "title": "タンクフォース",
     "year": "1991",
-    "manufacturer": "ダイナ",
-    "name": "cmaster",
-    "note": "Cherry Master I (ver.1.01, set 1)",
-    "titleReading": "ちぇりますた",
-    "manufacturerReading": "だいな"
-  },
-  {
-    "title": "チェリーマスター '９１",
-    "year": "1991",
-    "manufacturer": "ダイナ",
-    "name": "cmast91",
-    "note": "Cherry Master '91 (ver.1.30)",
-    "titleReading": "ちぇりますた'91",
-    "manufacturerReading": "だいな"
+    "manufacturer": "ナムコ",
+    "name": "tankfrcej",
+    "note": "日本版",
+    "titleReading": "たんくふぉうす",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "ツインスカッシュ",
@@ -11853,22 +9189,40 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
-    "title": "花とおじさん",
+    "title": "D.D.クルー",
     "year": "1991",
-    "manufacturer": "日本物産",
-    "name": "hanaoji",
-    "note": "Hana to Ojisan [BET] (ver 1.01, 1991/12/09)",
-    "titleReading": "はなとおじさん",
-    "manufacturerReading": "にほんぶっさん"
+    "manufacturer": "セガ",
+    "name": "ddcrewj",
+    "note": "日本版 4 Players / FD1094 317-0185",
+    "titleReading": "でぃーでぃーくるー",
+    "manufacturerReading": "せが"
   },
   {
-    "title": "華をやらねば！",
+    "title": "出たな！！ ツインビー",
     "year": "1991",
-    "manufacturer": "ダイナックス",
-    "name": "hanayara",
-    "note": "Hana wo Yaraneba! (Japan)",
-    "titleReading": "はなをやらねば",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "コナミ",
+    "name": "detatwin",
+    "note": "日本版 ver J",
+    "titleReading": "でたなついんびい",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "2020年スーパーベースボール",
+    "year": "1991",
+    "manufacturer": "SNK / パラス",
+    "name": "2020bb",
+    "note": "set 1",
+    "titleReading": "にせんにじゅうねんすーぱーべーすぼーる",
+    "manufacturerReading": "えすえぬけーぱらす"
+  },
+  {
+    "title": "バトルクライ",
+    "year": "1991",
+    "manufacturer": "ホームデータ",
+    "name": "battlcry",
+    "note": "Version E",
+    "titleReading": "ばとるくらい",
+    "manufacturerReading": "ほーむでーた"
   },
   {
     "title": "バーニングファイト",
@@ -11880,6 +9234,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "パワーホイールズ",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "pwheelsj",
+    "note": "日本版",
+    "titleReading": "ぱわあほいいるず",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "ビッグカルナック",
     "year": "1991",
     "manufacturer": "ガエルコ",
@@ -11887,6 +9250,42 @@ window.ARCADE_GAMES = [
     "note": "Big Karnak",
     "titleReading": "びっぐかるなっく",
     "manufacturerReading": "がえるこ"
+  },
+  {
+    "title": "ブラックハート",
+    "year": "1991",
+    "manufacturer": "UPL",
+    "name": "blkheartj",
+    "note": "日本版",
+    "titleReading": "ぶらっくはーと",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "ブロックブロック",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "blockj",
+    "note": "日本版 910910",
+    "titleReading": "ぶろっくぶろっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "プリルラ",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "pulirula",
+    "note": "海外版",
+    "titleReading": "ぷりるら",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ベルリンの壁",
+    "year": "1991",
+    "manufacturer": "カネコ",
+    "name": "berlwall",
+    "note": "The Berlin Wall",
+    "titleReading": "べるりんのかべ",
+    "manufacturerReading": "かねこ"
   },
   {
     "title": "ペアーズラブ",
@@ -11898,6 +9297,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あてな"
   },
   {
+    "title": "ボンバーマン",
+    "year": "1991",
+    "manufacturer": "アイレム （ハドソンライセンス）",
+    "name": "bombrman",
+    "note": "日本版",
+    "titleReading": "ぼんばあまん",
+    "manufacturerReading": "あいれむはどそんらいせんす"
+  },
+  {
     "title": "ポラックス",
     "year": "1991",
     "manufacturer": "Dooyong",
@@ -11905,6 +9313,15 @@ window.ARCADE_GAMES = [
     "note": "Pollux (set 1)",
     "titleReading": "ぽらっくす",
     "manufacturerReading": "dooyong"
+  },
+  {
+    "title": "メタルブラック",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "metalbj",
+    "note": "日本版",
+    "titleReading": "めたるぶらっく",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "モグラデッセ",
@@ -11923,6 +9340,15 @@ window.ARCADE_GAMES = [
     "note": "Yumefuda [BET]",
     "titleReading": "ゆめさつ",
     "manufacturerReading": "あるば"
+  },
+  {
+    "title": "ライオットシティ",
+    "year": "1991",
+    "manufacturer": "セガ / ウエストン",
+    "name": "riotcity",
+    "note": "日本版",
+    "titleReading": "らいおっとしてぃ",
+    "manufacturerReading": "せがうえすとん"
   },
   {
     "title": "リビット！ （蝦蟇の園）",
@@ -11952,6 +9378,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるゅめ"
   },
   {
+    "title": "64番街",
+    "year": "1991",
+    "manufacturer": "ジャレコ",
+    "name": "64street",
+    "note": "64th. Street -A Detective Story- (海外版)",
+    "titleReading": "ろくじゅうよんばんがい",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
     "title": "ロボアーミー",
     "year": "1991",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -11959,6 +9394,15 @@ window.ARCADE_GAMES = [
     "note": "Robo Army",
     "titleReading": "ろぼあみ",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ワンダー3",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "wonder3",
+    "note": "日本版 910520",
+    "titleReading": "わんだーすりー",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "Flying Tiger -飛虎隊-",
@@ -11997,6 +9441,51 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "アーケードクラシックス",
+    "year": "1992",
+    "manufacturer": "アタリゲームズ",
+    "name": "arcadecl",
+    "note": "prototype",
+    "titleReading": "ああけえどくらしっくす",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "アールタイプ・レオ",
+    "year": "1992",
+    "manufacturer": "アイレム",
+    "name": "rtypeleo",
+    "note": "日本版",
+    "titleReading": "ああるたいぷれお",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "アウトランナーズ",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "orunnersj",
+    "note": "日本版",
+    "titleReading": "あうとらんなーず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アステリックス",
+    "year": "1992",
+    "manufacturer": "コナミ",
+    "name": "asterix",
+    "note": "ver EAD",
+    "titleReading": "あすてりっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "アドベンチャークイズ カプコンワールド2",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "cworld2j",
+    "note": "日本版 920611",
+    "titleReading": "あどべんちゃーくいずかぷこんわーるど2",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "アームチャンプスII",
     "year": "1992",
     "manufacturer": "ジャレコ",
@@ -12006,13 +9495,31 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
-    "title": "ウィッチ",
+    "title": "アラビアンマジック",
     "year": "1992",
-    "manufacturer": "ビック東海",
-    "name": "witch",
-    "note": "Witch",
-    "titleReading": "うぃっち",
-    "manufacturerReading": "びっくとうかい"
+    "manufacturer": "タイトー",
+    "name": "arabianmj",
+    "note": "日本版 Ver 1.0J 1992/07/06",
+    "titleReading": "あらびあんまじっく",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "アンダーカバー コップス",
+    "year": "1992",
+    "manufacturer": "アイレム",
+    "name": "uccopsj",
+    "note": "日本版",
+    "titleReading": "あんだあかばあこっぷす",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "アンドロデュノス",
+    "year": "1992",
+    "manufacturer": "ビスコ",
+    "name": "androdun",
+    "note": "NGM-049 / NGH-049",
+    "titleReading": "あんどろでゅのす",
+    "manufacturerReading": "びすこ"
   },
   {
     "title": "ウォーリーをさがせ！",
@@ -12031,6 +9538,24 @@ window.ARCADE_GAMES = [
     "note": "Ultraman Club - Tatakae! Ultraman Kyoudai!!",
     "titleReading": "うるとらまんくらぶ~たたかえうるとらまんきょうだい~",
     "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "エアレスキュー",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "arescue",
+    "note": "",
+    "titleReading": "えあれすきゅう",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "F-1グランプリ Part II",
+    "year": "1992",
+    "manufacturer": "ビデオシステム",
+    "name": "f1gp2",
+    "note": "",
+    "titleReading": "えふわんぐらんぷりぱーとつー",
+    "manufacturerReading": "びでおしすてむ"
   },
   {
     "title": "雷軋斗 ＜ライアット＞",
@@ -12060,6 +9585,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "びすこ"
   },
   {
+    "title": "餓狼伝説2 -新たなる闘い-",
+    "year": "1992",
+    "manufacturer": "SNK",
+    "name": "fatfury2",
+    "note": "NGM-047 / NGH-047",
+    "titleReading": "がろうでんせつつーあらたなるたたかい",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "キング・オブ・ザ・モンスターズ２ -ザ・ネクストシング-",
     "year": "1992",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -12076,6 +9610,15 @@ window.ARCADE_GAMES = [
     "note": "Galactic Storm (Japan)",
     "titleReading": "ぎゃらくてぃっくすとむ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ＆心理ゲーム クイズココロジー",
+    "year": "1992",
+    "manufacturer": "テクモ",
+    "name": "qzkklogy",
+    "note": "",
+    "titleReading": "くいず&しんりげえむくいずこころじい",
+    "manufacturerReading": "てくも"
   },
   {
     "title": "クイズ ＤＮＡの反乱",
@@ -12132,12 +9675,39 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "クイズめくるめくストーリー",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "quizmeku",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずめくるめくすとーりー",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "グランドエフェクト （スーパーグランドエフェクト）",
     "year": "1992",
     "manufacturer": "タイトー",
     "name": "groundfx",
     "note": "Ground Effects / Super Ground Effects (Japan)",
     "titleReading": "ぐらんどえふぇくとすぱぐらんどえふぇくと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "グランプリスター",
+    "year": "1992",
+    "manufacturer": "ジャレコ",
+    "name": "f1gpstar",
+    "note": "",
+    "titleReading": "ぐらんぷりすたあ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "グリッドシーカー",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "gseekerj",
+    "note": "ver 13J",
+    "titleReading": "ぐりっどしいかあ",
     "manufacturerReading": "たいとう"
   },
   {
@@ -12148,6 +9718,33 @@ window.ARCADE_GAMES = [
     "note": "Grid Seeker: Project Storm Hammer (Ver 1.3O)",
     "titleReading": "ぐりっどしかprojectstormhammer",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "鋼鉄要塞シュトラール",
+    "year": "1992",
+    "manufacturer": "UPL",
+    "name": "strahl",
+    "note": "日本版 set 1",
+    "titleReading": "こうてつようさいしゅとらある",
+    "manufacturerReading": "ゆーぴーえる"
+  },
+  {
+    "title": "コズモギャング・ザ・パズル",
+    "year": "1992",
+    "manufacturer": "ナムコ",
+    "name": "cgangpzlj",
+    "note": "",
+    "titleReading": "こずもぎゃんぐざぱずる",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ゴールデンアックス -デスアダーの復讐-",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "ga2j",
+    "note": "日本版",
+    "titleReading": "ごうるでんあっくすですあだあのふくしゅう",
+    "manufacturerReading": "せが"
   },
   {
     "title": "サボテンボンバーズ",
@@ -12186,6 +9783,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるゅめ"
   },
   {
+    "title": "スーパーワールドスタジアム'92",
+    "year": "1992",
+    "manufacturer": "ナムコ",
+    "name": "sws92",
+    "note": "",
+    "titleReading": "すうぱあわあるどすたじあむ92",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スーパーワールドスタジアム'92 一般版",
+    "year": "1992",
+    "manufacturer": "ナムコ",
+    "name": "sws92g",
+    "note": "日本版",
+    "titleReading": "すうぱあわあるどすたじあむ92いっぱんばん",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "スカイアラート",
     "year": "1992",
     "manufacturer": "メトロ",
@@ -12193,6 +9808,24 @@ window.ARCADE_GAMES = [
     "note": "Sky Alert",
     "titleReading": "すかいあらと",
     "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ストリートファイターII' ターボ -ハイパーファイティング-",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "sf2hfj",
+    "note": "BABAR 921209",
+    "titleReading": "すとりいとふぁいたあiiたあぼはいぱあふぁいてぃんぐ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイターII' -チャンピオンエディション",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "sf2ceja",
+    "note": "日本版 920322",
+    "titleReading": "すとりいとふぁいたあiiちゃんぴおんえでぃしょん",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ストリートファイターII’（アクセラレートパート２）",
@@ -12240,6 +9873,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "セガソニック・ザ・ヘッジホッグ",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "sonic",
+    "note": "BARR rev C",
+    "titleReading": "せがそにっくざへっじほっぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ソニックウィングス",
+    "year": "1992",
+    "manufacturer": "ビデオシステム",
+    "name": "sonicwi",
+    "note": "日本版",
+    "titleReading": "そにっくうぃんぐす",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
     "title": "ソルダム -アたま フル回転! VS 大逆転!-",
     "year": "1992",
     "manufacturer": "ジャレコ",
@@ -12247,6 +9898,24 @@ window.ARCADE_GAMES = [
     "note": "Soldam",
     "titleReading": "そるだむあたまふるかいてんvsだいぎゃくてん",
     "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "達人王",
+    "year": "1992",
+    "manufacturer": "東亜プラン",
+    "name": "truxton2",
+    "note": "Truxton 0",
+    "titleReading": "たつじんおう",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ダークエッジ",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "darkedgej",
+    "note": "日本版 / m↑",
+    "titleReading": "だあくえっじ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ダイエット ゴーゴー",
@@ -12276,6 +9945,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "みっちぇる"
   },
   {
+    "title": "超時空要塞マクロス",
+    "year": "1992",
+    "manufacturer": "バンプレスト",
+    "name": "macross",
+    "note": "",
+    "titleReading": "ちょうじくうようさいまくろす",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "天地を喰らうII 赤壁の戦い",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "wofj",
+    "note": "日本版 921031",
+    "titleReading": "てんちをくらう2せきへきのたたかい",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "デザートブレイカー",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "desertbrj",
+    "note": "日本版 / FD1094 317-0194",
+    "titleReading": "でざーとぶれいかー",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "得点王",
     "year": "1992",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -12301,15 +9997,6 @@ window.ARCADE_GAMES = [
     "note": "Ninja Commando",
     "titleReading": "にんじゃこまんど",
     "manufacturerReading": "あるふぁでんしadk"
-  },
-  {
-    "title": "花札 華天国",
-    "year": "1992",
-    "manufacturer": "ダイナックス",
-    "name": "htengoku",
-    "note": "Hanafuda Hana Tengoku [BET] (Japan)",
-    "titleReading": "はなふだはなてんごく",
-    "manufacturerReading": "だいなっくす"
   },
   {
     "title": "爆裂クイズ魔Ｑ大冒険",
@@ -12339,6 +10026,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "バルーンブラザーズ",
+    "year": "1992",
+    "manufacturer": "イーストテクノロジー",
+    "name": "ballbros",
+    "note": "",
+    "titleReading": "ばるうんぶらざあず",
+    "manufacturerReading": "いいすとてくのろじい"
+  },
+  {
+    "title": "バース -オペレーションサンダーストーム-",
+    "year": "1992",
+    "manufacturer": "カプコン",
+    "name": "varthj",
+    "note": "日本版 920714",
+    "titleReading": "ばーすおぺれーしょんさんだーすとーむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "バーニングライバル",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "brivalj",
+    "note": "日本版",
+    "titleReading": "ばーにんぐらいばる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パズル＆アクション タントア～ル",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "tantr",
+    "note": "日本版",
+    "titleReading": "ぱずる&あくしょんたんとある",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "パンポンズ",
     "year": "1992",
     "manufacturer": "メトロ",
@@ -12346,6 +10069,24 @@ window.ARCADE_GAMES = [
     "note": "Pang Pom's",
     "titleReading": "ぱんぽんず",
     "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ビッグストライカー",
+    "year": "1992",
+    "manufacturer": "ジャレコ",
+    "name": "bigstrik",
+    "note": "",
+    "titleReading": "びっぐすとらいかー",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ビッグファイト -Big Trouble In The Atlantic Ocean-",
+    "year": "1992",
+    "manufacturer": "タツミ",
+    "name": "bigfight",
+    "note": "",
+    "titleReading": "びっぐふぁいとびっぐとらぶるいんじあとらんてぃっくおーしゃん",
+    "manufacturerReading": "たつみ"
   },
   {
     "title": "ビューポイント",
@@ -12357,6 +10098,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "にっぽんえいこむ/さみこうぎょう"
   },
   {
+    "title": "ファイナル・スターフォース",
+    "year": "1992",
+    "manufacturer": "テクモ",
+    "name": "fstarfrcj",
+    "note": "USA版",
+    "titleReading": "ふぁいなるすたあふぉうす",
+    "manufacturerReading": "てくも"
+  },
+  {
     "title": "フットボールフレンジー",
     "year": "1992",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -12364,6 +10114,42 @@ window.ARCADE_GAMES = [
     "note": "Football Frenzy (NGM-034 ~ NGH-034)",
     "titleReading": "ふっとぼるふれんじ",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ブランディア",
+    "year": "1992",
+    "manufacturer": "アルュメ",
+    "name": "blandia",
+    "note": "",
+    "titleReading": "ぶらんでぃあ",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "ブレイゾン",
+    "year": "1992",
+    "manufacturer": "A.I（アトラスライセンス）",
+    "name": "blazeon",
+    "note": "World",
+    "titleReading": "ぶれいぞん",
+    "manufacturerReading": "えーあいあとらすらいせんす"
+  },
+  {
+    "title": "ブロックカーニバル",
+    "year": "1992",
+    "manufacturer": "ビスコ",
+    "name": "blockcar",
+    "note": "Thunder & Lightning 2",
+    "titleReading": "ぶろっくかーにばる",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ぷよぷよ",
+    "year": "1992",
+    "manufacturer": "コンパイル / セガ",
+    "name": "puyoja",
+    "note": "日本版 rev A",
+    "titleReading": "ぷよぷよ",
+    "manufacturerReading": "こんぱいるせが"
   },
   {
     "title": "プレイガールズ",
@@ -12391,6 +10177,15 @@ window.ARCADE_GAMES = [
     "note": "Baseball Stars 2",
     "titleReading": "べすぼるすたず2",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ボンバーマンワールド",
+    "year": "1992",
+    "manufacturer": "アイレム",
+    "name": "bbmanwj",
+    "note": "New Dyna Blaster -Global Quest",
+    "titleReading": "ぼんばあまんわあるど",
+    "manufacturerReading": "あいれむ"
   },
   {
     "title": "ポケットギャルデラックス",
@@ -12438,6 +10233,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "龍虎の拳",
+    "year": "1992",
+    "manufacturer": "SNK",
+    "name": "aof",
+    "note": "Art of Fighting / NGM-044 / NGH-044",
+    "titleReading": "りゅうこのけん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "リングレイジ",
     "year": "1992",
     "manufacturer": "タイトー",
@@ -12445,6 +10249,15 @@ window.ARCADE_GAMES = [
     "note": "Ring Rage (Ver 2.3O 1992/08/09)",
     "titleReading": "りんぐれいじ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ワールドヒーローズ",
+    "year": "1992",
+    "manufacturer": "アルファ電子",
+    "name": "wh1",
+    "note": "ALNM-005",
+    "titleReading": "わあるどひいろうず",
+    "manufacturerReading": "あるふぁでんし"
   },
   {
     "title": "Ｆ－１グランプリスター２",
@@ -12510,6 +10323,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "びすこ"
   },
   {
+    "title": "アテナのハテナ？",
+    "year": "1993",
+    "manufacturer": "アテナ",
+    "name": "atehate",
+    "note": "",
+    "titleReading": "あてなのはてな",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "アルティメット エコロジー",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ecofghtr",
+    "note": "海外版 / Eco Fighters / World 931203",
+    "titleReading": "あるてぃめっとえころじー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ウォーオブエアロ -Project MEIOU-",
     "year": "1993",
     "manufacturer": "アルュメ",
@@ -12546,6 +10377,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あとらす"
   },
   {
+    "title": "海底大戦争 -In The Hunt",
+    "year": "1993",
+    "manufacturer": "アイレム",
+    "name": "kaiteids",
+    "note": "日本版",
+    "titleReading": "かいていだいせんそうinthehunt",
+    "manufacturerReading": "あいれむ"
+  },
+  {
     "title": "カチャット",
     "year": "1993",
     "manufacturer": "タイトー",
@@ -12573,6 +10413,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "餓狼伝説スペシャル",
+    "year": "1993",
+    "manufacturer": "SNK",
+    "name": "fatfursp",
+    "note": "set 1",
+    "titleReading": "がろうでんせつすぺしゃる",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ガンネイル",
     "year": "1993",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -12580,6 +10429,24 @@ window.ARCADE_GAMES = [
     "note": "GunNail (28th May. 1992)",
     "titleReading": "がんねいる",
     "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "機動戦士ガンダム",
+    "year": "1993",
+    "manufacturer": "バンプレスト / アルュメ",
+    "name": "msgundam",
+    "note": "",
+    "titleReading": "きどうせんしがんだむ",
+    "manufacturerReading": "ばんぷれすとあるゅめ"
+  },
+  {
+    "title": "キャディラックス 恐竜新世紀",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "dinoj",
+    "note": "日本版 930201",
+    "titleReading": "きゃでぃらっくすきょうりゅうしんせいき",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "究極戦隊ダダンダーン",
@@ -12609,6 +10476,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "クイズクレヨンしんちゃん",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "qcrayon",
+    "note": "AAR",
+    "titleReading": "くいずくれよんしんちゃん",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "クイズ世界はSHOW by ショーバイ！！",
     "year": "1993",
     "manufacturer": "タイトー",
@@ -12634,6 +10510,15 @@ window.ARCADE_GAMES = [
     "note": "Quiz Panicuru Fantasy",
     "titleReading": "くいずぱにくるふぁんたじ~",
     "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "クレヨンしんちゃん おらと遊ぼ",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "qcrayon2",
+    "note": "AAR",
+    "titleReading": "くれよんしんちゃんおらとあそぼ",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "ぐっすんおよよ",
@@ -12681,6 +10566,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "dooyongntclicense"
   },
   {
+    "title": "サムライスピリッツ",
+    "year": "1993",
+    "manufacturer": "SNK",
+    "name": "samsho",
+    "note": "NGM-045",
+    "titleReading": "さむらいすぴりっつ",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "サンダードラゴン２ ＜雷龍２＞",
     "year": "1993",
     "manufacturer": "エヌエムケイ（NMK）",
@@ -12708,6 +10602,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たむてっくす"
   },
   {
+    "title": "上海III",
+    "year": "1993",
+    "manufacturer": "サンソフト",
+    "name": "shangha3",
+    "note": "日本版",
+    "titleReading": "しゃんはいiii",
+    "manufacturerReading": "さんそふと"
+  },
+  {
     "title": "シュマイザーロボ",
     "year": "1993",
     "manufacturer": "ホットビィ",
@@ -12715,6 +10618,33 @@ window.ARCADE_GAMES = [
     "note": "Schmeiser Robo (Japan)",
     "titleReading": "しゅまいざろぼ",
     "manufacturerReading": "ほっとびぃ"
+  },
+  {
+    "title": "J.J.スコーカーズ",
+    "year": "1993",
+    "manufacturer": "アテナ / エイブル",
+    "name": "jjsquawk",
+    "note": "",
+    "titleReading": "じぇいじぇいすこーかーず",
+    "manufacturerReading": "あてなえいぶる"
+  },
+  {
+    "title": "スーパーストリートファイターII -ザ・ニューチャレンジャーズ",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ssf2j",
+    "note": "日本版 931005",
+    "titleReading": "すうぱあすとりいとふぁいたあiiざにゅうちゃれんじゃあず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スーパーワールドスタジアム'93 -激闘版-",
+    "year": "1993",
+    "manufacturer": "ナムコ",
+    "name": "sws93",
+    "note": "B AHR",
+    "titleReading": "すうぱあわあるどすたじあむ93げきとうばん",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "スーパーストリートファイターII -ザ･トーナメント･バトル-",
@@ -12733,6 +10663,15 @@ window.ARCADE_GAMES = [
     "note": "Run and Gun (ver EAA 1993 10.8)",
     "titleReading": "すらむだんくbbballshowtime",
     "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "戦国エース",
+    "year": "1993",
+    "manufacturer": "彩京 （バンプレストライセンス）",
+    "name": "sngkace",
+    "note": "日本版",
+    "titleReading": "せんごくええす",
+    "manufacturerReading": "さいきょうばんぷれすとらいせんす"
   },
   {
     "title": "戦国伝承２",
@@ -12787,6 +10726,24 @@ window.ARCADE_GAMES = [
     "note": "Dyna Gear",
     "titleReading": "だいなぎあ",
     "manufacturerReading": "すからべ"
+  },
+  {
+    "title": "ダンジョンズ＆ドラゴンズ -タワーオブドゥーム-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ddtodj",
+    "note": "日本版 940412",
+    "titleReading": "だんじょんずあんどどらごんずたわーおぶどぅーむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "超時空要塞マクロスII",
+    "year": "1993",
+    "manufacturer": "バンプレスト",
+    "name": "macross2",
+    "note": "",
+    "titleReading": "ちょうじくうようさいまくろすii",
+    "manufacturerReading": "ばんぷれすと"
   },
   {
     "title": "ティンクルピット",
@@ -12861,6 +10818,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "てくのそふと"
   },
   {
+    "title": "ハットトリックヒーロー'93",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "scfinals",
+    "note": "Super Cup Finals (ver 2.10 1998/11/19)",
+    "titleReading": "はっととりっくひいろう93",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "早押しクイズ 王座決定戦 -KING OF QUIZ-",
     "year": "1993",
     "manufacturer": "ジャレコ",
@@ -12897,6 +10863,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せがam2"
   },
   {
+    "title": "バツグン",
+    "year": "1993",
+    "manufacturer": "東亜プラン",
+    "name": "batsugun",
+    "note": "",
+    "titleReading": "ばつぐん",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "バツグン",
+    "year": "1993",
+    "manufacturer": "東亜プラン",
+    "name": "batsugunsp",
+    "note": "special ver",
+    "titleReading": "ばつぐん",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "パニッシャー",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "punisherj",
+    "note": "日本版 930422",
+    "titleReading": "ぱにっしゃー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ファイヤーバレル",
     "year": "1993",
     "manufacturer": "タムテックス",
@@ -12904,6 +10897,15 @@ window.ARCADE_GAMES = [
     "note": "Fire Barrel (Japan)",
     "titleReading": "ふぁいやばれる",
     "manufacturerReading": "たむてっくす"
+  },
+  {
+    "title": "ファイヤースープレックス",
+    "year": "1993",
+    "manufacturer": "SNK",
+    "name": "3countb",
+    "note": "3 Count Bout / NGM-043 / NGH-043",
+    "titleReading": "ふぁいやーすーぷれっくす",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "ブルーホーク",
@@ -12933,6 +10935,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ボンジャックツイン",
+    "year": "1993",
+    "manufacturer": "NMK",
+    "name": "bjtwin",
+    "note": "set 1",
+    "titleReading": "ぼんじゃっくついん",
+    "manufacturerReading": "えぬえむけー"
+  },
+  {
     "title": "ぽいっと！",
     "year": "1993",
     "manufacturer": "メトロ",
@@ -12958,6 +10969,24 @@ window.ARCADE_GAMES = [
     "note": "Magical Cat Adventure",
     "titleReading": "まじかるきゃっとあどべんちゃ",
     "manufacturerReading": "ういんてくの"
+  },
+  {
+    "title": "マッスルボマー -THE BODY EXPLOSION-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "slammast",
+    "note": "海外版 / Saturday Night Slam Masters / World 930713",
+    "titleReading": "まっするぼまーざぼでぃえくすぷろーじょん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マッスルボマーDUO -HEAT UP WARRIORS-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "mbombrdj",
+    "note": "日本版 931206",
+    "titleReading": "まっするぼまーでゅおひーとあっぷうぉりあーず",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "マッド・シャーク",
@@ -13050,6 +11079,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "ワールドヒーローズ2",
+    "year": "1993",
+    "manufacturer": "ADK",
+    "name": "wh2",
+    "note": "ALNM-006 / ALH-006",
+    "titleReading": "わあるどひいろうず2",
+    "manufacturerReading": "ええでぃーけー"
+  },
+  {
+    "title": "わいわいアニマルランドJr.",
+    "year": "1993",
+    "manufacturer": "中日本 / イーストテクノロジー（タイトーライセンス）",
+    "name": "animaljrj",
+    "note": "日本版",
+    "titleReading": "わいわいあにまるらんどじゅにあ",
+    "manufacturerReading": "なかにほんいーすとてくのろじーたいとーらいせんす"
+  },
+  {
     "title": "Ｊリーグサッカー Ｖシュート",
     "year": "1994",
     "manufacturer": "ナムコ",
@@ -13059,6 +11106,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "アリゲーターハント",
+    "year": "1994",
+    "manufacturer": "ガエルコ",
+    "name": "aligatorun",
+    "note": "unprotected / checksum F9C6891D",
+    "titleReading": "ありげーたーはんと",
+    "manufacturerReading": "がえるこ"
+  },
+  {
     "title": "エイトフォース",
     "year": "1994",
     "manufacturer": "テクモ",
@@ -13066,6 +11122,24 @@ window.ARCADE_GAMES = [
     "note": "Eight Forces",
     "titleReading": "えいとふぉす",
     "manufacturerReading": "てくも"
+  },
+  {
+    "title": "エイリアンVSプレデター",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "avspj",
+    "note": "日本版 940520",
+    "titleReading": "えいりあんvsぷれでたあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "X-MEN -チルドレン オブ ジ アトム",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "xmcotajr",
+    "note": "日本版 941208 rent ver",
+    "titleReading": "えっくすめんちるどれんおぶじあとむ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "エックスメン -チルドレンオブジアトム-",
@@ -13084,6 +11158,15 @@ window.ARCADE_GAMES = [
     "note": "Elevator Action Returns (Ver 2.2O 1995/02/20)",
     "titleReading": "えれべたあくしょんりたんず",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "大江戸ファイト",
+    "year": "1994",
+    "manufacturer": "カネコ",
+    "name": "oedfight",
+    "note": "日本版 Bloodshed version",
+    "titleReading": "おおえどふぁいと",
+    "manufacturerReading": "かねこ"
   },
   {
     "title": "おてんきパラダイス -スノーブラザーズ2-",
@@ -13140,6 +11223,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かねこせいさくしょかねこ"
   },
   {
+    "title": "クイズゴーストハンター",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "qgh",
+    "note": "日本版, ROM Based",
+    "titleReading": "くいずごーすとはんたー",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "クイズシアター -3つの物語-",
     "year": "1994",
     "manufacturer": "タイトー",
@@ -13194,6 +11286,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "bmc"
   },
   {
+    "title": "ゴールデンアックス・ザ・デュエル",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "gaxeduel",
+    "note": "USA / 欧州 / G38 / ST UAB 950117 ver 1.000)",
+    "titleReading": "ごうるでんあっくすざでゅえる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "極上パロディウス - 過去の栄光を求めて",
+    "year": "1994",
+    "manufacturer": "コナミ",
+    "name": "gokuparo",
+    "note": "ver JAD",
+    "titleReading": "ごくじょうぱろでぃうすかこのえいこうをもとめて",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "サイバーコマンド",
     "year": "1994",
     "manufacturer": "ナムコ",
@@ -13212,6 +11322,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ザ・Jリーグ 1994",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "jleague",
+    "note": "日本版",
+    "titleReading": "ざjりいぐ1994",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ '94",
+    "year": "1994",
+    "manufacturer": "SNK",
+    "name": "kof94",
+    "note": "NGM-055 / NGH-055",
+    "titleReading": "ざきんぐおぶふぁいたあず94",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "真サムライスピリッツ -覇王丸地獄変-",
+    "year": "1994",
+    "manufacturer": "SNK",
+    "name": "samsho2",
+    "note": "NGM-063 / NGH-063",
+    "titleReading": "しんさむらいすぴりっつ",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "スーパーストリートファイターII X -グランドマスターチャレンジ",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "ssf2xj",
+    "note": "日本版 940223",
+    "titleReading": "すうぱあすとりいとふぁいたあiixぐらんどますたあちゃれんじ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "スカッドハンマー",
     "year": "1994",
     "manufacturer": "ジャレコ",
@@ -13219,6 +11365,15 @@ window.ARCADE_GAMES = [
     "note": "Scud Hammer",
     "titleReading": "すかっどはんま",
     "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "スタックコラムス",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "stkclmnsj",
+    "note": "日本版",
+    "titleReading": "すたっくこらむす",
+    "manufacturerReading": "せが"
   },
   {
     "title": "スーパーＸ",
@@ -13257,6 +11412,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "いすといすとてくのろじ"
   },
   {
+    "title": "スーパーマッスルボマー -THE INTERNATIONAL BLOWOUT-",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "ringdest",
+    "note": "海外版 / Ring of Destruction: Slammasters II / Europe 940902",
+    "titleReading": "すーぱーまっするぼまーじいんたーなしょなるぶろーあうと",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ずんずん教の野望",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "zunkyou",
+    "note": "日本版",
+    "titleReading": "ずんずんきょうのやぼう",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ソニックウイングス２",
     "year": "1994",
     "manufacturer": "ビデオシステム",
@@ -13264,6 +11437,24 @@ window.ARCADE_GAMES = [
     "note": "Aero Fighters 2 / Sonic Wings 2",
     "titleReading": "そにっくういんぐす2",
     "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "対戦ぱずるだま",
+    "year": "1994",
+    "manufacturer": "コナミ",
+    "name": "puzldama",
+    "note": "ver JAA",
+    "titleReading": "たいせんぱずるだま",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダライアス外伝 -シルバーホーク",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "dariusg",
+    "note": "ver 2.5O 1994/09/19",
+    "titleReading": "だらいあすがいでんしるばあほうく",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "だるま道場 -目指せ、達麿王-",
@@ -13284,6 +11475,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ツインイーグルII -The Rescue Mission",
+    "year": "1994",
+    "manufacturer": "セタ",
+    "name": "twineag2",
+    "note": "",
+    "titleReading": "ついんいいぐるiitherescuemission",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "痛快GANGAN行進曲",
+    "year": "1994",
+    "manufacturer": "ADK / SNK",
+    "name": "aodk",
+    "note": "ADM-008 / ADH-008",
+    "titleReading": "つうかいganganこうしんきょく",
+    "manufacturerReading": "ええでぃーけーえすえぬけー"
+  },
+  {
     "title": "天地を喰らうII -赤壁の戦い- (CPSチェンジャー版)",
     "year": "1994",
     "manufacturer": "カプコン",
@@ -13302,6 +11511,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "うぃんきそふと"
   },
   {
+    "title": "登龍門",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "toryumon",
+    "note": "",
+    "titleReading": "とうりゅうもん",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "トップハンター -RODDY ＆ CATHY-",
     "year": "1994",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -13309,6 +11527,15 @@ window.ARCADE_GAMES = [
     "note": "Top Hunter - Roddy & Cathy (NGM-046)",
     "titleReading": "とっぷはんたroddy&cathy",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ドラゴンボールZ 2 -スーパーバトル",
+    "year": "1994",
+    "manufacturer": "バンプレスト",
+    "name": "dbz2",
+    "note": "",
+    "titleReading": "どらごんぼうるz2すうぱあばとる",
+    "manufacturerReading": "ばんぷれすと"
   },
   {
     "title": "ドラゴンボールZ V.R.V.S",
@@ -13338,13 +11565,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あとらす"
   },
   {
-    "title": "花札 華銀河",
+    "title": "ハットトリックヒーロー'95",
     "year": "1994",
-    "manufacturer": "ダイナックス",
-    "name": "hginga",
-    "note": "Hanafuda Hana Ginga [BET] (Japan)",
-    "titleReading": "はなふだはなぎんが",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "タイトー",
+    "name": "hthero95",
+    "note": "Ver 2.5J 1994/11/03",
+    "titleReading": "はっととりっくひいろう95",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "早押しクイズ 熱闘生放送",
@@ -13374,6 +11601,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "らいじんぐ"
   },
   {
+    "title": "ハードダンク",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "harddunkj",
+    "note": "日本版",
+    "titleReading": "はーどだんく",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "バーチャファイター２",
     "year": "1994",
     "manufacturer": "セガ（AM2）",
@@ -13392,6 +11628,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "バトルクロード",
+    "year": "1994",
+    "manufacturer": "彩京",
+    "name": "btlkroad",
+    "note": "",
+    "titleReading": "ばとるくろうど",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "バブルシンフォニー",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "bublbob2",
+    "note": "Bubble Bobble II",
+    "titleReading": "ばぶるしんふぉにい",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "牌砦II 仇討ち外伝",
     "year": "1994",
     "manufacturer": "メトロ",
@@ -13401,6 +11655,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "めとろ"
   },
   {
+    "title": "パズル＆アクション イチダントアール",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "ichirj",
+    "note": "日本版",
+    "titleReading": "ぱずるあんどあくしょんいちだんとあーる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パズルボブル",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "pbobble",
+    "note": "",
+    "titleReading": "ぱずるぼぶる",
+    "manufacturerReading": "たいとう"
+  },
+  {
     "title": "パズルボブル （MVS版）",
     "year": "1994",
     "manufacturer": "タイトー",
@@ -13408,6 +11680,33 @@ window.ARCADE_GAMES = [
     "note": "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)",
     "titleReading": "ぱずるぼぶるmvsはん",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "パワースパイクスII",
+    "year": "1994",
+    "manufacturer": "ビデオシステム",
+    "name": "pspikes2",
+    "note": "NGM-068",
+    "titleReading": "ぱわあすぱいくすii",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "パワードギア",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "pgear",
+    "note": "日本版 941024 / Strategic Variant Armor Equipment",
+    "titleReading": "ぱわーどぎあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ファイターズヒストリーダイナマイト",
+    "year": "1994",
+    "manufacturer": "データイースト",
+    "name": "karnovr",
+    "note": "",
+    "titleReading": "ふぁいたあずひすとりいだいなまいと",
+    "manufacturerReading": "でえたいいすと"
   },
   {
     "title": "ファイトフィーバー",
@@ -13428,6 +11727,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "でえたいいすと"
   },
   {
+    "title": "ブレイジングトルネード",
+    "year": "1994",
+    "manufacturer": "ヒューマン",
+    "name": "blzntrnd",
+    "note": "",
+    "titleReading": "ぶれいじんぐとるねーど",
+    "manufacturerReading": "ひゅーまん"
+  },
+  {
+    "title": "ブロッケン",
+    "year": "1994",
+    "manufacturer": "ビスコ / KID",
+    "name": "blocken",
+    "note": "日本版",
+    "titleReading": "ぶろっけん",
+    "manufacturerReading": "びすこきっど"
+  },
+  {
     "title": "ぷにっきいず",
     "year": "1994",
     "manufacturer": "コンパイル",
@@ -13435,6 +11752,15 @@ window.ARCADE_GAMES = [
     "note": "Pnickies (Japan 940608)",
     "titleReading": "ぷにっきいず",
     "manufacturerReading": "こんぱいる"
+  },
+  {
+    "title": "ぷよぷよ通",
+    "year": "1994",
+    "manufacturer": "コンパイル （セガライセンス）",
+    "name": "puyopuy2",
+    "note": "日本版",
+    "titleReading": "ぷよぷよどおり",
+    "manufacturerReading": "こんぱいるせがらいせんす"
   },
   {
     "title": "へべれけのぽぷーん",
@@ -13446,6 +11772,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さんでんしさんそふと"
   },
   {
+    "title": "ベストバウトボクシング",
+    "year": "1994",
+    "manufacturer": "ジャレコ",
+    "name": "bbbxing",
+    "note": "",
+    "titleReading": "べすとばうとぼくしんぐ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
     "title": "ボンバーマン ぱにっくボンバー",
     "year": "1994",
     "manufacturer": "エイティング / ライジング",
@@ -13453,6 +11788,15 @@ window.ARCADE_GAMES = [
     "note": "Panic Bomber",
     "titleReading": "ぼんばまんぱにっくぼんば",
     "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+  },
+  {
+    "title": "ポトポト",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "potopoto",
+    "note": "日本版, Rev A",
+    "titleReading": "ぽとぽと",
+    "manufacturerReading": "せが"
   },
   {
     "title": "マジカルエラーをさがせ！",
@@ -13473,6 +11817,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えぬえむけいnmk"
   },
   {
+    "title": "龍虎の拳2",
+    "year": "1994",
+    "manufacturer": "SNK",
+    "name": "aof2",
+    "note": "Art of Fighting 2",
+    "titleReading": "りゅうこのけんつー",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ルー大柴＆細川ふみえ 早押しクイズ -グランドチャンピオン大会-",
     "year": "1994",
     "manufacturer": "ジャレコ",
@@ -13489,6 +11842,15 @@ window.ARCADE_GAMES = [
     "note": "Rail Chase 2 (Revision A)",
     "titleReading": "れるちぇいす2",
     "manufacturerReading": "せが"
+  },
+  {
+    "title": "ヴァンパイア -ザ・ナイト・ウォリアーズ-",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "vampj",
+    "note": "日本版 940705",
+    "titleReading": "ゔぁんぱいあざないとうぉりああず",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "Double Point -夜上海-",
@@ -13518,6 +11880,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "アベンジャーズ・イン・ギャラクティックストーム",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "avengrgsj",
+    "note": "日本版 1.2",
+    "titleReading": "あべんじゃーずいんぎゃらくてぃっくすとーむ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
     "title": "ウルトラ警備隊 -空想特撮ゲーム-",
     "year": "1995",
     "manufacturer": "セタ",
@@ -13545,6 +11916,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さみこうぎょう"
   },
   {
+    "title": "絵本探偵事務所",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "ejihon",
+    "note": "日本版 950613 V1.000",
+    "titleReading": "えほんたんていじむしょ",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "オセロダービー",
     "year": "1995",
     "manufacturer": "サンワイズ",
@@ -13561,6 +11941,15 @@ window.ARCADE_GAMES = [
     "note": "Guardians / Denjin Makai II (P-FG01-1 PCB)",
     "titleReading": "がでぃあんず",
     "manufacturerReading": "うぃんきそふと"
+  },
+  {
+    "title": "餓狼伝説3 -遥かなる闘い",
+    "year": "1995",
+    "manufacturer": "SNK",
+    "name": "fatfury3",
+    "note": "NGM-069 / NGH-069",
+    "titleReading": "がろうでんせつすりーはるかなるたたかい",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "がんばれギンくん -アクションミニゲーム集-",
@@ -13599,6 +11988,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ざうるす"
   },
   {
+    "title": "クイズ殿様の野望2 全国版",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "qtono2j",
+    "note": "日本版 950123",
+    "titleReading": "くいずとのさまのやぼう2ぜんこくばん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "クイズ ドレミファグランプリ２ -新曲入荷だよ-",
     "year": "1995",
     "manufacturer": "コナミ",
@@ -13626,6 +12024,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "かねこ"
   },
   {
+    "title": "ゲーム天国 -The Game Paradise!",
+    "year": "1995",
+    "manufacturer": "ジャレコ",
+    "name": "gametngk",
+    "note": "",
+    "titleReading": "げえむてんごくthegameparadise",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
     "title": "ゴール！ゴール！ゴール！",
     "year": "1995",
     "manufacturer": "ビスコ",
@@ -13644,13 +12051,31 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
-    "title": "シグマポーカー",
+    "title": "サイバーボッツ -フルメタルマッドネス-",
     "year": "1995",
-    "manufacturer": "シグマ",
-    "name": "sigmapkr",
-    "note": "Sigma Poker",
-    "titleReading": "しぐまぽか",
-    "manufacturerReading": "しぐま"
+    "manufacturer": "カプコン",
+    "name": "cybotsj",
+    "note": "日本版 950420",
+    "titleReading": "さいばあぼっつふるめたるまっどねす",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "サムライスピリッツ -斬紅郎無双剣-",
+    "year": "1995",
+    "manufacturer": "SNK",
+    "name": "samsho3",
+    "note": "NGM-087",
+    "titleReading": "さむらいすぴりっつきべにろうむそうけん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ '95",
+    "year": "1995",
+    "manufacturer": "SNK",
+    "name": "kof95",
+    "note": "set 1",
+    "titleReading": "ざきんぐおぶふぁいたあず95",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "上海 -万里の長城-",
@@ -13707,6 +12132,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ふうき"
   },
   {
+    "title": "ステークスウィナー -GI完全制覇への道-",
+    "year": "1995",
+    "manufacturer": "ザウルス",
+    "name": "stakwin",
+    "note": "",
+    "titleReading": "すてえくすうぃなあgiかんぜんせいはへのみち",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "ストリートファイターZERO",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "sfzj",
+    "note": "日本版 950727",
+    "titleReading": "すとりいとふぁいたあzero",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ストリートファイターＺＥＲＯ (CPSチェンジャー版)",
     "year": "1995",
     "manufacturer": "カプコン",
@@ -13761,6 +12204,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "戦球",
+    "year": "1995",
+    "manufacturer": "セイブ開発",
+    "name": "senkyu",
+    "note": "日本版, newer / m↑",
+    "titleReading": "せんきゅう",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ソウルエッジ",
+    "year": "1995",
+    "manufacturer": "ナムコ",
+    "name": "souledgeja",
+    "note": "日本版, SO1/VER.A / m↑",
+    "titleReading": "そうるえっじ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "そこぬけ対戦ゲーム",
+    "year": "1995",
+    "manufacturer": "サミー",
+    "name": "sokonuke",
+    "note": "",
+    "titleReading": "そこぬけたいせんげえむ",
+    "manufacturerReading": "さみい"
+  },
+  {
     "title": "卒業証書",
     "year": "1995",
     "manufacturer": "ミッチェル / ヤンヤカ",
@@ -13777,6 +12247,15 @@ window.ARCADE_GAMES = [
     "note": "Aero Fighters 3 / Sonic Wings 3",
     "titleReading": "そにっくういんぐす3",
     "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "大牌砦",
+    "year": "1995",
+    "manufacturer": "メトロ",
+    "name": "daitorid",
+    "note": "",
+    "titleReading": "だいとりで",
+    "manufacturerReading": "めとろ"
   },
   {
     "title": "ダブルドラゴン （MVS版）",
@@ -13815,6 +12294,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "てくのすじゃぱん"
   },
   {
+    "title": "ツインビーヤッホー！ -ふしぎの国で大あばれ！！",
+    "year": "1995",
+    "manufacturer": "コナミ",
+    "name": "tbyahhoo",
+    "note": "ver JAA",
+    "titleReading": "ついんびいやっほうふしぎのくにでだいあばれ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "テトリスプラス",
+    "year": "1995",
+    "manufacturer": "ジャレコ / BPS",
+    "name": "tetrisp",
+    "note": "",
+    "titleReading": "てとりすぷらす",
+    "manufacturerReading": "じゃれこびーぴーえす"
+  },
+  {
     "title": "天外魔境真伝",
     "year": "1995",
     "manufacturer": "ハドソン",
@@ -13833,6 +12330,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "てくも"
   },
   {
+    "title": "闘神伝2",
+    "year": "1995",
+    "manufacturer": "カプコン / タカラ",
+    "name": "ts2j",
+    "note": "日本版 951124",
+    "titleReading": "とうしんでんつー",
+    "manufacturerReading": "かぷこんたから"
+  },
+  {
     "title": "ときめきメモリアル対戦ぱずるだま",
     "year": "1995",
     "manufacturer": "コナミ",
@@ -13842,6 +12348,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "得点王3 -栄光への挑戦-",
+    "year": "1995",
+    "manufacturer": "SNK",
+    "name": "ssideki3",
+    "note": "",
+    "titleReading": "とくてんおう3えいこうへのちょうせん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ドラグーンマイト",
     "year": "1995",
     "manufacturer": "コナミ",
@@ -13849,6 +12364,15 @@ window.ARCADE_GAMES = [
     "note": "Dragoon Might (ver AAB)",
     "titleReading": "どらぐんまいと",
     "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "首領蜂",
+    "year": "1995",
+    "manufacturer": "ケイブ （アトラスライセンス）",
+    "name": "donpachij",
+    "note": "BAM",
+    "titleReading": "どんぱち",
+    "manufacturerReading": "けいぶあとらすらいせんす"
   },
   {
     "title": "ナムコ クラシックコレクション VOL.1",
@@ -13869,13 +12393,40 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと"
   },
   {
-    "title": "花札 華五光",
+    "title": "脳力向上委員会",
     "year": "1995",
-    "manufacturer": "ダイナックス",
-    "name": "hgokou",
-    "note": "Hanafuda Hana Gokou [BET] (Japan)",
-    "titleReading": "はなふだはなごひかり",
-    "manufacturerReading": "だいなっくす"
+    "manufacturer": "テクモ",
+    "name": "nouryoku",
+    "note": "",
+    "titleReading": "のうりょくこうじょういいんかい",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "ばくばくアニマル -世界飼育係選手権-",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "bakubaku",
+    "note": "J 950407 V1.000",
+    "titleReading": "ばくばくあにまるせかいしいくがかりせんしゅけん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "バックファイア！",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "backfire",
+    "note": "日本版 set 1",
+    "titleReading": "ばっくふぁいあ",
+    "manufacturerReading": "でーたいーすと"
+  },
+  {
+    "title": "バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "bubblem",
+    "note": "ver 2.40 1996/02/15",
+    "titleReading": "ばぶるめもりいずざすとうりいおぶばぶるぼぶるiii",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "パズルdeポン！",
@@ -13885,6 +12436,33 @@ window.ARCADE_GAMES = [
     "note": "Puzzle De Pon!",
     "titleReading": "ぱずるdeぽん",
     "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "パズル＆アクション サンドアール",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "sandor",
+    "note": "日本版 951114 V1.000",
+    "titleReading": "ぱずるあんどあくしょんさんどあーる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パズルボブル2",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "pbobble2",
+    "note": "ver 280 1995/07/31",
+    "titleReading": "ぱずるぼぶる2",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "パズルボブル2X",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "pbobble2x",
+    "note": "ver 22J 1995/11/11",
+    "titleReading": "ぱずるぼぶる2x",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "ぱづり",
@@ -13923,6 +12501,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "ファンキーヘッドボクサーズ",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "fhboxers",
+    "note": "JUETBKAL 951218 V1.000",
+    "titleReading": "ふぁんきーへっどぼくさーず",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "風雲黙示録 -格闘創世-",
     "year": "1995",
     "manufacturer": "エス･エヌ･ケイ（SNK）",
@@ -13950,6 +12537,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "t&eそふと"
   },
   {
+    "title": "マーヴルスーパーヒーローズ",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "mshj",
+    "note": "BARR 951117",
+    "titleReading": "まあゔるすうぱあひいろうず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "マジカルドロップ ＰＬＵＳ１！",
     "year": "1995",
     "manufacturer": "データイースト",
@@ -13968,15 +12564,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "夢想花",
-    "year": "1995",
-    "manufacturer": "日本物産",
-    "name": "musobana",
-    "note": "Musoubana (Japan)",
-    "titleReading": "むそうはな",
-    "manufacturerReading": "にほんぶっさん"
-  },
-  {
     "title": "ランディングギア",
     "year": "1995",
     "manufacturer": "タイトー",
@@ -13984,6 +12571,33 @@ window.ARCADE_GAMES = [
     "note": "Landing Gear (Ver 4.2 O)",
     "titleReading": "らんでぃんぐぎあ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "リアルバウト餓狼伝説",
+    "year": "1995",
+    "manufacturer": "SNK",
+    "name": "rbff1a",
+    "note": "bug fix rev",
+    "titleReading": "りあるばうと餓おおかみでんせつ",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "ロックマン ザ・パワーバトル",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "rockmanj",
+    "note": "日本版 950922 CPS1",
+    "titleReading": "ろっくまんざぱわあばとる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ワールドヒーローズパーフェクト",
+    "year": "1995",
+    "manufacturer": "ADK / SNK",
+    "name": "whp",
+    "note": "",
+    "titleReading": "わあるどひいろうずぱあふぇくと",
+    "manufacturerReading": "ええでぃーけーえすえぬけー"
   },
   {
     "title": "湾岸戦争",
@@ -14002,6 +12616,15 @@ window.ARCADE_GAMES = [
     "note": "Varia Metal",
     "titleReading": "ゔぁりあめたる",
     "manufacturerReading": "えくせれんとしすてむ"
+  },
+  {
+    "title": "ヴァンパイアハンター -ダークストーカーズリベンジ",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "vhuntj",
+    "note": "日本版 950316",
+    "titleReading": "ゔぁんぱいあはんたあだあくすとうかあずりべんじ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "Air Attack -空襲-",
@@ -14031,6 +12654,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "アートオブファイティング 龍虎の拳外伝",
+    "year": "1996",
+    "manufacturer": "SNK",
+    "name": "aof3",
+    "note": "Art of Fighting 3",
+    "titleReading": "ああとおぶふぁいてぃんぐりゅうとらのこぶしがいでん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "アクアリウム",
+    "year": "1996",
+    "manufacturer": "エクセレントシステム",
+    "name": "aquarium",
+    "note": "日本版",
+    "titleReading": "あくありうむ",
+    "manufacturerReading": "えくせれんとしすてむ"
+  },
+  {
+    "title": "アクウギャレット",
+    "year": "1996",
+    "manufacturer": "ガゼル（バンプレストライセンス）",
+    "name": "agalletj",
+    "note": "日本版",
+    "titleReading": "あくうぎゃれっと",
+    "manufacturerReading": "がぜるばんぷれすとらいせんす"
+  },
+  {
     "title": "ウォーザード",
     "year": "1996",
     "manufacturer": "カプコン",
@@ -14046,6 +12696,15 @@ window.ARCADE_GAMES = [
     "name": "xmvsf",
     "note": "X-Men Vs. Street Fighter (Euro 961004)",
     "titleReading": "えっくすめんvsすとりとふぁいた",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "X-MEN VS. ストリートファイター",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "xmvsfj",
+    "note": "日本版 970113",
+    "titleReading": "えっくすめんばーさすすとりーとふぁいたー",
     "manufacturerReading": "かぷこん"
   },
   {
@@ -14085,6 +12744,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さんでんしさんそふと"
   },
   {
+    "title": "逆転！！パズル番長",
+    "year": "1996",
+    "manufacturer": "フウキ",
+    "name": "pbancho",
+    "note": "日 本 孤",
+    "titleReading": "ぎゃくてんぱずるばんちょう",
+    "manufacturerReading": "ふうき"
+  },
+  {
+    "title": "ギャロップレーサー",
+    "year": "1996",
+    "manufacturer": "テクモ",
+    "name": "glpracr",
+    "note": "BWR ver 9.01.12",
+    "titleReading": "ぎゃろっぷれえさあ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "クイズなないろドリームス 虹色町の奇跡",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "qndream",
+    "note": "日 本 孤 960826",
+    "titleReading": "くいずなないろどりいむすにじいろまちのきせき",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "くにおの熱血闘球伝説",
     "year": "1996",
     "manufacturer": "テクノスジャパン",
@@ -14092,6 +12778,24 @@ window.ARCADE_GAMES = [
     "note": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
     "titleReading": "くにおのねっけつとうたまでんせつ",
     "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "クレオパトラフォーチュン",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "cleopatr",
+    "note": "Ver 2.1J 1996/09/05",
+    "titleReading": "くれおぱとらふぉうちゅん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "子育てクイズ・マイエンジェル",
+    "year": "1996",
+    "manufacturer": "MOSS / ナムコ",
+    "name": "myangel",
+    "note": "日 本 阪",
+    "titleReading": "こそだてくいずまいえんじぇる",
+    "manufacturerReading": "もすなむこ"
   },
   {
     "title": "コラムス'９７",
@@ -14112,6 +12816,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "サムライスピリッツ -天草降臨-",
+    "year": "1996",
+    "manufacturer": "SNK",
+    "name": "samsho4",
+    "note": "Samurai Shodown IV - Amakusa's Revenge",
+    "titleReading": "さむらいすぴりっつてんぐさこうりん",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "三刻志",
+    "year": "1996",
+    "manufacturer": "ミッチェル",
+    "name": "3kokushi",
+    "note": "",
+    "titleReading": "さんごくし",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
     "title": "サンフランシスコラッシュ -エクストリームレーシング-",
     "year": "1996",
     "manufacturer": "アタリゲームズ",
@@ -14119,6 +12841,15 @@ window.ARCADE_GAMES = [
     "note": "San Francisco Rush (boot rom L 1.0)",
     "titleReading": "さんふらんしすこらっしゅえくすとりむれしんぐ",
     "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ '96",
+    "year": "1996",
+    "manufacturer": "SNK",
+    "name": "kof96",
+    "note": "set 1",
+    "titleReading": "ざきんぐおぶふぁいたあず96",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "ジェットウエーブ",
@@ -14130,6 +12861,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "スーパーパズルファイターII X",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "spf2xj",
+    "note": "日本版 960531",
+    "titleReading": "すうぱあぱずるふぁいたあiix",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "進め！対戦ぱずるだま",
     "year": "1996",
     "manufacturer": "コナミ",
@@ -14137,6 +12877,51 @@ window.ARCADE_GAMES = [
     "note": "Susume! Taisen Puzzle-Dama (GV027 Japan 1.20)",
     "titleReading": "すすめたいせんぱずるだま",
     "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "スターグラディエイター",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "stargladj",
+    "note": "日 本 販 960627",
+    "titleReading": "すたあぐらでぃえいたあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ステークスウィナー2",
+    "year": "1996",
+    "manufacturer": "ザウルス",
+    "name": "stakwin2",
+    "note": "",
+    "titleReading": "すてえくすうぃなあ2",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "ストリートファイターEX",
+    "year": "1996",
+    "manufacturer": "カプコン / アリカ",
+    "name": "sfexj",
+    "note": "日本版 961130",
+    "titleReading": "すとりいとふぁいたあex",
+    "manufacturerReading": "かぷこんありか"
+  },
+  {
+    "title": "ストリートファイターZERO 2",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "sfz2j",
+    "note": "日本版 960430",
+    "titleReading": "すとりいとふぁいたあzero2",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイターZERO2 ALPHA",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "sfz2alj",
+    "note": "日本版 960805",
+    "titleReading": "すとりーとふぁいたーぜろ2あるふぁ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "スーパーワールドスタジアム'９６ -激闘版-",
@@ -14148,6 +12933,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
+    "title": "スラムダンク2 -Konami Basketball Championship 1996",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "slamdnk2",
+    "note": "ver JAA",
+    "titleReading": "すらむだんく2konamibasketballchampionship1996",
+    "manufacturerReading": "こなみ"
+  },
+  {
     "title": "セカンドアース グラティア",
     "year": "1996",
     "manufacturer": "ジャレコ",
@@ -14157,6 +12951,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "じゃれこ"
   },
   {
+    "title": "戦国ブレード -Sengoku Ace Episode II",
+    "year": "1996",
+    "manufacturer": "彩京",
+    "name": "tengaij",
+    "note": "Tengai (海外版)",
+    "titleReading": "せんごくぶれーど",
+    "manufacturerReading": "さいきょう"
+  },
+  {
     "title": "蒼穹紅蓮隊",
     "year": "1996",
     "manufacturer": "ライジング",
@@ -14164,6 +12967,24 @@ window.ARCADE_GAMES = [
     "note": "Soukyugurentai / Terra Diver (JUET 960821 V1.000)",
     "titleReading": "そうきゅうぐれんたい",
     "manufacturerReading": "らいじんぐ"
+  },
+  {
+    "title": "ソニックウィングス リミテッド",
+    "year": "1996",
+    "manufacturer": "ビデオシステム",
+    "name": "sncwgltd",
+    "note": "日本版",
+    "titleReading": "そにっくうぃんぐすりみてっど",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "対戦とっかえだま",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "tokkae",
+    "note": "ver JAA",
+    "titleReading": "たいせんとっかえだま",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ターゲットパニック",
@@ -14184,6 +13005,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ダイナマイト刑事",
+    "year": "1996",
+    "manufacturer": "セガ",
+    "name": "dnmtdeka",
+    "note": "日本版 960515 V1.000",
+    "titleReading": "だいなまいとでか",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ダンジョンズ＆ドラゴンズ -シャドーオーバーミスタラ",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "ddsomj",
+    "note": "日本版 960619",
+    "titleReading": "だんじょんず&どらごんずしゃどうおうばあみすたら",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ティンクルスタースプライツ",
     "year": "1996",
     "manufacturer": "エーディーケイ（ADK）",
@@ -14191,6 +13030,24 @@ window.ARCADE_GAMES = [
     "note": "Twinkle Star Sprites",
     "titleReading": "てぃんくるすたすぷらいつ",
     "manufacturerReading": "えでぃけいadk"
+  },
+  {
+    "title": "電車でGO！",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "dendego",
+    "note": "",
+    "titleReading": "でんしゃでgo",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "電車でGO！EX",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "dendegox",
+    "note": "",
+    "titleReading": "でんしゃでgoex",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "闘姫伝承 -ANGEL EYES-",
@@ -14209,6 +13066,15 @@ window.ARCADE_GAMES = [
     "note": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
     "titleReading": "とくてんおうほのおのりべろ",
     "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "19XX -The War Against Destiny",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "19xxj",
+    "note": "日本版 951225",
+    "titleReading": "ないんてぃーんだぶるえっくす",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ニンジャマスターズ -覇王忍法帳-",
@@ -14256,15 +13122,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "花札 華簪 （花札 花かんざし）",
-    "year": "1996",
-    "manufacturer": "ダイナックスソフト",
-    "name": "hanakanz",
-    "note": "Hana Kanzashi (Japan)",
-    "titleReading": "はなふだはなしんはなふだはなかんざし",
-    "manufacturerReading": "だいなっくすそふと"
-  },
-  {
     "title": "バーチャファイターキッズ",
     "year": "1996",
     "manufacturer": "セガ（AM2）",
@@ -14272,6 +13129,60 @@ window.ARCADE_GAMES = [
     "note": "Virtua Fighter Kids (JUET 960319 V0.000)",
     "titleReading": "ばちゃふぁいたきっず",
     "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "バックストリートサッカー",
+    "year": "1996",
+    "manufacturer": "SunA （ユニコライセンス）",
+    "name": "bssoccer",
+    "note": "",
+    "titleReading": "ばっくすとりいとさっかあ",
+    "manufacturerReading": "さんええゆにこらいせんす"
+  },
+  {
+    "title": "バトルガレッガ",
+    "year": "1996",
+    "manufacturer": "ライジング / エイティング",
+    "name": "bgaregga",
+    "note": "Europe / USA / Japan / Asia / 1996-02-03",
+    "titleReading": "ばとるがれっが",
+    "manufacturerReading": "らいじんぐえいてぃんぐ"
+  },
+  {
+    "title": "バルキューブ",
+    "year": "1996",
+    "manufacturer": "メトロ",
+    "name": "balcube",
+    "note": "",
+    "titleReading": "ばるきゅうぶ",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "バンバンボール",
+    "year": "1996",
+    "manufacturer": "バンプレスト / 田代邦博+グッドハウス",
+    "name": "bangball",
+    "note": "ver 105",
+    "titleReading": "ばんばんぼうる",
+    "manufacturerReading": "ばんぷれすとたしろくにひろぐっどはうす"
+  },
+  {
+    "title": "パズルボブル3",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "pbobble3",
+    "note": "ver 2.10 1996/09/27",
+    "titleReading": "ぱずるぼぶる3",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "パネル＆バラエティ あか丸Q 上昇どんどんR",
+    "year": "1996",
+    "manufacturer": "ダイナックス（中日本ライセンス）",
+    "name": "akamaru",
+    "note": "",
+    "titleReading": "ぱねるあんどばらえてぃあかまるきゅーじょうしょうどんどんあーる",
+    "manufacturerReading": "だいなっくすなかにほんらいせんす"
   },
   {
     "title": "ビシバシチャンプ -ミニゲーム選手権-",
@@ -14319,6 +13230,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ざうるす"
   },
   {
+    "title": "ブレイカーズ",
+    "year": "1996",
+    "manufacturer": "ビスコ",
+    "name": "breakers",
+    "note": "",
+    "titleReading": "ぶれいかあず",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ぷよぷよSUN",
+    "year": "1996",
+    "manufacturer": "コンパイル",
+    "name": "puyosun",
+    "note": "日本版 961115 ver 0.001",
+    "titleReading": "ぷよぷよsun",
+    "manufacturerReading": "こんぱいる"
+  },
+  {
     "title": "プリクラ大作戦",
     "year": "1996",
     "manufacturer": "アトラス",
@@ -14364,6 +13293,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "マジカルドロップII",
+    "year": "1996",
+    "manufacturer": "データイースト",
+    "name": "magdrop2",
+    "note": "",
+    "titleReading": "まじかるどろっぷii",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "メタルスラッグ -Super Vehicle-001",
+    "year": "1996",
+    "manufacturer": "ナスカ",
+    "name": "mslug",
+    "note": "",
+    "titleReading": "めたるすらっぐsupervehicle001",
+    "manufacturerReading": "なすか"
+  },
+  {
     "title": "雷電ＤＸ",
     "year": "1996",
     "manufacturer": "セイブ開発",
@@ -14382,6 +13329,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "リアルバウト餓狼伝説スペシャル",
+    "year": "1996",
+    "manufacturer": "SNK",
+    "name": "rbffspec",
+    "note": "",
+    "titleReading": "りあるばうと餓おおかみでんせつすぺしゃる",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "両替パズルゲーム もうぢゃ",
     "year": "1996",
     "manufacturer": "Etona",
@@ -14398,6 +13354,24 @@ window.ARCADE_GAMES = [
     "note": "Ray Storm (Ver 2.06A)",
     "titleReading": "れいすとむ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ロジックプロ",
+    "year": "1996",
+    "manufacturer": "デニアム",
+    "name": "logicpro",
+    "note": "日本版",
+    "titleReading": "ろじっくぷろ",
+    "manufacturerReading": "でにあむ"
+  },
+  {
+    "title": "ロックマン2 ザ・パワーファイターズ",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "rockman2j",
+    "note": "日本版 960708",
+    "titleReading": "ろっくまん2ざぱわあふぁいたあず",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ワインディングヒート",
@@ -14454,6 +13428,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "アルカノイドリターンズ",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "arkretrn",
+    "note": "Ver 2.02O 1997/02/10",
+    "titleReading": "あるかのいどりたーんず",
+    "manufacturerReading": "たいとー"
+  },
+  {
+    "title": "ウィンターヒート",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "winterht",
+    "note": "JUET 971012 V1.000",
+    "titleReading": "うぃんたーひーと",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ウェディングラプソディ",
     "year": "1997",
     "manufacturer": "コナミ",
@@ -14481,6 +13473,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "igs"
   },
   {
+    "title": "カプコンスポーツクラブ",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "csclubj",
+    "note": "日本版 970722",
+    "titleReading": "かぷこんすぽーつくらぶ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ガッポリン",
+    "year": "1997",
+    "manufacturer": "ビデオシステム",
+    "name": "popbounc",
+    "note": "",
+    "titleReading": "がっぽりん",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
     "title": "きらめきスターロード -♪イントロ倶楽部♪-",
     "year": "1997",
     "manufacturer": "サクセス",
@@ -14497,6 +13507,15 @@ window.ARCADE_GAMES = [
     "note": "Gals Hustler",
     "titleReading": "ぎゃるずはすら",
     "manufacturerReading": "えすいんたなしょなる"
+  },
+  {
+    "title": "子育てクイズ・マイエンジェル2",
+    "year": "1997",
+    "manufacturer": "MOSS / ナムコ",
+    "name": "myangel2",
+    "note": "",
+    "titleReading": "こそだてくいずまいえんじぇる2",
+    "manufacturerReading": "もすなむこ"
   },
   {
     "title": "コットン２ -マジカルナイトドリームス-",
@@ -14517,6 +13536,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "サクラ大戦 花組対戦コラムス",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "hanagumi",
+    "note": "日本版 971007 V1.010",
+    "titleReading": "さくらたいせんはなぐみたいせんこらむす",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "サーフプラネット",
     "year": "1997",
     "manufacturer": "Gaelco (Atari license)",
@@ -14524,6 +13552,15 @@ window.ARCADE_GAMES = [
     "note": "Surf Planet (Version 4.1)",
     "titleReading": "さふぷらねっと",
     "manufacturerReading": "gaelcoatarilicense"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ '97",
+    "year": "1997",
+    "manufacturer": "SNK",
+    "name": "kof97",
+    "note": "set 1",
+    "titleReading": "ざきんぐおぶふぁいたあず97",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "紫炎龍",
@@ -14562,6 +13599,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ざうるす"
   },
   {
+    "title": "私立ジャスティス学園 -Legion of Heroes",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "jgakuen",
+    "note": "日本版 971117",
+    "titleReading": "しりつじゃすてぃすがくえんlegionofheroes",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "私立ジャスティス学園 -リージョン オブ ヒーローズ-",
     "year": "1997",
     "manufacturer": "カプコン",
@@ -14589,6 +13635,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいきょう"
   },
   {
+    "title": "ストリートファイターEXプラス",
+    "year": "1997",
+    "manufacturer": "カプコン / アリカ",
+    "name": "sfexpj",
+    "note": "日本版 970311 / m↑",
+    "titleReading": "すとりいとふぁいたあexぷらす",
+    "manufacturerReading": "かぷこんありか"
+  },
+  {
+    "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "sfiii2j",
+    "note": "日本版 970930 / m↑",
+    "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイターIII 2ndインパクト -ジャイアントアタック-",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "sfiii2n",
+    "note": "PSI PHB 970930 NO CD",
+    "titleReading": "すとりいとふぁいたあiii2ndいんぱくとじゃいあんとあたっく",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイターIII -ニュージェネレーション-",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "sfiiin",
+    "note": "アジ ア 孤 970204 NO CD",
+    "titleReading": "すとりいとふぁいたあiiiにゅうじぇねれえしょん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ストリートファイターIII -NEW GENERATION-",
     "year": "1997",
     "manufacturer": "カプコン",
@@ -14605,6 +13687,15 @@ window.ARCADE_GAMES = [
     "note": "Super World Stadium '97 (Japan)",
     "titleReading": "すぱわるどすたじあむ'97",
     "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "全日本プロレス featuring Virtua",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "znpwfv",
+    "note": "日本版 971123 V1.000",
+    "titleReading": "ぜんにほんぷろれすふぃーちゃりんぐばーちゃ",
+    "manufacturerReading": "せが"
   },
   {
     "title": "ソーラーアサルト",
@@ -14634,6 +13725,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "鉄拳3",
+    "year": "1997",
+    "manufacturer": "ナムコ",
+    "name": "tekken3",
+    "note": "日 本 販 TETI/VEREI",
+    "titleReading": "てっけん3",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "テトリスプラス2",
+    "year": "1997",
+    "manufacturer": "ジャレコ",
+    "name": "tp2m32",
+    "note": "MegaSystem 32 ver",
+    "titleReading": "てとりすぷらす2",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
     "title": "とべ！ポリスターズ",
     "year": "1997",
     "manufacturer": "コナミ",
@@ -14643,6 +13752,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "怒首領蜂",
+    "year": "1997",
+    "manufacturer": "ケイブ （アトラスライセンス）",
+    "name": "ddonpachj",
+    "note": "海外版",
+    "titleReading": "どどんぱち",
+    "manufacturerReading": "けいぶあとらすらいせんす"
+  },
+  {
     "title": "ネオボンバーマン",
     "year": "1997",
     "manufacturer": "ハドソン",
@@ -14650,15 +13768,6 @@ window.ARCADE_GAMES = [
     "note": "Neo Bomberman",
     "titleReading": "ねおぼんばまん",
     "manufacturerReading": "はどそん"
-  },
-  {
-    "title": "花札 華陽炎",
-    "year": "1997",
-    "manufacturer": "ダイナックスソフト",
-    "name": "hkagerou",
-    "note": "Hana Kagerou [BET] (Japan)",
-    "titleReading": "はなふだかようほのお",
-    "manufacturerReading": "だいなっくすそふと"
   },
   {
     "title": "ハングパイロット",
@@ -14679,6 +13788,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "えすえすえぬえぬけいsnk"
   },
   {
+    "title": "バトルサーキット",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "batcirj",
+    "note": "日本版 970319",
+    "titleReading": "ばとるさあきっと",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "パズルdeポン！Ｒ",
     "year": "1997",
     "manufacturer": "ビスコ",
@@ -14686,6 +13804,24 @@ window.ARCADE_GAMES = [
     "note": "Puzzle De Pon! R!",
     "titleReading": "ぱずるdeぽんr",
     "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "パズルボブル4",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "pbobble4",
+    "note": "ver 2.04O 1997/12/19",
+    "titleReading": "ぱずるぼぶる4",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ビートマニア",
+    "year": "1997",
+    "manufacturer": "コナミ",
+    "name": "bm1stmix",
+    "note": "ver JA-B",
+    "titleReading": "びいとまにあ",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ファイターズインパクトエース",
@@ -14697,6 +13833,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "ブラッディロア",
+    "year": "1997",
+    "manufacturer": "エイティング / ライジング",
+    "name": "bldyroar",
+    "note": "日本版 1997-06-21",
+    "titleReading": "ぶらっでぃろあ",
+    "manufacturerReading": "えいてぃんぐらいじんぐ"
+  },
+  {
     "title": "プチカラット -ジェムストーン王国の世界-",
     "year": "1997",
     "manufacturer": "タイトー",
@@ -14706,6 +13851,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "ポケットファイター",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "pfghtj",
+    "note": "日本版 970904",
+    "titleReading": "ぽけっとふぁいたあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ぽっぷんぽっぷ",
     "year": "1997",
     "manufacturer": "タイトー",
@@ -14713,6 +13867,15 @@ window.ARCADE_GAMES = [
     "note": "Pop'n Pop (Ver 2.07O 1998/02/09)",
     "titleReading": "ぽっぷんぽっぷ",
     "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "マーヴル・スーパーヒーローズ VS. ストリートファイター",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "mshvsfj",
+    "note": "日本版 970707",
+    "titleReading": "まあゔるすうぱあひいろうずvsすとりいとふぁいたあ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "まじかるで～と -卒業告白大作戦-",
@@ -14769,6 +13932,51 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "visco/dattjapan"
   },
   {
+    "title": "ライデンファイターズ2 -オペレーションヘルダイブ-",
+    "year": "1997",
+    "manufacturer": "セイブ開発",
+    "name": "rdft2j",
+    "note": "",
+    "titleReading": "らいでんふぁいたあず2おぺれえしょんへるだいぶ",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ロジックプロ2",
+    "year": "1997",
+    "manufacturer": "デニアム",
+    "name": "logicpr2",
+    "note": "",
+    "titleReading": "ろじっくぷろ2",
+    "manufacturerReading": "でにあむ"
+  },
+  {
+    "title": "ヴァンパイアセイヴァー2 -ザ・ロードオブヴァンパイア",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "vsav2",
+    "note": "日本版 970913",
+    "titleReading": "ゔぁんぱいあせいゔぁあ2ざろうどおぶゔぁんぱいあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ヴァンパイアセイヴァー -ザ・ロードオブヴァンパイア",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "vsavj",
+    "note": "日本版 970519",
+    "titleReading": "ゔぁんぱいあせいゔぁあざろうどおぶゔぁんぱいあ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ヴァンパイアハンター2 -ダークストーカーズリベンジ",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "vhunt2",
+    "note": "日本版 970929",
+    "titleReading": "ゔぁんぱいあはんたあ2だあくすとうかあずりべんじ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "ＮＢＡプレイバイプレイ",
     "year": "1998",
     "manufacturer": "コナミ",
@@ -14778,6 +13986,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "アシュラブレード -Sword of Dynasty",
+    "year": "1998",
+    "manufacturer": "フウキ",
+    "name": "asurabld",
+    "note": "日本版",
+    "titleReading": "あしゅらぶれえどswordofdynasty",
+    "manufacturerReading": "ふうき"
+  },
+  {
     "title": "アストラスーパースターズ",
     "year": "1998",
     "manufacturer": "サンタクロース / サン電子（サンソフト）",
@@ -14785,6 +14002,15 @@ window.ARCADE_GAMES = [
     "note": "Astra SuperStars (J 980514 V1.002)",
     "titleReading": "あすとらすぱすたず",
     "manufacturerReading": "さんたくろす/さんでんしさんそふと"
+  },
+  {
+    "title": "アームドポリス バトライダー",
+    "year": "1998",
+    "manufacturer": "ライジング / エイティング",
+    "name": "batriderj",
+    "note": "日本版 B version / 1998-02-13",
+    "titleReading": "あーむどぽりすばとらいだー",
+    "manufacturerReading": "らいじんぐえいてぃんぐ"
   },
   {
     "title": "戦神 -SENJING-",
@@ -14803,15 +14029,6 @@ window.ARCADE_GAMES = [
     "note": "Eleven Beat",
     "titleReading": "いれぶんびとわるどとなめんと",
     "manufacturerReading": "はどそん"
-  },
-  {
-    "title": "桜花恋 ＜Ying Hua Lian＞",
-    "year": "1998",
-    "manufacturer": "サブシノ",
-    "name": "saklove",
-    "note": "Ying Hua Lian 2.0 (China, Ver. 1.02)",
-    "titleReading": "おうかこい<yinghualian>",
-    "manufacturerReading": "さぶしの"
   },
   {
     "title": "オセロしようよ",
@@ -14922,13 +14139,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "シグマポーカー２０００",
+    "title": "ザ・キング・オブ・ファイターズ '98 -ドリームマッチネバーエンズ",
     "year": "1998",
-    "manufacturer": "シグマ",
-    "name": "sigma2k",
-    "note": "Sigma Poker 2000",
-    "titleReading": "しぐまぽか2000",
-    "manufacturerReading": "しぐま"
+    "manufacturer": "SNK",
+    "name": "kof98",
+    "note": "NGM-2420",
+    "titleReading": "ざきんぐおぶふぁいたあず98どりいむまっちねばあえんず",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "上海 -真的武勇-",
@@ -14955,6 +14172,15 @@ window.ARCADE_GAMES = [
     "name": "jojo",
     "note": "JoJo's Venture (Euro 990128)",
     "titleReading": "じょじょのきみょうなぼうけん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スターグラディエイター2 -ナイトメア オブ ビルシュタイン",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "stargld2",
+    "note": "日本版 980316",
+    "titleReading": "すたあぐらでぃえいたあ2ないとめあおぶびるしゅたいん",
     "manufacturerReading": "かぷこん"
   },
   {
@@ -14985,6 +14211,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "afega"
   },
   {
+    "title": "ストリートファイターEX2",
+    "year": "1998",
+    "manufacturer": "カプコン / アリカ",
+    "name": "sfex2j",
+    "note": "日 本 販 980312",
+    "titleReading": "すとりいとふぁいたあex2",
+    "manufacturerReading": "かぷこんありか"
+  },
+  {
+    "title": "ストリートファイターZERO3",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "sfz3j",
+    "note": "日本版 980904",
+    "titleReading": "すとりいとふぁいたあzero3",
+    "manufacturerReading": "かぷこん"
+  },
+  {
     "title": "スーパービシバシチャンプ",
     "year": "1998",
     "manufacturer": "コナミ",
@@ -15012,6 +14256,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ソウルキャリバー",
+    "year": "1998",
+    "manufacturer": "ナムコ",
+    "name": "soulclbrja",
+    "note": "日本版, SOC11/VER.A2 / m↑",
+    "titleReading": "そうるきゃりばあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "対戦タントアール サシっす!!",
+    "year": "1998",
+    "manufacturer": "セガ",
+    "name": "sasissu",
+    "note": "ARR 980216 ver 1.000",
+    "titleReading": "たいせんたんとああるさしっす",
+    "manufacturerReading": "せが"
+  },
+  {
     "title": "ダークホースレジェンド",
     "year": "1998",
     "manufacturer": "コナミ",
@@ -15030,6 +14292,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいきょう"
   },
   {
+    "title": "超鋼戦紀キカイオー",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "techromnu",
+    "note": "海外版 / Tech Romancer / USA 980914",
+    "titleReading": "ちょうこうせんききかいおー",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "テトリス ザ・グランドマスター",
+    "year": "1998",
+    "manufacturer": "アリカ / カプコン",
+    "name": "tgmj",
+    "note": "BARR 980710",
+    "titleReading": "てとりすざぐらんどますたあ",
+    "manufacturerReading": "ありかかぷこん"
+  },
+  {
     "title": "デッド オア アライブ プラス プラス",
     "year": "1998",
     "manufacturer": "テクモ",
@@ -15037,6 +14317,24 @@ window.ARCADE_GAMES = [
     "note": "Dead Or Alive ++ (Japan)",
     "titleReading": "でっどおああらいぶぷらすぷらす",
     "manufacturerReading": "てくも"
+  },
+  {
+    "title": "電車でGO！2 -高速編-",
+    "year": "1998",
+    "manufacturer": "タイトー",
+    "name": "dendego2",
+    "note": "",
+    "titleReading": "でんしゃでgo2こうそくへん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "電車でGO！2 -高速編3000番台-",
+    "year": "1998",
+    "manufacturer": "タイトー",
+    "name": "dendego23k",
+    "note": "",
+    "titleReading": "でんしゃでgo2こうそくへん3000ばんだい",
+    "manufacturerReading": "たいとう"
   },
   {
     "title": "闘龍伝説エランドール",
@@ -15120,22 +14418,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ぷろでゅす"
   },
   {
-    "title": "パチンコ銀玉勝負",
+    "title": "ビートマニア 2nd MIX",
     "year": "1998",
-    "manufacturer": "ダイナックスソフト",
-    "name": "pkgnsh",
-    "note": "Pachinko Gindama Shoubu (Japan)",
-    "titleReading": "ぱちんこぎんだましょうぶ",
-    "manufacturerReading": "だいなっくすそふと"
-  },
-  {
-    "title": "パチンコ銀玉勝負ＤＸ",
-    "year": "1998",
-    "manufacturer": "ダイナックスソフト",
-    "name": "pkgnshdx",
-    "note": "Pachinko Gindama Shoubu DX (Japan)",
-    "titleReading": "ぱちんこぎんだましょうぶdx",
-    "manufacturerReading": "だいなっくすそふと"
+    "manufacturer": "コナミ",
+    "name": "bm2ndmix",
+    "note": "ver JA-B",
+    "titleReading": "びいとまにあ2ndmix",
+    "manufacturerReading": "こなみ"
   },
   {
     "title": "ビートマニア サードミックス",
@@ -15165,6 +14454,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "ありか"
   },
   {
+    "title": "ブレイジングスター",
+    "year": "1998",
+    "manufacturer": "夢工房",
+    "name": "blazstar",
+    "note": "",
+    "titleReading": "ぶれいじんぐすたあ",
+    "manufacturerReading": "ゆめこうぼう"
+  },
+  {
     "title": "ポップンミュージック",
     "year": "1998",
     "manufacturer": "コナミ",
@@ -15174,6 +14472,42 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "mvscj",
+    "note": "日本版 980123",
+    "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "マーヴルVSカプコン -クラッシュ・オブ・スーパーヒーローズ-",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "mvscjr1",
+    "note": "日本版 980112",
+    "titleReading": "まあゔるvsかぷこんくらっしゅおぶすうぱあひいろうず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "メタルスラッグ2 -Super Vehicle-001/II",
+    "year": "1998",
+    "manufacturer": "SNK",
+    "name": "mslug2",
+    "note": "NGM-2410 / NGH-2410",
+    "titleReading": "めたるすらっぐ2supervehicle001ii",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "ライデンファイターズJET",
+    "year": "1998",
+    "manufacturer": "セイブ開発",
+    "name": "rfjetj",
+    "note": "BAD",
+    "titleReading": "らいでんふぁいたあずjet",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
     "title": "ラジカルバイカーズ",
     "year": "1998",
     "manufacturer": "ガエルコ",
@@ -15181,6 +14515,24 @@ window.ARCADE_GAMES = [
     "note": "Radikal Bikers (Version 2.02)",
     "titleReading": "らじかるばいかず",
     "manufacturerReading": "がえるこ"
+  },
+  {
+    "title": "ランドメーカー",
+    "year": "1998",
+    "manufacturer": "タイトー",
+    "name": "landmakr",
+    "note": "Ver 2.01J 1998/06/01",
+    "titleReading": "らんどめえかあ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "リアルバウト餓狼伝説2 -THE NEWCOMERS-",
+    "year": "1998",
+    "manufacturer": "SNK",
+    "name": "rbff2",
+    "note": "NGM-2400",
+    "titleReading": "りあるばうと餓おおかみでんせつ2thenewcomers",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "レイクライシス -LOGISTIC SHOOTING-",
@@ -15219,6 +14571,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
+    "title": "アクアラッシュ",
+    "year": "1999",
+    "manufacturer": "ナムコ",
+    "name": "aquarush",
+    "note": "日本版",
+    "titleReading": "あくあらっしゅ",
+    "manufacturerReading": "なむこ"
+  },
+  {
     "title": "おてなみ拝見",
     "year": "1999",
     "manufacturer": "サクセス",
@@ -15246,6 +14607,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "のいずふぁくとり"
   },
   {
+    "title": "餓狼 -マーク・オブ・ザ・ウルヴス",
+    "year": "1999",
+    "manufacturer": "SNK",
+    "name": "garou",
+    "note": "set 1",
+    "titleReading": "がろうまーくおぶざうるゔす",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ガントレット ダークレガシー",
     "year": "1999",
     "manufacturer": "Midway Games",
@@ -15253,6 +14623,24 @@ window.ARCADE_GAMES = [
     "note": "Gauntlet Dark Legacy (version DL 2.52)",
     "titleReading": "がんとれっとだくれがし",
     "manufacturerReading": "midwaygames"
+  },
+  {
+    "title": "キャプテントマディ",
+    "year": "1999",
+    "manufacturer": "ビスコ",
+    "name": "ctomaday",
+    "note": "",
+    "titleReading": "きゃぷてんとまでぃ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ギガウィング",
+    "year": "1999",
+    "manufacturer": "タクミ （カプコンライセンス）",
+    "name": "gigawing",
+    "note": "USA版 990222",
+    "titleReading": "ぎがうぃんぐ",
+    "manufacturerReading": "たくみかぷこんらいせんす"
   },
   {
     "title": "ギターフリークス",
@@ -15300,6 +14688,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたりげえむず"
   },
   {
+    "title": "ザ・キング・オブ・ファイターズ '99 -ミレニアムバトル",
+    "year": "1999",
+    "manufacturer": "SNK",
+    "name": "kof99",
+    "note": "set 1",
+    "titleReading": "ざきんぐおぶふぁいたあず99みれにあむばとる",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "ザ・レジェンドオブシルクロード",
     "year": "1999",
     "manufacturer": "Unico",
@@ -15327,6 +14724,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ジョジョの奇妙な冒険 -未来への遺産-",
+    "year": "1999",
+    "manufacturer": "カプコン",
+    "name": "jojoban",
+    "note": "日本版 990927,NO CD / m↑",
+    "titleReading": "じょじょのきみょうなぼうけんみらいへのいさん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストライカーズ1945 プラス",
+    "year": "1999",
+    "manufacturer": "彩京",
+    "name": "s1945p",
+    "note": "",
+    "titleReading": "すとらいかあず1945ぷらす",
+    "manufacturerReading": "さいきょう"
+  },
+  {
     "title": "ストライカーズ１９９９",
     "year": "1999",
     "manufacturer": "彩京",
@@ -15334,6 +14749,24 @@ window.ARCADE_GAMES = [
     "note": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
     "titleReading": "すとらいかず1999",
     "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ストリートファイターEX2プラス",
+    "year": "1999",
+    "manufacturer": "カプコン / アリカ",
+    "name": "sfex2pj",
+    "note": "日本版 990611 / m↑",
+    "titleReading": "すとりいとふぁいたあex2ぷらす",
+    "manufacturerReading": "かぷこんありか"
+  },
+  {
+    "title": "ストリートファイターIII 3rdストライク -ファイトフォーザフューチャー-",
+    "year": "1999",
+    "manufacturer": "カプコン",
+    "name": "sfiii3n",
+    "note": "日本版 990608, NO CD / m↑",
+    "titleReading": "すとりいとふぁいたあiii3rdすとらいくふぁいとふぉうざふゅうちゃあ",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "ストリートファイターＥＸ２ ＰＬＵＳ",
@@ -15381,13 +14814,22 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "団地で花札 -奥さん米屋ですよ！-",
+    "title": "チェンジエアブレード",
     "year": "1999",
-    "manufacturer": "アルトロン",
-    "name": "danchih",
-    "note": "Danchi de Hanafuda (J 990607 V1.400)",
-    "titleReading": "だんちではなふだおくさんこめやですよ",
-    "manufacturerReading": "あるとろん"
+    "manufacturer": "サミー",
+    "name": "cairblad",
+    "note": "日本版",
+    "titleReading": "ちぇんじえあぶれえど",
+    "manufacturerReading": "さみい"
+  },
+  {
+    "title": "鉄拳タッグトーナメント",
+    "year": "1999",
+    "manufacturer": "ナムコ",
+    "name": "tektagt",
+    "note": "USARR TEGS/VERC1",
+    "titleReading": "てっけんたっぐとうなめんと",
+    "manufacturerReading": "なむこ"
   },
   {
     "title": "とんでもクライシス！",
@@ -15424,6 +14866,15 @@ window.ARCADE_GAMES = [
     "note": "Puzzle De Bowling (Japan)",
     "titleReading": "ぱずるdeぼりんぐ",
     "manufacturerReading": "もす"
+  },
+  {
+    "title": "パズルボブル2",
+    "year": "1999",
+    "manufacturer": "タイトー （SNKライセンス）",
+    "name": "pbobbl2n",
+    "note": "Neo-Geo",
+    "titleReading": "ぱずるぼぶる2",
+    "manufacturerReading": "たいとうえすえぬけーらいせんす"
   },
   {
     "title": "ぱづり２ スーパー",
@@ -15534,6 +14985,33 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "せが"
   },
   {
+    "title": "ミスタードリラー",
+    "year": "1999",
+    "manufacturer": "ナムコ",
+    "name": "mrdrillr",
+    "note": "日本版 DRI1/VER.A2",
+    "titleReading": "みすたあどりらあ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "武蔵巌流記",
+    "year": "1999",
+    "manufacturer": "ビスコ",
+    "name": "ganryu",
+    "note": "",
+    "titleReading": "むさしがんりゅうき",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "メタルスラッグX -Super Vehicle-001",
+    "year": "1999",
+    "manufacturer": "SNK",
+    "name": "mslugx",
+    "note": "NGM-2500 / NGH-2500",
+    "titleReading": "めたるすらっぐxsupervehicle001",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "リアルアンドフェイク フォトＹ２Ｋ",
     "year": "1999",
     "manufacturer": "IGS",
@@ -15541,6 +15019,15 @@ window.ARCADE_GAMES = [
     "note": "Photo Y2K / Chaoji Bi Yi Bi / Dajia Lai Zhao Cha / Real and Fake (ver. 105)",
     "titleReading": "りあるあんどふぇいくふぉとy2k",
     "manufacturerReading": "igs"
+  },
+  {
+    "title": "ロジックプロ アドベンチャー",
+    "year": "1999",
+    "manufacturer": "アミューズワールド",
+    "name": "lpadv",
+    "note": "日本版 / m↑",
+    "titleReading": "ろじっくぷろあどべんちゃあ",
+    "manufacturerReading": "あみゅうずわあるど"
   },
   {
     "title": "ロックン３",
@@ -15606,6 +15093,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たむそふと/でぃすりでぃすりぱぶりっしゃ"
   },
   {
+    "title": "1944 -ザ・ループマスター",
+    "year": "2000",
+    "manufacturer": "エイティング / ライジング （カプコンライセンス）",
+    "name": "1944j",
+    "note": "USA版 000620",
+    "titleReading": "いちきゅうよんよんざるーぷますたー",
+    "manufacturerReading": "えいてぃんぐらいじんぐかぷこんらいせんす"
+  },
+  {
     "title": "英雄傳説 -LEGEND OF HEROES-",
     "year": "2000",
     "manufacturer": "Limenko",
@@ -15622,6 +15118,15 @@ window.ARCADE_GAMES = [
     "note": "Guts'n (Japan)",
     "titleReading": "がつん",
     "manufacturerReading": "ひかりゆうしゃ"
+  },
+  {
+    "title": "クイズでアイドル！ホットデビュー",
+    "year": "2000",
+    "manufacturer": "MOSS / 彩京",
+    "name": "hotdebut",
+    "note": "BARR",
+    "titleReading": "くいずであいどるほっとでびゅう",
+    "manufacturerReading": "もすさいきょう"
   },
   {
     "title": "グレート魔法大作戦",
@@ -15678,6 +15183,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さくせす/ぷらいむしすてむ"
   },
   {
+    "title": "ザ・キング・オブ・ファイターズ 2000",
+    "year": "2000",
+    "manufacturer": "SNK",
+    "name": "kof2000",
+    "note": "NGM-2570 / NGH-2570",
+    "titleReading": "ざきんぐおぶふぁいたあず2000",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
     "title": "上海 ～昇龍再臨～",
     "year": "2000",
     "manufacturer": "ワラシ（童）/ アクティビジョン",
@@ -15705,6 +15219,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あるとろん"
   },
   {
+    "title": "テトリスT.A. -グランドマスター2-",
+    "year": "2000",
+    "manufacturer": "アリカ",
+    "name": "tgm2",
+    "note": "",
+    "titleReading": "てとりすtaぐらんどますたあ2",
+    "manufacturerReading": "ありか"
+  },
+  {
+    "title": "テトリスT.A. -グランドマスター2プラス-",
+    "year": "2000",
+    "manufacturer": "アリカ",
+    "name": "tgm2p",
+    "note": "",
+    "titleReading": "てとりすtaぐらんどますたあ2ぷらす",
+    "manufacturerReading": "ありか"
+  },
+  {
     "title": "ドラゴンブレイズ",
     "year": "2000",
     "manufacturer": "彩京",
@@ -15712,6 +15244,33 @@ window.ARCADE_GAMES = [
     "note": "Dragon Blaze",
     "titleReading": "どらごんぶれいず",
     "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ナイトメア・イン・ザ・ダーク",
+    "year": "2000",
+    "manufacturer": "イレブン / ガバキング",
+    "name": "nitd",
+    "note": "",
+    "titleReading": "ないとめあいんざだあく",
+    "manufacturerReading": "いれぶんがばきんぐ"
+  },
+  {
+    "title": "婆裟羅 ＜バサラ＞",
+    "year": "2000",
+    "manufacturer": "ビスコ",
+    "name": "vasara",
+    "note": "",
+    "titleReading": "ばさら",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "バンビィード",
+    "year": "2000",
+    "manufacturer": "ビスコ",
+    "name": "bangbead",
+    "note": "",
+    "titleReading": "ばんびぃいど",
+    "manufacturerReading": "びすこ"
   },
   {
     "title": "ビートマニア ｃｏｍｐｌｅｔｅ ＭＩＸ２",
@@ -15759,6 +15318,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "ブレイブブレイド",
+    "year": "2000",
+    "manufacturer": "エイティング / ライジング",
+    "name": "brvbladej",
+    "note": "日本版 / m↑",
+    "titleReading": "ぶれいぶぶれいど",
+    "manufacturerReading": "えいてぃんぐらいじんぐ"
+  },
+  {
     "title": "ヘッドパニック -ポリーとサリーの大冒険-",
     "year": "2000",
     "manufacturer": "ESD",
@@ -15766,6 +15334,24 @@ window.ARCADE_GAMES = [
     "note": "Head Panic (ver. 0117, 17/01/2000)",
     "titleReading": "へっどぱにっくぽりとさりのだいぼうけん",
     "manufacturerReading": "esd"
+  },
+  {
+    "title": "ペンギンブラザーズ",
+    "year": "2000",
+    "manufacturer": "サブシノ",
+    "name": "penbros",
+    "note": "BAR",
+    "titleReading": "ぺんぎんぶらざあず",
+    "manufacturerReading": "さぶしの"
+  },
+  {
+    "title": "マーズマトリックス -ハイパーソリッドシューティング-",
+    "year": "2000",
+    "manufacturer": "タクミ （カプコンライセンス）",
+    "name": "mmatrixj",
+    "note": "日本版 000412",
+    "titleReading": "まあずまとりっくすはいぱあそりっどしゅうてぃんぐ",
+    "manufacturerReading": "たくみかぷこんらいせんす"
   },
   {
     "title": "マイティ・パン",
@@ -15786,6 +15372,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "igs"
   },
   {
+    "title": "メタルスラッグ3",
+    "year": "2000",
+    "manufacturer": "SNK",
+    "name": "mslug3",
+    "note": "NGM-2560",
+    "titleReading": "めたるすらっぐ3",
+    "manufacturerReading": "えすえぬけー"
+  },
+  {
+    "title": "ロードランナー ザ・ディグファイト",
+    "year": "2000",
+    "manufacturer": "彩京",
+    "name": "loderndf",
+    "note": "",
+    "titleReading": "ろうどらんなあざでぃぐふぁいと",
+    "manufacturerReading": "さいきょう"
+  },
+  {
     "title": "Ｖ-ライナー",
     "year": "2001",
     "manufacturer": "ダイナ",
@@ -15793,6 +15397,15 @@ window.ARCADE_GAMES = [
     "note": "V-Liner (v0.7a)",
     "titleReading": "vらいな",
     "manufacturerReading": "だいな"
+  },
+  {
+    "title": "アシュラバスター -Eternal Warriors-",
+    "year": "2001",
+    "manufacturer": "フウキ",
+    "name": "asurabus",
+    "note": "USA版",
+    "titleReading": "あしゅらばすたーえたーなるうぉりあーず",
+    "manufacturerReading": "ふうき"
   },
   {
     "title": "形意拳",
@@ -15822,6 +15435,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいきょう"
   },
   {
+    "title": "ザ・キング・オブ・ファイターズ 2001",
+    "year": "2001",
+    "manufacturer": "イオリス / SNK",
+    "name": "kof2001",
+    "note": "set 1",
+    "titleReading": "ざきんぐおぶふぁいたあず2001",
+    "manufacturerReading": "いおりすえすえぬけー"
+  },
+  {
     "title": "ザ・クリスタルオブキングス",
     "year": "2001",
     "manufacturer": "ブレッツァソフト",
@@ -15838,6 +15460,15 @@ window.ARCADE_GAMES = [
     "note": "Shikigami no Shiro (V2.03J 2001/08/07 18:11)",
     "titleReading": "しきがみのしろ",
     "manufacturerReading": "あるふぁしすてむ"
+  },
+  {
+    "title": "ズパパ！",
+    "year": "2001",
+    "manufacturer": "SNK",
+    "name": "zupapa",
+    "note": "",
+    "titleReading": "ずぱぱ",
+    "manufacturerReading": "えすえぬけー"
   },
   {
     "title": "戦国伝承２００１",
@@ -15876,6 +15507,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たくみ"
   },
   {
+    "title": "婆裟羅2",
+    "year": "2001",
+    "manufacturer": "ビスコ",
+    "name": "vasara2",
+    "note": "set 1",
+    "titleReading": "ばさらつー",
+    "manufacturerReading": "びすこ"
+  },
+  {
     "title": "パズループ ツー",
     "year": "2001",
     "manufacturer": "ミッチェル",
@@ -15912,6 +15552,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
+    "title": "プロギアの嵐",
+    "year": "2001",
+    "manufacturer": "ケイブ （カプコンライセンス）",
+    "name": "progearj",
+    "note": "日本版 010117",
+    "titleReading": "ぷろぎあのあらし",
+    "manufacturerReading": "けいぶかぷこんらいせんす"
+  },
+  {
     "title": "モンスターファームジャンプ",
     "year": "2001",
     "manufacturer": "テクモ",
@@ -15928,6 +15577,15 @@ window.ARCADE_GAMES = [
     "note": "G-Stream G2020",
     "titleReading": "gすとりむg2020",
     "manufacturerReading": "ねくせす/orientalsoft"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ 2002 -Challenge to Ultimate Battle",
+    "year": "2002",
+    "manufacturer": "イオリス / プレイモア",
+    "name": "kof2002",
+    "note": "NGM-2650 / NGH-2650",
+    "titleReading": "ざきんぐおぶふぁいたあず2002challengetoultimatebattle",
+    "manufacturerReading": "いおりすぷれいもあ"
   },
   {
     "title": "上海 ～三国牌闘儀～",
@@ -15966,6 +15624,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "とらいあんぐるとらいあんぐるさびす"
   },
   {
+    "title": "怒首領蜂 大往生 魂",
+    "year": "2002",
+    "manufacturer": "ケイブ （AMIライセンス）",
+    "name": "ddpdoj",
+    "note": "V201, 中華版 / m↑",
+    "titleReading": "どどんぱちだいおうじょうたましい",
+    "manufacturerReading": "けいぶえええむあいらいせんす"
+  },
+  {
     "title": "ビートマニア ザ ファイナル",
     "year": "2002",
     "manufacturer": "コナミ",
@@ -15991,6 +15658,15 @@ window.ARCADE_GAMES = [
     "note": "beatmania IIDX 7th style (GCB44 JAA)",
     "titleReading": "びとまにあつでぃえっくすせぶんすすたいる",
     "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "メタルスラッグ4",
+    "year": "2002",
+    "manufacturer": "メガエンタープライズ / ノイズファクトリー / プレイモア",
+    "name": "mslug4",
+    "note": "NGM-2630",
+    "titleReading": "めたるすらっぐ4",
+    "manufacturerReading": "めがえんたあぷらいずのいずふぁくとりいぷれいもあ"
   },
   {
     "title": "レイジ・オブ・ザ・ドラゴンズ",
@@ -16029,6 +15705,24 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "さいばふろんと/まじっくぽっと"
   },
   {
+    "title": "サムライスピリッツ零",
+    "year": "2003",
+    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
+    "name": "samsho5",
+    "note": "NGM-2700",
+    "titleReading": "さむらいすぴりっつれい",
+    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
+  },
+  {
+    "title": "ザ・キング・オブ・ファイターズ2003",
+    "year": "2003",
+    "manufacturer": "SNKプレイモア",
+    "name": "kf2k3pcb",
+    "note": "日本版 JAMMA PCB",
+    "titleReading": "ざきんぐおぶふぁいたあず2003",
+    "manufacturerReading": "えすえぬけーぷれいもあ"
+  },
+  {
     "title": "タワー＆シャフト -アレック ボードンと不愉快な仲間たち-",
     "year": "2003",
     "manufacturer": "アルゼ",
@@ -16056,6 +15750,15 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たくみ"
   },
   {
+    "title": "メタルスラッグ5",
+    "year": "2003",
+    "manufacturer": "SNKプレイモア",
+    "name": "mslug5",
+    "note": "NGM-2680",
+    "titleReading": "めたるすらっぐ5",
+    "manufacturerReading": "えすえぬけーぷれいもあ"
+  },
+  {
     "title": "アクションパズルゲーム “ズー”",
     "year": "2004",
     "manufacturer": "サクセス / バディーズ",
@@ -16063,6 +15766,15 @@ window.ARCADE_GAMES = [
     "note": "Zooo (V2.01JA 2004/04/13 12:00)",
     "titleReading": "あくしょんぱずるげむ“ず”",
     "manufacturerReading": "さくせす/ばでぃず"
+  },
+  {
+    "title": "サムライスピリッツ零スペシャル",
+    "year": "2004",
+    "manufacturer": "悠紀エンタープライズ / SNKプレイモア",
+    "name": "samsh5sp",
+    "note": "Samurai Shodown V Special (NGM-2720)",
+    "titleReading": "さむらいすぴりっつれいすぺしゃる",
+    "manufacturerReading": "ゆうきえんたーぷらいずえすえぬけーぷれいもあ"
   },
   {
     "title": "大大革命 - DAI-DAI-KAKUMEI -",
@@ -16074,13 +15786,13 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "しすてむしすてむbit"
   },
   {
-    "title": "フィーバーサッカー",
+    "title": "ハイパーストリートファイターII -アニバーサリーエディション-",
     "year": "2004",
-    "manufacturer": "セイブ開発",
-    "name": "feversoc",
-    "note": "Fever Soccer",
-    "titleReading": "ふぃばさっか",
-    "manufacturerReading": "せいぶかいはつ"
+    "manufacturer": "カプコン",
+    "name": "hsf2j",
+    "note": "日 本 孤 031222",
+    "titleReading": "はいぱあすとりいとふぁいたあiiあにばあさりいえでぃしょん",
+    "manufacturerReading": "かぷこん"
   },
   {
     "title": "おてなみ拝見ファイナル",
@@ -16117,15 +15829,6 @@ window.ARCADE_GAMES = [
     "note": "Time Attacker",
     "titleReading": "たいむあたっか",
     "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ"
-  },
-  {
-    "title": "チェリーボーナス III",
-    "year": "不明",
-    "manufacturer": "ダイナ",
-    "name": "ncb3",
-    "note": "Cherry Bonus III (ver.1.40, set 1)",
-    "titleReading": "ちぇりぼなすiii",
-    "manufacturerReading": "だいな"
   },
   {
     "title": "メオシス・マジック",
