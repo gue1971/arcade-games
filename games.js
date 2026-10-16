@@ -14499,15 +14499,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "あたりげえむず"
   },
   {
-    "title": "ＲＣでＧＯ！ -RADIO CONTROL CAR SIMULATION-",
-    "year": "1999",
-    "manufacturer": "タイトー",
-    "name": "gobyrc",
-    "note": "Go By RC (V2.03O 1999/05/25 13:31)",
-    "titleReading": "rcでgoradiocontrolcarsimulation",
-    "manufacturerReading": "たいとう"
-  },
-  {
     "title": "アクアラッシュ",
     "year": "1999",
     "manufacturer": "ナムコ",
