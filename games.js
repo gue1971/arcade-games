@@ -2640,7 +2640,7 @@ window.ARCADE_GAMES = [
     "title": "グラディウスII -ゴーファーの野望",
     "year": "1988",
     "manufacturer": "コナミ",
-    "name": "gradius2b",
+    "name": "gradius2",
     "note": "日本版 new ver.",
     "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
     "manufacturerReading": "こなみ"
