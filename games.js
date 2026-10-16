@@ -81,15 +81,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "たいとう"
   },
   {
-    "title": "スペースインベーダー パートII",
-    "year": "1980",
-    "manufacturer": "タイトー （ミッドウェイライセンス）",
-    "name": "invaddlx",
-    "note": "Space Invaders Deluxe",
-    "titleReading": "すぺえすいんべえだあぱあとii",
-    "manufacturerReading": "たいとうみっどうぇいらいせんす"
-  },
-  {
     "title": "ディープスキャン",
     "year": "1979",
     "manufacturer": "セガ",
@@ -714,15 +705,6 @@ window.ARCADE_GAMES = [
     "title": "ハイパーオリンピック",
     "year": "1983",
     "manufacturer": "コナミ",
-    "name": "trackfld",
-    "note": "Track ＆ Field",
-    "titleReading": "はいぱあおりんぴっく",
-    "manufacturerReading": "こなみ"
-  },
-  {
-    "title": "ハイパーオリンピック",
-    "year": "1983",
-    "manufacturer": "コナミ",
     "name": "hyprolym",
     "note": "",
     "titleReading": "はいぱあおりんぴっく",
@@ -799,15 +781,6 @@ window.ARCADE_GAMES = [
     "note": "set 1",
     "titleReading": "ぼんじゃっく",
     "manufacturerReading": "てえかん"
-  },
-  {
-    "title": "ザ・闘牛",
-    "year": "1984",
-    "manufacturer": "コアランド / セガ",
-    "name": "bullfgt",
-    "note": "Bullfight (315-5065)",
-    "titleReading": "ざとうぎゅう",
-    "manufacturerReading": "こあらんどせが"
   },
   {
     "title": "ザ・闘牛",
@@ -2662,15 +2635,6 @@ window.ARCADE_GAMES = [
     "note": "",
     "titleReading": "ついんいいぐるrevengejoesbrother",
     "manufacturerReading": "せたたいとうらいせんす"
-  },
-  {
-    "title": "グラディウスII -ゴーファーの野望",
-    "year": "1988",
-    "manufacturer": "コナミ",
-    "name": "vulcan",
-    "note": "Vulcan Venture (new)",
-    "titleReading": "ぐらでぃうすiiごうふぁあのやぼう",
-    "manufacturerReading": "こなみ"
   },
   {
     "title": "グラディウスII -ゴーファーの野望",
@@ -5299,15 +5263,6 @@ window.ARCADE_GAMES = [
     "note": "日本版",
     "titleReading": "だいまかいむら",
     "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ならず者戦闘部隊 ブラッディウルフ",
-    "year": "1988",
-    "manufacturer": "データイースト",
-    "name": "battlera",
-    "note": "海外版",
-    "titleReading": "ならずものせんとうぶたいぶらっでぃうるふ",
-    "manufacturerReading": "でえたいいすと"
   },
   {
     "title": "機動戦士ガンダム",
