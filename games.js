@@ -2109,7 +2109,7 @@ window.ARCADE_GAMES = [
     "title": "ドラゴンスピリット",
     "year": "1987",
     "manufacturer": "ナムコ",
-    "name": "dspirito",
+    "name": "dspirit1",
     "note": "old ver",
     "titleReading": "どらごんすぴりっと",
     "manufacturerReading": "なむこ"
@@ -2253,7 +2253,7 @@ window.ARCADE_GAMES = [
     "title": "妖怪道中記",
     "year": "1987",
     "manufacturer": "ナムコ",
-    "name": "youkaidk",
+    "name": "shadowld",
     "note": "日本版 new ver",
     "titleReading": "ようかいどうちゅうき",
     "manufacturerReading": "なむこ"
@@ -2505,7 +2505,7 @@ window.ARCADE_GAMES = [
     "title": "悪魔城ドラキュラ",
     "year": "1988",
     "manufacturer": "コナミ",
-    "name": "hcastljo",
+    "name": "hcastle",
     "note": "日本版 ver P",
     "titleReading": "あくまじょうどらきゅら",
     "manufacturerReading": "こなみ"
@@ -2563,15 +2563,6 @@ window.ARCADE_GAMES = [
     "note": "日本版",
     "titleReading": "ふぇりおす",
     "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "アトミックロボキッド",
-    "year": "1988",
-    "manufacturer": "UPL",
-    "name": "robokidj",
-    "note": "BAM set 1",
-    "titleReading": "あとみっくろぼきっど",
-    "manufacturerReading": "ゆーぴーえる"
   },
   {
     "title": "スーパー魂斗羅 -エイリアンの逆襲",
@@ -2955,7 +2946,7 @@ window.ARCADE_GAMES = [
     "title": "テクモワールドカップ'90",
     "year": "1989",
     "manufacturer": "テクモ",
-    "name": "wc90",
+    "name": "twcup90",
     "note": "set 1",
     "titleReading": "てくもわあるどかっぷ90",
     "manufacturerReading": "てくも"
@@ -3159,19 +3150,10 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "なむこ"
   },
   {
-    "title": "スティールガンナー",
-    "year": "1990",
-    "manufacturer": "ナムコ",
-    "name": "sgunnerj",
-    "note": "日本版",
-    "titleReading": "すてぃいるがんなあ",
-    "manufacturerReading": "なむこ"
-  },
-  {
     "title": "マジェスティック トゥエルブ -スペースインベーダー・パートIV",
     "year": "1990",
     "manufacturer": "タイトー",
-    "name": "majest12",
+    "name": "majest12j",
     "note": "日本版",
     "titleReading": "まじぇすてぃっくとぅえるぶすぺえすいんべえだあぱあとiv",
     "manufacturerReading": "たいとう"
@@ -3742,15 +3724,6 @@ window.ARCADE_GAMES = [
     "note": "B AHR",
     "titleReading": "すうぱあわあるどすたじあむ93げきとうばん",
     "manufacturerReading": "なむこ"
-  },
-  {
-    "title": "バーチャファイター",
-    "year": "1993",
-    "manufacturer": "セガ",
-    "name": "vf",
-    "note": "",
-    "titleReading": "ばあちゃふぁいたあ",
-    "manufacturerReading": "せが"
   },
   {
     "title": "ワールドヒーローズ2",
@@ -4437,15 +4410,6 @@ window.ARCADE_GAMES = [
     "manufacturerReading": "こなみ"
   },
   {
-    "title": "沙羅曼蛇2",
-    "year": "1996",
-    "manufacturer": "コナミ",
-    "name": "salmndr2",
-    "note": "ver JAA",
-    "titleReading": "さらまんだつー",
-    "manufacturerReading": "こなみ"
-  },
-  {
     "title": "サムライスピリッツ -天草降臨-",
     "year": "1996",
     "manufacturer": "SNK",
@@ -4453,15 +4417,6 @@ window.ARCADE_GAMES = [
     "note": "Samurai Shodown IV - Amakusa's Revenge",
     "titleReading": "さむらいすぴりっつてんぐさこうりん",
     "manufacturerReading": "えすえぬけー"
-  },
-  {
-    "title": "セクシーパロディウス",
-    "year": "1996",
-    "manufacturer": "コナミ",
-    "name": "sexyparo",
-    "note": "ver JAA",
-    "titleReading": "せくしいぱろでぃうす",
-    "manufacturerReading": "こなみ"
   },
   {
     "title": "ストリートファイターZERO 2",
@@ -5019,15 +4974,6 @@ window.ARCADE_GAMES = [
     "name": "sfiii3n",
     "note": "日本版 990608, NO CD / m↑",
     "titleReading": "すとりいとふぁいたあiii3rdすとらいくふぁいとふぉうざふゅうちゃあ",
-    "manufacturerReading": "かぷこん"
-  },
-  {
-    "title": "ストライダー飛竜2",
-    "year": "1999",
-    "manufacturer": "カプコン",
-    "name": "shiryu2",
-    "note": "日本版 991213",
-    "titleReading": "すとらいだあひりゅう2",
     "manufacturerReading": "かぷこん"
   },
   {
@@ -5677,24 +5623,6 @@ window.ARCADE_GAMES = [
     "note": "日本版 / FD1094 317-0139",
     "titleReading": "ぶろくしーど",
     "manufacturerReading": "せがえろーぐ"
-  },
-  {
-    "title": "ダンプ松本",
-    "year": "1986",
-    "manufacturer": "セガ",
-    "name": "dumpmtmt",
-    "note": "日本版 / 8751 317-0011a",
-    "titleReading": "だんぷまつもと",
-    "manufacturerReading": "せが"
-  },
-  {
-    "title": "ボーダーライン",
-    "year": "1981",
-    "manufacturer": "セガ",
-    "name": "brdrline",
-    "note": "",
-    "titleReading": "ぼーだーらいん",
-    "manufacturerReading": "せが"
   },
   {
     "title": "バーニングライバル",
@@ -6658,5 +6586,9617 @@ window.ARCADE_GAMES = [
     "note": "日本版",
     "titleReading": "りばーぱとろーる",
     "manufacturerReading": "おるか"
+  },
+  {
+    "title": "ポン",
+    "year": "1972",
+    "manufacturer": "アタリ",
+    "name": "pong",
+    "note": "Pong (Rev E) external [TTL]",
+    "titleReading": "ぽん",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "アメイジングメイズ",
+    "year": "1976",
+    "manufacturer": "ミッドウェイ",
+    "name": "maze",
+    "note": "Amazing Maze",
+    "titleReading": "あめいじんぐめいず",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "シーウルフ",
+    "year": "1976",
+    "manufacturer": "Dave Nutting Associates / Midway",
+    "name": "seawolf",
+    "note": "Sea Wolf (set 1)",
+    "titleReading": "しうるふ",
+    "manufacturerReading": "davenuttingassociates/midway"
+  },
+  {
+    "title": "スプリント２",
+    "year": "1976",
+    "manufacturer": "Atari (Kee Games)",
+    "name": "sprint2",
+    "note": "Sprint 2 (set 1)",
+    "titleReading": "すぷりんと2",
+    "manufacturerReading": "atarikeegames"
+  },
+  {
+    "title": "ナイトドライバー",
+    "year": "1976",
+    "manufacturer": "アタリ",
+    "name": "nitedrvr",
+    "note": "Night Driver",
+    "titleReading": "ないとどらいば",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "バリケード",
+    "year": "1976",
+    "manufacturer": "Ramtek",
+    "name": "barricad",
+    "note": "Barricade",
+    "titleReading": "ばりけど",
+    "manufacturerReading": "ramtek"
+  },
+  {
+    "title": "ブロックヤード",
+    "year": "1976",
+    "manufacturer": "Ramtek",
+    "name": "brickyrd",
+    "note": "Brickyard",
+    "titleReading": "ぶろっくやど",
+    "manufacturerReading": "ramtek"
+  },
+  {
+    "title": "ブロッケード",
+    "year": "1976",
+    "manufacturer": "グレムリン",
+    "name": "blockade",
+    "note": "Blockade",
+    "titleReading": "ぶろっけど",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ボールパーク",
+    "year": "1976",
+    "manufacturer": "Dave Nutting Associates / Midway / Taito",
+    "name": "tornbase",
+    "note": "Tornado Baseball / Ball Park",
+    "titleReading": "ぼるぱく",
+    "manufacturerReading": "davenuttingassociates/midway/taito"
+  },
+  {
+    "title": "Ｍ-７９アンビッシュ",
+    "year": "1977",
+    "manufacturer": "Ramtek",
+    "name": "m79amb",
+    "note": "M-79 Ambush",
+    "titleReading": "m79あんびっしゅ",
+    "manufacturerReading": "ramtek"
+  },
+  {
+    "title": "サーカス",
+    "year": "1977",
+    "manufacturer": "Exidy / Taito",
+    "name": "circus",
+    "note": "Circus / Acrobat TV",
+    "titleReading": "さかす",
+    "manufacturerReading": "exidy/taito"
+  },
+  {
+    "title": "サブズ",
+    "year": "1977",
+    "manufacturer": "アタリ",
+    "name": "subs",
+    "note": "Subs",
+    "titleReading": "さぶず",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "サブハンター",
+    "year": "1977",
+    "manufacturer": "タイトー",
+    "name": "subhunt",
+    "note": "Sub Hunter (Gremlin / Taito)",
+    "titleReading": "さぶはんた",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "スターシップ１",
+    "year": "1977",
+    "manufacturer": "アタリ",
+    "name": "starshp1",
+    "note": "Starship 1",
+    "titleReading": "すたしっぷ1",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "スプリント８",
+    "year": "1977",
+    "manufacturer": "アタリ",
+    "name": "sprint8",
+    "note": "Sprint 8",
+    "titleReading": "すぷりんと8",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "スペースウォーズ",
+    "year": "1977",
+    "manufacturer": "シネマトロニクス",
+    "name": "spacewar",
+    "note": "Space Wars",
+    "titleReading": "すぺすうぉず",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "ディプスチャージ",
+    "year": "1977",
+    "manufacturer": "グレムリン",
+    "name": "depthch",
+    "note": "Depthcharge",
+    "titleReading": "でぃぷすちゃじ",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ハッスル",
+    "year": "1977",
+    "manufacturer": "グレムリン",
+    "name": "hustle",
+    "note": "Hustle",
+    "titleReading": "はっする",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ブーツヒル",
+    "year": "1977",
+    "manufacturer": "Dave Nutting Associates / Midway",
+    "name": "boothill",
+    "note": "Boot Hill",
+    "titleReading": "ぶつひる",
+    "manufacturerReading": "davenuttingassociates/midway"
+  },
+  {
+    "title": "メドゥズレーン",
+    "year": "1977",
+    "manufacturer": "Meadows Games, Inc.",
+    "name": "medlanes",
+    "note": "Meadows Lanes",
+    "titleReading": "めどぅずれん",
+    "manufacturerReading": "meadowsgamesinc"
+  },
+  {
+    "title": "ロボットボウル",
+    "year": "1977",
+    "manufacturer": "Exidy",
+    "name": "robotbwl",
+    "note": "Robot Bowl",
+    "titleReading": "ろぼっとぼうる",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "アタリフットボール",
+    "year": "1978",
+    "manufacturer": "アタリ",
+    "name": "atarifb",
+    "note": "Atari Football (revision 2)",
+    "titleReading": "あたりふっとぼる",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "アバランシェ",
+    "year": "1978",
+    "manufacturer": "アタリ",
+    "name": "avalnche",
+    "note": "Avalanche",
+    "titleReading": "あばらんしぇ",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "シーウルフ２",
+    "year": "1978",
+    "manufacturer": "Dave Nutting Associates / Midway",
+    "name": "seawolf2",
+    "note": "Sea Wolf II",
+    "titleReading": "しうるふ2",
+    "manufacturerReading": "davenuttingassociates/midway"
+  },
+  {
+    "title": "ジプシージャグラー",
+    "year": "1978",
+    "manufacturer": "Meadows Games, Inc.",
+    "name": "gypsyjug",
+    "note": "Gypsy Juggler",
+    "titleReading": "じぷしじゃぐら",
+    "manufacturerReading": "meadowsgamesinc"
+  },
+  {
+    "title": "スーパーインベーダー",
+    "year": "1978",
+    "manufacturer": "マコト電子",
+    "name": "superinv",
+    "note": "Super Invaders (bootleg set 1)",
+    "titleReading": "すぱいんべだ",
+    "manufacturerReading": "まことでんし"
+  },
+  {
+    "title": "スーパーブレイクアウト",
+    "year": "1978",
+    "manufacturer": "アタリ",
+    "name": "sbrkout",
+    "note": "Super Breakout (rev 04)",
+    "titleReading": "すぱぶれいくあうと",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "スペースインベーダー （ロジテック版）",
+    "year": "1978",
+    "manufacturer": "ロジテック",
+    "name": "invaderl",
+    "note": "Space Invaders (Logitec)",
+    "titleReading": "すぺすいんべだろじてっくはん",
+    "manufacturerReading": "ろじてっく"
+  },
+  {
+    "title": "スペースウォーパート３",
+    "year": "1978",
+    "manufacturer": "サンリツ電気",
+    "name": "spacewr3",
+    "note": "Space War Part 3",
+    "titleReading": "すぺすうぉぱと3",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "スペースキング",
+    "year": "1978",
+    "manufacturer": "コナミ工業",
+    "name": "spceking",
+    "note": "Space King",
+    "titleReading": "すぺすきんぐ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スペースストレンジャー",
+    "year": "1978",
+    "manufacturer": "豊栄産業（コアランド）",
+    "name": "sstrangr",
+    "note": "Space Stranger",
+    "titleReading": "すぺすすとれんじゃ",
+    "manufacturerReading": "とよさかさんぎょうこあらんど"
+  },
+  {
+    "title": "デッドアイ",
+    "year": "1978",
+    "manufacturer": "Meadows Games, Inc.",
+    "name": "deadeye",
+    "note": "Dead Eye",
+    "titleReading": "でっどあい",
+    "manufacturerReading": "meadowsgamesinc"
+  },
+  {
+    "title": "フロッグス",
+    "year": "1978",
+    "manufacturer": "グレムリン",
+    "name": "frogs",
+    "note": "Frogs",
+    "titleReading": "ふろっぐす",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ブラスト",
+    "year": "1978",
+    "manufacturer": "グレムリン",
+    "name": "blasto",
+    "note": "Blasto",
+    "titleReading": "ぶらすと",
+    "manufacturerReading": "ぐれむりん"
+  },
+  {
+    "title": "ブルーシャーク",
+    "year": "1978",
+    "manufacturer": "タイトー",
+    "name": "blueshrk",
+    "note": "Blue Shark",
+    "titleReading": "ぶるしゃく",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "ボールパークII",
+    "year": "1978",
+    "manufacturer": "Midway / Taito",
+    "name": "einning",
+    "note": "Extra Inning / Ball Park II",
+    "titleReading": "ぼるぱくii",
+    "manufacturerReading": "midway/taito"
+  },
+  {
+    "title": "ＩＰＭインベーダー",
+    "year": "1979",
+    "manufacturer": "IPM（アイレム）",
+    "name": "ipminvad",
+    "note": "IPM Invader",
+    "titleReading": "ipmいんべだ",
+    "manufacturerReading": "ipmあいれむ"
+  },
+  {
+    "title": "アステロイド",
+    "year": "1979",
+    "manufacturer": "アタリ",
+    "name": "asteroid",
+    "note": "Asteroids (rev 4)",
+    "titleReading": "あすてろいど",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "カラースペースフィーバー",
+    "year": "1979",
+    "manufacturer": "任天堂レジャーシステム（任天堂）",
+    "name": "spacefev",
+    "note": "Space Fever (New Ver.)",
+    "titleReading": "からすぺすふぃば",
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+  },
+  {
+    "title": "ギャラクシアンターボ",
+    "year": "1979",
+    "manufacturer": "hack",
+    "name": "galturbo",
+    "note": "Galaxian Turbo (superg hack)",
+    "titleReading": "ぎゃらくしあんたぼ",
+    "manufacturerReading": "hack"
+  },
+  {
+    "title": "ギャラクシアンパートIV",
+    "year": "1979",
+    "manufacturer": "hack (G.G.I)",
+    "name": "galap4",
+    "note": "Galaxian Part 4 (hack)",
+    "titleReading": "ぎゃらくしあんぱとiv",
+    "manufacturerReading": "hackggi"
+  },
+  {
+    "title": "ギャラクシアンパートX",
+    "year": "1979",
+    "manufacturer": "hack",
+    "name": "galapx",
+    "note": "Galaxian Part X (moonaln hack)",
+    "titleReading": "ぎゃらくしあんぱとx",
+    "manufacturerReading": "hack"
+  },
+  {
+    "title": "ギャラクティカ",
+    "year": "1979",
+    "manufacturer": "hack",
+    "name": "galap1",
+    "note": "Space Invaders Galactica (galaxiana hack)",
+    "titleReading": "ぎゃらくてぃか",
+    "manufacturerReading": "hack"
+  },
+  {
+    "title": "コスミックエイリアン",
+    "year": "1979",
+    "manufacturer": "ユニバーサル",
+    "name": "cosmica",
+    "note": "Cosmic Alien (version II, set 1)",
+    "titleReading": "こすみっくえいりあん",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "コスミックゲリラ",
+    "year": "1979",
+    "manufacturer": "ユニバーサル",
+    "name": "cosmicg",
+    "note": "Cosmic Guerilla",
+    "titleReading": "こすみっくげりら",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "コスミックモンスター",
+    "year": "1979",
+    "manufacturer": "ユニバーサル",
+    "name": "cosmicmo",
+    "note": "Cosmic Monsters (version II)",
+    "titleReading": "こすみっくもんすた",
+    "manufacturerReading": "ゆにばさる"
+  },
+  {
+    "title": "コスミックモンスターII",
+    "year": "1979",
+    "manufacturer": "ユニバーサル",
+    "name": "cosmicm2",
+    "note": "Cosmic Monsters 2",
+    "titleReading": "こすみっくもんすたii",
+    "manufacturerReading": "ゆにばさる"
+  },
+  {
+    "title": "サイドトラック",
+    "year": "1979",
+    "manufacturer": "Exidy",
+    "name": "sidetrac",
+    "note": "Side Trak",
+    "titleReading": "さいどとらっく",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "サンダンス",
+    "year": "1979",
+    "manufacturer": "シネマトロニクス",
+    "name": "sundance",
+    "note": "Sundance",
+    "titleReading": "さんだんす",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "シェリフ",
+    "year": "1979",
+    "manufacturer": "池上通信機",
+    "name": "sheriff",
+    "note": "Sheriff",
+    "titleReading": "しぇりふ",
+    "manufacturerReading": "いけがみつうしんき"
+  },
+  {
+    "title": "シャトルインベーダー",
+    "year": "1979",
+    "manufacturer": "大森電気",
+    "name": "shuttlei",
+    "note": "Shuttle Invader",
+    "titleReading": "しゃとるいんべだ",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "ジャトレスペクター",
+    "year": "1979",
+    "manufacturer": "ジャトレ",
+    "name": "jspecter",
+    "note": "Jatre Specter (set 1)",
+    "titleReading": "じゃとれすぺくた",
+    "manufacturerReading": "じゃとれ"
+  },
+  {
+    "title": "スカイラブ",
+    "year": "1979",
+    "manufacturer": "大森電気",
+    "name": "skylove",
+    "note": "Sky Love",
+    "titleReading": "すかいらぶ",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "スターファイアー",
+    "year": "1979",
+    "manufacturer": "Exidy",
+    "name": "starfire",
+    "note": "Star Fire (set 1)",
+    "titleReading": "すたふぁいあ",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "スターホーク",
+    "year": "1979",
+    "manufacturer": "シネマトロニクス",
+    "name": "starhawk",
+    "note": "Star Hawk",
+    "titleReading": "すたほく",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "スーパーメテオ",
+    "year": "1979",
+    "manufacturer": "豊栄産業（コアランド）",
+    "name": "meteorho",
+    "note": "Meteor (bootleg of Asteroids)",
+    "titleReading": "すぱめてお",
+    "manufacturerReading": "とよさかさんぎょうこあらんど"
+  },
+  {
+    "title": "スペシャルデュアルII -インビンコ＆ヘッドオン・パート２-",
+    "year": "1979",
+    "manufacturer": "セガ",
+    "name": "invho2",
+    "note": "Invinco / Head On 2",
+    "titleReading": "すぺしゃるでゅあるiiいんびんこ&へっどおんぱと2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スペースインビンコ",
+    "year": "1979",
+    "manufacturer": "セガ",
+    "name": "invinco",
+    "note": "Invinco",
+    "titleReading": "すぺすいんびんこ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スペースキング２",
+    "year": "1979",
+    "manufacturer": "コナミ工業",
+    "name": "spcking2",
+    "note": "Space King 2",
+    "titleReading": "すぺすきんぐ2",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スペースゲリラ （カラー版）",
+    "year": "1979",
+    "manufacturer": "大森電気",
+    "name": "spaceg",
+    "note": "Space Guerrilla",
+    "titleReading": "すぺすげりらからはん",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "スペースチェイサー",
+    "year": "1979",
+    "manufacturer": "タイトー",
+    "name": "schaser",
+    "note": "Space Chaser (set 1)",
+    "titleReading": "すぺすちぇいさ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スペースフィーバー ハイスプリッター",
+    "year": "1979",
+    "manufacturer": "任天堂レジャーシステム（任天堂）",
+    "name": "highsplt",
+    "note": "Space Fever High Splitter (set 1)",
+    "titleReading": "すぺすふぃばはいすぷりった",
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+  },
+  {
+    "title": "スペースランチャー",
+    "year": "1979",
+    "manufacturer": "ユニバーサル",
+    "name": "spacelnc",
+    "note": "Space Launcher",
+    "titleReading": "すぺすらんちゃ",
+    "manufacturerReading": "ゆにばさる"
+  },
+  {
+    "title": "テイルガンナー",
+    "year": "1979",
+    "manufacturer": "シネマトロニクス",
+    "name": "tailg",
+    "note": "Tailgunner",
+    "titleReading": "ているがんな",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "バスケットボール",
+    "year": "1979",
+    "manufacturer": "アタリ",
+    "name": "bsktball",
+    "note": "Basketball",
+    "titleReading": "ばすけっとぼる",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "バリアー",
+    "year": "1979",
+    "manufacturer": "Cinematronics (Vectorbeam license)",
+    "name": "barrier",
+    "note": "Barrier",
+    "titleReading": "ばりあ",
+    "manufacturerReading": "cinematronicsvectorbeamlicense"
+  },
+  {
+    "title": "ビデオ・ピンボール",
+    "year": "1979",
+    "manufacturer": "アタリ",
+    "name": "videopin",
+    "note": "Video Pinball",
+    "titleReading": "びでおぴんぼる",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ムーンエイリアン",
+    "year": "1979",
+    "manufacturer": "日本物産",
+    "name": "moonaln",
+    "note": "Moon Alien",
+    "titleReading": "むんえいりあん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ムーンベース",
+    "year": "1979",
+    "manufacturer": "日本物産",
+    "name": "moonbase",
+    "note": "Moon Base Zeta (set 1)",
+    "titleReading": "むんべす",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ルナランダー",
+    "year": "1979",
+    "manufacturer": "アタリ",
+    "name": "llander",
+    "note": "Lunar Lander (rev 2)",
+    "titleReading": "るならんだ",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ルナレスキュー",
+    "year": "1979",
+    "manufacturer": "タイトー",
+    "name": "lrescue",
+    "note": "Lunar Rescue",
+    "titleReading": "るなれすきゅ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ロータリーファイター",
+    "year": "1979",
+    "manufacturer": "関西企業",
+    "name": "rotaryf",
+    "note": "Rotary Fighter",
+    "titleReading": "ろたりふぁいた",
+    "manufacturerReading": "かんさいきぎょう"
+  },
+  {
+    "title": "Ｎ－サブ",
+    "year": "1980",
+    "manufacturer": "セガ",
+    "name": "nsub",
+    "note": "N-Sub (upright)",
+    "titleReading": "nさぶ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "Ｒ２Ｄタンク ＜レッドタンクパート２＞",
+    "year": "1980",
+    "manufacturer": "シグマ",
+    "name": "r2dtank",
+    "note": "R2D Tank",
+    "titleReading": "r2dたんく<れっどたんくぱと2>",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "ＳＯＳゲーム",
+    "year": "1980",
+    "manufacturer": "ショウエイ",
+    "name": "sos",
+    "note": "SOS",
+    "titleReading": "sosげむ",
+    "manufacturerReading": "しょうえい"
+  },
+  {
+    "title": "アタックＵＦＯ",
+    "year": "1980",
+    "manufacturer": "菱藤電機",
+    "name": "attckufo",
+    "note": "Attack UFO",
+    "titleReading": "あたっくufo",
+    "manufacturerReading": "ひしふじでんき"
+  },
+  {
+    "title": "インデアン・バトル",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "indianbt",
+    "note": "Indian Battle",
+    "titleReading": "いんであんばとる",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ウォーロード",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "warlords",
+    "note": "Warlords",
+    "titleReading": "うぉろど",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "海底宝さがし",
+    "year": "1980",
+    "manufacturer": "ユニバーサル特機",
+    "name": "kaitei",
+    "note": "Kaitei Takara Sagashi",
+    "titleReading": "かいていたからさがし",
+    "manufacturerReading": "ゆにばさるとっき"
+  },
+  {
+    "title": "カミカゼ",
+    "year": "1980",
+    "manufacturer": "コナミ工業",
+    "name": "kamikaze",
+    "note": "Kamikaze",
+    "titleReading": "かみかぜ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "銀河帝国の逆襲",
+    "year": "1980",
+    "manufacturer": "アイレム",
+    "name": "uniwars",
+    "note": "UniWar S",
+    "titleReading": "ぎんがていこくのぎゃくしゅう",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "クレージーバルーン",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "crbaloon",
+    "note": "Crazy Balloon (set 1)",
+    "titleReading": "くれじばるん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ジ・エンド",
+    "year": "1980",
+    "manufacturer": "コナミ工業",
+    "name": "theend",
+    "note": "The End",
+    "titleReading": "じえんど",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スチールワーカー",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "steelwkr",
+    "note": "Steel Worker",
+    "titleReading": "すちるわか",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スピーク＆レスキュー",
+    "year": "1980",
+    "manufacturer": "サン電子",
+    "name": "speakres",
+    "note": "Speak & Rescue",
+    "titleReading": "すぴく&れすきゅ",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "スペクター",
+    "year": "1980",
+    "manufacturer": "Exidy",
+    "name": "spectar",
+    "note": "Spectar (revision 3)",
+    "titleReading": "すぺくた",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "スペースエンカウンター",
+    "year": "1980",
+    "manufacturer": "ミッドウェイ",
+    "name": "spcenctr",
+    "note": "Space Encounters",
+    "titleReading": "すぺすえんかうんた",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "スペースデュエル",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "spacduel",
+    "note": "Space Duel (version 2)",
+    "titleReading": "すぺすでゅえる",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "スペースパニック",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "panic",
+    "note": "Space Panic (version E)",
+    "titleReading": "すぺすぱにっく",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "スペースファイアバード",
+    "year": "1980",
+    "manufacturer": "池上通信機",
+    "name": "spacefb",
+    "note": "Space Firebird (rev. 04-u)",
+    "titleReading": "すぺすふぁいあばど",
+    "manufacturerReading": "いけがみつうしんき"
+  },
+  {
+    "title": "戦国の自衛隊",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "nomnlnd",
+    "note": "No Man's Land",
+    "titleReading": "せんごくのじえいたい",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "センチピード",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "centiped",
+    "note": "Centipede (revision 4)",
+    "titleReading": "せんちぴど",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ターグ",
+    "year": "1980",
+    "manufacturer": "Exidy",
+    "name": "targ",
+    "note": "Targ",
+    "titleReading": "たぐ",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "チーキーマウス",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "cheekyms",
+    "note": "Cheeky Mouse",
+    "titleReading": "ちきまうす",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "テンペスト",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "tempest",
+    "note": "Tempest (rev 3, Revised Hardware)",
+    "titleReading": "てんぺすと",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "ディフェンダー",
+    "year": "1980",
+    "manufacturer": "Williams",
+    "name": "defender",
+    "note": "Defender (Red label)",
+    "titleReading": "でぃふぇんだ",
+    "manufacturerReading": "williams"
+  },
+  {
+    "title": "デビルゾーン",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "devzone",
+    "note": "Devil Zone",
+    "titleReading": "でびるぞん",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "トマホーク７７７",
+    "year": "1980",
+    "manufacturer": "データイースト",
+    "name": "tomahawk",
+    "note": "Tomahawk 777 (rev 5)",
+    "titleReading": "とまほく777",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "トランキライザーガン",
+    "year": "1980",
+    "manufacturer": "セガ",
+    "name": "tranqgun",
+    "note": "Tranquillizer Gun",
+    "titleReading": "とらんきらいざがん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ナバロン",
+    "year": "1980",
+    "manufacturer": "ナムコ",
+    "name": "navarone",
+    "note": "Navarone",
+    "titleReading": "なばろん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ニューヨークニューヨーク",
+    "year": "1980",
+    "manufacturer": "シグマ",
+    "name": "nyny",
+    "note": "New York! New York!",
+    "titleReading": "にゅよくにゅよく",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "バトルゾーン",
+    "year": "1980",
+    "manufacturer": "アタリ",
+    "name": "bzone",
+    "note": "Battle Zone (rev 2)",
+    "titleReading": "ばとるぞん",
+    "manufacturerReading": "あたり"
+  },
+  {
+    "title": "フェニックス",
+    "year": "1980",
+    "manufacturer": "Amstar",
+    "name": "phoenix",
+    "note": "Phoenix (Amstar, set 1)",
+    "titleReading": "ふぇにっくす",
+    "manufacturerReading": "amstar"
+  },
+  {
+    "title": "ヘリファイア",
+    "year": "1980",
+    "manufacturer": "任天堂レジャーシステム（任天堂）",
+    "name": "helifire",
+    "note": "HeliFire (set 1)",
+    "titleReading": "へりふぁいあ",
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+  },
+  {
+    "title": "ポラリス",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "polaris",
+    "note": "Polaris (Latest version)",
+    "titleReading": "ぽらりす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "マジカルスポット",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "magspot",
+    "note": "Magical Spot",
+    "titleReading": "まじかるすぽっと",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "マジカルスポットPART II",
+    "year": "1980",
+    "manufacturer": "ユニバーサル",
+    "name": "magspot2",
+    "note": "Magical Spot II",
+    "titleReading": "まじかるすぽっとpartii",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "マッドエイリアン",
+    "year": "1980",
+    "manufacturer": "データイースト",
+    "name": "madalien",
+    "note": "Mad Alien (set 1)",
+    "titleReading": "まっどえいりあん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ムーンエイリアンパート２",
+    "year": "1980",
+    "manufacturer": "日本物産",
+    "name": "moonal2",
+    "note": "Moon Alien Part 2",
+    "titleReading": "むんえいりあんぱと2",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ムーンクエーサー",
+    "year": "1980",
+    "manufacturer": "日本物産",
+    "name": "moonqsr",
+    "note": "Moon Quasar",
+    "titleReading": "むんくえさ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "リップオフ",
+    "year": "1980",
+    "manufacturer": "シネマトロニクス",
+    "name": "ripoff",
+    "note": "Rip Off",
+    "titleReading": "りっぷおふ",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "ルパン三世",
+    "year": "1980",
+    "manufacturer": "タイトー",
+    "name": "lupin3",
+    "note": "Lupin III (set 1)",
+    "titleReading": "るぱんさんせい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "レーダースコープ",
+    "year": "1980",
+    "manufacturer": "池上通信機",
+    "name": "radarscp",
+    "note": "Radar Scope",
+    "titleReading": "れだすこぷ",
+    "manufacturerReading": "いけがみつうしんき"
+  },
+  {
+    "title": "ウッドペッカー",
+    "year": "1981",
+    "manufacturer": "ティアイエム",
+    "name": "woodpeck",
+    "note": "Woodpecker (set 1)",
+    "titleReading": "うっどぺっか",
+    "manufacturerReading": "てぃあいえむ"
+  },
+  {
+    "title": "エリミネーター",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "elim2",
+    "note": "Eliminator (2 Players, set 1)",
+    "titleReading": "えりみねた",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "オメガレース",
+    "year": "1981",
+    "manufacturer": "ミッドウェイ",
+    "name": "omegrace",
+    "note": "Omega Race (set 1)",
+    "titleReading": "おめがれす",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "キングダービー",
+    "year": "1981",
+    "manufacturer": "辰巳電子工業",
+    "name": "kingdrby",
+    "note": "King Derby (1981)",
+    "titleReading": "きんぐだび",
+    "manufacturerReading": "たつみでんしこうぎょう"
+  },
+  {
+    "title": "ギャンブラー",
+    "year": "1981",
+    "manufacturer": "富士商",
+    "name": "thehand",
+    "note": "The Hand",
+    "titleReading": "ぎゃんぶら",
+    "manufacturerReading": "ふじしょう"
+  },
+  {
+    "title": "クレイジーコング",
+    "year": "1981",
+    "manufacturer": "キョウエイ",
+    "name": "ckongalc",
+    "note": "Crazy Kong (Alca bootleg)",
+    "titleReading": "くれいじこんぐ",
+    "manufacturerReading": "きょうえい"
+  },
+  {
+    "title": "クレイジーコングパートII",
+    "year": "1981",
+    "manufacturer": "ファルコン",
+    "name": "ckong",
+    "note": "Crazy Kong",
+    "titleReading": "くれいじこんぐぱとii",
+    "manufacturerReading": "ふぁるこん"
+  },
+  {
+    "title": "グランドチャンピオン",
+    "year": "1981",
+    "manufacturer": "タイトー",
+    "name": "grchamp",
+    "note": "Grand Champion (set 1)",
+    "titleReading": "ぐらんどちゃんぴおん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "コスミック・アベンジャー",
+    "year": "1981",
+    "manufacturer": "ユニバーサル",
+    "name": "cavenger",
+    "note": "Cosmic Avenger",
+    "titleReading": "こすみっくあべんじゃ",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "コスモス",
+    "year": "1981",
+    "manufacturer": "Century Electronics",
+    "name": "cosmos",
+    "note": "Cosmos",
+    "titleReading": "こすもす",
+    "manufacturerReading": "centuryelectronics"
+  },
+  {
+    "title": "コロスケローラー",
+    "year": "1981",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "korosuke",
+    "note": "Korosuke Roller (Japan)",
+    "titleReading": "ころすけろら",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "五目並べ -連珠-",
+    "year": "1981",
+    "manufacturer": "日本物産",
+    "name": "gomoku",
+    "note": "Gomoku Narabe Renju",
+    "titleReading": "ごもくならべれんじゅ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "サタンオブサターン",
+    "year": "1981",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "satansat",
+    "note": "Satan of Saturn (set 1)",
+    "titleReading": "さたんおぶさたん",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ザ・ハングリーマン",
+    "year": "1981",
+    "manufacturer": "hack",
+    "name": "hangly",
+    "note": "Hangly-Man (set 1)",
+    "titleReading": "ざはんぐりまん",
+    "manufacturerReading": "hack"
+  },
+  {
+    "title": "ザ・パーカッサー",
+    "year": "1981",
+    "manufacturer": "オルカ",
+    "name": "percuss",
+    "note": "The Percussor",
+    "titleReading": "ざぱかっさ",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "シルバーランド",
+    "year": "1981",
+    "manufacturer": "ファルコン",
+    "name": "silvland",
+    "note": "Silver Land",
+    "titleReading": "しるばらんど",
+    "manufacturerReading": "ふぁるこん"
+  },
+  {
+    "title": "ジャングラー",
+    "year": "1981",
+    "manufacturer": "コナミ工業",
+    "name": "jungler",
+    "note": "Jungler",
+    "titleReading": "じゃんぐら",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ジャンプバグ",
+    "year": "1981",
+    "manufacturer": "アルファ電子",
+    "name": "jumpbug",
+    "note": "Jump Bug",
+    "titleReading": "じゃんぷばぐ",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "スカイスキッパー",
+    "year": "1981",
+    "manufacturer": "任天堂レジャーシステム（任天堂）",
+    "name": "skyskipr",
+    "note": "Sky Skipper",
+    "titleReading": "すかいすきっぱ",
+    "manufacturerReading": "にんてんどうれじゃしすてむにんてんどう"
+  },
+  {
+    "title": "スキャンダルマン",
+    "year": "1981",
+    "manufacturer": "カミヤ",
+    "name": "pacheart",
+    "note": "Pac-Man (Hearts)",
+    "titleReading": "すきゃんだるまん",
+    "manufacturerReading": "かみや"
+  },
+  {
+    "title": "スターゲート",
+    "year": "1981",
+    "manufacturer": "Williams / Vid Kidz",
+    "name": "stargate",
+    "note": "Stargate",
+    "titleReading": "すたげと",
+    "manufacturerReading": "williams/vidkidz"
+  },
+  {
+    "title": "ストラテジィＸ",
+    "year": "1981",
+    "manufacturer": "コナミ工業",
+    "name": "stratgyx",
+    "note": "Strategy X",
+    "titleReading": "すとらてじぃx",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スパイダー",
+    "year": "1981",
+    "manufacturer": "シグマ",
+    "name": "spiders",
+    "note": "Spiders (set 1)",
+    "titleReading": "すぱいだ",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "スーパーコブラ",
+    "year": "1981",
+    "manufacturer": "コナミ工業",
+    "name": "scobra",
+    "note": "Super Cobra",
+    "titleReading": "すぱこぶら",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スーパータンク",
+    "year": "1981",
+    "manufacturer": "Video Games GmbH",
+    "name": "supertnk",
+    "note": "Super Tank",
+    "titleReading": "すぱたんく",
+    "manufacturerReading": "videogamesgmbh"
+  },
+  {
+    "title": "スペースオデッセイ",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "spaceod",
+    "note": "Space Odyssey (version 2)",
+    "titleReading": "すぺすおでっせい",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スペースクルーザー",
+    "year": "1981",
+    "manufacturer": "タイトー",
+    "name": "spacecr",
+    "note": "Space Cruiser",
+    "titleReading": "すぺすくるざ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スペースシーカー",
+    "year": "1981",
+    "manufacturer": "タイトー",
+    "name": "spaceskr",
+    "note": "Space Seeker",
+    "titleReading": "すぺすしか",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スペースフォートレス",
+    "year": "1981",
+    "manufacturer": "Century Electronics",
+    "name": "spacefrt",
+    "note": "Space Fortress (CVS)",
+    "titleReading": "すぺすふぉとれす",
+    "manufacturerReading": "centuryelectronics"
+  },
+  {
+    "title": "スペースフューリー",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "spacfury",
+    "note": "Space Fury (revision C)",
+    "titleReading": "すぺすふゅり",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ターピン",
+    "year": "1981",
+    "manufacturer": "コナミ工業",
+    "name": "turtles",
+    "note": "Turtles",
+    "titleReading": "たぴん",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ターボ",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "turbo",
+    "note": "Turbo (program 1513-1515)",
+    "titleReading": "たぼ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ダーク・ワーリアー",
+    "year": "1981",
+    "manufacturer": "Century Electronics",
+    "name": "darkwar",
+    "note": "Dark Warrior",
+    "titleReading": "だくわりあ",
+    "manufacturerReading": "centuryelectronics"
+  },
+  {
+    "title": "ディフェンド・ザ・テラ・アタック・オン・ザ・レッドＵＦＯ",
+    "year": "1981",
+    "manufacturer": "ウコー",
+    "name": "redufo",
+    "note": "Defend the Terra Attack on the Red UFO",
+    "titleReading": "でぃふぇんどざてらあたっくおんざれっどufo",
+    "manufacturerReading": "うこ"
+  },
+  {
+    "title": "パルサー",
+    "year": "1981",
+    "manufacturer": "セガ",
+    "name": "pulsar",
+    "note": "Pulsar",
+    "titleReading": "ぱるさ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ビデオハスラー",
+    "year": "1981",
+    "manufacturer": "コナミ工業",
+    "name": "hustler",
+    "note": "Video Hustler",
+    "titleReading": "びでおはすら",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ピラニア",
+    "year": "1981",
+    "manufacturer": "GL (US Billiards license)",
+    "name": "piranha",
+    "note": "Piranha",
+    "titleReading": "ぴらにあ",
+    "manufacturerReading": "glusbilliardslicense"
+  },
+  {
+    "title": "ファンキーフィッシュ",
+    "year": "1981",
+    "manufacturer": "サン電子",
+    "name": "fnkyfish",
+    "note": "Funky Fish",
+    "titleReading": "ふぁんきふぃっしゅ",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "フィッター",
+    "year": "1981",
+    "manufacturer": "タイトー",
+    "name": "roundup",
+    "note": "Round-Up",
+    "titleReading": "ふぃった",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "ブラックホール",
+    "year": "1981",
+    "manufacturer": "東京電子設計（TDS）",
+    "name": "blkhole",
+    "note": "Black Hole",
+    "titleReading": "ぶらっくほる",
+    "manufacturerReading": "とうきょうでんしせっけいtds"
+  },
+  {
+    "title": "プレアデス",
+    "year": "1981",
+    "manufacturer": "テーカン（テクモ）",
+    "name": "pleiads",
+    "note": "Pleiads (Tehkan)",
+    "titleReading": "ぷれあです",
+    "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "プロゴルフ",
+    "year": "1981",
+    "manufacturer": "データイースト",
+    "name": "progolf",
+    "note": "18 Holes Pro Golf (set 1)",
+    "titleReading": "ぷろごるふ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ベンチャー",
+    "year": "1981",
+    "manufacturer": "Exidy",
+    "name": "venture",
+    "note": "Venture (version 5 set 1)",
+    "titleReading": "べんちゃ",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "ポパイマン",
+    "year": "1981",
+    "manufacturer": "hack",
+    "name": "popeyeman",
+    "note": "Popeye-Man",
+    "titleReading": "ぽぱいまん",
+    "manufacturerReading": "hack"
+  },
+  {
+    "title": "マウストラップ",
+    "year": "1981",
+    "manufacturer": "Exidy",
+    "name": "mtrap",
+    "note": "Mouse Trap (version 5)",
+    "titleReading": "まうすとらっぷ",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "ルート１６",
+    "year": "1981",
+    "manufacturer": "サン電子",
+    "name": "route16",
+    "note": "Route 16 (Sun Electronics)",
+    "titleReading": "ると16",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "レディバグ",
+    "year": "1981",
+    "manufacturer": "ユニバーサル",
+    "name": "ladybug",
+    "note": "Lady Bug",
+    "titleReading": "れでぃばぐ",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "ロッククライマー",
+    "year": "1981",
+    "manufacturer": "タイトー",
+    "name": "rockclim",
+    "note": "Rock Climber",
+    "titleReading": "ろっくくらいま",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ロックンチェイス",
+    "year": "1981",
+    "manufacturer": "データイースト",
+    "name": "lnc",
+    "note": "Lock'n'Chase",
+    "titleReading": "ろっくんちぇいす",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "アミーゴ",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "amigo",
+    "note": "Amigo (bootleg of Amidar, set 1)",
+    "titleReading": "あみご",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "カンガルー",
+    "year": "1982",
+    "manufacturer": "サン電子",
+    "name": "kangaroo",
+    "note": "Kangaroo",
+    "titleReading": "かんがる",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "ガッタンゴットン",
+    "year": "1982",
+    "manufacturer": "コナミ工業",
+    "name": "locomotn",
+    "note": "Loco-Motion",
+    "titleReading": "がったんごっとん",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ギャラッグ",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "gallag",
+    "note": "Gallag",
+    "titleReading": "ぎゃらっぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "コックレース",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "cookrace",
+    "note": "Cook Race",
+    "titleReading": "こっくれす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "サブロック３Ｄ",
+    "year": "1982",
+    "manufacturer": "セガ / 松下電器",
+    "name": "subroc3d",
+    "note": "Subroc-3D",
+    "titleReading": "さぶろっく3d",
+    "manufacturerReading": "せが/まつしたでんき"
+  },
+  {
+    "title": "ザ・バウンティ",
+    "year": "1982",
+    "manufacturer": "オルカ",
+    "name": "bounty",
+    "note": "The Bounty (set 1)",
+    "titleReading": "ざばうんてぃ",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "ザ・ピット",
+    "year": "1982",
+    "manufacturer": "Zilec Electronics",
+    "name": "thepit",
+    "note": "The Pit",
+    "titleReading": "ざぴっと",
+    "manufacturerReading": "zilecelectronics"
+  },
+  {
+    "title": "シニスター",
+    "year": "1982",
+    "manufacturer": "Williams",
+    "name": "sinistar",
+    "note": "Sinistar (revision 3)",
+    "titleReading": "しにすた",
+    "manufacturerReading": "williams"
+  },
+  {
+    "title": "将棋",
+    "year": "1982",
+    "manufacturer": "アルファ電子（ADK）",
+    "name": "shougi",
+    "note": "Shougi",
+    "titleReading": "しょうぎ",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "ジグザグ",
+    "year": "1982",
+    "manufacturer": "ジャクソン",
+    "name": "dzigzag",
+    "note": "Zig Zag (Dig Dug hardware)",
+    "titleReading": "じぐざぐ",
+    "manufacturerReading": "じゃくそん"
+  },
+  {
+    "title": "ジャウスト",
+    "year": "1982",
+    "manufacturer": "Williams",
+    "name": "joust",
+    "note": "Joust (White/Green label)",
+    "titleReading": "じゃうすと",
+    "manufacturerReading": "williams"
+  },
+  {
+    "title": "ジャクソン",
+    "year": "1982",
+    "manufacturer": "丸菱電子 / ハード電子",
+    "name": "zaxxonb",
+    "note": "Jackson",
+    "titleReading": "じゃくそん",
+    "manufacturerReading": "まるびしでんし/はどでんし"
+  },
+  {
+    "title": "ジャックと豆の木",
+    "year": "1982",
+    "manufacturer": "Hara Industries (Cinematronics license)",
+    "name": "jack",
+    "note": "Jack the Giantkiller (set 1)",
+    "titleReading": "じゃっくとまめのき",
+    "manufacturerReading": "haraindustriescinematronicslicense"
+  },
+  {
+    "title": "ジャングルキング",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "junglek",
+    "note": "Jungle King (Japan)",
+    "titleReading": "じゃんぐるきんぐ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ジョリー・ジョガー",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "jollyjgr",
+    "note": "Jolly Jogger",
+    "titleReading": "じょりじょが",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スカイアーミー",
+    "year": "1982",
+    "manufacturer": "ショウエイ",
+    "name": "skyarmy",
+    "note": "Sky Army",
+    "titleReading": "すかいあみ",
+    "manufacturerReading": "しょうえい"
+  },
+  {
+    "title": "スカイベース",
+    "year": "1982",
+    "manufacturer": "大森電気",
+    "name": "skybase",
+    "note": "Sky Base",
+    "titleReading": "すかいべす",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "ストライクボーリング",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "sbowling",
+    "note": "Strike Bowling",
+    "titleReading": "すとらいくぼりんぐ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スナップジャック",
+    "year": "1982",
+    "manufacturer": "ユニバーサル",
+    "name": "snapjack",
+    "note": "Snap Jack",
+    "titleReading": "すなっぷじゃっく",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "スプリンガー",
+    "year": "1982",
+    "manufacturer": "オルカ",
+    "name": "springer",
+    "note": "Springer",
+    "titleReading": "すぷりんが",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "スペースレイダー",
+    "year": "1982",
+    "manufacturer": "ユニバーサル",
+    "name": "sraider",
+    "note": "Space Raider",
+    "titleReading": "すぺすれいだ",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "ズーキーパー",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "zookeep",
+    "note": "Zoo Keeper (set 1)",
+    "titleReading": "ずきぱ",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "ズーム９０９",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "buckrog",
+    "note": "Buck Rogers: Planet of Zoom",
+    "titleReading": "ずむ909",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ゼビオス",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "xevios",
+    "note": "Xevios",
+    "titleReading": "ぜびおす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "タイムトンネル",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "timetunl",
+    "note": "Time Tunnel",
+    "titleReading": "たいむとんねる",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "タクティシャン",
+    "year": "1982",
+    "manufacturer": "コナミ工業",
+    "name": "tactcian",
+    "note": "Tactician (set 1)",
+    "titleReading": "たくてぃしゃん",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "タックスキャン",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "tacscan",
+    "note": "Tac/Scan",
+    "titleReading": "たっくすきゃん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "タルボット",
+    "year": "1982",
+    "manufacturer": "アルファ電子",
+    "name": "talbot",
+    "note": "Talbot",
+    "titleReading": "たるぼっと",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "ダズラー",
+    "year": "1982",
+    "manufacturer": "Century Electronics",
+    "name": "dazzler",
+    "note": "Dazzler",
+    "titleReading": "だずら",
+    "manufacturerReading": "centuryelectronics"
+  },
+  {
+    "title": "チェックマン",
+    "year": "1982",
+    "manufacturer": "Zilec-Zenitone",
+    "name": "checkman",
+    "note": "Check Man",
+    "titleReading": "ちぇっくまん",
+    "manufacturerReading": "zileczenitone"
+  },
+  {
+    "title": "ツタンカーム",
+    "year": "1982",
+    "manufacturer": "コナミ工業",
+    "name": "tutankhm",
+    "note": "Tutankham",
+    "titleReading": "つたんかむ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ディスコナンバーワン",
+    "year": "1982",
+    "manufacturer": "データイースト",
+    "name": "disco",
+    "note": "Disco No.1",
+    "titleReading": "でぃすこなんばわん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "トリプルパンチ",
+    "year": "1982",
+    "manufacturer": "KKインターナショナル",
+    "name": "triplep",
+    "note": "Triple Punch (set 1)",
+    "titleReading": "とりぷるぱんち",
+    "manufacturerReading": "kkいんたなしょなる"
+  },
+  {
+    "title": "トロン",
+    "year": "1982",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "tron",
+    "note": "Tron (8/9)",
+    "titleReading": "とろん",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "ドリームショッパー",
+    "year": "1982",
+    "manufacturer": "サンリツ電気",
+    "name": "dremshpr",
+    "note": "Dream Shopper",
+    "titleReading": "どりむしょっぱ",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "ドロドン",
+    "year": "1982",
+    "manufacturer": "ファルコン",
+    "name": "dorodon",
+    "note": "Dorodon (set 1)",
+    "titleReading": "どろどん",
+    "manufacturerReading": "ふぁるこん"
+  },
+  {
+    "title": "ニブラー",
+    "year": "1982",
+    "manufacturer": "Rock-Ola",
+    "name": "nibbler",
+    "note": "Nibbler (rev 9, set 1)",
+    "titleReading": "にぶら",
+    "manufacturerReading": "rockola"
+  },
+  {
+    "title": "ノーティボーイ",
+    "year": "1982",
+    "manufacturer": "ジャパンレジャー（ジャレコ）",
+    "name": "naughtyb",
+    "note": "Naughty Boy",
+    "titleReading": "のてぃぼい",
+    "manufacturerReading": "じゃぱんれじゃじゃれこ"
+  },
+  {
+    "title": "花合わせ",
+    "year": "1982",
+    "manufacturer": "世田企画（セタ）",
+    "name": "hanaawas",
+    "note": "Hana Awase",
+    "titleReading": "はなあわせ",
+    "manufacturerReading": "よたきかくせた"
+  },
+  {
+    "title": "バーディーキング",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "bking",
+    "note": "Birdie King",
+    "titleReading": "ばでぃきんぐ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バトルクロス",
+    "year": "1982",
+    "manufacturer": "大森電気",
+    "name": "battlex",
+    "note": "Battle Cross",
+    "titleReading": "ばとるくろす",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "バトルス",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "battles",
+    "note": "Battles (set 1)",
+    "titleReading": "ばとるす",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "パイオニアバルーン",
+    "year": "1982",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "pballoon",
+    "note": "Pioneer Balloon",
+    "titleReading": "ぱいおにあばるん",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "パックマンプラス",
+    "year": "1982",
+    "manufacturer": "Namco (Midway license)",
+    "name": "pacplus",
+    "note": "Pac-Man Plus",
+    "titleReading": "ぱっくまんぷらす",
+    "manufacturerReading": "namcomidwaylicense"
+  },
+  {
+    "title": "ビクトリー",
+    "year": "1982",
+    "manufacturer": "Exidy",
+    "name": "victory",
+    "note": "Victory",
+    "titleReading": "びくとり",
+    "manufacturerReading": "exidy"
+  },
+  {
+    "title": "ファニーマウス",
+    "year": "1982",
+    "manufacturer": "中央リース販売",
+    "name": "funnymou",
+    "note": "Funny Mouse (Japan)",
+    "titleReading": "ふぁにまうす",
+    "manufacturerReading": "ちゅうおうりすはんばい"
+  },
+  {
+    "title": "ファンキービー",
+    "year": "1982",
+    "manufacturer": "オルカ",
+    "name": "funkybee",
+    "note": "Funky Bee",
+    "titleReading": "ふぁんきび",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "フライボーイ",
+    "year": "1982",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "flyboy",
+    "note": "Fly-Boy",
+    "titleReading": "ふらいぼい",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ブループリント",
+    "year": "1982",
+    "manufacturer": "Zilec Electronics / Bally Midway",
+    "name": "blueprnt",
+    "note": "Blue Print (Midway)",
+    "titleReading": "ぶるぷりんと",
+    "manufacturerReading": "zilecelectronics/ballymidway"
+  },
+  {
+    "title": "プータン",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "pootan",
+    "note": "Pootan",
+    "titleReading": "ぷたん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ペンタ",
+    "year": "1982",
+    "manufacturer": "bootleg (Grinbee Shouji)",
+    "name": "penta",
+    "note": "Penta",
+    "titleReading": "ぺんた",
+    "manufacturerReading": "bootleggrinbeeshouji"
+  },
+  {
+    "title": "ポップフレーマー",
+    "year": "1982",
+    "manufacturer": "ジャパンレジャー（ジャレコ）",
+    "name": "popflame",
+    "note": "Pop Flamer (protected)",
+    "titleReading": "ぽっぷふれま",
+    "manufacturerReading": "じゃぱんれじゃじゃれこ"
+  },
+  {
+    "title": "ポートマン",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "dockman",
+    "note": "Dock Man (set 1)",
+    "titleReading": "ぽとまん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ポンポコ",
+    "year": "1982",
+    "manufacturer": "セイブ開発",
+    "name": "ponpoko",
+    "note": "Ponpoko",
+    "titleReading": "ぽんぽこ",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "マリンボーイ",
+    "year": "1982",
+    "manufacturer": "オルカ",
+    "name": "marineb",
+    "note": "Marine Boy",
+    "titleReading": "まりんぼい",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "ミスターＤｕ！",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "mrdu",
+    "note": "Mr. Du!",
+    "titleReading": "みすたdu",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ミスターＬｏ！",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "mrlo",
+    "note": "Mr. Lo!",
+    "titleReading": "みすたlo",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ミッションＸ",
+    "year": "1982",
+    "manufacturer": "データイースト",
+    "name": "zoar",
+    "note": "Zoar",
+    "titleReading": "みっしょんx",
+    "manufacturerReading": "でたいすと"
+  },
+  {
+    "title": "ミンキーモンキー",
+    "year": "1982",
+    "manufacturer": "テクノスジャパン",
+    "name": "mmonkey",
+    "note": "Minky Monkey",
+    "titleReading": "みんきもんき",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "ムーンパトロール",
+    "year": "1982",
+    "manufacturer": "アイレム",
+    "name": "mpatrol",
+    "note": "Moon Patrol",
+    "titleReading": "むんぱとろる",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "モールアタック",
+    "year": "1982",
+    "manufacturer": "八千代電気産業",
+    "name": "mole",
+    "note": "Mole Attack",
+    "titleReading": "もるあたっく",
+    "manufacturerReading": "やちよでんきさんぎょう"
+  },
+  {
+    "title": "モンスターバッシュ",
+    "year": "1982",
+    "manufacturer": "セガ",
+    "name": "monsterb",
+    "note": "Monster Bash",
+    "titleReading": "もんすたばっしゅ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ヨットマン",
+    "year": "1982",
+    "manufacturer": "サンリツ電気",
+    "name": "mermaid",
+    "note": "Mermaid",
+    "titleReading": "よっとまん",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "ラッソ",
+    "year": "1982",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "lasso",
+    "note": "Lasso",
+    "titleReading": "らっそ",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "リアクター",
+    "year": "1982",
+    "manufacturer": "ゴットリーブ",
+    "name": "reactor",
+    "note": "Reactor",
+    "titleReading": "りあくた",
+    "manufacturerReading": "ごっとりいぶ"
+  },
+  {
+    "title": "ルージュアン",
+    "year": "1982",
+    "manufacturer": "サンリツ電気",
+    "name": "rougien",
+    "note": "Rougien",
+    "titleReading": "るじゅあん",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "ルーパー",
+    "year": "1982",
+    "manufacturer": "オルカ",
+    "name": "changes",
+    "note": "Changes",
+    "titleReading": "るぱ",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "レーダーゾーン",
+    "year": "1982",
+    "manufacturer": "Century Electronics",
+    "name": "radarzon",
+    "note": "Radar Zone",
+    "titleReading": "れだぞん",
+    "manufacturerReading": "centuryelectronics"
+  },
+  {
+    "title": "ロボトロン２０８４",
+    "year": "1982",
+    "manufacturer": "Williams / Vid Kidz",
+    "name": "robotron",
+    "note": "Robotron: 2084 (Solid Blue label)",
+    "titleReading": "ろぼとろん2084",
+    "manufacturerReading": "williams/vidkidz"
+  },
+  {
+    "title": "ワイルドウエスタン",
+    "year": "1982",
+    "manufacturer": "タイトー",
+    "name": "wwestern",
+    "note": "Wild Western (set 1)",
+    "titleReading": "わいるどうえすたん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "インテレピッド",
+    "year": "1983",
+    "manufacturer": "Nova Games Ltd.",
+    "name": "intrepid",
+    "note": "Intrepid (set 1)",
+    "titleReading": "いんてれぴっど",
+    "manufacturerReading": "novagamesltd"
+  },
+  {
+    "title": "カージャンボリー",
+    "year": "1983",
+    "manufacturer": "大森電気",
+    "name": "carjmbre",
+    "note": "Car Jamboree",
+    "titleReading": "かじゃんぼり",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "カメレオン",
+    "year": "1983",
+    "manufacturer": "東亜セイコー",
+    "name": "chameleo",
+    "note": "Chameleon",
+    "titleReading": "かめれおん",
+    "manufacturerReading": "とうあせいこ"
+  },
+  {
+    "title": "ガズラー",
+    "year": "1983",
+    "manufacturer": "テーカン（テクモ）",
+    "name": "guzzler",
+    "note": "Guzzler",
+    "titleReading": "がずら",
+    "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "キックボーイ",
+    "year": "1983",
+    "manufacturer": "日本物産",
+    "name": "kickboy",
+    "note": "Kick Boy",
+    "titleReading": "きっくぼい",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ジェネシス",
+    "year": "1983",
+    "manufacturer": "データイースト",
+    "name": "boomrang",
+    "note": "Boomer Rang'r / Genesis (set 1)",
+    "titleReading": "じぇねしす",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ジャイラス",
+    "year": "1983",
+    "manufacturer": "コナミ工業",
+    "name": "gyruss",
+    "note": "Gyruss",
+    "titleReading": "じゃいらす",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ジュニアパックマン",
+    "year": "1983",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "jrpacman",
+    "note": "Jr. Pac-Man (11/9/83)",
+    "titleReading": "じゅにあぱっくまん",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "ジュノファースト",
+    "year": "1983",
+    "manufacturer": "コナミ工業",
+    "name": "junofrst",
+    "note": "Juno First",
+    "titleReading": "じゅのふぁすと",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ジョイフル・ロード",
+    "year": "1983",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "joyfulr",
+    "note": "Joyful Road (Japan)",
+    "titleReading": "じょいふるろど",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "スカイランサー",
+    "year": "1983",
+    "manufacturer": "オルカ",
+    "name": "skylancr",
+    "note": "Sky Lancer",
+    "titleReading": "すかいらんさ",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "スクランブル・エッグ",
+    "year": "1983",
+    "manufacturer": "テクノスジャパン",
+    "name": "scregg",
+    "note": "Scrambled Egg",
+    "titleReading": "すくらんぶるえっぐ",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "スティンガー",
+    "year": "1983",
+    "manufacturer": "セイブ電子 / ニッコウ電子",
+    "name": "stinger",
+    "note": "Stinger",
+    "titleReading": "すてぃんが",
+    "manufacturerReading": "せいぶでんし/にっこうでんし"
+  },
+  {
+    "title": "スパイハンター",
+    "year": "1983",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "spyhunt",
+    "note": "Spy Hunter",
+    "titleReading": "すぱいはんた",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "スーパーダブルテニス",
+    "year": "1983",
+    "manufacturer": "データイースト",
+    "name": "sdtennis",
+    "note": "Super Doubles Tennis",
+    "titleReading": "すぱだぶるてにす",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "スーパーライダー",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "suprridr",
+    "note": "Super Rider",
+    "titleReading": "すぱらいだ",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "センジョウ",
+    "year": "1983",
+    "manufacturer": "テーカン（テクモ）",
+    "name": "senjyo",
+    "note": "Senjyo",
+    "titleReading": "せんじょう",
+    "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "ゾディアック",
+    "year": "1983",
+    "manufacturer": "オルカ",
+    "name": "zodiack",
+    "note": "Zodiack",
+    "titleReading": "ぞでぃあっく",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "タイムリミット",
+    "year": "1983",
+    "manufacturer": "中央リース販売",
+    "name": "timelimt",
+    "note": "Time Limit",
+    "titleReading": "たいむりみっと",
+    "manufacturerReading": "ちゅうおうりすはんばい"
+  },
+  {
+    "title": "タッパー",
+    "year": "1983",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "tapper",
+    "note": "Tapper (Budweiser, 1/27/84)",
+    "titleReading": "たっぱ",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "ダチョラー",
+    "year": "1983",
+    "manufacturer": "日本物産",
+    "name": "dacholer",
+    "note": "Dacholer",
+    "titleReading": "だちょら",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "チャンピオンベースボール",
+    "year": "1983",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "champbas",
+    "note": "Champion Base Ball",
+    "titleReading": "ちゃんぴおんべすぼる",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "チャンピオンベースボール パート２",
+    "year": "1983",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "champbb2",
+    "note": "Champion Base Ball Part-2 (set 1)",
+    "titleReading": "ちゃんぴおんべすぼるぱと2",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "ティンスター",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "tinstar",
+    "note": "The Tin Star (A10, 4 PCB version)",
+    "titleReading": "てぃんすた",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ディスクスオブトロン",
+    "year": "1983",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "dotron",
+    "note": "Discs of Tron (Upright)",
+    "titleReading": "でぃすくすおぶとろん",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "ディンゴ",
+    "year": "1983",
+    "manufacturer": "Ashby Computers and Graphics Ltd. (Jaleco license)",
+    "name": "dingo",
+    "note": "Dingo",
+    "titleReading": "でぃんご",
+    "manufacturerReading": "ashbycomputersandgraphicsltdjalecolicense"
+  },
+  {
+    "title": "トップローラー",
+    "year": "1983",
+    "manufacturer": "ファルコン",
+    "name": "toprollr",
+    "note": "Top Roller",
+    "titleReading": "とっぷろら",
+    "manufacturerReading": "ふぁるこん"
+  },
+  {
+    "title": "トロピカルエンジェル",
+    "year": "1983",
+    "manufacturer": "アイレム",
+    "name": "troangel",
+    "note": "Tropical Angel",
+    "titleReading": "とろぴかるえんじぇる",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "ドクター・ミクロ",
+    "year": "1983",
+    "manufacturer": "サンリツ電気",
+    "name": "drmicro",
+    "note": "Dr. Micro",
+    "titleReading": "どくたみくろ",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "ドッグファイト",
+    "year": "1983",
+    "manufacturer": "サンダーボルト（オルカ）",
+    "name": "dogfight",
+    "note": "Dog Fight (Thunderbolt)",
+    "titleReading": "どっぐふぁいと",
+    "manufacturerReading": "さんだぼるとおるか"
+  },
+  {
+    "title": "ネットウォーズ",
+    "year": "1983",
+    "manufacturer": "オルカ",
+    "name": "netwars",
+    "note": "Net Wars",
+    "titleReading": "ねっとうぉず",
+    "manufacturerReading": "おるか"
+  },
+  {
+    "title": "ノバ２００１",
+    "year": "1983",
+    "manufacturer": "ユーピーエル（UPL）",
+    "name": "nova2001",
+    "note": "Nova 2001 (Japan)",
+    "titleReading": "のば2001",
+    "manufacturerReading": "ゆぴえるupl"
+  },
+  {
+    "title": "ハイウェイレース",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "hwrace",
+    "note": "High Way Race",
+    "titleReading": "はいうぇいれす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バイオアタック",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "bioatack",
+    "note": "Bio Attack",
+    "titleReading": "ばいおあたっく",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "バスター",
+    "year": "1983",
+    "manufacturer": "セサミジャパン",
+    "name": "vastar",
+    "note": "Vastar (set 1)",
+    "titleReading": "ばすた",
+    "manufacturerReading": "せさみじゃぱん"
+  },
+  {
+    "title": "バーディーキング２",
+    "year": "1983",
+    "manufacturer": "タイトー",
+    "name": "bking2",
+    "note": "Birdie King 2",
+    "titleReading": "ばでぃきんぐ2",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バトル・クルーザー Ｍ-１２",
+    "year": "1983",
+    "manufacturer": "シグマ",
+    "name": "bcruzm12",
+    "note": "Battle Cruiser M-12",
+    "titleReading": "ばとるくるざm12",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "バンバンカー",
+    "year": "1983",
+    "manufacturer": "サンリツ電気",
+    "name": "vanvan",
+    "note": "Van-Van Car",
+    "titleReading": "ばんばんか",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "パチフィーバー",
+    "year": "1983",
+    "manufacturer": "三機電子工業",
+    "name": "pachifev",
+    "note": "Pachifever",
+    "titleReading": "ぱちふぃば",
+    "manufacturerReading": "さんきでんここうぎょう"
+  },
+  {
+    "title": "パック＆パル",
+    "year": "1983",
+    "manufacturer": "ナムコ",
+    "name": "pacnpal",
+    "note": "Pac & Pal",
+    "titleReading": "ぱっく&ぱる",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ファイティングローラー",
+    "year": "1983",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "fightrol",
+    "note": "Fighting Roller",
+    "titleReading": "ふぁいてぃんぐろら",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "フォゾン",
+    "year": "1983",
+    "manufacturer": "ナムコ",
+    "name": "phozon",
+    "note": "Phozon (Japan)",
+    "titleReading": "ふぉぞん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "プロサッカー",
+    "year": "1983",
+    "manufacturer": "データイースト",
+    "name": "prosoccr",
+    "note": "Pro Soccer",
+    "titleReading": "ぷろさっか",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "プロスポーツ",
+    "year": "1983",
+    "manufacturer": "データイースト",
+    "name": "prosport",
+    "note": "Pro Sports - Bowling, Tennis, and Golf",
+    "titleReading": "ぷろすぽつ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ボギー'８３",
+    "year": "1983",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "boggy84",
+    "note": "Boggy '84",
+    "titleReading": "ぼぎ'83",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ポッパー",
+    "year": "1983",
+    "manufacturer": "大森電気",
+    "name": "popper",
+    "note": "Popper",
+    "titleReading": "ぽっぱ",
+    "manufacturerReading": "おおもりでんき"
+  },
+  {
+    "title": "マウサー",
+    "year": "1983",
+    "manufacturer": "ユニバーサルプレイランド（UPL）",
+    "name": "mouser",
+    "note": "Mouser",
+    "titleReading": "まうさ",
+    "manufacturerReading": "ゆにばさるぷれいらんどupl"
+  },
+  {
+    "title": "マーカム",
+    "year": "1983",
+    "manufacturer": "サン電子",
+    "name": "markham",
+    "note": "Markham",
+    "titleReading": "まかむ",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "マサオジャンプ",
+    "year": "1983",
+    "manufacturer": "セガ",
+    "name": "masao",
+    "note": "Masao",
+    "titleReading": "まさおじゃんぷ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "マッハ３ -MILITARY AIR COMMAND HUNTER-",
+    "year": "1983",
+    "manufacturer": "Mylstar",
+    "name": "mach3",
+    "note": "M.A.C.H. 3 (set 1)",
+    "titleReading": "まっは3militaryaircommandhunter",
+    "manufacturerReading": "mylstar"
+  },
+  {
+    "title": "マービンメイズ",
+    "year": "1983",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "marvins",
+    "note": "Marvin's Maze",
+    "titleReading": "まびんめいず",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "メガゾーン",
+    "year": "1983",
+    "manufacturer": "コナミ工業",
+    "name": "megazone",
+    "note": "Mega Zone (program code L)",
+    "titleReading": "めがぞん",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ものしりクイズ おしゃべりまちゃ",
+    "year": "1983",
+    "manufacturer": "ロジテック",
+    "name": "macha",
+    "note": "Monoshiri Quiz Osyaberi Macha (Japan)",
+    "titleReading": "ものしりくいずおしゃべりまちゃ",
+    "manufacturerReading": "ろじてっく"
+  },
+  {
+    "title": "Ｄ－ＤＡＹ ＜ディー･デー＞",
+    "year": "1984",
+    "manufacturer": "ジャレコ",
+    "name": "ddayjlc",
+    "note": "D-Day (Jaleco set 1)",
+    "titleReading": "dday<でぃでぃで>",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ＶＳ.レッキングクルー",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "wrecking",
+    "note": "Vs. Wrecking Crew",
+    "titleReading": "vsれっきんぐくる",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "アイスクライマー",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "iceclimb",
+    "note": "Vs. Ice Climber (set IC4-4 B-1)",
+    "titleReading": "あいすくらいま",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "功夫大君 ＜カンフータイクン＞",
+    "year": "1984",
+    "manufacturer": "セイブ開発",
+    "name": "kungfut",
+    "note": "Kung-Fu Taikun (set 1)",
+    "titleReading": "いさおたいくん<かんふたいくん>",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ウォールクラッシュ",
+    "year": "1984",
+    "manufacturer": "Midcoin",
+    "name": "wallc",
+    "note": "Wall Crash (set 1)",
+    "titleReading": "うぉるくらっしゅ",
+    "manufacturerReading": "midcoin"
+  },
+  {
+    "title": "エキサイティングサッカー２",
+    "year": "1984",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "exctscc2",
+    "note": "Exciting Soccer II",
+    "titleReading": "えきさいてぃんぐさっか2",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "エキサイトバイク",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "excitebk",
+    "note": "Vs. Excitebike (set EB4-3 E)",
+    "titleReading": "えきさいとばいく",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "エクイテス",
+    "year": "1984",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "equites",
+    "note": "Equites",
+    "titleReading": "えくいてす",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "カントリーガール",
+    "year": "1984",
+    "manufacturer": "日本物産",
+    "name": "cntrygrl",
+    "note": "Country Girl (Japan set 1)",
+    "titleReading": "かんとりがる",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "キックスタート",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "kikstart",
+    "note": "Kick Start - Wheelie King",
+    "titleReading": "きっくすたと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "キックライダー",
+    "year": "1984",
+    "manufacturer": "ユニバーサル",
+    "name": "kickridr",
+    "note": "Kick Rider",
+    "titleReading": "きっくらいだ",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "クラウンズゴルフ",
+    "year": "1984",
+    "manufacturer": "太平技研（ナスコ）",
+    "name": "crgolf",
+    "note": "Crowns Golf (834-5419-04)",
+    "titleReading": "くらうんずごるふ",
+    "manufacturerReading": "たいへいぎけんなすこ"
+  },
+  {
+    "title": "クルクルランド",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "cluclu",
+    "note": "Vs. Clu Clu Land",
+    "titleReading": "くるくるらんど",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "グラジエイター",
+    "year": "1984",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "sgladiat",
+    "note": "Gladiator 1984",
+    "titleReading": "ぐらじえいた",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ゴルフ",
+    "year": "1984",
+    "manufacturer": "任天堂",
+    "name": "smgolf",
+    "note": "Vs. Stroke & Match Golf (Men Version, set GF4-2 F)",
+    "titleReading": "ごるふ",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "サイオン",
+    "year": "1984",
+    "manufacturer": "セイブ電子（セイブ開発）/ ニッコウ電子",
+    "name": "scion",
+    "note": "Scion",
+    "titleReading": "さいおん",
+    "manufacturerReading": "せいぶでんしせいぶかいはつ/にっこうでんし"
+  },
+  {
+    "title": "サイクルマー坊",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "cyclemb",
+    "note": "Cycle Maabou (Japan)",
+    "titleReading": "さいくるまぼう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ザ・運動会",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "fieldday",
+    "note": "Field Day",
+    "titleReading": "ざうんどうかい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ザ・ギネス",
+    "year": "1984",
+    "manufacturer": "サン電子",
+    "name": "strnskil",
+    "note": "Strength & Skill",
+    "titleReading": "ざぎねす",
+    "manufacturerReading": "さんでんし"
+  },
+  {
+    "title": "ザ・スリーストゥージーズ",
+    "year": "1984",
+    "manufacturer": "Mylstar",
+    "name": "3stooges",
+    "note": "The Three Stooges In Brides Is Brides (set 1)",
+    "titleReading": "ざすりすとぅじず",
+    "manufacturerReading": "mylstar"
+  },
+  {
+    "title": "ザビガ",
+    "year": "1984",
+    "manufacturer": "データイースト",
+    "name": "zaviga",
+    "note": "Zaviga",
+    "titleReading": "ざびが",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "シーファイターポセイドン",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "sfposeid",
+    "note": "Sea Fighter Poseidon",
+    "titleReading": "しふぁいたぽせいどん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ジャイロダイン",
+    "year": "1984",
+    "manufacturer": "クラックス",
+    "name": "gyrodine",
+    "note": "Gyrodine",
+    "titleReading": "じゃいろだいん",
+    "manufacturerReading": "くらっくす"
+  },
+  {
+    "title": "ジャンピングクロス",
+    "year": "1984",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "jcross",
+    "note": "Jumping Cross (set 1)",
+    "titleReading": "じゃんぴんぐくろす",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ジャンピング・ジャック",
+    "year": "1984",
+    "manufacturer": "ユニバーサル",
+    "name": "jjack",
+    "note": "Jumping Jack",
+    "titleReading": "じゃんぴんぐじゃっく",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "スーパーバスケットボール",
+    "year": "1984",
+    "manufacturer": "コナミ工業",
+    "name": "sbasketb",
+    "note": "Super Basketball (version I, encrypted)",
+    "titleReading": "すぱばすけっとぼる",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スピードアタック！",
+    "year": "1984",
+    "manufacturer": "世田企画（セタ）",
+    "name": "speedatk",
+    "note": "Speed Attack! (Japan)",
+    "titleReading": "すぴどあたっく",
+    "manufacturerReading": "よたきかくせた"
+  },
+  {
+    "title": "スワット",
+    "year": "1984",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "swat",
+    "note": "SWAT (315-5048)",
+    "titleReading": "すわっと",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "セクターゾーン",
+    "year": "1984",
+    "manufacturer": "アリス",
+    "name": "seicross",
+    "note": "Seicross (set 1)",
+    "titleReading": "せくたぞん",
+    "manufacturerReading": "ありす"
+  },
+  {
+    "title": "タイムパイロット'８４ -Further into unknown world.-",
+    "year": "1984",
+    "manufacturer": "コナミ工業",
+    "name": "tp84",
+    "note": "Time Pilot '84 (set 1)",
+    "titleReading": "たいむぱいろっと'84furtherintounknownworld",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ダイナミックスキー",
+    "year": "1984",
+    "manufacturer": "タイヨーシステム",
+    "name": "dynamski",
+    "note": "Dynamic Ski",
+    "titleReading": "だいなみっくすき",
+    "manufacturerReading": "たいようしすてむ"
+  },
+  {
+    "title": "チューブパニック",
+    "year": "1984",
+    "manufacturer": "フジテック",
+    "name": "tubep",
+    "note": "Tube Panic",
+    "titleReading": "ちゅぶぱにっく",
+    "manufacturerReading": "ふじてっく"
+  },
+  {
+    "title": "ティンバー",
+    "year": "1984",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "timber",
+    "note": "Timber",
+    "titleReading": "てぃんば",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "トップレーサー",
+    "year": "1984",
+    "manufacturer": "コスモ電子",
+    "name": "topracer",
+    "note": "Top Racer (with MB8841 + MB8842, 1984)",
+    "titleReading": "とっぷれさ",
+    "manufacturerReading": "こすもでんし"
+  },
+  {
+    "title": "バギー・チャレンジ",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "buggychl",
+    "note": "Buggy Challenge",
+    "titleReading": "ばぎちゃれんじ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "バザード",
+    "year": "1984",
+    "manufacturer": "クラックス",
+    "name": "buzzard",
+    "note": "Buzzard",
+    "titleReading": "ばざど",
+    "manufacturerReading": "くらっくす"
+  },
+  {
+    "title": "パラレルターン",
+    "year": "1984",
+    "manufacturer": "ジャレコ",
+    "name": "pturn",
+    "note": "Parallel Turn",
+    "titleReading": "ぱられるたん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ビクトリアス ナイン",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "victnine",
+    "note": "Victorious Nine",
+    "titleReading": "びくとりあすないん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ピーターパックラット",
+    "year": "1984",
+    "manufacturer": "アタリゲームズ",
+    "name": "peterpak",
+    "note": "Peter Pack Rat",
+    "titleReading": "ぴたぱっくらっと",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ピット＆ラン -F-1 RACE-",
+    "year": "1984",
+    "manufacturer": "タイトー",
+    "name": "pitnrun",
+    "note": "Pit & Run - F-1 Race (set 1)",
+    "titleReading": "ぴっと&らんf1race",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ピンボ",
+    "year": "1984",
+    "manufacturer": "ジャレコ",
+    "name": "pinbo",
+    "note": "Pinbo (set 1)",
+    "titleReading": "ぴんぼ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "フォーメーション ゼット",
+    "year": "1984",
+    "manufacturer": "ジャレコ",
+    "name": "formatz",
+    "note": "Formation Z",
+    "titleReading": "ふぉめしょんぜっと",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ブルファイター",
+    "year": "1984",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "bullfgtr",
+    "note": "Bull Fighter",
+    "titleReading": "ぶるふぁいた",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "プログレス",
+    "year": "1984",
+    "manufacturer": "ローラートロン",
+    "name": "progress",
+    "note": "Progress",
+    "titleReading": "ぷろぐれす",
+    "manufacturerReading": "ろらとろん"
+  },
+  {
+    "title": "ペーパーボーイ",
+    "year": "1984",
+    "manufacturer": "アタリゲームズ",
+    "name": "paperboy",
+    "note": "Paperboy (rev 3)",
+    "titleReading": "ぺぱぼい",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ホールランド",
+    "year": "1984",
+    "manufacturer": "Tecfri",
+    "name": "holeland",
+    "note": "Hole Land (Japan)",
+    "titleReading": "ほるらんど",
+    "manufacturerReading": "tecfri"
+  },
+  {
+    "title": "マイキー -HIGHSCHOOL GRAFFITI-",
+    "year": "1984",
+    "manufacturer": "コナミ工業",
+    "name": "mikiehs",
+    "note": "Mikie (High School Graffiti)",
+    "titleReading": "まいきhighschoolgraffiti",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "マッドクラッシャー",
+    "year": "1984",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "madcrash",
+    "note": "Mad Crasher",
+    "titleReading": "まっどくらっしゃ",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ミスタークーガー",
+    "year": "1984",
+    "manufacturer": "ATW",
+    "name": "mrkougar",
+    "note": "Mr. Kougar",
+    "titleReading": "みすたくが",
+    "manufacturerReading": "atw"
+  },
+  {
+    "title": "ミステリアスストーンズ -Dr.キックの大冒険-",
+    "year": "1984",
+    "manufacturer": "テクノスジャパン",
+    "name": "mystston",
+    "note": "Mysterious Stones - Dr. John's Adventure",
+    "titleReading": "みすてりあすすとんずdrきっくのだいぼうけん",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "三輪サンちゃん -Tricycle San-",
+    "year": "1984",
+    "manufacturer": "セガ",
+    "name": "spatter",
+    "note": "Spatter (315-5xxx)",
+    "titleReading": "みわさんちゃんtricyclesan",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "メインイベント",
+    "year": "1984",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "mainsnk",
+    "note": "Main Event (1984)",
+    "titleReading": "めいんいべんと",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "リバレーション",
+    "year": "1984",
+    "manufacturer": "データイースト",
+    "name": "liberate",
+    "note": "Liberation",
+    "titleReading": "りばれしょん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ロイヤルカジノ",
+    "year": "1984",
+    "manufacturer": "ダイナエレクトロニクス（ダイナックス）",
+    "name": "rcasino",
+    "note": "Royal Casino (D-2608208A1-2)",
+    "titleReading": "ろいやるかじの",
+    "manufacturerReading": "だいなえれくとろにくすだいなっくす"
+  },
+  {
+    "title": "ワイリータワー",
+    "year": "1984",
+    "manufacturer": "アイレム",
+    "name": "wilytowr",
+    "note": "Wily Tower",
+    "titleReading": "わいりたわ",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "わいワイジョッキーゲートイン",
+    "year": "1984",
+    "manufacturer": "カシオ",
+    "name": "wwjgtin",
+    "note": "Wai Wai Jockey Gate-In!",
+    "titleReading": "わいわいじょっきげといん",
+    "manufacturerReading": "かしお"
+  },
+  {
+    "title": "ＲＦ-２ ＜レッドファイター2＞",
+    "year": "1985",
+    "manufacturer": "コナミ工業",
+    "name": "konamigt",
+    "note": "Konami GT",
+    "titleReading": "rf2<れっどふぁいた2>",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ＶＳ.スターラスター",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "starlstr",
+    "note": "Vs. Star Luster",
+    "titleReading": "vsすたらすた",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ＶＳ.忍者じゃじゃ丸くん",
+    "year": "1985",
+    "manufacturer": "ジャレコ",
+    "name": "jajamaru",
+    "note": "Vs. Ninja Jajamaru Kun (Japan)",
+    "titleReading": "vsにんじゃじゃじゃまるくん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ＶＳ.バトルシティ",
+    "year": "1985",
+    "manufacturer": "ナムコ",
+    "name": "btlecity",
+    "note": "Vs. Battle City",
+    "titleReading": "vsばとるしてぃ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "インディージョーンズ -魔宮の伝説-",
+    "year": "1985",
+    "manufacturer": "アタリゲームズ",
+    "name": "indytemp",
+    "note": "Indiana Jones and the Temple of Doom (set 1)",
+    "titleReading": "いんでぃじょんずまきゅうのでんせつ",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "インドアサッカー",
+    "year": "1985",
+    "manufacturer": "ユニバーサル",
+    "name": "idsoccer",
+    "note": "Indoor Soccer (set 1)",
+    "titleReading": "いんどあさっか",
+    "manufacturerReading": "ゆにばあさる"
+  },
+  {
+    "title": "ウィズ",
+    "year": "1985",
+    "manufacturer": "セイブ開発",
+    "name": "wiz",
+    "note": "Wiz",
+    "titleReading": "うぃず",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "エキサイティング・アワー -ザ・プロレスリング・ネットワーク-",
+    "year": "1985",
+    "manufacturer": "テクノスジャパン",
+    "name": "matmania",
+    "note": "Mat Mania",
+    "titleReading": "えきさいてぃんぐあわざぷろれすりんぐねっとわく",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "女三四郎 -TYPHOON GAL-",
+    "year": "1985",
+    "manufacturer": "タイトー",
+    "name": "onna34ro",
+    "note": "Onna Sanshirou - Typhoon Gal",
+    "titleReading": "おんなさんしろうtyphoongal",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "北派少林 飛龍の拳 -異種格闘技 世界選手権-",
+    "year": "1985",
+    "manufacturer": "カルチャーブレーン",
+    "name": "shangkid",
+    "note": "Shanghai Kid",
+    "titleReading": "きたはしょうりんひりゅうのこぶしいしゅかくとうぎせかいせんしゅけん",
+    "manufacturerReading": "かるちゃぶれん"
+  },
+  {
+    "title": "キャンバス・クロッキー",
+    "year": "1985",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "canvas",
+    "note": "Canvas Croquis",
+    "titleReading": "きゃんばすくろっき",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ギャラクティックウォーリアーズ",
+    "year": "1985",
+    "manufacturer": "コナミ工業",
+    "name": "gwarrior",
+    "note": "Galactic Warriors",
+    "titleReading": "ぎゃらくてぃっくうぉりあず",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "草野球",
+    "year": "1985",
+    "manufacturer": "タイトー",
+    "name": "ksayakyu",
+    "note": "Kusayakyuu",
+    "titleReading": "くさやきゅう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クラウンズゴルフ・イン・ハワイ",
+    "year": "1985",
+    "manufacturer": "太平技研（ナスコ）",
+    "name": "crgolfhi",
+    "note": "Crowns Golf in Hawaii",
+    "titleReading": "くらうんずごるふいんはわい",
+    "manufacturerReading": "たいへいぎけんなすこ"
+  },
+  {
+    "title": "グリダイアンファイト",
+    "year": "1985",
+    "manufacturer": "テーカン（テクモ）",
+    "name": "gridiron",
+    "note": "Gridiron Fight",
+    "titleReading": "ぐりだいあんふぁいと",
+    "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "激走",
+    "year": "1985",
+    "manufacturer": "イースタン",
+    "name": "gekisou",
+    "note": "Gekisou (Japan)",
+    "titleReading": "げきそう",
+    "manufacturerReading": "いすたん"
+  },
+  {
+    "title": "コスモポリス ギャリバン",
+    "year": "1985",
+    "manufacturer": "日本物産",
+    "name": "galivan",
+    "note": "Cosmo Police Galivan (12/26/1985)",
+    "titleReading": "こすもぽりすぎゃりばん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "サッカー",
+    "year": "1985",
+    "manufacturer": "任天堂",
+    "name": "vssoccer",
+    "note": "Vs. Soccer (set SC4-2 A)",
+    "titleReading": "さっか",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "サブマリン",
+    "year": "1985",
+    "manufacturer": "シグマ",
+    "name": "sub",
+    "note": "Submarine (Sigma)",
+    "titleReading": "さぶまりん",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "ザ・フェアリーランドストーリー",
+    "year": "1985",
+    "manufacturer": "タイトー",
+    "name": "flstory",
+    "note": "The FairyLand Story",
+    "titleReading": "ざふぇありらんどすとり",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ショットライダー",
+    "year": "1985",
+    "manufacturer": "セイブ開発",
+    "name": "shtrider",
+    "note": "Shot Rider",
+    "titleReading": "しょっとらいだ",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "スプレンダー・ブラスト",
+    "year": "1985",
+    "manufacturer": "アルファ電子（ADK）",
+    "name": "splndrbt",
+    "note": "Splendor Blast (set 1)",
+    "titleReading": "すぷれんだぶらすと",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "タンクバスターズ",
+    "year": "1985",
+    "manufacturer": "Valadon Automation",
+    "name": "tankbust",
+    "note": "Tank Busters",
+    "titleReading": "たんくばすたず",
+    "manufacturerReading": "ばらどんおーとめーしょん"
+  },
+  {
+    "title": "チャンバラ",
+    "year": "1985",
+    "manufacturer": "データイースト",
+    "name": "chanbara",
+    "note": "Chanbara",
+    "titleReading": "ちゃんばら",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ナックルジョー",
+    "year": "1985",
+    "manufacturer": "セイブ開発",
+    "name": "kncljoe",
+    "note": "Knuckle Joe (set 1)",
+    "titleReading": "なっくるじょ",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ヌンチャクン",
+    "year": "1985",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "nunchaku",
+    "note": "Nunchackun",
+    "titleReading": "ぬんちゃくん",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ハイ・ボルテージ",
+    "year": "1985",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "hvoltage",
+    "note": "High Voltage",
+    "titleReading": "はいぼるてじ",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "ハル２１",
+    "year": "1985",
+    "manufacturer": "新日本企画（SNK）",
+    "name": "hal21",
+    "note": "HAL21",
+    "titleReading": "はる21",
+    "manufacturerReading": "しんにほんきかくsnk"
+  },
+  {
+    "title": "ハング・オン・ジュニア",
+    "year": "1985",
+    "manufacturer": "セガ",
+    "name": "hangonjr",
+    "note": "Hang-On Jr. (Rev. B)",
+    "titleReading": "はんぐおんじゅにあ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "バギーボーイ",
+    "year": "1985",
+    "manufacturer": "辰巳電子工業",
+    "name": "buggyboy",
+    "note": "Buggy Boy/Speed Buggy (cockpit, rev. D)",
+    "titleReading": "ばぎぼい",
+    "manufacturerReading": "たつみでんしこうぎょう"
+  },
+  {
+    "title": "パフォーマン",
+    "year": "1985",
+    "manufacturer": "東亜プラン",
+    "name": "perfrman",
+    "note": "Performan (Japan)",
+    "titleReading": "ぱふぉまん",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ピンポンキング",
+    "year": "1985",
+    "manufacturer": "セタ / 金子製作所",
+    "name": "ppking",
+    "note": "Ping-Pong King",
+    "titleReading": "ぴんぽんきんぐ",
+    "manufacturerReading": "せた/かねこせいさくしょ"
+  },
+  {
+    "title": "ブギーマナー",
+    "year": "1985",
+    "manufacturer": "テクノスジャパン",
+    "name": "bogeyman",
+    "note": "Bogey Manor",
+    "titleReading": "ぶぎまな",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "プロ野球入団テスト トライアウト",
+    "year": "1985",
+    "manufacturer": "データイースト",
+    "name": "tryout",
+    "note": "Pro Baseball Skill Tryout (Japan)",
+    "titleReading": "ぷろやきゅうにゅうだんてすととらいあうと",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "メタルクラッシュ",
+    "year": "1985",
+    "manufacturer": "データイースト",
+    "name": "metlclsh",
+    "note": "Metal Clash (Japan)",
+    "titleReading": "めたるくらっしゅ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ラッキーガール",
+    "year": "1985",
+    "manufacturer": "ウィング",
+    "name": "luckygrl",
+    "note": "Lucky Girl (Wing)",
+    "titleReading": "らっきがる",
+    "manufacturerReading": "うぃんぐ"
+  },
+  {
+    "title": "ラブリー・ポーカー",
+    "year": "1985",
+    "manufacturer": "テーカン（テクモ）",
+    "name": "lvpoker",
+    "note": "Lovely Poker [BET]",
+    "titleReading": "らぶりぽか",
+    "manufacturerReading": "てかんてくも"
+  },
+  {
+    "title": "レイダース５",
+    "year": "1985",
+    "manufacturer": "ユーピーエル（UPL）",
+    "name": "raiders5",
+    "note": "Raiders5",
+    "titleReading": "れいだす5",
+    "manufacturerReading": "ゆぴえるupl"
+  },
+  {
+    "title": "レディーマスター",
+    "year": "1985",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "ladymstr",
+    "note": "Lady Master of Kung Fu (set 1, newer)",
+    "titleReading": "れでぃますた",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ロードランナーIII -魔神の復活-",
+    "year": "1985",
+    "manufacturer": "アイレム",
+    "name": "ldrun3",
+    "note": "Lode Runner III - The Golden Labyrinth",
+    "titleReading": "ろどらんなiiiまじんのふっかつ",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "３-ＤサンダーセプターII",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "tceptor2",
+    "note": "3-D Thunder Ceptor II",
+    "titleReading": "3dさんだせぷたii",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ＶＳ.スーパーゼビウス ガンプの謎",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "supxevs",
+    "note": "Vs. Super Xevious",
+    "titleReading": "vsすぱぜびうすがんぷのなぞ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ＶＳ.スーパーマリオブラザーズ",
+    "year": "1986",
+    "manufacturer": "任天堂",
+    "name": "suprmrio",
+    "note": "Vs. Super Mario Bros. (set SM4-4 E)",
+    "titleReading": "vsすぱまりおぶらざず",
+    "manufacturerReading": "にんてんどう"
+  },
+  {
+    "title": "アクションファイター",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "afighter",
+    "note": "Action Fighter (FD1089A 317-0018)",
+    "titleReading": "あくしょんふぁいた",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "アルファックス・ゼット",
+    "year": "1986",
+    "manufacturer": "ウッドプレイス",
+    "name": "alphaxz",
+    "note": "The Alphax Z (Japan)",
+    "titleReading": "あるふぁっくすぜっと",
+    "manufacturerReading": "うっどぷれいす"
+  },
+  {
+    "title": "エンパイア シティ:１９３１",
+    "year": "1986",
+    "manufacturer": "セイブ開発",
+    "name": "empcity",
+    "note": "Empire City: 1931 (bootleg?)",
+    "titleReading": "えんぱいあしてぃ1931",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ギガス MARKII",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "gigasm2b",
+    "note": "Gigas Mark II (bootleg)",
+    "titleReading": "ぎがすmarkii",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "クラッシュ・ロード",
+    "year": "1986",
+    "manufacturer": "ウッドプレイス",
+    "name": "clshroad",
+    "note": "Clash-Road",
+    "titleReading": "くらっしゅろど",
+    "manufacturerReading": "うっどぷれいす"
+  },
+  {
+    "title": "コンペティションゴルフ・決勝ラウンド",
+    "year": "1986",
+    "manufacturer": "データイースト",
+    "name": "compgolf",
+    "note": "Competition Golf Final Round (revision 3)",
+    "titleReading": "こんぺてぃしょんごるふけっしょうらうんど",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "サンダーセプター",
+    "year": "1986",
+    "manufacturer": "ナムコ",
+    "name": "tceptor",
+    "note": "Thunder Ceptor",
+    "titleReading": "さんだせぷた",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スーパーオセロ",
+    "year": "1986",
+    "manufacturer": "サクセス",
+    "name": "sothello",
+    "note": "Super Othello",
+    "titleReading": "すぱおせろ",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "スーパー・クロスII",
+    "year": "1986",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "sprcros2",
+    "note": "Super Cross II (Japan, set 1)",
+    "titleReading": "すぱくろすii",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "スーパー・スティングレイ",
+    "year": "1986",
+    "manufacturer": "アルファ電子",
+    "name": "sstingry",
+    "note": "Super Stingray (Japan)",
+    "titleReading": "すぱすてぃんぐれい",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "スーパースプリント",
+    "year": "1986",
+    "manufacturer": "アタリゲームズ",
+    "name": "ssprint",
+    "note": "Super Sprint (rev 4)",
+    "titleReading": "すぱすぷりんと",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "スペースポジション",
+    "year": "1986",
+    "manufacturer": "大平技研（ナスコ）",
+    "name": "spcpostn",
+    "note": "Space Position (Japan)",
+    "titleReading": "すぺすぽじしょん",
+    "manufacturerReading": "おおひらぎけんなすこ"
+  },
+  {
+    "title": "大怪獣の逆襲",
+    "year": "1986",
+    "manufacturer": "テクノスジャパン",
+    "name": "daikaiju",
+    "note": "Daikaiju no Gyakushu",
+    "titleReading": "だいかいじゅうのぎゃくしゅう",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "ダークミスト -THE LOST CASTLE IN DARKMIST-",
+    "year": "1986",
+    "manufacturer": "セイブ開発",
+    "name": "darkmist",
+    "note": "The Lost Castle In Darkmist",
+    "titleReading": "だくみすとthelostcastleindarkmist",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ダブルドリブル -The Ultimate Basketball Game-",
+    "year": "1986",
+    "manufacturer": "コナミ工業",
+    "name": "ddribble",
+    "note": "Double Dribble",
+    "titleReading": "だぶるどりぶるtheultimatebasketballgame",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ダンプ松本",
+    "year": "1986",
+    "manufacturer": "サンリツ電気",
+    "name": "bodyslam",
+    "note": "Body Slam (8751 317-0015)",
+    "titleReading": "だんぷまつもと",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "チャンピオンシップスプリント",
+    "year": "1986",
+    "manufacturer": "アタリゲームズ",
+    "name": "csprint",
+    "note": "Championship Sprint (rev 3)",
+    "titleReading": "ちゃんぴおんしっぷすぷりんと",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "デンジャーゾーン",
+    "year": "1986",
+    "manufacturer": "シネマトロニクス",
+    "name": "dangerz",
+    "note": "Danger Zone",
+    "titleReading": "でんじゃぞん",
+    "manufacturerReading": "しねまとろにくす"
+  },
+  {
+    "title": "のぼらんか",
+    "year": "1986",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "nob",
+    "note": "Noboranka (Japan)",
+    "titleReading": "のぼらんか",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "ブレイン",
+    "year": "1986",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "brain",
+    "note": "Brain",
+    "titleReading": "ぶれいん",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "プレビリアン",
+    "year": "1986",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "pbillian",
+    "note": "Prebillian",
+    "titleReading": "ぷれびりあん",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ボブルボブル",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "boblbobl",
+    "note": "Bobble Bobble (bootleg of Bubble Bobble)",
+    "titleReading": "ぼぶるぼぶる",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "マイティガイ",
+    "year": "1986",
+    "manufacturer": "日本物産",
+    "name": "mightguy",
+    "note": "Mighty Guy",
+    "titleReading": "まいてぃがい",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "マンハッタン24分署 <<NEW YORK CITY 151・西・第100ストリート>>",
+    "year": "1986",
+    "manufacturer": "コナミ工業",
+    "name": "jailbrek",
+    "note": "Jail Break",
+    "titleReading": "まんはったん24ぶんしょ<<newyorkcity151にしだい100すとりと>>",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "名人戦",
+    "year": "1986",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "meijinsn",
+    "note": "Meijinsen",
+    "titleReading": "めいじんせん",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "モモコ１２０％",
+    "year": "1986",
+    "manufacturer": "ジャレコ",
+    "name": "momoko",
+    "note": "Momoko 120% (Japanese text)",
+    "titleReading": "ももこ120%",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "妖獣伝",
+    "year": "1986",
+    "manufacturer": "アイレム",
+    "name": "youjyudn",
+    "note": "Youjyuden (Japan)",
+    "titleReading": "ようじゅうでん",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "ラフレシア",
+    "year": "1986",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "raflesia",
+    "note": "Rafflesia (315-5162)",
+    "titleReading": "らふれしあ",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "ランページ",
+    "year": "1986",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "rampage",
+    "note": "Rampage (Rev 3, 8/27/86)",
+    "titleReading": "らんぺじ",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "陸海空 -最前線-",
+    "year": "1986",
+    "manufacturer": "タイトー",
+    "name": "lsasquad",
+    "note": "Land Sea Air Squad / Riku Kai Kuu Saizensen",
+    "titleReading": "りくかいくうさいぜんせん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "レジェンド",
+    "year": "1986",
+    "manufacturer": "九娯貿易",
+    "name": "legend",
+    "note": "Legend",
+    "titleReading": "れじぇんど",
+    "manufacturerReading": "きゅうごぼうえき"
+  },
+  {
+    "title": "ロックオン",
+    "year": "1986",
+    "manufacturer": "辰巳電子工業",
+    "name": "lockon",
+    "note": "Lock-On (rev. E)",
+    "titleReading": "ろっくおん",
+    "manufacturerReading": "たつみでんしこうぎょう"
+  },
+  {
+    "title": "ロボレス２００１",
+    "year": "1986",
+    "manufacturer": "セガ",
+    "name": "robowres",
+    "note": "Robo Wres 2001",
+    "titleReading": "ろぼれす2001",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "Ａ－ＪＡＸ ＜エー・ジャックス＞",
+    "year": "1987",
+    "manufacturer": "コナミ工業",
+    "name": "ajax",
+    "note": "Ajax",
+    "titleReading": "ajax<えじゃっくす>",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ＶＳ.ファミリーボクシング",
+    "year": "1987",
+    "manufacturer": "ウッドプレイス",
+    "name": "tkoboxng",
+    "note": "Vs. T.K.O. Boxing",
+    "titleReading": "vsふぁみりぼくしんぐ",
+    "manufacturerReading": "うっどぷれいす"
+  },
+  {
+    "title": "ＶＳ.ホットスマッシュ",
+    "year": "1987",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "hotsmash",
+    "note": "Vs. Hot Smash",
+    "titleReading": "vsほっとすまっしゅ",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "アフターバーナー",
+    "year": "1987",
+    "manufacturer": "セガ（AM2）",
+    "name": "aburner",
+    "note": "After Burner",
+    "titleReading": "あふたばな",
+    "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "アンタッチャブル",
+    "year": "1987",
+    "manufacturer": "ダイナックス",
+    "name": "untoucha",
+    "note": "Untouchable (Ver. 2.10)",
+    "titleReading": "あんたっちゃぶる",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "イグジーザス",
+    "year": "1987",
+    "manufacturer": "タイトー",
+    "name": "exzisus",
+    "note": "Exzisus (Japan, dedicated)",
+    "titleReading": "いぐじざす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "エアーウルフ",
+    "year": "1987",
+    "manufacturer": "九娯貿易",
+    "name": "airwolf",
+    "note": "Airwolf",
+    "titleReading": "えあうるふ",
+    "manufacturerReading": "きゅうごぼうえき"
+  },
+  {
+    "title": "カイロスの館",
+    "year": "1987",
+    "manufacturer": "アルファ電子",
+    "name": "kyros",
+    "note": "Kyros",
+    "titleReading": "かいろすのかん",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "臥竜列伝",
+    "year": "1987",
+    "manufacturer": "データイースト",
+    "name": "garyoret",
+    "note": "Garyo Retsuden (Japan)",
+    "titleReading": "がりょうれつでん",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "キッドのホレホレ大作戦",
+    "year": "1987",
+    "manufacturer": "日本物産",
+    "name": "horekid",
+    "note": "Kid no Hore Hore Daisakusen",
+    "titleReading": "きっどのほれほれだいさくせん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "クエスター",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "quester",
+    "note": "Quester (Japan)",
+    "titleReading": "くえすた",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "コンバットホーク",
+    "year": "1987",
+    "manufacturer": "サンリツ電気",
+    "name": "combh",
+    "note": "Combat Hawk",
+    "titleReading": "こんばっとほく",
+    "manufacturerReading": "さんりつでんき"
+  },
+  {
+    "title": "サウロ",
+    "year": "1987",
+    "manufacturer": "Tecfri",
+    "name": "sauro",
+    "note": "Sauro",
+    "titleReading": "さうろ",
+    "manufacturerReading": "tecfri"
+  },
+  {
+    "title": "サンダーブレード",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "thndrbld",
+    "note": "Thunder Blade (upright) (FD1094 317-0056)",
+    "titleReading": "さんだぶれど",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ザ・ディープ",
+    "year": "1987",
+    "manufacturer": "ウッドプレイス",
+    "name": "thedeep",
+    "note": "The Deep (Japan)",
+    "titleReading": "ざでぃぷ",
+    "manufacturerReading": "うっどぷれいす"
+  },
+  {
+    "title": "ザ・ハスラー",
+    "year": "1987",
+    "manufacturer": "コナミ工業",
+    "name": "rackemup",
+    "note": "Rack 'em Up (program code L)",
+    "titleReading": "ざはすら",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スーパーリーグ",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "suprleag",
+    "note": "Super League (FD1094 317-0045)",
+    "titleReading": "すぱりぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ゼノフォーブ",
+    "year": "1987",
+    "manufacturer": "バリーミッドウェイ",
+    "name": "xenophob",
+    "note": "Xenophobe",
+    "titleReading": "ぜのふぉぶ",
+    "manufacturerReading": "ばりーみっどうぇい"
+  },
+  {
+    "title": "タイムスキャナー",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "timescan",
+    "note": "Time Scanner (set 2, System 16B)",
+    "titleReading": "たいむすきゃな",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "テラフォース",
+    "year": "1987",
+    "manufacturer": "日本物産",
+    "name": "terraf",
+    "note": "Terra Force",
+    "titleReading": "てらふぉす",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "時の戦士 -CHRONO-SOLDIER-",
+    "year": "1987",
+    "manufacturer": "ビック東海",
+    "name": "tokisens",
+    "note": "Toki no Senshi - Chrono Soldier (MC-8123, 317-0040)",
+    "titleReading": "ときのせんしchronosoldier",
+    "manufacturerReading": "びっくとうかい"
+  },
+  {
+    "title": "特殊部隊ＵＡＧ",
+    "year": "1987",
+    "manufacturer": "セタ",
+    "name": "tndrcade",
+    "note": "Thundercade / Twin Formation",
+    "titleReading": "とくしゅぶたいuag",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "ハイパークラッシュ",
+    "year": "1987",
+    "manufacturer": "コナミ工業",
+    "name": "hcrash",
+    "note": "Hyper Crash (version D)",
+    "titleReading": "はいぱくらっしゅ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "華吹雪",
+    "year": "1987",
+    "manufacturer": "ダイナックス",
+    "name": "hnfubuki",
+    "note": "Hana Fubuki [BET] (Japan)",
+    "titleReading": "はなふぶき",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "早押し対戦クイズ ハイホー",
+    "year": "1987",
+    "manufacturer": "日本物産",
+    "name": "hyhoo",
+    "note": "Hayaoshi Taisen Quiz Hyhoo (Japan)",
+    "titleReading": "はやおしたいせんくいずはいほ",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "早押し対戦クイズ ハイホー２",
+    "year": "1987",
+    "manufacturer": "日本物産",
+    "name": "hyhoo2",
+    "note": "Hayaoshi Taisen Quiz Hyhoo 2 (Japan)",
+    "titleReading": "はやおしたいせんくいずはいほ2",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "パーフェクトビリヤード",
+    "year": "1987",
+    "manufacturer": "日本システム",
+    "name": "pbillrd",
+    "note": "Perfect Billiard",
+    "titleReading": "ぱふぇくとびりやど",
+    "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "フリーキック",
+    "year": "1987",
+    "manufacturer": "日本システム",
+    "name": "freekick",
+    "note": "Free Kick (NS6201-A 1987.10)",
+    "titleReading": "ふりきっく",
+    "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "ぶたさん",
+    "year": "1987",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "butasan",
+    "note": "Butasan - Pig's & Bomber's (Japan, English)",
+    "titleReading": "ぶたさん",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "プランプポップ",
+    "year": "1987",
+    "manufacturer": "タイトー",
+    "name": "plumppop",
+    "note": "Plump Pop (Japan)",
+    "titleReading": "ぷらんぷぽっぷ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ヘビーウェイトチャンプ",
+    "year": "1987",
+    "manufacturer": "セガ",
+    "name": "hwchamp",
+    "note": "Heavyweight Champ",
+    "titleReading": "へびうぇいとちゃんぷ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ポケットギャル",
+    "year": "1987",
+    "manufacturer": "データイースト",
+    "name": "pcktgal",
+    "note": "Pocket Gal (Japan)",
+    "titleReading": "ぽけっとぎゃる",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "マスタッシュボーイ",
+    "year": "1987",
+    "manufacturer": "セイブ開発",
+    "name": "mustache",
+    "note": "Mustache Boy (Japan)",
+    "titleReading": "ますたっしゅぼい",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ミュータントナイト",
+    "year": "1987",
+    "manufacturer": "ユーピーエル（UPL）",
+    "name": "mnight",
+    "note": "Mutant Night",
+    "titleReading": "みゅたんとないと",
+    "manufacturerReading": "ゆぴえるupl"
+  },
+  {
+    "title": "ワンダープラネット",
+    "year": "1987",
+    "manufacturer": "データイースト",
+    "name": "wndrplnt",
+    "note": "Wonder Planet (Japan)",
+    "titleReading": "わんだぷらねっと",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ワンダーボーイ モンスターランド",
+    "year": "1987",
+    "manufacturer": "ウエストン",
+    "name": "wbml",
+    "note": "Wonder Boy in Monster Land (Japan New Ver., MC-8123, 317-0043)",
+    "titleReading": "わんだぼいもんすたらんど",
+    "manufacturerReading": "うえすとん"
+  },
+  {
+    "title": "ワンダーモモ",
+    "year": "1987",
+    "manufacturer": "ナムコ",
+    "name": "wndrmomo",
+    "note": "Wonder Momo",
+    "titleReading": "わんだもも",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "Ｆ－１ドリーム",
+    "year": "1988",
+    "manufacturer": "カプコン",
+    "name": "f1dream",
+    "note": "F-1 Dream",
+    "titleReading": "f1どりむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "エキサイトリーグ",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "exctleag",
+    "note": "Excite League (FD1094 317-0079)",
+    "titleReading": "えきさいとりぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "エースアタッカー",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "aceattac",
+    "note": "Ace Attacker (FD1094 317-0059)",
+    "titleReading": "えすあたっか",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "キック・オフ -Jaleco Cup-",
+    "year": "1988",
+    "manufacturer": "ジャレコ",
+    "name": "kickoff",
+    "note": "Kick Off - Jaleco Cup (Japan)",
+    "titleReading": "きっくおふjalecocup",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "グラディウスII -GOFERの野望-",
+    "year": "1988",
+    "manufacturer": "コナミ工業",
+    "name": "vulcan",
+    "note": "Vulcan Venture (New)",
+    "titleReading": "ぐらでぃうすiigoferのやぼう",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ゴールドメダリスト",
+    "year": "1988",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "goldmedl",
+    "note": "Gold Medalist (set 1, Alpha68k II PCB)",
+    "titleReading": "ごるどめだりすと",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "サイバータンク",
+    "year": "1988",
+    "manufacturer": "コアランド（バンプレスト）",
+    "name": "cybertnk",
+    "note": "Cyber Tank (v1.4)",
+    "titleReading": "さいばたんく",
+    "manufacturerReading": "こあらんどばんぷれすと"
+  },
+  {
+    "title": "サンダークロス",
+    "year": "1988",
+    "manufacturer": "コナミ工業",
+    "name": "thunderx",
+    "note": "Thunder Cross (set 1)",
+    "titleReading": "さんだくろす",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "スタジアムヒーロー",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "stadhero",
+    "note": "Stadium Hero (Japan)",
+    "titleReading": "すたじあむひろ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "武田信玄",
+    "year": "1988",
+    "manufacturer": "ジャレコ",
+    "name": "tshingen",
+    "note": "Shingen Samurai-Fighter (Japan, English)",
+    "titleReading": "たけだしんげん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "タッチダウンフィーバーII",
+    "year": "1988",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "tdfever2",
+    "note": "TouchDown Fever 2",
+    "titleReading": "たっちだうんふぃばii",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "タートルシップ",
+    "year": "1988",
+    "manufacturer": "Philko (Sharp Image license)",
+    "name": "turtship",
+    "note": "Turtle Ship (North America)",
+    "titleReading": "たとるしっぷ",
+    "manufacturerReading": "philkosharpimagelicense"
+  },
+  {
+    "title": "ダイナミックシュート競争",
+    "year": "1988",
+    "manufacturer": "ジャレコ",
+    "name": "dynashot",
+    "note": "Dynamic Shoot Kyousou",
+    "titleReading": "だいなみっくしゅときょうそう",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ダッシュ野郎",
+    "year": "1988",
+    "manufacturer": "東亜プラン",
+    "name": "rallybik",
+    "note": "Rally Bike / Dash Yarou",
+    "titleReading": "だっしゅやろう",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "テトリス （システムＥ版）",
+    "year": "1988",
+    "manufacturer": "セガ",
+    "name": "tetrisse",
+    "note": "Tetris (Japan, System E)",
+    "titleReading": "てとりすしすてむeはん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "テトリス （タイトー版）",
+    "year": "1988",
+    "manufacturer": "タイトー",
+    "name": "tetrist",
+    "note": "Tetris (Japan, Taito B-System, Nastar Conversion Kit)",
+    "titleReading": "てとりすたいとはん",
+    "manufacturerReading": "たいと"
+  },
+  {
+    "title": "ナーク",
+    "year": "1988",
+    "manufacturer": "Williams",
+    "name": "narc",
+    "note": "Narc (rev 7.00)",
+    "titleReading": "なく",
+    "manufacturerReading": "williams"
+  },
+  {
+    "title": "にゃんにゃんパニック",
+    "year": "1988",
+    "manufacturer": "コナミ工業",
+    "name": "kittenk",
+    "note": "Kitten Kaboodle",
+    "titleReading": "にゃんにゃんぱにっく",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ハードドライビング",
+    "year": "1988",
+    "manufacturer": "アタリゲームズ",
+    "name": "harddriv",
+    "note": "Hard Drivin' (cockpit, rev 7)",
+    "titleReading": "はどどらいびんぐ",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "花六",
+    "year": "1988",
+    "manufacturer": "アルバ",
+    "name": "hanaroku",
+    "note": "Hanaroku",
+    "titleReading": "はなろく",
+    "manufacturerReading": "あるば"
+  },
+  {
+    "title": "バックファイヤー",
+    "year": "1988",
+    "manufacturer": "テクモ",
+    "name": "backfirt",
+    "note": "Back Fire (Tecmo, bootleg)",
+    "titleReading": "ばっくふぁいや",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "バーディートライ",
+    "year": "1988",
+    "manufacturer": "データイースト",
+    "name": "birdtry",
+    "note": "Birdie Try (Japan revision 2, revision 1 MCU)",
+    "titleReading": "ばでぃとらい",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "バーライン",
+    "year": "1988",
+    "manufacturer": "日本物産?",
+    "name": "barline",
+    "note": "Barline (Japan?)",
+    "titleReading": "ばらいん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "パドルマニア",
+    "year": "1988",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "paddlema",
+    "note": "Paddle Mania",
+    "titleReading": "ぱどるまにあ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ファイティングゴルフ",
+    "year": "1988",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "countryc",
+    "note": "Country Club",
+    "titleReading": "ふぁいてぃんぐごるふ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ファイティングサッカー",
+    "year": "1988",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "fsoccer",
+    "note": "Fighting Soccer (version 4)",
+    "titleReading": "ふぁいてぃんぐさっか",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "フェイスオフ",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "faceoff",
+    "note": "Face Off (Japan 2 Players)",
+    "titleReading": "ふぇいすおふ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ホットチェイス",
+    "year": "1988",
+    "manufacturer": "コナミ工業",
+    "name": "hotchase",
+    "note": "Hot Chase (set 1)",
+    "titleReading": "ほっとちぇいす",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "迷宮島",
+    "year": "1988",
+    "manufacturer": "ナナオ",
+    "name": "kikcubic",
+    "note": "Meikyu Jima (Japan)",
+    "titleReading": "めいきゅうしま",
+    "manufacturerReading": "ななお"
+  },
+  {
+    "title": "メタルホーク",
+    "year": "1988",
+    "manufacturer": "ナムコ",
+    "name": "metlhawk",
+    "note": "Metal Hawk (Rev C)",
+    "titleReading": "めたるほく",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "メルヘンメイズ",
+    "year": "1988",
+    "manufacturer": "ナムコ / N.H.SYSTEM",
+    "name": "mmaze",
+    "note": "Marchen Maze (Japan)",
+    "titleReading": "めるへんめいず",
+    "manufacturerReading": "なむこ/nhsystem"
+  },
+  {
+    "title": "燃えろ！！プロ野球 ホームラン競争",
+    "year": "1988",
+    "manufacturer": "ジャレコ",
+    "name": "homerun",
+    "note": "Moero!! Pro Yakyuu Homerun Kyousou",
+    "titleReading": "もえろぷろやきゅうほむらんきょうそう",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ラッキー７４",
+    "year": "1988",
+    "manufacturer": "ウィング",
+    "name": "lucky74",
+    "note": "Lucky 74 (bootleg, set 1)",
+    "titleReading": "らっき74",
+    "manufacturerReading": "うぃんぐ"
+  },
+  {
+    "title": "リードアングル",
+    "year": "1988",
+    "manufacturer": "セイブ開発",
+    "name": "deadang",
+    "note": "Dead Angle",
+    "titleReading": "りどあんぐる",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "リングの王者",
+    "year": "1988",
+    "manufacturer": "コナミ工業",
+    "name": "mainevt",
+    "note": "The Main Event (4 Players ver. Y)",
+    "titleReading": "りんぐのおうじゃ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "Ｍ.Ｉ.Ａ. ＜ミッシングインアクション＞",
+    "year": "1989",
+    "manufacturer": "コナミ工業",
+    "name": "mia",
+    "note": "M.I.A. - Missing in Action (version T)",
+    "titleReading": "mia<みっしんぐいんあくしょん>",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "ウィッツ",
+    "year": "1989",
+    "manufacturer": "アテナ",
+    "name": "wits",
+    "note": "Wit's (Japan)",
+    "titleReading": "うぃっつ",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "オメガファイター",
+    "year": "1989",
+    "manufacturer": "ユーピーエル（UPL）",
+    "name": "omegaf",
+    "note": "Omega Fighter",
+    "titleReading": "おめがふぁいた",
+    "manufacturerReading": "ゆぴえるupl"
+  },
+  {
+    "title": "キャッスルオブドラゴン",
+    "year": "1989",
+    "manufacturer": "アテナ",
+    "name": "drgnunit",
+    "note": "Dragon Unit / Castle of Dragon",
+    "titleReading": "きゃっするおぶどらごん",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "究極のストライカー",
+    "year": "1989",
+    "manufacturer": "イースト･テクノロジー",
+    "name": "kyustrkr",
+    "note": "Last Striker / Kyuukyoku no Striker",
+    "titleReading": "きゅうきょくのすとらいか",
+    "manufacturerReading": "いすといすとてくのろじ"
+  },
+  {
+    "title": "ギガンデス",
+    "year": "1989",
+    "manufacturer": "イースト･テクノロジー",
+    "name": "gigandes",
+    "note": "Gigandes",
+    "titleReading": "ぎがんです",
+    "manufacturerReading": "いすといすとてくのろじ"
+  },
+  {
+    "title": "ギャングウォーズ",
+    "year": "1989",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "gangwars",
+    "note": "Gang Wars",
+    "titleReading": "ぎゃんぐうぉず",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "クラックス",
+    "year": "1989",
+    "manufacturer": "アタリゲームズ",
+    "name": "klax",
+    "note": "Klax (version 6)",
+    "titleReading": "くらっくす",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "スタンランナー",
+    "year": "1989",
+    "manufacturer": "アタリゲームズ",
+    "name": "stunrun",
+    "note": "S.T.U.N. Runner (rev 6)",
+    "titleReading": "すたんらんな",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "スーパーオフロード",
+    "year": "1989",
+    "manufacturer": "Leland Corporation",
+    "name": "offroad",
+    "note": "Ironman Ivan Stewart's Super Off-Road (rev 4)",
+    "titleReading": "すぱおふろど",
+    "manufacturerReading": "lelandcorporation"
+  },
+  {
+    "title": "ゼロウイング",
+    "year": "1989",
+    "manufacturer": "東亜プラン",
+    "name": "zerowing",
+    "note": "Zero Wing (2P set)",
+    "titleReading": "ぜろういんぐ",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "タスクフォースハリアー",
+    "year": "1989",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "tharrier",
+    "note": "Task Force Harrier",
+    "titleReading": "たすくふぉすはりあ",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "タフ・ターフ",
+    "year": "1989",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "tturf",
+    "note": "Tough Turf (set 2, Japan) (8751 317-0104)",
+    "titleReading": "たふたふ",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "ダートフォックス",
+    "year": "1989",
+    "manufacturer": "ナムコ",
+    "name": "dirtfoxj",
+    "note": "Dirt Fox (Japan)",
+    "titleReading": "だとふぉっくす",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "天聖龍 ＜セイントドラゴン＞",
+    "year": "1989",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "stdragon",
+    "note": "Saint Dragon (set 1)",
+    "titleReading": "てんせいりゅう<せいんとどらごん>",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "電脳神経衰弱 ペアーズ",
+    "year": "1989",
+    "manufacturer": "日本物産",
+    "name": "pairsnb",
+    "note": "Pairs (Nichibutsu) (Japan 890822)",
+    "titleReading": "でんのうしんけいすいじゃくぺあず",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "桃源郷",
+    "year": "1989",
+    "manufacturer": "日本物産",
+    "name": "togenkyo",
+    "note": "Tougenkyou (Japan 890418)",
+    "titleReading": "とうげんきょう",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ネクストスペース",
+    "year": "1989",
+    "manufacturer": "パサデナインターナショナル",
+    "name": "tnextspc",
+    "note": "The Next Space (set 1)",
+    "titleReading": "ねくすとすぺす",
+    "manufacturerReading": "ぱさでないんたなしょなる"
+  },
+  {
+    "title": "破兆！",
+    "year": "1989",
+    "manufacturer": "ジャレコ",
+    "name": "hachoo",
+    "note": "Hachoo!",
+    "titleReading": "はちょう",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "華胡蝶",
+    "year": "1989",
+    "manufacturer": "ダイナックス",
+    "name": "hnkochou",
+    "note": "Hana Kochou (Japan, Bet)",
+    "titleReading": "はなこちょう",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "姫四季舞",
+    "year": "1989",
+    "manufacturer": "ハイソフト",
+    "name": "himesiki",
+    "note": "Himeshikibu (Japan)",
+    "titleReading": "ひめしきまい",
+    "manufacturerReading": "はいそふと"
+  },
+  {
+    "title": "プラスアルファ",
+    "year": "1989",
+    "manufacturer": "ジャレコ",
+    "name": "plusalph",
+    "note": "Plus Alpha",
+    "titleReading": "ぷらすあるふぁ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ヘルファイアー",
+    "year": "1989",
+    "manufacturer": "東亜プラン",
+    "name": "hellfire",
+    "note": "Hellfire (2P set)",
+    "titleReading": "へるふぁいあ",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "メイズオブフロット",
+    "year": "1989",
+    "manufacturer": "タイトー",
+    "name": "mofflott",
+    "note": "Maze of Flott (Japan)",
+    "titleReading": "めいずおぶふろっと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "メインスタジアム",
+    "year": "1989",
+    "manufacturer": "コナミ工業",
+    "name": "bottom9",
+    "note": "Bottom of the Ninth (version T)",
+    "titleReading": "めいんすたじあむ",
+    "manufacturerReading": "こなみこうぎょう"
+  },
+  {
+    "title": "メタフォックス",
+    "year": "1989",
+    "manufacturer": "セタ",
+    "name": "metafox",
+    "note": "Meta Fox",
+    "titleReading": "めたふぉっくす",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "目撃",
+    "year": "1989",
+    "manufacturer": "セタ",
+    "name": "downtown",
+    "note": "DownTown / Mokugeki (set 1)",
+    "titleReading": "もくげき",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "レーシングヒーロー",
+    "year": "1989",
+    "manufacturer": "日本エレコム",
+    "name": "rachero",
+    "note": "Racing Hero (FD1094 317-0144)",
+    "titleReading": "れしんぐひろ",
+    "manufacturerReading": "にっぽんえれこむ"
+  },
+  {
+    "title": "ワイルドファング",
+    "year": "1989",
+    "manufacturer": "テクモ",
+    "name": "wildfang",
+    "note": "Wild Fang / Tecmo Knight",
+    "titleReading": "わいるどふぁんぐ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "嗚呼栄光の甲子園",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "koshien",
+    "note": "Ah Eikou no Koshien (Japan)",
+    "titleReading": "ああえいこうのこうしえん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "アウトゾーン",
+    "year": "1990",
+    "manufacturer": "東亜プラン",
+    "name": "outzone",
+    "note": "Out Zone",
+    "titleReading": "あうとぞん",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ガンディーラー",
+    "year": "1990",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "gundealr",
+    "note": "Gun Dealer",
+    "titleReading": "がんでぃら",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "究極のオセロゲーム",
+    "year": "1990",
+    "manufacturer": "サクセス",
+    "name": "kothello",
+    "note": "Kyuukyoku no Othello",
+    "titleReading": "きゅうきょくのおせろげむ",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "苦胃頭捕物帳",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "qtorimon",
+    "note": "Quiz Torimonochou (Japan)",
+    "titleReading": "くいあたまとりものちょう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ Ｈ.Ｑ.",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "quizhq",
+    "note": "Quiz H.Q. (Japan)",
+    "titleReading": "くいずhq",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "サイバーリップ",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "cyberlip",
+    "note": "Cyber-Lip (NGM-010)",
+    "titleReading": "さいばりっぷ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "鮫！鮫！鮫！",
+    "year": "1990",
+    "manufacturer": "東亜プラン",
+    "name": "fireshrk",
+    "note": "Fire Shark",
+    "titleReading": "さめさめさめ",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "サンダー＆ライトニング",
+    "year": "1990",
+    "manufacturer": "ビスコ",
+    "name": "thunderl",
+    "note": "Thunder & Lightning",
+    "titleReading": "さんだ&らいとにんぐ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ザ・スーパースパイ",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "superspy",
+    "note": "The Super Spy (NGM-011 ~ NGH-011)",
+    "titleReading": "ざすぱすぱい",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ジョイジョイキッド",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "joyjoy",
+    "note": "Puzzled / Joy Joy Kid (NGM-021 ~ NGH-021)",
+    "titleReading": "じょいじょいきっど",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ジョッキークラブ",
+    "year": "1990",
+    "manufacturer": "セタ",
+    "name": "jockeyc",
+    "note": "Jockey Club (v1.18)",
+    "titleReading": "じょっきくらぶ",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "スカイスマッシャー",
+    "year": "1990",
+    "manufacturer": "日本システム",
+    "name": "skysmash",
+    "note": "Sky Smasher",
+    "titleReading": "すかいすまっしゃ",
+    "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "スノーブラザーズ -Nick & Tom-",
+    "year": "1990",
+    "manufacturer": "東亜プラン",
+    "name": "snowbros",
+    "note": "Snow Bros. - Nick & Tom (set 1)",
+    "titleReading": "すのぶらざずnick&tom",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "スマッシュＴ.Ｖ.",
+    "year": "1990",
+    "manufacturer": "Williams",
+    "name": "smashtv",
+    "note": "Smash T.V. (rev 8.00)",
+    "titleReading": "すまっしゅtv",
+    "manufacturerReading": "williams"
+  },
+  {
+    "title": "トッププレイヤーズゴルフ",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "tpgolf",
+    "note": "Top Player's Golf (NGM-003 ~ NGH-003)",
+    "titleReading": "とっぷぷれいやずごるふ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ドットリクン",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "dotrikun",
+    "note": "Dottori Kun (new version)",
+    "titleReading": "どっとりくん",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ニンジャコンバット",
+    "year": "1990",
+    "manufacturer": "アルファ電子（ADK）",
+    "name": "ncombat",
+    "note": "Ninja Combat (NGM-009)",
+    "titleReading": "にんじゃこんばっと",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "華仁義",
+    "year": "1990",
+    "manufacturer": "ダイナックス",
+    "name": "hjingi",
+    "note": "Hana Jingi (Japan, Bet)",
+    "titleReading": "はなじんぎ",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "ピストル大名の冒険",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "pistoldm",
+    "note": "Pistol Daimyo no Bouken (Japan)",
+    "titleReading": "ぴすとるだいみょうのぼうけん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ピットファイター",
+    "year": "1990",
+    "manufacturer": "アタリゲームズ",
+    "name": "pitfight",
+    "note": "Pit Fighter (rev 9)",
+    "titleReading": "ぴっとふぁいた",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ファイナルラップ２",
+    "year": "1990",
+    "manufacturer": "ナムコ",
+    "name": "finalap2",
+    "note": "Final Lap 2",
+    "titleReading": "ふぁいなるらっぷ2",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ベースボールスターズプロフェッショナル",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "bstars",
+    "note": "Baseball Stars Professional (NGM-002)",
+    "titleReading": "べすぼるすたずぷろふぇっしょなる",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "舞妓花",
+    "year": "1990",
+    "manufacturer": "日本物産",
+    "name": "maiko",
+    "note": "Maikobana (Japan 900802)",
+    "titleReading": "まいこはな",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "舞妓花 （BET版）",
+    "year": "1990",
+    "manufacturer": "日本物産",
+    "name": "mmaiko",
+    "note": "Maikobana [BET] (Japan 900911)",
+    "titleReading": "まいこはなbetはん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "マジシャンロード",
+    "year": "1990",
+    "manufacturer": "アルファ電子",
+    "name": "maglord",
+    "note": "Magician Lord (NGM-005)",
+    "titleReading": "まじしゃんろど",
+    "manufacturerReading": "あるふぁでんし"
+  },
+  {
+    "title": "ミニベーダー",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "minivadr",
+    "note": "Mini Vaders",
+    "titleReading": "みにべだ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "モザイク",
+    "year": "1990",
+    "manufacturer": "スペース",
+    "name": "mosaic",
+    "note": "Mosaic",
+    "titleReading": "もざいく",
+    "manufacturerReading": "すぺす"
+  },
+  {
+    "title": "ゆうゆのクイズでＧｏ！Ｇｏ!",
+    "year": "1990",
+    "manufacturer": "タイトー",
+    "name": "yuyugogo",
+    "note": "Yuuyu no Quiz de GO!GO! (Japan)",
+    "titleReading": "ゆうゆのくいずでgogo",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ライディングヒーロー",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "ridhero",
+    "note": "Riding Hero (NGM-006 ~ NGH-006)",
+    "titleReading": "らいでぃんぐひろ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ラフレーサー",
+    "year": "1990",
+    "manufacturer": "セガ",
+    "name": "roughrac",
+    "note": "Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)",
+    "titleReading": "らふれさ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "リーグボウリング",
+    "year": "1990",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "lbowling",
+    "note": "League Bowling (NGM-019 ~ NGH-019)",
+    "titleReading": "りぐぼうりんぐ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "琉球",
+    "year": "1990",
+    "manufacturer": "サクセス",
+    "name": "ryukyu",
+    "note": "RyuKyu (Rev A, Japan) (FD1094 317-5023A)",
+    "titleReading": "りゅうきゅう",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "８マン ＜エイトマン＞",
+    "year": "1991",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "eightman",
+    "note": "Eight Man (NGM-025 ~ NGH-025)",
+    "titleReading": "8まん<えいとまん>",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "Ｅ.Ｄ.Ｆ ＜アースディフェンスフォース＞",
+    "year": "1991",
+    "manufacturer": "ジャレコ",
+    "name": "edf",
+    "note": "E.D.F. : Earth Defense Force (set 1)",
+    "titleReading": "edf<あすでぃふぇんすふぉす>",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "Ｆ－１グランプリ",
+    "year": "1991",
+    "manufacturer": "ビデオシステム",
+    "name": "f1gp",
+    "note": "F-1 Grand Prix",
+    "titleReading": "f1ぐらんぷり",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "Ｓ.Ｔ.Ｇ ＜ストライクガンナー＞",
+    "year": "1991",
+    "manufacturer": "アテナ",
+    "name": "stg",
+    "note": "Strike Gunner S.T.G",
+    "titleReading": "stg<すとらいくがんな>",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "あしたのジョー伝説",
+    "year": "1991",
+    "manufacturer": "ウェイブ",
+    "name": "legendos",
+    "note": "Legend of Success Joe / Ashita no Joe Densetsu",
+    "titleReading": "あしたのじょでんせつ",
+    "manufacturerReading": "うぇいぶ"
+  },
+  {
+    "title": "ウイニングラン９１",
+    "year": "1991",
+    "manufacturer": "ナムコ",
+    "name": "winrun91",
+    "note": "Winning Run '91 (Japan) (1991/03/05, Main Ver 1.0, Sub Ver 1.0)",
+    "titleReading": "ういにんぐらん91",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ウォリアーブレード -ラスタンサーガエピソード III-",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "warriorb",
+    "note": "Warrior Blade - Rastan Saga Episode III (Japan)",
+    "titleReading": "うぉりあぶれどらすたんさがえぴそどiii",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ガルフストーム",
+    "year": "1991",
+    "manufacturer": "Dooyong",
+    "name": "gulfstrm",
+    "note": "Gulf Storm (set 1)",
+    "titleReading": "がるふすとむ",
+    "manufacturerReading": "dooyong"
+  },
+  {
+    "title": "機動戦士ＳＤガンダム -サイコサラマンダーの脅威-",
+    "year": "1991",
+    "manufacturer": "イスコ（ISCO）",
+    "name": "sdgndmps",
+    "note": "SD Gundam Psycho Salamander no Kyoui",
+    "titleReading": "きどうせんしsdがんだむさいこさらまんだのきょうい",
+    "manufacturerReading": "いすこisco"
+  },
+  {
+    "title": "キング・オブ・ザ・モンスターズ",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "kotm",
+    "note": "King of the Monsters (set 1)",
+    "titleReading": "きんぐおぶざもんすたず",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "クイズ がくえんパラダイス",
+    "year": "1991",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "gakupara",
+    "note": "Quiz Gakuen Paradise (Japan)",
+    "titleReading": "くいずがくえんぱらだいす",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "クイズクエスト -姫と勇者の物語-",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "qzquest",
+    "note": "Quiz Quest - Hime to Yuusha no Monogatari (Japan)",
+    "titleReading": "くいずくえすとひめとゆうしゃのものがたり",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ三國志 -知略の覇者-",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "qsangoku",
+    "note": "Quiz Sangokushi (Japan)",
+    "titleReading": "くいずさんごくしちりゃくのはしゃ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "クイズ大捜査線 -THE LAST COUNT DOWN-",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "quizdais",
+    "note": "Quiz Daisousa Sen - The Last Count Down (NGM-023 ~ NGH-023)",
+    "titleReading": "くいずだいそうさせんthelastcountdown",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "クイズ地球防衛軍",
+    "year": "1991",
+    "manufacturer": "タイトー",
+    "name": "qzchikyu",
+    "note": "Quiz Chikyu Bouei Gun (Japan)",
+    "titleReading": "くいずちきゅうぼうえいぐん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ 殿様の野望",
+    "year": "1991",
+    "manufacturer": "カプコン",
+    "name": "qtono1",
+    "note": "Quiz Tonosama no Yabou (Japan)",
+    "titleReading": "くいずとのさまのやぼう",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "クロスソード",
+    "year": "1991",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "crsword",
+    "note": "Crossed Swords (ALM-002 ~ ALH-002)",
+    "titleReading": "くろすそど",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "剣豪 KEN-GO",
+    "year": "1991",
+    "manufacturer": "アイレム",
+    "name": "kengo",
+    "note": "Ken-Go (set 1)",
+    "titleReading": "けんごうkengo",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "ゴークス",
+    "year": "1991",
+    "manufacturer": "東亜プラン",
+    "name": "ghox",
+    "note": "Ghox (spinner)",
+    "titleReading": "ごくす",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ゴーストパイロット",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "gpilots",
+    "note": "Ghost Pilots (NGM-020 ~ NGH-020)",
+    "titleReading": "ごすとぱいろっと",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "サッカーブロール",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "socbrawl",
+    "note": "Soccer Brawl (NGM-031)",
+    "titleReading": "さっかぶろる",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "サンセットライダーズ",
+    "year": "1991",
+    "manufacturer": "コナミ",
+    "name": "ssriders",
+    "note": "Sunset Riders (4 Players ver EAC)",
+    "titleReading": "さんせっとらいだず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "サンダードラゴン ＜雷龍＞",
+    "year": "1991",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "tdragon",
+    "note": "Thunder Dragon (8th Jan. 1992, unprotected)",
+    "titleReading": "さんだどらごん<かみなりりゅう>",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "スティールタロンズ",
+    "year": "1991",
+    "manufacturer": "アタリゲームズ",
+    "name": "steeltal",
+    "note": "Steel Talons (rev 2)",
+    "titleReading": "すてぃるたろんず",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "スラッシュラリー",
+    "year": "1991",
+    "manufacturer": "アルファ電子（ADK）",
+    "name": "trally",
+    "note": "Thrash Rally (ALM-003 ~ ALH-003)",
+    "titleReading": "すらっしゅらり",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "セルフィーナ",
+    "year": "1991",
+    "manufacturer": "イースト･テクノロジー",
+    "name": "selfeena",
+    "note": "Sel Feena",
+    "titleReading": "せるふぃな",
+    "manufacturerReading": "いすといすとてくのろじ"
+  },
+  {
+    "title": "戦国伝承",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "sengoku",
+    "note": "Sengoku / Sengoku Denshou (NGM-017 ~ NGH-017)",
+    "titleReading": "せんごくでんしょう",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "洗脳ゲーム テキ･パキ",
+    "year": "1991",
+    "manufacturer": "東亜プラン",
+    "name": "tekipaki",
+    "note": "Teki Paki",
+    "titleReading": "せんのうげむてきてきぱき",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ゼクセクス",
+    "year": "1991",
+    "manufacturer": "コナミ",
+    "name": "xexex",
+    "note": "Xexex (ver EAA)",
+    "titleReading": "ぜくせくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ターミネーター２ -ジャッジメントデイ-",
+    "year": "1991",
+    "manufacturer": "ミッドウェイ",
+    "name": "term2",
+    "note": "Terminator 2 - Judgment Day (rev LA4 08/03/92)",
+    "titleReading": "たみねた2じゃっじめんとでい",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "チェリーマスター",
+    "year": "1991",
+    "manufacturer": "ダイナ",
+    "name": "cmaster",
+    "note": "Cherry Master I (ver.1.01, set 1)",
+    "titleReading": "ちぇりますた",
+    "manufacturerReading": "だいな"
+  },
+  {
+    "title": "チェリーマスター '９１",
+    "year": "1991",
+    "manufacturer": "ダイナ",
+    "name": "cmast91",
+    "note": "Cherry Master '91 (ver.1.30)",
+    "titleReading": "ちぇりますた'91",
+    "manufacturerReading": "だいな"
+  },
+  {
+    "title": "ツインスカッシュ",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "twinsqua",
+    "note": "Twin Squash",
+    "titleReading": "ついんすかっしゅ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "花とおじさん",
+    "year": "1991",
+    "manufacturer": "日本物産",
+    "name": "hanaoji",
+    "note": "Hana to Ojisan [BET] (ver 1.01, 1991/12/09)",
+    "titleReading": "はなとおじさん",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "華をやらねば！",
+    "year": "1991",
+    "manufacturer": "ダイナックス",
+    "name": "hanayara",
+    "note": "Hana wo Yaraneba! (Japan)",
+    "titleReading": "はなをやらねば",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "バーニングファイト",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "burningf",
+    "note": "Burning Fight (NGM-018 ~ NGH-018)",
+    "titleReading": "ばにんぐふぁいと",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ビッグカルナック",
+    "year": "1991",
+    "manufacturer": "ガエルコ",
+    "name": "bigkarnk",
+    "note": "Big Karnak",
+    "titleReading": "びっぐかるなっく",
+    "manufacturerReading": "がえるこ"
+  },
+  {
+    "title": "ペアーズラブ",
+    "year": "1991",
+    "manufacturer": "アテナ",
+    "name": "pairlove",
+    "note": "Pairs Love",
+    "titleReading": "ぺあずらぶ",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "ポラックス",
+    "year": "1991",
+    "manufacturer": "Dooyong",
+    "name": "pollux",
+    "note": "Pollux (set 1)",
+    "titleReading": "ぽらっくす",
+    "manufacturerReading": "dooyong"
+  },
+  {
+    "title": "モグラデッセ",
+    "year": "1991",
+    "manufacturer": "コナミ",
+    "name": "mogura",
+    "note": "Mogura Desse (Japan)",
+    "titleReading": "もぐらでっせ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "夢札",
+    "year": "1991",
+    "manufacturer": "アルバ",
+    "name": "yumefuda",
+    "note": "Yumefuda [BET]",
+    "titleReading": "ゆめさつ",
+    "manufacturerReading": "あるば"
+  },
+  {
+    "title": "リビット！ （蝦蟇の園）",
+    "year": "1991",
+    "manufacturer": "セガ",
+    "name": "ribbit",
+    "note": "Ribbit!",
+    "titleReading": "りびっとがまのその",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "リム・ロッキン・バスケットボール",
+    "year": "1991",
+    "manufacturer": "Strata/Incredible Technologies",
+    "name": "rimrockn",
+    "note": "Rim Rockin' Basketball (V2.2)",
+    "titleReading": "りむろっきんばすけっとぼる",
+    "manufacturerReading": "strata/incredibletechnologies"
+  },
+  {
+    "title": "レゾン",
+    "year": "1991",
+    "manufacturer": "アルュメ",
+    "name": "rezon",
+    "note": "Rezon",
+    "titleReading": "れぞん",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "ロボアーミー",
+    "year": "1991",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "roboarmy",
+    "note": "Robo Army",
+    "titleReading": "ろぼあみ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "Flying Tiger -飛虎隊-",
+    "year": "1992",
+    "manufacturer": "Dooyong",
+    "name": "flytiger",
+    "note": "Flying Tiger (set 1)",
+    "titleReading": "flyingtigerひこたい",
+    "manufacturerReading": "dooyong"
+  },
+  {
+    "title": "ＳＤガンダムネオバトリング",
+    "year": "1992",
+    "manufacturer": "アルュメ",
+    "name": "neobattl",
+    "note": "SD Gundam Neo Battling (Japan)",
+    "titleReading": "sdがんだむねおばとりんぐ",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "Ｘ－ＭＥＮ ＜エックス・メン＞",
+    "year": "1992",
+    "manufacturer": "コナミ",
+    "name": "xmen",
+    "note": "X-Men (4 Players ver EBA)",
+    "titleReading": "xmen<えっくすめん>",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "YES.NO 心理トキメキチャート",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "yesnoj",
+    "note": "Yes/No Sinri Tokimeki Chart",
+    "titleReading": "yesnoしんりときめきちゃと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "アームチャンプスII",
+    "year": "1992",
+    "manufacturer": "ジャレコ",
+    "name": "armchmp2",
+    "note": "Arm Champs II (ver 2.7)",
+    "titleReading": "あむちゃんぷすii",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ウィッチ",
+    "year": "1992",
+    "manufacturer": "ビック東海",
+    "name": "witch",
+    "note": "Witch",
+    "titleReading": "うぃっち",
+    "manufacturerReading": "びっくとうかい"
+  },
+  {
+    "title": "ウォーリーをさがせ！",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "wwallyj",
+    "note": "Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B)",
+    "titleReading": "うぉりをさがせ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ウルトラマン倶楽部 ～戦え！ウルトラマン兄弟!!～",
+    "year": "1992",
+    "manufacturer": "バンプレスト",
+    "name": "umanclub",
+    "note": "Ultraman Club - Tatakae! Ultraman Kyoudai!!",
+    "titleReading": "うるとらまんくらぶ~たたかえうるとらまんきょうだい~",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "雷軋斗 ＜ライアット＞",
+    "year": "1992",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "riot",
+    "note": "Riot",
+    "titleReading": "かみなりあつと<らいあっと>",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ガーディアン・オブ・ザ・フッド",
+    "year": "1992",
+    "manufacturer": "アタリゲームズ",
+    "name": "guardian",
+    "note": "Guardians of the 'Hood",
+    "titleReading": "がでぃあんおぶざふっど",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ガルメデス",
+    "year": "1992",
+    "manufacturer": "ビスコ",
+    "name": "galmedes",
+    "note": "Galmedes (Japan)",
+    "titleReading": "がるめです",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "キング・オブ・ザ・モンスターズ２ -ザ・ネクストシング-",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "kotm2",
+    "note": "King of the Monsters 2 - The Next Thing (NGM-039 ~ NGH-039)",
+    "titleReading": "きんぐおぶざもんすたず2ざねくすとしんぐ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ギャラクティックストーム",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "galastrm",
+    "note": "Galactic Storm (Japan)",
+    "titleReading": "ぎゃらくてぃっくすとむ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ ＤＮＡの反乱",
+    "year": "1992",
+    "manufacturer": "フェイス",
+    "name": "quizdna",
+    "note": "Quiz DNA no Hanran (Japan)",
+    "titleReading": "くいずdnaのはんらん",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "クイズＦ１ ワン・ツーフィニッシュ",
+    "year": "1992",
+    "manufacturer": "アイレム",
+    "name": "quizf1",
+    "note": "Quiz F1 1-2 Finish (Japan)",
+    "titleReading": "くいずf1わんつふぃにっしゅ",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "クイズ Ｔ．Ｖ合衆国Ｑ＆Ｑ",
+    "year": "1992",
+    "manufacturer": "ダイナックス",
+    "name": "quiztvqq",
+    "note": "Quiz TV Gassyuukoku Q&Q (Japan)",
+    "titleReading": "くいずtvがっしゅうこくq&q",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "クイズ 激烈すくらんぶる -学園パラダイス2-",
+    "year": "1992",
+    "manufacturer": "フェイス",
+    "name": "gekiretu",
+    "note": "Quiz Gekiretsu Scramble (Japan)",
+    "titleReading": "くいずげきれつすくらんぶるがくえんぱらだいす2",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "クイズ人生劇場",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "qjinsei",
+    "note": "Quiz Jinsei Gekijoh (Japan)",
+    "titleReading": "くいずじんせいげきじょう",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ迷探偵ネオ＆ジオ -クイズ大捜査線パート2-",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "quizdai2",
+    "note": "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042 ~ NGH-042)",
+    "titleReading": "くいずめいたんていねお&じおくいずだいそうさせんぱと2",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "グランドエフェクト （スーパーグランドエフェクト）",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "groundfx",
+    "note": "Ground Effects / Super Ground Effects (Japan)",
+    "titleReading": "ぐらんどえふぇくとすぱぐらんどえふぇくと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "グリッドシーカー -PROJECT STORM HAMMER-",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "gseeker",
+    "note": "Grid Seeker: Project Storm Hammer (Ver 1.3O)",
+    "titleReading": "ぐりっどしかprojectstormhammer",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "サボテンボンバーズ",
+    "year": "1992",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "sabotenb",
+    "note": "Saboten Bombers (set 1)",
+    "titleReading": "さぼてんぼんばず",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "サンドスコーピオン -蠍-",
+    "year": "1992",
+    "manufacturer": "フェイス",
+    "name": "sandscrp",
+    "note": "Sand Scorpion",
+    "titleReading": "さんどすこぴおんさそり",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "ザ・グレイト・ラグタイムショー",
+    "year": "1992",
+    "manufacturer": "データイースト",
+    "name": "boogwing",
+    "note": "Boogie Wings (Euro v1.5, 92.12.07)",
+    "titleReading": "ざぐれいとらぐたいむしょ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ジン・ジン・ジップ -The Shooting-",
+    "year": "1992",
+    "manufacturer": "アルュメ",
+    "name": "zingzip",
+    "note": "Zing Zing Zip",
+    "titleReading": "じんじんじっぷtheshooting",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "スカイアラート",
+    "year": "1992",
+    "manufacturer": "メトロ",
+    "name": "skyalert",
+    "note": "Sky Alert",
+    "titleReading": "すかいあらと",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ストリートファイターII’（アクセラレートパート２）",
+    "year": "1992",
+    "manufacturer": "bootleg (Testron)",
+    "name": "sf2accp2",
+    "note": "Street Fighter II': Champion Edition (Accelerator Pt.II, bootleg)",
+    "titleReading": "すとりとふぁいたii’あくせられとぱと2",
+    "manufacturerReading": "bootlegtestron"
+  },
+  {
+    "title": "ストリートファイターII’（降龍）",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "sf2koryu",
+    "note": "Street Fighter II': Champion Edition (Xiang Long, Chinese bootleg)",
+    "titleReading": "すとりとふぁいたii’こうりゅう",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ストリートファイターII’（レインボー）",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "sf2m4",
+    "note": "Street Fighter II': Champion Edition (M4, bootleg)",
+    "titleReading": "すとりとふぁいたii’れいんぼ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "ストリートファイターII’（レッドウェーブ）",
+    "year": "1992",
+    "manufacturer": "セガ",
+    "name": "sf2red",
+    "note": "Street Fighter II': Champion Edition (Red Wave, bootleg)",
+    "titleReading": "すとりとふぁいたii’れっどうぇぶ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "スーパーワールドスタジアム",
+    "year": "1992",
+    "manufacturer": "ナムコ",
+    "name": "sws",
+    "note": "Super World Stadium (Japan)",
+    "titleReading": "すぱわるどすたじあむ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ソルダム -アたま フル回転! VS 大逆転!-",
+    "year": "1992",
+    "manufacturer": "ジャレコ",
+    "name": "soldam",
+    "note": "Soldam",
+    "titleReading": "そるだむあたまふるかいてんvsだいぎゃくてん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ダイエット ゴーゴー",
+    "year": "1992",
+    "manufacturer": "データイースト",
+    "name": "dietgo",
+    "note": "Diet Go Go (Euro v1.1 1992.09.26)",
+    "titleReading": "だいえっとごご",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ダークシールII",
+    "year": "1992",
+    "manufacturer": "データイースト",
+    "name": "wizdfire",
+    "note": "Wizard Fire (Over Sea v2.1)",
+    "titleReading": "だくしるii",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "チャタンヤラクーシャンク -ザ・カラテトーナメント-",
+    "year": "1992",
+    "manufacturer": "ミッチェル",
+    "name": "karatour",
+    "note": "The Karate Tournament",
+    "titleReading": "ちゃたんやらくしゃんくざからてとなめんと",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "得点王",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "ssideki",
+    "note": "Super Sidekicks / Tokuten Ou",
+    "titleReading": "とくてんおう",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ドギューン！！",
+    "year": "1992",
+    "manufacturer": "東亜プラン",
+    "name": "dogyuun",
+    "note": "Dogyuun",
+    "titleReading": "どぎゅん",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "ニンジャ・コマンドー",
+    "year": "1992",
+    "manufacturer": "アルファ電子（ADK)",
+    "name": "ncommand",
+    "note": "Ninja Commando",
+    "titleReading": "にんじゃこまんど",
+    "manufacturerReading": "あるふぁでんしadk"
+  },
+  {
+    "title": "花札 華天国",
+    "year": "1992",
+    "manufacturer": "ダイナックス",
+    "name": "htengoku",
+    "note": "Hanafuda Hana Tengoku [BET] (Japan)",
+    "titleReading": "はなふだはなてんごく",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "爆裂クイズ魔Ｑ大冒険",
+    "year": "1992",
+    "manufacturer": "ナムコ",
+    "name": "bkrtmaq",
+    "note": "Bakuretsu Quiz Ma-Q Dai Bouken (Japan)",
+    "titleReading": "ばくれつくいずまqだいぼうけん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "バーチャレーシング",
+    "year": "1992",
+    "manufacturer": "セガ（AM2）",
+    "name": "vr",
+    "note": "Virtua Racing",
+    "titleReading": "ばちゃれしんぐ",
+    "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "バッキーオヘア",
+    "year": "1992",
+    "manufacturer": "コナミ",
+    "name": "bucky",
+    "note": "Bucky O'Hare (ver EAB)",
+    "titleReading": "ばっきおへあ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "パンポンズ",
+    "year": "1992",
+    "manufacturer": "メトロ",
+    "name": "pangpoms",
+    "note": "Pang Pom's",
+    "titleReading": "ぱんぽんず",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ビューポイント",
+    "year": "1992",
+    "manufacturer": "日本エイコム / サミー工業",
+    "name": "viewpoin",
+    "note": "Viewpoint",
+    "titleReading": "びゅぽいんと",
+    "manufacturerReading": "にっぽんえいこむ/さみこうぎょう"
+  },
+  {
+    "title": "フットボールフレンジー",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "fbfrenzy",
+    "note": "Football Frenzy (NGM-034 ~ NGH-034)",
+    "titleReading": "ふっとぼるふれんじ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "プレイガールズ",
+    "year": "1992",
+    "manufacturer": "日本システム",
+    "name": "plgirls",
+    "note": "Play Girls",
+    "titleReading": "ぷれいがるず",
+    "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "ヘクシオン",
+    "year": "1992",
+    "manufacturer": "コナミ",
+    "name": "hexion",
+    "note": "Hexion (Japan ver JAB)",
+    "titleReading": "へくしおん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ベースボールスターズ２",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "bstars2",
+    "note": "Baseball Stars 2",
+    "titleReading": "べすぼるすたず2",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ポケットギャルデラックス",
+    "year": "1992",
+    "manufacturer": "日本システム",
+    "name": "pktgaldx",
+    "note": "Pocket Gal Deluxe (Euro v3.00)",
+    "titleReading": "ぽけっとぎゃるでらっくす",
+    "manufacturerReading": "にっぽんしすてむ"
+  },
+  {
+    "title": "ミューテイションネイション",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "mutnat",
+    "note": "Mutation Nation (NGM-014 ~ NGH-014)",
+    "titleReading": "みゅていしょんねいしょん",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "モータルコンバット",
+    "year": "1992",
+    "manufacturer": "ミッドウェイ",
+    "name": "mk",
+    "note": "Mortal Kombat (rev 5.0 T-Unit 03/19/93)",
+    "titleReading": "もたるこんばっと",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "ライディングファイト",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "ridingf",
+    "note": "Riding Fight (Ver 1.0O)",
+    "titleReading": "らいでぃんぐふぁいと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ラストリゾート",
+    "year": "1992",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "lresort",
+    "note": "Last Resort",
+    "titleReading": "らすとりぞと",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "リングレイジ",
+    "year": "1992",
+    "manufacturer": "タイトー",
+    "name": "ringrage",
+    "note": "Ring Rage (Ver 2.3O 1992/08/09)",
+    "titleReading": "りんぐれいじ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "Ｆ－１グランプリスター２",
+    "year": "1993",
+    "manufacturer": "ジャレコ",
+    "name": "f1gpstr2",
+    "note": "F-1 Grand Prix Star II",
+    "titleReading": "f1ぐらんぷりすた2",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ＩＱブロック",
+    "year": "1993",
+    "manufacturer": "IGS",
+    "name": "iqblock",
+    "note": "IQ-Block (V100U)",
+    "titleReading": "iqぶろっく",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "NBAジャム",
+    "year": "1993",
+    "manufacturer": "ミッドウェイ",
+    "name": "nbajam",
+    "note": "NBA Jam (rev 3.01 04/07/93)",
+    "titleReading": "nbaじゃむ",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "ＰＫすくらんぶる",
+    "year": "1993",
+    "manufacturer": "コスモ電子",
+    "name": "pkscram",
+    "note": "PK Scramble",
+    "titleReading": "pkすくらんぶる",
+    "manufacturerReading": "こすもでんし"
+  },
+  {
+    "title": "ＳＤガンダム三国志 レインボー大陸戦記",
+    "year": "1993",
+    "manufacturer": "バンプレスト",
+    "name": "grainbow",
+    "note": "SD Gundam Sangokushi Rainbow Tairiku Senki (Japan)",
+    "titleReading": "sdがんだむさんごくしれいんぼたいりくせんき",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "【Ⅴ・Ⅴ】  ＜ヴイ ファイヴ＞",
+    "year": "1993",
+    "manufacturer": "東亜プラン",
+    "name": "vfive",
+    "note": "V-Five (Japan)",
+    "titleReading": "【vv】<ゔいふぁいゔ>",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "アースジョーカー -U.N. DEFENSE FORCE-",
+    "year": "1993",
+    "manufacturer": "ビスコ",
+    "name": "earthjkr",
+    "note": "U.N. Defense Force: Earth Joker (US / Japan, set 1)",
+    "titleReading": "あすじょかundefenseforce",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ウォーオブエアロ -Project MEIOU-",
+    "year": "1993",
+    "manufacturer": "アルュメ",
+    "name": "wrofaero",
+    "note": "War of Aero - Project MEIOU",
+    "titleReading": "うぉおぶえあろprojectmeiou",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "ウルトラ闘魂伝説",
+    "year": "1993",
+    "manufacturer": "キッド / バンプレスト",
+    "name": "utoukond",
+    "note": "Ultra Toukon Densetsu (Japan)",
+    "titleReading": "うるとらとうこんでんせつ",
+    "manufacturerReading": "きっど/ばんぷれすと"
+  },
+  {
+    "title": "おいしいパズルはいりませんか",
+    "year": "1993",
+    "manufacturer": "サクセス",
+    "name": "oisipuzl",
+    "note": "Oishii Puzzle Ha Irimasenka",
+    "titleReading": "おいしいぱずるはいりませんか",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "オーマイガァー！",
+    "year": "1993",
+    "manufacturer": "アトラス",
+    "name": "ohmygod",
+    "note": "Oh My God! (Japan)",
+    "titleReading": "おまいがぁ",
+    "manufacturerReading": "あとらす"
+  },
+  {
+    "title": "カチャット",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "cachat",
+    "note": "Cachat (Japan)",
+    "titleReading": "かちゃっと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "仮面ライダー倶楽部バトルレーサー",
+    "year": "1993",
+    "manufacturer": "アルュメ",
+    "name": "kamenrid",
+    "note": "Masked Riders Club Battle Race",
+    "titleReading": "かめんらいだくらぶばとるれさ",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "ガイアポリス -黄金鷹の剣-",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "gaiapols",
+    "note": "Gaiapolis (ver EAF)",
+    "titleReading": "がいあぽりすおうごんたかのつるぎ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ガンネイル",
+    "year": "1993",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "gunnail",
+    "note": "GunNail (28th May. 1992)",
+    "titleReading": "がんねいる",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "究極戦隊ダダンダーン",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "mmaulers",
+    "note": "Monster Maulers (ver EAA)",
+    "titleReading": "きゅうきょくせんたいだだんだん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "クイズ＆心理ゲーム クイズココロジー２",
+    "year": "1993",
+    "manufacturer": "テクモ",
+    "name": "qzkklgy2",
+    "note": "Quiz Kokology 2",
+    "titleReading": "くいず&しんりげむくいずこころじ2",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "クイズ 学問ノススメ",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "qgakumon",
+    "note": "Quiz Gakumon no Susume (Japan ver. JA1 Type H)",
+    "titleReading": "くいずがくもんのすすめ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "クイズ世界はSHOW by ショーバイ！！",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "qzshowby",
+    "note": "Quiz Sekai wa SHOW by shobai (Japan)",
+    "titleReading": "くいずせかいはshowbyしょばい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ チャンネル・クエスチョン",
+    "year": "1993",
+    "manufacturer": "中日本リース（中日本プロジェクト）",
+    "name": "quizchq",
+    "note": "Quiz Channel Question (Japan, Ver 1.00)",
+    "titleReading": "くいずちゃんねるくえすちょん",
+    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと"
+  },
+  {
+    "title": "クイズ ぱにくるふぁんたじ～",
+    "year": "1993",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "quizpani",
+    "note": "Quiz Panicuru Fantasy",
+    "titleReading": "くいずぱにくるふぁんたじ~",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ぐっすんおよよ",
+    "year": "1993",
+    "manufacturer": "アイレム",
+    "name": "riskchal",
+    "note": "Risky Challenge",
+    "titleReading": "ぐっすんおよよ",
+    "manufacturerReading": "あいれむ"
+  },
+  {
+    "title": "グレートスラッガーズ -NEW WORLD STADIUM-",
+    "year": "1993",
+    "manufacturer": "ナムコ",
+    "name": "gslugrsj",
+    "note": "Great Sluggers (Japan)",
+    "titleReading": "ぐれとすらっがずnewworldstadium",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ゴジラ",
+    "year": "1993",
+    "manufacturer": "バンプレスト",
+    "name": "godzilla",
+    "note": "Godzilla (Japan)",
+    "titleReading": "ごじら",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "サイバトラー",
+    "year": "1993",
+    "manufacturer": "ジャレコ",
+    "name": "cybattlr",
+    "note": "Cybattler",
+    "titleReading": "さいばとら",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "サダリ",
+    "year": "1993",
+    "manufacturer": "Dooyong (NTC license)",
+    "name": "sadari",
+    "note": "Sadari (Japan, NTC license)",
+    "titleReading": "さだり",
+    "manufacturerReading": "dooyongntclicense"
+  },
+  {
+    "title": "サンダードラゴン２ ＜雷龍２＞",
+    "year": "1993",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "tdragon2",
+    "note": "Thunder Dragon 2 (9th Nov. 1993)",
+    "titleReading": "さんだどらごん2<かみなりりゅう2>",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ザ・ファースト・ファンキー・ファイター",
+    "year": "1993",
+    "manufacturer": "中日本リース / イースト･テクノロジー",
+    "name": "funkyfig",
+    "note": "The First Funky Fighter (USA, Canada, Mexico / Japan, set 1)",
+    "titleReading": "ざふぁすとふぁんきふぁいた",
+    "manufacturerReading": "なかにほんりす/いすといすとてくのろじ"
+  },
+  {
+    "title": "四川省II",
+    "year": "1993",
+    "manufacturer": "タムテックス",
+    "name": "matchit2",
+    "note": "Match It II",
+    "titleReading": "しせんしょうii",
+    "manufacturerReading": "たむてっくす"
+  },
+  {
+    "title": "シュマイザーロボ",
+    "year": "1993",
+    "manufacturer": "ホットビィ",
+    "name": "schmeisr",
+    "note": "Schmeiser Robo (Japan)",
+    "titleReading": "しゅまいざろぼ",
+    "manufacturerReading": "ほっとびぃ"
+  },
+  {
+    "title": "スーパーストリートファイターII -ザ･トーナメント･バトル-",
+    "year": "1993",
+    "manufacturer": "カプコン",
+    "name": "ssf2tbj",
+    "note": "Super Street Fighter II: The Tournament Battle (Japan 931005)",
+    "titleReading": "すぱすとりとふぁいたiiざざとなめんととなめんとばとる",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スラムダンク -B･BALL SHOW TIME-",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "rungun",
+    "note": "Run and Gun (ver EAA 1993 10.8)",
+    "titleReading": "すらむだんくbbballshowtime",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "戦国伝承２",
+    "year": "1993",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "sengoku2",
+    "note": "Sengoku 2 / Sengoku Denshou 2",
+    "titleReading": "せんごくでんしょう2",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "雙翼 -ダブルウイングス-",
+    "year": "1993",
+    "manufacturer": "ミッチェル",
+    "name": "dblewing",
+    "note": "Double Wings",
+    "titleReading": "そうよくだぶるういんぐす",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "それいけココロジー２",
+    "year": "1993",
+    "manufacturer": "セガ",
+    "name": "kokoroj2",
+    "note": "Soreike Kokology Vol. 2 - Kokoro no Tanteikyoku",
+    "titleReading": "それいけこころじ2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "タオ体道",
+    "year": "1993",
+    "manufacturer": "ビデオシステム",
+    "name": "taotaido",
+    "note": "Tao Taido (2 button version)",
+    "titleReading": "たおからだみち",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "大王",
+    "year": "1993",
+    "manufacturer": "アテナ",
+    "name": "daioh",
+    "note": "Daioh",
+    "titleReading": "だいおう",
+    "manufacturerReading": "あてな"
+  },
+  {
+    "title": "ダイナギア",
+    "year": "1993",
+    "manufacturer": "スカラベ",
+    "name": "dynagear",
+    "note": "Dyna Gear",
+    "titleReading": "だいなぎあ",
+    "manufacturerReading": "すからべ"
+  },
+  {
+    "title": "ティンクルピット",
+    "year": "1993",
+    "manufacturer": "ナムコ",
+    "name": "tinklpit",
+    "note": "Tinkle Pit (Japan)",
+    "titleReading": "てぃんくるぴっと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "トップランキングスターズ",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "trstar",
+    "note": "Top Ranking Stars (Ver 2.1O 1993/05/21) (New Version)",
+    "titleReading": "とっぷらんきんぐすたず",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ドラゴンボールＺ",
+    "year": "1993",
+    "manufacturer": "マジカルフォーメーション",
+    "name": "dbz",
+    "note": "Dragon Ball Z (rev B)",
+    "titleReading": "どらごんぼるz",
+    "manufacturerReading": "まじかるふぉめしょん"
+  },
+  {
+    "title": "ドラマチックアドベンチャークイズ キース＆ルーシィ",
+    "year": "1993",
+    "manufacturer": "ビスコ",
+    "name": "keithlcy",
+    "note": "Dramatic Adventure Quiz Keith & Lucy (Japan)",
+    "titleReading": "どらまちっくあどべんちゃくいずきす&るしぃ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ナックルバッシュ",
+    "year": "1993",
+    "manufacturer": "東亜プラン",
+    "name": "kbash",
+    "note": "Knuckle Bash",
+    "titleReading": "なっくるばっしゅ",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "熱闘！激闘！クイズ島",
+    "year": "1993",
+    "manufacturer": "ナムコ",
+    "name": "quiztou",
+    "note": "Nettou! Gekitou! Quiztou!! (Japan)",
+    "titleReading": "ねっとうげきとうくいずしま",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ノストラダムス",
+    "year": "1993",
+    "manufacturer": "フェイス",
+    "name": "nost",
+    "note": "Nostradamus",
+    "titleReading": "のすとらだむす",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "ハイパーデュエル",
+    "year": "1993",
+    "manufacturer": "テクノソフト",
+    "name": "hyprduel",
+    "note": "Hyper Duel (Japan set 1)",
+    "titleReading": "はいぱでゅえる",
+    "manufacturerReading": "てくのそふと"
+  },
+  {
+    "title": "早押しクイズ 王座決定戦 -KING OF QUIZ-",
+    "year": "1993",
+    "manufacturer": "ジャレコ",
+    "name": "hayaosi1",
+    "note": "Hayaoshi Quiz Ouza Ketteisen - The King Of Quiz",
+    "titleReading": "はやおしくいずおうざけっていせんkingofquiz",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "バイオレントストーム",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "viostorm",
+    "note": "Violent Storm (ver EAC)",
+    "titleReading": "ばいおれんとすとむ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "爆裂クラッシュレース",
+    "year": "1993",
+    "manufacturer": "ビデオシステム",
+    "name": "crshrace",
+    "note": "Lethal Crash Race / Bakuretsu Crash Race (set 1)",
+    "titleReading": "ばくれつくらっしゅれす",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "バーチャフォーミュラ",
+    "year": "1993",
+    "manufacturer": "セガ（AM2）",
+    "name": "vformula",
+    "note": "Virtua Formula",
+    "titleReading": "ばちゃふぉみゅら",
+    "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "ファイヤーバレル",
+    "year": "1993",
+    "manufacturer": "タムテックス",
+    "name": "firebarr",
+    "note": "Fire Barrel (Japan)",
+    "titleReading": "ふぁいやばれる",
+    "manufacturerReading": "たむてっくす"
+  },
+  {
+    "title": "ブルーホーク",
+    "year": "1993",
+    "manufacturer": "Dooyong",
+    "name": "bluehawk",
+    "note": "Blue Hawk",
+    "titleReading": "ぶるほく",
+    "manufacturerReading": "dooyong"
+  },
+  {
+    "title": "プレイガールズII",
+    "year": "1993",
+    "manufacturer": "ホットビィ",
+    "name": "plgirls2",
+    "note": "Play Girls 2",
+    "titleReading": "ぷれいがるずii",
+    "manufacturerReading": "ほっとびぃ"
+  },
+  {
+    "title": "プレミアサッカー",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "prmrsocr",
+    "note": "Premier Soccer (ver EAB)",
+    "titleReading": "ぷれみあさっか",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ぽいっと！",
+    "year": "1993",
+    "manufacturer": "メトロ",
+    "name": "poitto",
+    "note": "Poitto! (revision D)",
+    "titleReading": "ぽいっと",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "マーシャルチャンピオン",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "mtlchamp",
+    "note": "Martial Champion (ver EAB)",
+    "titleReading": "ましゃるちゃんぴおん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "マジカルキャットアドベンチャー",
+    "year": "1993",
+    "manufacturer": "ウインテクノ",
+    "name": "mcatadv",
+    "note": "Magical Cat Adventure",
+    "titleReading": "まじかるきゃっとあどべんちゃ",
+    "manufacturerReading": "ういんてくの"
+  },
+  {
+    "title": "マッド・シャーク",
+    "year": "1993",
+    "manufacturer": "アルュメ",
+    "name": "madshark",
+    "note": "Mad Shark",
+    "titleReading": "まっどしゃく",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "魔法大作戦",
+    "year": "1993",
+    "manufacturer": "エイティング / ライジング",
+    "name": "mahoudai",
+    "note": "Mahou Daisakusen (Japan)",
+    "titleReading": "まほうだいさくせん",
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+  },
+  {
+    "title": "ミスティックウォリアーズ -怒りの忍者-",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "mystwarr",
+    "note": "Mystic Warriors (ver EAA)",
+    "titleReading": "みすてぃっくうぉりあずいかりのにんじゃ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ミラクルアドベンチャー",
+    "year": "1993",
+    "manufacturer": "データイースト",
+    "name": "spinmast",
+    "note": "Spin Master / Miracle Adventure",
+    "titleReading": "みらくるあどべんちゃ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "メタモルフィックフォース",
+    "year": "1993",
+    "manufacturer": "コナミ",
+    "name": "metamrph",
+    "note": "Metamorphic Force (ver EAA)",
+    "titleReading": "めたもるふぃっくふぉす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "燃えよゴンタ！！",
+    "year": "1993",
+    "manufacturer": "ヤンヤカ",
+    "name": "ladykill",
+    "note": "Lady Killer",
+    "titleReading": "もえよごんた",
+    "manufacturerReading": "やんやか"
+  },
+  {
+    "title": "モータルコンバットII",
+    "year": "1993",
+    "manufacturer": "ミッドウェイ",
+    "name": "mk2",
+    "note": "Mortal Kombat II (rev L3.1)",
+    "titleReading": "もたるこんばっとii",
+    "manufacturerReading": "みっどうぇい"
+  },
+  {
+    "title": "ライトブリンガー",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "lightbr",
+    "note": "Light Bringer (Ver 2.2O 1994/04/08)",
+    "titleReading": "らいとぶりんが",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "龍神",
+    "year": "1993",
+    "manufacturer": "イースト･テクノロジー",
+    "name": "ryujin",
+    "note": "Ryu Jin (Japan)",
+    "titleReading": "りゅうじん",
+    "manufacturerReading": "いすといすとてくのろじ"
+  },
+  {
+    "title": "レイフォース",
+    "year": "1993",
+    "manufacturer": "タイトー",
+    "name": "gunlock",
+    "note": "Gunlock (Ver 2.3O 1994/01/20)",
+    "titleReading": "れいふぉす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "Ｊリーグサッカー Ｖシュート",
+    "year": "1994",
+    "manufacturer": "ナムコ",
+    "name": "vshoot",
+    "note": "J-League Soccer V-Shoot (Japan)",
+    "titleReading": "jりぐさっかvしゅと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "エイトフォース",
+    "year": "1994",
+    "manufacturer": "テクモ",
+    "name": "eightfrc",
+    "note": "Eight Forces",
+    "titleReading": "えいとふぉす",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "エックスメン -チルドレンオブジアトム-",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "xmcota",
+    "note": "X-Men: Children of the Atom (Euro 950331)",
+    "titleReading": "えっくすめんちるどれんおぶじあとむ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "エレベーターアクションリターンズ",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "elvactr",
+    "note": "Elevator Action Returns (Ver 2.2O 1995/02/20)",
+    "titleReading": "えれべたあくしょんりたんず",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "おてんきパラダイス -スノーブラザーズ2-",
+    "year": "1994",
+    "manufacturer": "東亜プラン",
+    "name": "snowbro2",
+    "note": "Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram)",
+    "titleReading": "おてんきぱらだいすすのぶらざず2",
+    "manufacturerReading": "とうあぷらん"
+  },
+  {
+    "title": "オペレーションラグナロク -作戦名ラグナロク-",
+    "year": "1994",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "zedblade",
+    "note": "Zed Blade / Operation Ragnarok",
+    "titleReading": "おぺれしょんらぐなろくさくせんめいらぐなろく",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "カイザーナックル",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "kaiserkn",
+    "note": "Kaiser Knuckle (Ver 2.1O 1994/07/29)",
+    "titleReading": "かいざなっくる",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ガンマスター",
+    "year": "1994",
+    "manufacturer": "メトロ",
+    "name": "gunmast",
+    "note": "Gun Master",
+    "titleReading": "がんますた",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "機動戦士ガンダム ＥＸレビュー",
+    "year": "1994",
+    "manufacturer": "アルュメ",
+    "name": "gundamex",
+    "note": "Mobile Suit Gundam EX Revue",
+    "titleReading": "きどうせんしがんだむexれびゅ",
+    "manufacturerReading": "あるゅめ"
+  },
+  {
+    "title": "究極!!ＰＣ原人 -スペシャルアーケードバージョン-",
+    "year": "1994",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "bonkadv",
+    "note": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
+    "titleReading": "きゅうきょくpcげんじんすぺしゃるあけどばじょん",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "クイズシアター -3つの物語-",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "qtheater",
+    "note": "Quiz Theater - 3tsu no Monogatari (Ver 2.3J 1994/11/10)",
+    "titleReading": "くいずしあた3つのものがたり",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "クイズ ドレミファグランプリ",
+    "year": "1994",
+    "manufacturer": "コナミ",
+    "name": "qdrmfgp",
+    "note": "Quiz Do Re Mi Fa Grand Prix (Japan)",
+    "titleReading": "くいずどれみふぁぐらんぷり",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ぐるりん",
+    "year": "1994",
+    "manufacturer": "フェイス",
+    "name": "gururin",
+    "note": "Gururin",
+    "titleReading": "ぐるりん",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "グレートスラッガーズ'９４ -Featuring 1994 Team Rosters-",
+    "year": "1994",
+    "manufacturer": "ナムコ",
+    "name": "gslgr94u",
+    "note": "Great Sluggers '94",
+    "titleReading": "ぐれとすらっがず'94featuring1994teamrosters",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "古今東西 干支物語 -猫だって干支の仲間になりたかった-",
+    "year": "1994",
+    "manufacturer": "ビスコ",
+    "name": "eto",
+    "note": "Kokontouzai Eto Monogatari (Japan)",
+    "titleReading": "ここんとうざいえとものがたりねこだってえとのなかまになりたかった",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "滾球の星",
+    "year": "1994",
+    "manufacturer": "BMC",
+    "name": "bmcbowl",
+    "note": "Konkyuu no Hoshi",
+    "titleReading": "こんたまのほし",
+    "manufacturerReading": "bmc"
+  },
+  {
+    "title": "サイバーコマンド",
+    "year": "1994",
+    "manufacturer": "ナムコ",
+    "name": "cybrcomm",
+    "note": "Cyber Commando (Rev. CY1, Japan)",
+    "titleReading": "さいばこまんど",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "サッカースーパースターズ",
+    "year": "1994",
+    "manufacturer": "コナミ",
+    "name": "soccerss",
+    "note": "Soccer Superstars (ver EAC)",
+    "titleReading": "さっかすぱすたず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "スカッドハンマー",
+    "year": "1994",
+    "manufacturer": "ジャレコ",
+    "name": "scudhamm",
+    "note": "Scud Hammer",
+    "titleReading": "すかっどはんま",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "スーパーＸ",
+    "year": "1994",
+    "manufacturer": "Dooyong (NTC license)",
+    "name": "superx",
+    "note": "Super-X (NTC)",
+    "titleReading": "すぱx",
+    "manufacturerReading": "dooyongntclicense"
+  },
+  {
+    "title": "スーパーイーグルショット",
+    "year": "1994",
+    "manufacturer": "ビスコ",
+    "name": "speglsht",
+    "note": "Super Eagle Shot",
+    "titleReading": "すぱいぐるしょっと",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "スーパー華パラダイス",
+    "year": "1994",
+    "manufacturer": "ダイナックス",
+    "name": "hparadis",
+    "note": "Super Hana Paradise (Japan)",
+    "titleReading": "すぱはなぱらだいす",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "スラップショット",
+    "year": "1994",
+    "manufacturer": "イースト･テクノロジー",
+    "name": "slapshot",
+    "note": "Slap Shot (Japan)",
+    "titleReading": "すらっぷしょっと",
+    "manufacturerReading": "いすといすとてくのろじ"
+  },
+  {
+    "title": "ソニックウイングス２",
+    "year": "1994",
+    "manufacturer": "ビデオシステム",
+    "name": "sonicwi2",
+    "note": "Aero Fighters 2 / Sonic Wings 2",
+    "titleReading": "そにっくういんぐす2",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "だるま道場 -目指せ、達麿王-",
+    "year": "1994",
+    "manufacturer": "メトロ",
+    "name": "dharma",
+    "note": "Dharma Doujou",
+    "titleReading": "だるまどうじょうめざせだるまおう",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ダンクドリーム",
+    "year": "1994",
+    "manufacturer": "データイースト",
+    "name": "strhoop",
+    "note": "Street Hoop / Street Slam / Dunk Dream (DEM-004 ~ DEH-004)",
+    "titleReading": "だんくどりむ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "天地を喰らうII -赤壁の戦い- (CPSチェンジャー版)",
+    "year": "1994",
+    "manufacturer": "カプコン",
+    "name": "wofch",
+    "note": "Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)",
+    "titleReading": "てんちをくらうiiせきへきのたたかいcpsちぇんじゃはん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "電神魔傀 -DENJINMAKAI-",
+    "year": "1994",
+    "manufacturer": "ウィンキーソフト",
+    "name": "denjinmk",
+    "note": "Denjin Makai (set 1)",
+    "titleReading": "でんしんまかいdenjinmakai",
+    "manufacturerReading": "うぃんきそふと"
+  },
+  {
+    "title": "トップハンター -RODDY ＆ CATHY-",
+    "year": "1994",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "tophuntr",
+    "note": "Top Hunter - Roddy & Cathy (NGM-046)",
+    "titleReading": "とっぷはんたroddy&cathy",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ドラゴンボールZ V.R.V.S",
+    "year": "1994",
+    "manufacturer": "セガ / バンプレスト",
+    "name": "dbzvrvs",
+    "note": "Dragon Ball Z V.R.V.S. (Japan, Rev A)",
+    "titleReading": "どらごんぼるzvrvs",
+    "manufacturerReading": "せが/ばんぷれすと"
+  },
+  {
+    "title": "ドリフトアウト'９４ -THE HARD ORDER-",
+    "year": "1994",
+    "manufacturer": "ビスコ",
+    "name": "drifto94",
+    "note": "Drift Out '94 - The Hard Order (Japan)",
+    "titleReading": "どりふとあうと'94thehardorder",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ななめでまじっく！",
+    "year": "1994",
+    "manufacturer": "アトラス",
+    "name": "naname",
+    "note": "Naname de Magic! (Japan)",
+    "titleReading": "ななめでまじっく",
+    "manufacturerReading": "あとらす"
+  },
+  {
+    "title": "花札 華銀河",
+    "year": "1994",
+    "manufacturer": "ダイナックス",
+    "name": "hginga",
+    "note": "Hanafuda Hana Ginga [BET] (Japan)",
+    "titleReading": "はなふだはなぎんが",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "早押しクイズ 熱闘生放送",
+    "year": "1994",
+    "manufacturer": "ジャレコ",
+    "name": "hayaosi3",
+    "note": "Hayaoshi Quiz Nettou Namahousou (ver 1.5)",
+    "titleReading": "はやおしくいずねっとうなまほうそう",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "早指し将棋 五月陣戦２ -MAYJINSEN II-",
+    "year": "1994",
+    "manufacturer": "セタ",
+    "name": "mayjisn2",
+    "note": "Mayjinsen 2",
+    "titleReading": "はやざししょうぎごがつじんせん2mayjinsenii",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "疾風魔法大作戦 -KINGDOM GRANDPRIX-",
+    "year": "1994",
+    "manufacturer": "ライジング",
+    "name": "shippumd",
+    "note": "Shippu Mahou Daisakusen (Japan)",
+    "titleReading": "はやてまほうだいさくせんkingdomgrandprix",
+    "manufacturerReading": "らいじんぐ"
+  },
+  {
+    "title": "バーチャファイター２",
+    "year": "1994",
+    "manufacturer": "セガ（AM2）",
+    "name": "vf2b",
+    "note": "Virtua Fighter 2 (Revision B)",
+    "titleReading": "ばちゃふぁいた2",
+    "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "バーチャファイター２.１",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "vf2",
+    "note": "Virtua Fighter 2 (Version 2.1)",
+    "titleReading": "ばちゃふぁいた21",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "牌砦II 仇討ち外伝",
+    "year": "1994",
+    "manufacturer": "メトロ",
+    "name": "toride2g",
+    "note": "Toride II Adauchi Gaiden",
+    "titleReading": "ぱいとりでiiあだうちがいでん",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "パズルボブル （MVS版）",
+    "year": "1994",
+    "manufacturer": "タイトー",
+    "name": "pbobblen",
+    "note": "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)",
+    "titleReading": "ぱずるぼぶるmvsはん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ファイトフィーバー",
+    "year": "1994",
+    "manufacturer": "Viccom",
+    "name": "fightfev",
+    "note": "Fight Fever / Wang Jung Wang (set 1)",
+    "titleReading": "ふぁいとふぃば",
+    "manufacturerReading": "viccom"
+  },
+  {
+    "title": "フライング・パワー・ディスク",
+    "year": "1994",
+    "manufacturer": "データイースト",
+    "name": "wjammers",
+    "note": "Windjammers / Flying Power Disc",
+    "titleReading": "ふらいんぐぱわでぃすく",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ぷにっきいず",
+    "year": "1994",
+    "manufacturer": "コンパイル",
+    "name": "pnickj",
+    "note": "Pnickies (Japan 940608)",
+    "titleReading": "ぷにっきいず",
+    "manufacturerReading": "こんぱいる"
+  },
+  {
+    "title": "へべれけのぽぷーん",
+    "year": "1994",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "heberpop",
+    "note": "Hebereke no Popoon (Japan)",
+    "titleReading": "へべれけのぽぷん",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "ボンバーマン ぱにっくボンバー",
+    "year": "1994",
+    "manufacturer": "エイティング / ライジング",
+    "name": "panicbom",
+    "note": "Panic Bomber",
+    "titleReading": "ぼんばまんぱにっくぼんば",
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+  },
+  {
+    "title": "マジカルエラーをさがせ！",
+    "year": "1994",
+    "manufacturer": "テクノソフト",
+    "name": "magerror",
+    "note": "Magical Error wo Sagase",
+    "titleReading": "まじかるえらをさがせ",
+    "manufacturerReading": "てくのそふと"
+  },
+  {
+    "title": "ラピッドヒーロー",
+    "year": "1994",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "raphero",
+    "note": "Rapid Hero (NMK)",
+    "titleReading": "らぴっどひろ",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ルー大柴＆細川ふみえ 早押しクイズ -グランドチャンピオン大会-",
+    "year": "1994",
+    "manufacturer": "ジャレコ",
+    "name": "hayaosi2",
+    "note": "Hayaoshi Quiz Grand Champion Taikai",
+    "titleReading": "るおおしば&ほそかわふみえはやおしくいずぐらんどちゃんぴおんたいかい",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "レールチェイス２",
+    "year": "1994",
+    "manufacturer": "セガ",
+    "name": "rchase2",
+    "note": "Rail Chase 2 (Revision A)",
+    "titleReading": "れるちぇいす2",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "Double Point -夜上海-",
+    "year": "1995",
+    "manufacturer": "Min Corp.",
+    "name": "dblpoint",
+    "note": "Double Point",
+    "titleReading": "doublepointよるしゃんはい",
+    "manufacturerReading": "mincorp"
+  },
+  {
+    "title": "Ｐ－４７ エイセス",
+    "year": "1995",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "p47aces",
+    "note": "P-47 Aces (ver 1.1)",
+    "titleReading": "p47えいせす",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "あっかんべぇだ～",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "spcinv95",
+    "note": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)",
+    "titleReading": "あっかんべぇだ~",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ウルトラ警備隊 -空想特撮ゲーム-",
+    "year": "1995",
+    "manufacturer": "セタ",
+    "name": "ultrax",
+    "note": "Ultra X Weapons / Ultra Keibitai",
+    "titleReading": "うるとらけいびたいくうそうとくさつげむ",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "エアーコンバット２２",
+    "year": "1995",
+    "manufacturer": "ナムコ",
+    "name": "airco22b",
+    "note": "Air Combat 22 (Rev. ACS1 Ver.B, Japan)",
+    "titleReading": "えあこんばっと22",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "エクストリーム・ダウンヒル",
+    "year": "1995",
+    "manufacturer": "サミー工業",
+    "name": "extdwnhl",
+    "note": "Extreme Downhill (v1.5)",
+    "titleReading": "えくすとりむだうんひる",
+    "manufacturerReading": "さみこうぎょう"
+  },
+  {
+    "title": "オセロダービー",
+    "year": "1995",
+    "manufacturer": "サンワイズ",
+    "name": "othldrby",
+    "note": "Othello Derby (Japan)",
+    "titleReading": "おせろだび",
+    "manufacturerReading": "さんわいず"
+  },
+  {
+    "title": "ガーディアンズ",
+    "year": "1995",
+    "manufacturer": "ウィンキーソフト",
+    "name": "grdians",
+    "note": "Guardians / Denjin Makai II (P-FG01-1 PCB)",
+    "titleReading": "がでぃあんず",
+    "manufacturerReading": "うぃんきそふと"
+  },
+  {
+    "title": "がんばれギンくん -アクションミニゲーム集-",
+    "year": "1995",
+    "manufacturer": "テクモ",
+    "name": "ginkun",
+    "note": "Ganbare Ginkun",
+    "titleReading": "がんばれぎんくんあくしょんみにげむしゅう",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "究極タイガーII",
+    "year": "1995",
+    "manufacturer": "タクミ",
+    "name": "tcobra2",
+    "note": "Twin Cobra II (Ver 2.1O 1995/11/30)",
+    "titleReading": "きゅうきょくたいがii",
+    "manufacturerReading": "たくみ"
+  },
+  {
+    "title": "ギャラクシーファイト -ユニバーサル・ウォリアーズ-",
+    "year": "1995",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "galaxyfg",
+    "note": "Galaxy Fight - Universal Warriors",
+    "titleReading": "ぎゃらくしふぁいとゆにばさるうぉりあず",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "クイズ キング・オブ・ファイターズ",
+    "year": "1995",
+    "manufacturer": "ザウルス",
+    "name": "quizkof",
+    "note": "Quiz King of Fighters (SAM-080 ~ SAH-080)",
+    "titleReading": "くいずきんぐおぶふぁいたず",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "クイズ ドレミファグランプリ２ -新曲入荷だよ-",
+    "year": "1995",
+    "manufacturer": "コナミ",
+    "name": "qdrmfgp2",
+    "note": "Quiz Do Re Mi Fa Grand Prix 2 - Shin-Kyoku Nyuukadayo (Japan)",
+    "titleReading": "くいずどれみふぁぐらんぷり2しんきょくにゅうかだよ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "クールライダーズ",
+    "year": "1995",
+    "manufacturer": "セガ",
+    "name": "coolridr",
+    "note": "Cool Riders",
+    "titleReading": "くるらいだず",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "グレート１０００マイルズラリー２",
+    "year": "1995",
+    "manufacturer": "カネコ",
+    "name": "gtmr2",
+    "note": "Mille Miglia 2: Great 1000 Miles Rally (95/05/24)",
+    "titleReading": "ぐれと1000まいるずらり2",
+    "manufacturerReading": "かねこ"
+  },
+  {
+    "title": "ゴール！ゴール！ゴール！",
+    "year": "1995",
+    "manufacturer": "ビスコ",
+    "name": "goalx3",
+    "note": "Goal! Goal! Goal!",
+    "titleReading": "ごるごるごる",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "サイキックフォース",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "psyforce",
+    "note": "Psychic Force (Ver 2.4O)",
+    "titleReading": "さいきっくふぉす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "シグマポーカー",
+    "year": "1995",
+    "manufacturer": "シグマ",
+    "name": "sigmapkr",
+    "note": "Sigma Poker",
+    "titleReading": "しぐまぽか",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "上海 -万里の長城-",
+    "year": "1995",
+    "manufacturer": "サクセス",
+    "name": "shanhigw",
+    "note": "Shanghai - The Great Wall / Shanghai Triple Threat (JUE 950623 V1.005)",
+    "titleReading": "しゃんはいばんりのちょうじょう",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "ジャッキーチェン イン フィフスオブファイヤー -成龍伝説-",
+    "year": "1995",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "jchan2",
+    "note": "Jackie Chan in Fists of Fire",
+    "titleReading": "じゃっきちぇんいんふぃふすおぶふぁいやせいりゅうでんせつ",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "ジャッキーチェン -クンフーマスター-",
+    "year": "1995",
+    "manufacturer": "金子製作所（カネコ）",
+    "name": "jchan",
+    "note": "Jackie Chan - The Kung-Fu Master",
+    "titleReading": "じゃっきちぇんくんふますた",
+    "manufacturerReading": "かねこせいさくしょかねこ"
+  },
+  {
+    "title": "銃弾嵐 ＜ガンダーラ＞",
+    "year": "1995",
+    "manufacturer": "バンプレスト",
+    "name": "gundhara",
+    "note": "Gundhara",
+    "titleReading": "じゅうだんあらし<がんだら>",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "水滸演武",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "suikoenb",
+    "note": "Suiko Enbu / Outlaws of the Lost Dynasty (JUETL 950314 V2.001)",
+    "titleReading": "すいこえんぶ",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ススメ！！マイルスマイル",
+    "year": "1995",
+    "manufacturer": "フウキ",
+    "name": "gogomile",
+    "note": "Susume! Mile Smile / Go Go! Mile Smile (newer)",
+    "titleReading": "すすめまいるすまいる",
+    "manufacturerReading": "ふうき"
+  },
+  {
+    "title": "ストリートファイターＺＥＲＯ (CPSチェンジャー版)",
+    "year": "1995",
+    "manufacturer": "カプコン",
+    "name": "sfzch",
+    "note": "Street Fighter Zero (CPS Changer, Japan 951020)",
+    "titleReading": "すとりとふぁいたzerocpsちぇんじゃはん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ストリートファイター ザ・ムービー",
+    "year": "1995",
+    "manufacturer": "Capcom / Incredible Technologies",
+    "name": "sftm",
+    "note": "Street Fighter: The Movie (v1.12)",
+    "titleReading": "すとりとふぁいたざむび",
+    "manufacturerReading": "capcom/incredibletechnologies"
+  },
+  {
+    "title": "スーパースラムズ -FROM TV ANIMATION SLAM DUNK-",
+    "year": "1995",
+    "manufacturer": "バンプレスト",
+    "name": "suprslam",
+    "note": "From TV Animation Slam Dunk - Super Slams",
+    "titleReading": "すぱすらむずfromtvanimationslamdunk",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "スーパーフットボールチャンプ",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "sfchamp",
+    "note": "Super Football Champ (Ver 2.5O)",
+    "titleReading": "すぱふっとぼるちゃんぷ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スーパーリアル花札 恋こいしましょ",
+    "year": "1995",
+    "manufacturer": "ビスコ",
+    "name": "koikois",
+    "note": "Koi Koi Shimasho",
+    "titleReading": "すぱりあるはなふだこいこいしましょ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "スーパーワールドスタジアム'９５",
+    "year": "1995",
+    "manufacturer": "ナムコ",
+    "name": "sws95",
+    "note": "Super World Stadium '95 (Japan)",
+    "titleReading": "すぱわるどすたじあむ'95",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "卒業証書",
+    "year": "1995",
+    "manufacturer": "ミッチェル / ヤンヤカ",
+    "name": "sotsugyo",
+    "note": "Sotsugyo Shousho",
+    "titleReading": "そつぎょうしょうしょ",
+    "manufacturerReading": "みっちぇる/やんやか"
+  },
+  {
+    "title": "ソニックウイングス３",
+    "year": "1995",
+    "manufacturer": "ビデオシステム",
+    "name": "sonicwi3",
+    "note": "Aero Fighters 3 / Sonic Wings 3",
+    "titleReading": "そにっくういんぐす3",
+    "manufacturerReading": "びでおしすてむ"
+  },
+  {
+    "title": "ダブルドラゴン （MVS版）",
+    "year": "1995",
+    "manufacturer": "テクノスジャパン",
+    "name": "doubledr",
+    "note": "Double Dragon (Neo-Geo)",
+    "titleReading": "だぶるどらごんmvsはん",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "ちびまる子ちゃん まる子デラックスクイズ",
+    "year": "1995",
+    "manufacturer": "タカラ",
+    "name": "marukodq",
+    "note": "Chibi Marukochan Deluxe Quiz",
+    "titleReading": "ちびまるこちゃんまるこでらっくすくいず",
+    "manufacturerReading": "たから"
+  },
+  {
+    "title": "チャーリー忍者",
+    "year": "1995",
+    "manufacturer": "ミッチェル",
+    "name": "charlien",
+    "note": "Charlie Ninja",
+    "titleReading": "ちゃりにんじゃ",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "超人学園ゴウカイザー",
+    "year": "1995",
+    "manufacturer": "テクノスジャパン",
+    "name": "gowcaizr",
+    "note": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",
+    "titleReading": "ちょうじんがくえんごうかいざ",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "天外魔境真伝",
+    "year": "1995",
+    "manufacturer": "ハドソン",
+    "name": "kabukikl",
+    "note": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
+    "titleReading": "てんがいまきょうまことでん",
+    "manufacturerReading": "はどそん"
+  },
+  {
+    "title": "でろ～んでろでろ",
+    "year": "1995",
+    "manufacturer": "テクモ",
+    "name": "deroon",
+    "note": "Deroon DeroDero (earlier)",
+    "titleReading": "でろ~んでろでろ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "ときめきメモリアル対戦ぱずるだま",
+    "year": "1995",
+    "manufacturer": "コナミ",
+    "name": "tkmmpzdm",
+    "note": "Tokimeki Memorial Taisen Puzzle-dama (ver JAB)",
+    "titleReading": "ときめきめもりあるたいせんぱずるだま",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ドラグーンマイト",
+    "year": "1995",
+    "manufacturer": "コナミ",
+    "name": "dragoona",
+    "note": "Dragoon Might (ver AAB)",
+    "titleReading": "どらぐんまいと",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ナムコ クラシックコレクション VOL.1",
+    "year": "1995",
+    "manufacturer": "ナムコ",
+    "name": "ncv1",
+    "note": "Namco Classic Collection Vol.1",
+    "titleReading": "なむこくらしっくこれくしょんvol1",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "熱答クイズチャンピオン",
+    "year": "1995",
+    "manufacturer": "中日本リース（中日本プロジェクト）",
+    "name": "nettoqc",
+    "note": "Nettoh Quiz Champion (Japan)",
+    "titleReading": "ねつこたえくいずちゃんぴおん",
+    "manufacturerReading": "なかにほんりすなかにほんぷろじぇくと"
+  },
+  {
+    "title": "花札 華五光",
+    "year": "1995",
+    "manufacturer": "ダイナックス",
+    "name": "hgokou",
+    "note": "Hanafuda Hana Gokou [BET] (Japan)",
+    "titleReading": "はなふだはなごひかり",
+    "manufacturerReading": "だいなっくす"
+  },
+  {
+    "title": "パズルdeポン！",
+    "year": "1995",
+    "manufacturer": "ビスコ",
+    "name": "puzzledp",
+    "note": "Puzzle De Pon!",
+    "titleReading": "ぱずるdeぽん",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ぱづり",
+    "year": "1995",
+    "manufacturer": "メトロ",
+    "name": "puzzli",
+    "note": "Puzzli (revision B)",
+    "titleReading": "ぱづり",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "パルスター",
+    "year": "1995",
+    "manufacturer": "エイコム",
+    "name": "pulstar",
+    "note": "Pulstar",
+    "titleReading": "ぱるすた",
+    "manufacturerReading": "えいこむ"
+  },
+  {
+    "title": "パン！３ -怪盗たちの華麗な午後-",
+    "year": "1995",
+    "manufacturer": "ミッチェル",
+    "name": "pang3",
+    "note": "Pang! 3 (Euro 950601)",
+    "titleReading": "ぱん3かいとうたちのかれいなごご",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "ファイナルラップＲ",
+    "year": "1995",
+    "manufacturer": "ナムコ",
+    "name": "finalapr",
+    "note": "Final Lap R (Rev. B)",
+    "titleReading": "ふぁいなるらっぷr",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "風雲黙示録 -格闘創世-",
+    "year": "1995",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "savagere",
+    "note": "Savage Reign / Fu'un Mokushiroku - Kakutou Sousei",
+    "titleReading": "ふううんもくじろくかくとうそうせい",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ぷるるん",
+    "year": "1995",
+    "manufacturer": "メトロ",
+    "name": "pururun",
+    "note": "Pururun",
+    "titleReading": "ぷるるん",
+    "manufacturerReading": "めとろ"
+  },
+  {
+    "title": "ペブルビーチ -ザ・グレートショット-",
+    "year": "1995",
+    "manufacturer": "T&Eソフト",
+    "name": "pblbeach",
+    "note": "Pebble Beach - The Great Shot (JUE 950913 V0.990)",
+    "titleReading": "ぺぶるびちざぐれとしょっと",
+    "manufacturerReading": "t&eそふと"
+  },
+  {
+    "title": "マジカルドロップ ＰＬＵＳ１！",
+    "year": "1995",
+    "manufacturer": "データイースト",
+    "name": "magdropp",
+    "note": "Magical Drop Plus 1 (Japan, Version 2.1, 1995.09.12)",
+    "titleReading": "まじかるどろっぷplus1",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "ミッドナイトラン -ロードファイター2-",
+    "year": "1995",
+    "manufacturer": "コナミ",
+    "name": "midnrun",
+    "note": "Midnight Run: Road Fighter 2 (EAA, Euro v1.11)",
+    "titleReading": "みっどないとらんろどふぁいた2",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "夢想花",
+    "year": "1995",
+    "manufacturer": "日本物産",
+    "name": "musobana",
+    "note": "Musoubana (Japan)",
+    "titleReading": "むそうはな",
+    "manufacturerReading": "にほんぶっさん"
+  },
+  {
+    "title": "ランディングギア",
+    "year": "1995",
+    "manufacturer": "タイトー",
+    "name": "landgear",
+    "note": "Landing Gear (Ver 4.2 O)",
+    "titleReading": "らんでぃんぐぎあ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "湾岸戦争",
+    "year": "1995",
+    "manufacturer": "エヌエムケイ（NMK）",
+    "name": "desertwr",
+    "note": "Desert War / Wangan Sensou (ver 1.0)",
+    "titleReading": "わんがんせんそう",
+    "manufacturerReading": "えぬえむけいnmk"
+  },
+  {
+    "title": "ヴァリアメタル",
+    "year": "1995",
+    "manufacturer": "エクセレントシステム",
+    "name": "vmetal",
+    "note": "Varia Metal",
+    "titleReading": "ゔぁりあめたる",
+    "manufacturerReading": "えくせれんとしすてむ"
+  },
+  {
+    "title": "Air Attack -空襲-",
+    "year": "1996",
+    "manufacturer": "Comad",
+    "name": "airattck",
+    "note": "Air Attack (set 1)",
+    "titleReading": "airattackくうしゅう",
+    "manufacturerReading": "comad"
+  },
+  {
+    "title": "ＧＴＩクラブ",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "gticlub",
+    "note": "GTI Club (ver EAA)",
+    "titleReading": "gtiくらぶ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "Ｊリーグサッカー プライムゴールＥＸ",
+    "year": "1996",
+    "manufacturer": "ナムコ",
+    "name": "primglex",
+    "note": "Prime Goal EX (Japan, PG1/VER.A)",
+    "titleReading": "jりぐさっかぷらいむごるex",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ウォーザード",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "redearth",
+    "note": "Red Earth (Euro 961121)",
+    "titleReading": "うぉざど",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "エックス・メン VS. ストリートファイター",
+    "year": "1996",
+    "manufacturer": "カプコン",
+    "name": "xmvsf",
+    "note": "X-Men Vs. Street Fighter (Euro 961004)",
+    "titleReading": "えっくすめんvsすとりとふぁいた",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "押し出しジントリック",
+    "year": "1996",
+    "manufacturer": "エーディーケイ（ADK）",
+    "name": "zintrckb",
+    "note": "Zintrick / Oshidashi Zentrix (bootleg of CD version)",
+    "titleReading": "おしだしじんとりっく",
+    "manufacturerReading": "えでぃけいadk"
+  },
+  {
+    "title": "オーバートップ",
+    "year": "1996",
+    "manufacturer": "エーディーケイ（ADK）",
+    "name": "overtop",
+    "note": "Over Top",
+    "titleReading": "おばとっぷ",
+    "manufacturerReading": "えでぃけいadk"
+  },
+  {
+    "title": "神凰拳",
+    "year": "1996",
+    "manufacturer": "ザウルス / システムビジョン",
+    "name": "ragnagrd",
+    "note": "Ragnagard / Shin-Oh-Ken",
+    "titleReading": "かみおうこぶし",
+    "manufacturerReading": "ざうるす/しすてむびじょん"
+  },
+  {
+    "title": "カラオケクイズ イントロＤＯＮＤＯＮ!",
+    "year": "1996",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "introdon",
+    "note": "Karaoke Quiz Intro Don Don! (J 960213 V1.000)",
+    "titleReading": "からおけくいずいんとろdondon",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "くにおの熱血闘球伝説",
+    "year": "1996",
+    "manufacturer": "テクノスジャパン",
+    "name": "sdodgeb",
+    "note": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
+    "titleReading": "くにおのねっけつとうたまでんせつ",
+    "manufacturerReading": "てくのすじゃぱん"
+  },
+  {
+    "title": "コラムス'９７",
+    "year": "1996",
+    "manufacturer": "セガ",
+    "name": "colmns97",
+    "note": "Columns '97 (JET 961209 V1.000)",
+    "titleReading": "こらむす'97",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "サイドバイサイド",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "sidebs",
+    "note": "Side by Side (Ver 2.7 J)",
+    "titleReading": "さいどばいさいど",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "サンフランシスコラッシュ -エクストリームレーシング-",
+    "year": "1996",
+    "manufacturer": "アタリゲームズ",
+    "name": "sfrush",
+    "note": "San Francisco Rush (boot rom L 1.0)",
+    "titleReading": "さんふらんしすこらっしゅえくすとりむれしんぐ",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ジェットウエーブ",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "jetwave",
+    "note": "Jet Wave (EAB, Euro v1.04)",
+    "titleReading": "じぇっとうえぶ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "進め！対戦ぱずるだま",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "susume",
+    "note": "Susume! Taisen Puzzle-Dama (GV027 Japan 1.20)",
+    "titleReading": "すすめたいせんぱずるだま",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "スーパーワールドスタジアム'９６ -激闘版-",
+    "year": "1996",
+    "manufacturer": "ナムコ",
+    "name": "sws96",
+    "note": "Super World Stadium '96 (Japan)",
+    "titleReading": "すぱわるどすたじあむ'96げきとうはん",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "セカンドアース グラティア",
+    "year": "1996",
+    "manufacturer": "ジャレコ",
+    "name": "gratia",
+    "note": "Gratia - Second Earth (ver 1.0, 92047-01 version)",
+    "titleReading": "せかんどあすぐらてぃあ",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "蒼穹紅蓮隊",
+    "year": "1996",
+    "manufacturer": "ライジング",
+    "name": "sokyugrt",
+    "note": "Soukyugurentai / Terra Diver (JUET 960821 V1.000)",
+    "titleReading": "そうきゅうぐれんたい",
+    "manufacturerReading": "らいじんぐ"
+  },
+  {
+    "title": "ターゲットパニック",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "tgtpanic",
+    "note": "Target Panic",
+    "titleReading": "たげっとぱにっく",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "だい好キッス",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "daiskiss",
+    "note": "Daisu-Kiss (ver JAA)",
+    "titleReading": "だいこうきっす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ティンクルスタースプライツ",
+    "year": "1996",
+    "manufacturer": "エーディーケイ（ADK）",
+    "name": "twinspri",
+    "note": "Twinkle Star Sprites",
+    "titleReading": "てぃんくるすたすぷらいつ",
+    "manufacturerReading": "えでぃけいadk"
+  },
+  {
+    "title": "闘姫伝承 -ANGEL EYES-",
+    "year": "1996",
+    "manufacturer": "テクモ",
+    "name": "tkdensho",
+    "note": "Toukidenshou - Angel Eyes (VER. 960614)",
+    "titleReading": "とうひめでんしょうangeleyes",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "得点王 -炎のリベロ-",
+    "year": "1996",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "ssideki4",
+    "note": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
+    "titleReading": "とくてんおうほのおのりべろ",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ニンジャマスターズ -覇王忍法帳-",
+    "year": "1996",
+    "manufacturer": "エーディーケイ（ADK）",
+    "name": "ninjamas",
+    "note": "Ninja Master's - Haoh-ninpo-cho",
+    "titleReading": "にんじゃますたずはおうにんぽうちょう",
+    "manufacturerReading": "えでぃけいadk"
+  },
+  {
+    "title": "ネオドリフトアウト -NEW TECHNOLOGY-",
+    "year": "1996",
+    "manufacturer": "ビスコ",
+    "name": "neodrift",
+    "note": "Neo Drift Out - New Technology",
+    "titleReading": "ねおどりふとあうとnewtechnology",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ネオミスターＤｏ！",
+    "year": "1996",
+    "manufacturer": "ビスコ",
+    "name": "neomrdo",
+    "note": "Neo Mr. Do!",
+    "titleReading": "ねおみすたdo",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ねらってチュー！",
+    "year": "1996",
+    "manufacturer": "セタ",
+    "name": "nratechu",
+    "note": "Neratte Chu",
+    "titleReading": "ねらってちゅ",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "ハイパーアスリート",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "hyperath",
+    "note": "Hyper Athlete (GV021 Japan 1.00)",
+    "titleReading": "はいぱあすりと",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "花札 華簪 （花札 花かんざし）",
+    "year": "1996",
+    "manufacturer": "ダイナックスソフト",
+    "name": "hanakanz",
+    "note": "Hana Kanzashi (Japan)",
+    "titleReading": "はなふだはなしんはなふだはなかんざし",
+    "manufacturerReading": "だいなっくすそふと"
+  },
+  {
+    "title": "バーチャファイターキッズ",
+    "year": "1996",
+    "manufacturer": "セガ（AM2）",
+    "name": "vfkids",
+    "note": "Virtua Fighter Kids (JUET 960319 V0.000)",
+    "titleReading": "ばちゃふぁいたきっず",
+    "manufacturerReading": "せがam2"
+  },
+  {
+    "title": "ビシバシチャンプ -ミニゲーム選手権-",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "bishi",
+    "note": "Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)",
+    "titleReading": "びしばしちゃんぷみにげむせんしゅけん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビッグトーナメントゴルフ",
+    "year": "1996",
+    "manufacturer": "ナスカ",
+    "name": "turfmast",
+    "note": "Neo Turf Masters / Big Tournament Golf",
+    "titleReading": "びっぐとなめんとごるふ",
+    "manufacturerReading": "なすか"
+  },
+  {
+    "title": "ファイターズインパクト",
+    "year": "1996",
+    "manufacturer": "ポリゴンマジック",
+    "name": "ftimpact",
+    "note": "Fighters' Impact (Ver 2.02O)",
+    "titleReading": "ふぁいたずいんぱくと",
+    "manufacturerReading": "ぽりごんまじっく"
+  },
+  {
+    "title": "風雲スーパータッグバトル",
+    "year": "1996",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "kizuna",
+    "note": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
+    "titleReading": "ふううんすぱたっぐばとる",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "フットサル -5on5 Mini Soccer-",
+    "year": "1996",
+    "manufacturer": "ザウルス",
+    "name": "pgoal",
+    "note": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)",
+    "titleReading": "ふっとさる5on5minisoccer",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "プリクラ大作戦",
+    "year": "1996",
+    "manufacturer": "アトラス",
+    "name": "prikura",
+    "note": "Princess Clara Daisakusen (J 960910 V1.000)",
+    "titleReading": "ぷりくらだいさくせん",
+    "manufacturerReading": "あとらす"
+  },
+  {
+    "title": "ヘブンズゲート",
+    "year": "1996",
+    "manufacturer": "ラクジン",
+    "name": "hvnsgate",
+    "note": "Heaven's Gate",
+    "titleReading": "へぶんずげと",
+    "manufacturerReading": "らくじん"
+  },
+  {
+    "title": "ポケットレーサー",
+    "year": "1996",
+    "manufacturer": "ナムコ",
+    "name": "pocketrc",
+    "note": "Pocket Racer (Japan, PKR1/VER.B)",
+    "titleReading": "ぽけっとれさ",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "マクロスプラス",
+    "year": "1996",
+    "manufacturer": "バンプレスト",
+    "name": "macrossp",
+    "note": "Macross Plus",
+    "titleReading": "まくろすぷらす",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "まじかるで～と -ドキドキ告白大作戦-",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "mgcldate",
+    "note": "Magical Date / Magical Date - Dokidoki Kokuhaku Daisakusen (Ver 2.02J)",
+    "titleReading": "まじかるで~とどきどきこくはくだいさくせん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "雷電ＤＸ",
+    "year": "1996",
+    "manufacturer": "セイブ開発",
+    "name": "r2dx_v33",
+    "note": "Raiden II New / Raiden DX (newer V33 PCB) (Raiden DX EEPROM)",
+    "titleReading": "らいでんdx",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "ラッシングヒーローズ",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "rushhero",
+    "note": "Rushing Heroes (ver UAB)",
+    "titleReading": "らっしんぐひろず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "両替パズルゲーム もうぢゃ",
+    "year": "1996",
+    "manufacturer": "Etona",
+    "name": "mouja",
+    "note": "Mouja (Japan)",
+    "titleReading": "りょうがえぱずるげむもうぢゃ",
+    "manufacturerReading": "etona"
+  },
+  {
+    "title": "レイストーム",
+    "year": "1996",
+    "manufacturer": "タイトー",
+    "name": "raystorm",
+    "note": "Ray Storm (Ver 2.06A)",
+    "titleReading": "れいすとむ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ワインディングヒート",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "windheat",
+    "note": "Winding Heat (EAA, Euro v2.11)",
+    "titleReading": "わいんでぃんぐひと",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "わくわく７",
+    "year": "1996",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "wakuwak7",
+    "note": "Waku Waku 7",
+    "titleReading": "わくわく7",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "ヴァーサスネットサッカー",
+    "year": "1996",
+    "manufacturer": "コナミ",
+    "name": "vsnetscr",
+    "note": "Versus Net Soccer (ver EAD)",
+    "titleReading": "ゔぁさすねっとさっか",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "GROOVE ON FIGHT -豪血寺一族３-",
+    "year": "1997",
+    "manufacturer": "アトラス",
+    "name": "groovef",
+    "note": "Groove on Fight - Gouketsuji Ichizoku 3 (J 970416 V1.001)",
+    "titleReading": "grooveonfightごうけつじいちぞく3",
+    "manufacturerReading": "あとらす"
+  },
+  {
+    "title": "Ｇダライアス",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "gdarius",
+    "note": "G-Darius (Ver 2.01J)",
+    "titleReading": "gだらいあす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "Ｇダライアス Ver.２",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "gdarius2",
+    "note": "G-Darius Ver.2 (Ver 2.03J)",
+    "titleReading": "gだらいあすver2",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ウェディングラプソディ",
+    "year": "1997",
+    "manufacturer": "コナミ",
+    "name": "weddingr",
+    "note": "Wedding Rhapsody (GX624 JAA)",
+    "titleReading": "うぇでぃんぐらぷそでぃ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ウッチャンナンチャンの炎のチャレンジャー ウルトラ電流イライラ棒",
+    "year": "1997",
+    "manufacturer": "ザウルス",
+    "name": "irrmaze",
+    "note": "The Irritating Maze / Ultra Denryu Iraira Bou",
+    "titleReading": "うっちゃんなんちゃんのほのおのちゃれんじゃうるとらでんりゅういらいらぼう",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "オリエンタルレジェンド",
+    "year": "1997",
+    "manufacturer": "IGS",
+    "name": "orlegend",
+    "note": "Oriental Legend / Xiyou Shi E Chuan (ver. 126)",
+    "titleReading": "おりえんたるれじぇんど",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "きらめきスターロード -♪イントロ倶楽部♪-",
+    "year": "1997",
+    "manufacturer": "サクセス",
+    "name": "kirameki",
+    "note": "Kirameki Star Road (Ver 2.10J 1997/08/29)",
+    "titleReading": "きらめきすたろど♪いんとろくらぶ♪",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "ギャルズ・ハスラー",
+    "year": "1997",
+    "manufacturer": "エースインターナショナル",
+    "name": "galhustl",
+    "note": "Gals Hustler",
+    "titleReading": "ぎゃるずはすら",
+    "manufacturerReading": "えすいんたなしょなる"
+  },
+  {
+    "title": "コットン２ -マジカルナイトドリームス-",
+    "year": "1997",
+    "manufacturer": "サクセス",
+    "name": "cotton2",
+    "note": "Cotton 2 (JUET 970902 V1.000)",
+    "titleReading": "こっとん2まじかるないとどりむす",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "サイドバイサイド２ -エボルツィオーネ-",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "sidebs2",
+    "note": "Side by Side 2 (Ver 2.6 OK)",
+    "titleReading": "さいどばいさいど2えぼるつぃおね",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "サーフプラネット",
+    "year": "1997",
+    "manufacturer": "Gaelco (Atari license)",
+    "name": "surfplnt",
+    "note": "Surf Planet (Version 4.1)",
+    "titleReading": "さふぷらねっと",
+    "manufacturerReading": "gaelcoatarilicense"
+  },
+  {
+    "title": "紫炎龍",
+    "year": "1997",
+    "manufacturer": "ワラシ（童）",
+    "name": "shienryu",
+    "note": "Shienryu (JUET 961226 V1.000)",
+    "titleReading": "しえんりゅう",
+    "manufacturerReading": "わらしわらべ"
+  },
+  {
+    "title": "シーバス・フィッシング",
+    "year": "1997",
+    "manufacturer": "Aウエーブ",
+    "name": "seabass",
+    "note": "Sea Bass Fishing (JUET 971110 V0.001)",
+    "titleReading": "しばすふぃっしんぐ",
+    "manufacturerReading": "aうえぶ"
+  },
+  {
+    "title": "清水市代女流四冠王監修 女流将棋教室",
+    "year": "1997",
+    "manufacturer": "ビスコ",
+    "name": "jsk",
+    "note": "Joryuu Syougi Kyoushitsu (Japan)",
+    "titleReading": "しみずしだいじょりゅうよんかんおうかんしゅうじょりゅうしょうぎきょうしつ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ショックトルーパーズ",
+    "year": "1997",
+    "manufacturer": "ザウルス",
+    "name": "shocktro",
+    "note": "Shock Troopers (set 1)",
+    "titleReading": "しょっくとるぱず",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "私立ジャスティス学園 -リージョン オブ ヒーローズ-",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "rvschool",
+    "note": "Rival Schools: United By Fate (Euro 971117)",
+    "titleReading": "しりつじゃすてぃすがくえんりじょんおぶひろず",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "新日本プロレスリング 闘魂烈伝３ ARCARDE EDITION",
+    "year": "1997",
+    "manufacturer": "ユークス / トミー / ナムコ",
+    "name": "toukon3",
+    "note": "Shin Nihon Pro Wrestling Toukon Retsuden 3 Arcade Edition (Japan, TR1/VER.A)",
+    "titleReading": "しんにほんぷろれすりんぐとうこんれつでん3arcardeedition",
+    "manufacturerReading": "ゆくす/とみ/なむこ"
+  },
+  {
+    "title": "ストライカーズ１９４５ II",
+    "year": "1997",
+    "manufacturer": "彩京",
+    "name": "s1945ii",
+    "note": "Strikers 1945 II",
+    "titleReading": "すとらいかず1945ii",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ストリートファイターIII -NEW GENERATION-",
+    "year": "1997",
+    "manufacturer": "カプコン",
+    "name": "sfiii",
+    "note": "Street Fighter III: New Generation (Euro 970204)",
+    "titleReading": "すとりとふぁいたiiinewgeneration",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スーパーワールドスタジアム'９７",
+    "year": "1997",
+    "manufacturer": "ナムコ",
+    "name": "sws97",
+    "note": "Super World Stadium '97 (Japan)",
+    "titleReading": "すぱわるどすたじあむ'97",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ソーラーアサルト",
+    "year": "1997",
+    "manufacturer": "コナミ",
+    "name": "slrasslt",
+    "note": "Solar Assault (ver UAA)",
+    "titleReading": "そらあさると",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ソルディバイド -THE SWORD OF DARKNESS-",
+    "year": "1997",
+    "manufacturer": "彩京",
+    "name": "soldivid",
+    "note": "Sol Divide - The Sword Of Darkness",
+    "titleReading": "そるでぃばいどtheswordofdarkness",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "テクニカルボーリング",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "techbowl",
+    "note": "Technical Bowling (J 971212 V1.000)",
+    "titleReading": "てくにかるぼりんぐ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "とべ！ポリスターズ",
+    "year": "1997",
+    "manufacturer": "コナミ",
+    "name": "polystar",
+    "note": "Tobe! Polystars (ver JAA)",
+    "titleReading": "とべぽりすたず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ネオボンバーマン",
+    "year": "1997",
+    "manufacturer": "ハドソン",
+    "name": "neobombe",
+    "note": "Neo Bomberman",
+    "titleReading": "ねおぼんばまん",
+    "manufacturerReading": "はどそん"
+  },
+  {
+    "title": "花札 華陽炎",
+    "year": "1997",
+    "manufacturer": "ダイナックスソフト",
+    "name": "hkagerou",
+    "note": "Hana Kagerou [BET] (Japan)",
+    "titleReading": "はなふだかようほのお",
+    "manufacturerReading": "だいなっくすそふと"
+  },
+  {
+    "title": "ハングパイロット",
+    "year": "1997",
+    "manufacturer": "コナミ",
+    "name": "hangplt",
+    "note": "Hang Pilot (ver JAB)",
+    "titleReading": "はんぐぱいろっと",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "幕末浪漫 月華の剣士",
+    "year": "1997",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "lastblad",
+    "note": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
+    "titleReading": "ばくまつろうまんがつはなのけんし",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "パズルdeポン！Ｒ",
+    "year": "1997",
+    "manufacturer": "ビスコ",
+    "name": "puzzldpr",
+    "note": "Puzzle De Pon! R!",
+    "titleReading": "ぱずるdeぽんr",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "ファイターズインパクトエース",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "ftimpcta",
+    "note": "Fighters' Impact A (Ver 2.00J)",
+    "titleReading": "ふぁいたずいんぱくとえす",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "プチカラット -ジェムストーン王国の世界-",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "puchicar",
+    "note": "Puchi Carat (Ver 2.02O 1997/10/29)",
+    "titleReading": "ぷちからっとじぇむすとんおうこくのせかい",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ぽっぷんぽっぷ",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "popnpop",
+    "note": "Pop'n Pop (Ver 2.07O 1998/02/09)",
+    "titleReading": "ぽっぷんぽっぷ",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "まじかるで～と -卒業告白大作戦-",
+    "year": "1997",
+    "manufacturer": "タイトー",
+    "name": "mgcldtex",
+    "note": "Magical Date EX / Magical Date - Sotsugyou Kokuhaku Daisakusen (Ver 2.01J)",
+    "titleReading": "まじかるで~とそつぎょうこくはくだいさくせん",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "マジカルドロップ３",
+    "year": "1997",
+    "manufacturer": "データイースト",
+    "name": "magdrop3",
+    "note": "Magical Drop III",
+    "titleReading": "まじかるどろっぷ3",
+    "manufacturerReading": "でえたいいすと"
+  },
+  {
+    "title": "マネーアイドルエクスチェンジャー",
+    "year": "1997",
+    "manufacturer": "フェイス",
+    "name": "miexchng",
+    "note": "Money Puzzle Exchanger / Money Idol Exchanger",
+    "titleReading": "まねあいどるえくすちぇんじゃ",
+    "manufacturerReading": "ふぇいす"
+  },
+  {
+    "title": "マルちゃんｄｅグー!!!",
+    "year": "1997",
+    "manufacturer": "ウィルリンク",
+    "name": "maruchan",
+    "note": "Maru-Chan de Goo! (J 971216 V1.000)",
+    "titleReading": "まるちゃんdeぐ",
+    "manufacturerReading": "うぃるりんく"
+  },
+  {
+    "title": "モーターレイド",
+    "year": "1997",
+    "manufacturer": "セガ",
+    "name": "motoraid",
+    "note": "Motor Raid - Twin",
+    "titleReading": "もたれいど",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "モンスタースライダー",
+    "year": "1997",
+    "manufacturer": "Visco / Datt Japan",
+    "name": "mslider",
+    "note": "Monster Slider (Japan)",
+    "titleReading": "もんすたすらいだ",
+    "manufacturerReading": "visco/dattjapan"
+  },
+  {
+    "title": "ＮＢＡプレイバイプレイ",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "nbapbp",
+    "note": "NBA Play By Play (ver JAA)",
+    "titleReading": "nbaぷれいばいぷれい",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "アストラスーパースターズ",
+    "year": "1998",
+    "manufacturer": "サンタクロース / サン電子（サンソフト）",
+    "name": "astrass",
+    "note": "Astra SuperStars (J 980514 V1.002)",
+    "titleReading": "あすとらすぱすたず",
+    "manufacturerReading": "さんたくろす/さんでんしさんそふと"
+  },
+  {
+    "title": "戦神 -SENJING-",
+    "year": "1998",
+    "manufacturer": "Afega (Apples Industries license)",
+    "name": "grdnstrm",
+    "note": "Guardian Storm (horizontal, not encrypted)",
+    "titleReading": "いくさがみsenjing",
+    "manufacturerReading": "afegaapplesindustrieslicense"
+  },
+  {
+    "title": "イレブンビート ワールドトーナメント",
+    "year": "1998",
+    "manufacturer": "ハドソン",
+    "name": "11beat",
+    "note": "Eleven Beat",
+    "titleReading": "いれぶんびとわるどとなめんと",
+    "manufacturerReading": "はどそん"
+  },
+  {
+    "title": "桜花恋 ＜Ying Hua Lian＞",
+    "year": "1998",
+    "manufacturer": "サブシノ",
+    "name": "saklove",
+    "note": "Ying Hua Lian 2.0 (China, Ver. 1.02)",
+    "titleReading": "おうかこい<yinghualian>",
+    "manufacturerReading": "さぶしの"
+  },
+  {
+    "title": "オセロしようよ",
+    "year": "1998",
+    "manufacturer": "サクセス",
+    "name": "othellos",
+    "note": "Othello Shiyouyo (J 980423 V1.002)",
+    "titleReading": "おせろしようよ",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "カオスヒート",
+    "year": "1998",
+    "manufacturer": "タイトー",
+    "name": "chaoshea",
+    "note": "Chaos Heat (V2.09O 1998/10/02 17:00)",
+    "titleReading": "かおすひと",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "ガーディアンフォース",
+    "year": "1998",
+    "manufacturer": "サクセス",
+    "name": "grdforce",
+    "note": "Guardian Force (JUET 980318 V0.105)",
+    "titleReading": "がでぃあんふぉす",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "ガントレット・レジェンド",
+    "year": "1998",
+    "manufacturer": "アタリゲームズ",
+    "name": "gauntleg",
+    "note": "Gauntlet Legends (version 1.6)",
+    "titleReading": "がんとれっとれじぇんど",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ガンバード２",
+    "year": "1998",
+    "manufacturer": "彩京",
+    "name": "gunbird2",
+    "note": "Gunbird 2 (set 1)",
+    "titleReading": "がんばど2",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "クイズ＆バラエティ すくすく犬福",
+    "year": "1998",
+    "manufacturer": "ビデオシステム / 吉田山工房",
+    "name": "inufuku",
+    "note": "Quiz & Variety Sukusuku Inufuku (Japan)",
+    "titleReading": "くいず&ばらえてぃすくすくいぬふく",
+    "manufacturerReading": "びでおしすてむ/よしだやまこうぼう"
+  },
+  {
+    "title": "クールボーダーズ -ARCARDE JAM-",
+    "year": "1998",
+    "manufacturer": "ウエップシステム",
+    "name": "cbaj",
+    "note": "Cool Boarders Arcade Jam",
+    "titleReading": "くるぼだずarcardejam",
+    "manufacturerReading": "うえっぷしすてむ"
+  },
+  {
+    "title": "グラディウスIV -復活-",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "gradius4",
+    "note": "Gradius IV: Fukkatsu (ver JAC)",
+    "titleReading": "ぐらでぃうすivふっかつ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "グルメバトルクイズ 料理王クッキング",
+    "year": "1998",
+    "manufacturer": "ビスコ",
+    "name": "ryorioh",
+    "note": "Gourmet Battle Quiz Ryohrioh CooKing (Japan)",
+    "titleReading": "ぐるめばとるくいずりょうりおうくっきんぐ",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "子育てクイズ マイエンジェル３ -マイリトルペット-",
+    "year": "1998",
+    "manufacturer": "ナムコ",
+    "name": "myangel3",
+    "note": "Kosodate Quiz My Angel 3 (Japan, KQT1/VER.A)",
+    "titleReading": "こそだてくいずまいえんじぇる3まいりとるぺっと",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "コットンブーメラン -マジカルナイトドリームス-",
+    "year": "1998",
+    "manufacturer": "サクセス",
+    "name": "cottonbm",
+    "note": "Cotton Boomerang (JUET 980709 V1.000)",
+    "titleReading": "こっとんぶめらんまじかるないとどりむす",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "コナミ ８０'Ｓ アーケードギャラリー",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "konam80s",
+    "note": "Konami 80's AC Special (GC826 VER. EAA)",
+    "titleReading": "こなみ80'sあけどぎゃらり",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "シグマポーカー２０００",
+    "year": "1998",
+    "manufacturer": "シグマ",
+    "name": "sigma2k",
+    "note": "Sigma Poker 2000",
+    "titleReading": "しぐまぽか2000",
+    "manufacturerReading": "しぐま"
+  },
+  {
+    "title": "上海 -真的武勇-",
+    "year": "1998",
+    "manufacturer": "サン電子（サンソフト）",
+    "name": "shngmtkb",
+    "note": "Shanghai Matekibuyuu",
+    "titleReading": "しゃんはいまことてきぶゆう",
+    "manufacturerReading": "さんでんしさんそふと"
+  },
+  {
+    "title": "ショックトルーパーズ -セカンドスカッド-",
+    "year": "1998",
+    "manufacturer": "ザウルス",
+    "name": "shocktr2",
+    "note": "Shock Troopers - 2nd Squad",
+    "titleReading": "しょっくとるぱずせかんどすかっど",
+    "manufacturerReading": "ざうるす"
+  },
+  {
+    "title": "ジョジョの奇妙な冒険",
+    "year": "1998",
+    "manufacturer": "カプコン",
+    "name": "jojo",
+    "note": "JoJo's Venture (Euro 990128)",
+    "titleReading": "じょじょのきみょうなぼうけん",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スターソルジャー バニシング・アース",
+    "year": "1998",
+    "manufacturer": "ハドソン",
+    "name": "starsldr",
+    "note": "Star Soldier: Vanishing Earth",
+    "titleReading": "すたそるじゃばにしんぐあす",
+    "manufacturerReading": "はどそん"
+  },
+  {
+    "title": "スティープ・スロープ・スライダーズ",
+    "year": "1998",
+    "manufacturer": "ケイブ",
+    "name": "sss",
+    "note": "Steep Slope Sliders (JUET 981110 V1.000)",
+    "titleReading": "すてぃぷすろぷすらいだず",
+    "manufacturerReading": "けいぶ"
+  },
+  {
+    "title": "ステッガー１",
+    "year": "1998",
+    "manufacturer": "Afega",
+    "name": "stagger1",
+    "note": "Stagger I (Japan)",
+    "titleReading": "すてっが1",
+    "manufacturerReading": "afega"
+  },
+  {
+    "title": "スーパービシバシチャンプ",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "sbishi",
+    "note": "Super Bishi Bashi Championship (ver JAA, 2 Players)",
+    "titleReading": "すぱびしばしちゃんぷ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "スーパーワールドスタジアム'９８",
+    "year": "1998",
+    "manufacturer": "ナムコ",
+    "name": "sws98",
+    "note": "Super World Stadium '98 (Japan, SS81/VER.A)",
+    "titleReading": "すぱわるどすたじあむ'98",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "スリルドライブ",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "thrilld",
+    "note": "Thrill Drive (JAE)",
+    "titleReading": "すりるどらいぶ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダークホースレジェンド",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "darkhleg",
+    "note": "Dark Horse Legend (GX706 VER. JAA)",
+    "titleReading": "だくほすれじぇんど",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "堕落天使 -The Fallen Angels-",
+    "year": "1998",
+    "manufacturer": "彩京",
+    "name": "daraku",
+    "note": "Daraku Tenshi - The Fallen Angels",
+    "titleReading": "だらくてんしthefallenangels",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ダンスダンスレボリューション インターネットランキングVer.",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "ddrj",
+    "note": "Dance Dance Revolution - Internet Ranking Ver (GC845 VER. JBA)",
+    "titleReading": "だんすだんすれぼりゅしょんいんたねっとらんきんぐver",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "デッド オア アライブ プラス プラス",
+    "year": "1998",
+    "manufacturer": "テクモ",
+    "name": "doapp",
+    "note": "Dead Or Alive ++ (Japan)",
+    "titleReading": "でっどおああらいぶぷらすぷらす",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "闘龍伝説エランドール",
+    "year": "1998",
+    "manufacturer": "サイ･メイト",
+    "name": "elandore",
+    "note": "Touryuu Densetsu Elan-Doree / Elan Doree - Legend of Dragoon (JUET 980922 V1.006)",
+    "titleReading": "とうりゅうでんせつえらんどる",
+    "manufacturerReading": "さいさいめいと"
+  },
+  {
+    "title": "ネオジオカップ'９８ -ザ・ロードトゥザビクトリー-",
+    "year": "1998",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "neocup98",
+    "note": "Neo-Geo Cup '98 - The Road to the Victory",
+    "titleReading": "ねおじおかっぷ'98ざろどとぅざびくとり",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "ハイパーオリンピック イン ナガノ",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "nagano98",
+    "note": "Nagano Winter Olympics '98 (GX720 EAA)",
+    "titleReading": "はいぱおりんぴっくいんながの",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ハイパービシバシチャンプ",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "hyperbbc",
+    "note": "Hyper Bishi Bashi Champ (GQ876 VER. EAA)",
+    "titleReading": "はいぱびしばしちゃんぷ",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "幕末浪漫第二幕 月華の剣士 -月に咲く華、散りゆく花-",
+    "year": "1998",
+    "manufacturer": "エス･エヌ･ケイ（SNK）",
+    "name": "lastbld2",
+    "note": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430 ~ NGH-2430)",
+    "titleReading": "ばくまつろうまんだいにまくがつはなのけんしがつにさくはなちりゆくはな",
+    "manufacturerReading": "えすえすえぬえぬけいsnk"
+  },
+  {
+    "title": "バスアングラー",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "fbaitbc",
+    "note": "Fisherman's Bait - A Bass Challenge (GE765 VER. UAB)",
+    "titleReading": "ばすあんぐら",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "バスアングラー２",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "fbait2bc",
+    "note": "Fisherman's Bait 2 - A Bass Challenge (GE865 VER. UAB)",
+    "titleReading": "ばすあんぐら2",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "バトルフリップショット",
+    "year": "1998",
+    "manufacturer": "ビスコ",
+    "name": "flipshot",
+    "note": "Battle Flip Shot",
+    "titleReading": "ばとるふりっぷしょっと",
+    "manufacturerReading": "びすこ"
+  },
+  {
+    "title": "パカパカパッション",
+    "year": "1998",
+    "manufacturer": "プロデュース",
+    "name": "pacapp",
+    "note": "Paca Paca Passion (Japan, PPP1/VER.A2)",
+    "titleReading": "ぱかぱかぱっしょん",
+    "manufacturerReading": "ぷろでゅす"
+  },
+  {
+    "title": "パチンコ銀玉勝負",
+    "year": "1998",
+    "manufacturer": "ダイナックスソフト",
+    "name": "pkgnsh",
+    "note": "Pachinko Gindama Shoubu (Japan)",
+    "titleReading": "ぱちんこぎんだましょうぶ",
+    "manufacturerReading": "だいなっくすそふと"
+  },
+  {
+    "title": "パチンコ銀玉勝負ＤＸ",
+    "year": "1998",
+    "manufacturer": "ダイナックスソフト",
+    "name": "pkgnshdx",
+    "note": "Pachinko Gindama Shoubu DX (Japan)",
+    "titleReading": "ぱちんこぎんだましょうぶdx",
+    "manufacturerReading": "だいなっくすそふと"
+  },
+  {
+    "title": "ビートマニア サードミックス",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "bm3rdmix",
+    "note": "beatmania 3rd MIX (ver JA-A)",
+    "titleReading": "びとまにあさどみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビビッドドールズ",
+    "year": "1998",
+    "manufacturer": "セタ",
+    "name": "vivdolls",
+    "note": "Vivid Dolls",
+    "titleReading": "びびっどどるず",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "ファイティングレイヤー",
+    "year": "1998",
+    "manufacturer": "アリカ",
+    "name": "fgtlayer",
+    "note": "Fighting Layer (Japan, FTL1/VER.A)",
+    "titleReading": "ふぁいてぃんぐれいや",
+    "manufacturerReading": "ありか"
+  },
+  {
+    "title": "ポップンミュージック",
+    "year": "1998",
+    "manufacturer": "コナミ",
+    "name": "popn1",
+    "note": "Pop'n Music 1 (ver AA-A, HDD 1.00)",
+    "titleReading": "ぽっぷんみゅじっく",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ラジカルバイカーズ",
+    "year": "1998",
+    "manufacturer": "ガエルコ",
+    "name": "radikalb",
+    "note": "Radikal Bikers (Version 2.02)",
+    "titleReading": "らじかるばいかず",
+    "manufacturerReading": "がえるこ"
+  },
+  {
+    "title": "レイクライシス -LOGISTIC SHOOTING-",
+    "year": "1998",
+    "manufacturer": "タイトー",
+    "name": "raycris",
+    "note": "Ray Crisis (V2.03J 1998/11/15 15:43)",
+    "titleReading": "れいくらいしすlogisticshooting",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "レイディアントシルバーガン",
+    "year": "1998",
+    "manufacturer": "トレジャー",
+    "name": "rsgun",
+    "note": "Radiant Silvergun (JUET 980523 V1.000)",
+    "titleReading": "れいでぃあんとしるばがん",
+    "manufacturerReading": "とれじゃ"
+  },
+  {
+    "title": "ヴェイパーＴＲＸ",
+    "year": "1998",
+    "manufacturer": "アタリゲームズ",
+    "name": "vaportrx",
+    "note": "Vapor TRX",
+    "titleReading": "ゔぇいぱtrx",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ＲＣでＧＯ！ -RADIO CONTROL CAR SIMULATION-",
+    "year": "1999",
+    "manufacturer": "タイトー",
+    "name": "gobyrc",
+    "note": "Go By RC (V2.03O 1999/05/25 13:31)",
+    "titleReading": "rcでgoradiocontrolcarsimulation",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "おてなみ拝見",
+    "year": "1999",
+    "manufacturer": "サクセス",
+    "name": "otenamih",
+    "note": "Otenami Haiken (V2.04J 1999/02/01 18:00:00)",
+    "titleReading": "おてなみはいけん",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "カードパズル フリップメイズ",
+    "year": "1999",
+    "manufacturer": "モス",
+    "name": "flipmaze",
+    "note": "Flip Maze (V2.04J 1999/09/02 20:00)",
+    "titleReading": "かどぱずるふりっぷめいず",
+    "manufacturerReading": "もす"
+  },
+  {
+    "title": "ガイア・クルセイダーズ",
+    "year": "1999",
+    "manufacturer": "ノイズファクトリー",
+    "name": "gaia",
+    "note": "Gaia Crusaders",
+    "titleReading": "がいあくるせいだず",
+    "manufacturerReading": "のいずふぁくとり"
+  },
+  {
+    "title": "ガントレット ダークレガシー",
+    "year": "1999",
+    "manufacturer": "Midway Games",
+    "name": "gauntdl",
+    "note": "Gauntlet Dark Legacy (version DL 2.52)",
+    "titleReading": "がんとれっとだくれがし",
+    "manufacturerReading": "midwaygames"
+  },
+  {
+    "title": "ギターフリークス",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "gtrfrks",
+    "note": "Guitar Freaks (GQ886 VER. EAC)",
+    "titleReading": "ぎたふりくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ギターフリークス セカンドミックス",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "gtrfrk2m",
+    "note": "Guitar Freaks 2nd Mix Ver 1.01 (GQ883 VER. JAD)",
+    "titleReading": "ぎたふりくすせかんどみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ぐわんげ",
+    "year": "1999",
+    "manufacturer": "ケイブ",
+    "name": "guwange",
+    "note": "Guwange (Japan, Master Ver. 99/06/24)",
+    "titleReading": "ぐわんげ",
+    "manufacturerReading": "けいぶ"
+  },
+  {
+    "title": "コロコロクエスト",
+    "year": "1999",
+    "manufacturer": "ウィザード",
+    "name": "korokoro",
+    "note": "Koro Koro Quest (Japan)",
+    "titleReading": "ころころくえすと",
+    "manufacturerReading": "うぃざど"
+  },
+  {
+    "title": "サンフランシスコラッシュ２０４９",
+    "year": "1999",
+    "manufacturer": "アタリゲームズ",
+    "name": "sf2049",
+    "note": "San Francisco Rush 2049",
+    "titleReading": "さんふらんしすこらっしゅ2049",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "ザ・レジェンドオブシルクロード",
+    "year": "1999",
+    "manufacturer": "Unico",
+    "name": "silkroad",
+    "note": "The Legend of Silkroad",
+    "titleReading": "ざれじぇんどおぶしるくろど",
+    "manufacturerReading": "unico"
+  },
+  {
+    "title": "システム５７３用 ＣＤ-ＲＯＭドライブアップデータ",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "cr589fwa",
+    "note": "CD-ROM Drive Updater (700A04)",
+    "titleReading": "しすてむ573ようcdromどらいぶあっぷでた",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "システム５７３用 ＣＤ-ＲＯＭドライブアップデータ ２.０",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "cr589fw",
+    "note": "CD-ROM Drive Updater 2.0 (700B04)",
+    "titleReading": "しすてむ573ようcdromどらいぶあっぷでた20",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ストライカーズ１９９９",
+    "year": "1999",
+    "manufacturer": "彩京",
+    "name": "s1945iii",
+    "note": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
+    "titleReading": "すとらいかず1999",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ストリートファイターＥＸ２ ＰＬＵＳ",
+    "year": "1999",
+    "manufacturer": "アリカ",
+    "name": "sfex2p",
+    "note": "Street Fighter EX2 Plus (Euro 990611)",
+    "titleReading": "すとりとふぁいたex2plus",
+    "manufacturerReading": "ありか"
+  },
+  {
+    "title": "ストリートファイターIII ３rd STRIKE -Fight for the Future-",
+    "year": "1999",
+    "manufacturer": "カプコン",
+    "name": "sfiii3",
+    "note": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
+    "titleReading": "すとりとふぁいたiii3rdstrikefightforthefuture",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "スーパーパズルボブル",
+    "year": "1999",
+    "manufacturer": "タイトー",
+    "name": "spuzbobl",
+    "note": "Super Puzzle Bobble (V2.05O 1999/2/24 18:00)",
+    "titleReading": "すぱぱずるぼぶる",
+    "manufacturerReading": "たいとう"
+  },
+  {
+    "title": "スーパーワールドスタジアム１９９９",
+    "year": "1999",
+    "manufacturer": "ナムコ",
+    "name": "sws99",
+    "note": "Super World Stadium '99 (Japan, SS91/VER.A3)",
+    "titleReading": "すぱわるどすたじあむ1999",
+    "manufacturerReading": "なむこ"
+  },
+  {
+    "title": "ダンシングステージ フィーチャリング トゥルーキス ディスティネーション",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "dsftkd",
+    "note": "Dancing Stage featuring TRUE KiSS DESTiNATiON (G*884 VER. JAA)",
+    "titleReading": "だんしんぐすてじふぃちゃりんぐとぅるきすでぃすてぃねしょん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "dstage",
+    "note": "Dancing Stage - Internet Ranking Ver (GC845 VER. EBA)",
+    "titleReading": "だんすだんすれぼりゅしょん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション 2nd MIX with ビートマニアIIDX クラブバージョン",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "ddr2mc",
+    "note": "Dance Dance Revolution 2nd Mix with beatmaniaIIDX CLUB VERSiON (GE896 VER. JAA)",
+    "titleReading": "だんすだんすれぼりゅしょん2ndmixwithびとまにあiidxくらぶばじょん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション 2nd MIX with ビートマニアIIDX サブストリームクラブバージョン2",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "bmiidxc2",
+    "note": "beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM)",
+    "titleReading": "だんすだんすれぼりゅしょん2ndmixwithびとまにあiidxさぶすとりむくらぶばじょん2",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション セカンドミックス",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "ddr2m",
+    "note": "Dance Dance Revolution 2nd Mix (GN895 VER. JAA)",
+    "titleReading": "だんすだんすれぼりゅしょんせかんどみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション セカンドミックス リンクバージョン",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "ddr2ml",
+    "note": "Dance Dance Revolution 2nd Mix - Link Ver (GE885 VER. JAB)",
+    "titleReading": "だんすだんすれぼりゅしょんせかんどみっくすりんくばじょん",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ダンスダンスレボリューション ベスト オブ クールダンサーズ",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "ddrbocd",
+    "note": "Dance Dance Revolution Best of Cool Dancers (GE892 VER. JAA)",
+    "titleReading": "だんすだんすれぼりゅしょんべすとおぶくるだんさず",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "団地で花札 -奥さん米屋ですよ！-",
+    "year": "1999",
+    "manufacturer": "アルトロン",
+    "name": "danchih",
+    "note": "Danchi de Hanafuda (J 990607 V1.400)",
+    "titleReading": "だんちではなふだおくさんこめやですよ",
+    "manufacturerReading": "あるとろん"
+  },
+  {
+    "title": "とんでもクライシス！",
+    "year": "1999",
+    "manufacturer": "徳間書店 / 博報堂 / 凸版印刷 / ポリゴンマジック",
+    "name": "tondemo",
+    "note": "Tondemo Crisis (Japan)",
+    "titleReading": "とんでもくらいしす",
+    "manufacturerReading": "とくましょてん/はくほうどう/とっぱんいんさつ/ぽりごんまじっく"
+  },
+  {
+    "title": "パカパカパッション２",
+    "year": "1999",
+    "manufacturer": "プロデュース",
+    "name": "pacapp2",
+    "note": "Paca Paca Passion 2 (Japan, PKS1/VER.A)",
+    "titleReading": "ぱかぱかぱっしょん2",
+    "manufacturerReading": "ぷろでゅす"
+  },
+  {
+    "title": "パカパカパッションスペシャル",
+    "year": "1999",
+    "manufacturer": "プロデュース",
+    "name": "pacappsp",
+    "note": "Paca Paca Passion Special (Japan, PSP1/VER.A)",
+    "titleReading": "ぱかぱかぱっしょんすぺしゃる",
+    "manufacturerReading": "ぷろでゅす"
+  },
+  {
+    "title": "パズルDEボーリング",
+    "year": "1999",
+    "manufacturer": "モス",
+    "name": "pzlbowl",
+    "note": "Puzzle De Bowling (Japan)",
+    "titleReading": "ぱずるdeぼりんぐ",
+    "manufacturerReading": "もす"
+  },
+  {
+    "title": "ぱづり２ スーパー",
+    "year": "1999",
+    "manufacturer": "IGS (Metro license)",
+    "name": "puzzli2",
+    "note": "Puzzli 2 / Pao Pao Yu (ver. 100)",
+    "titleReading": "ぱづり2すぱ",
+    "manufacturerReading": "igsmetrolicense"
+  },
+  {
+    "title": "ヒドゥンキャッチ２",
+    "year": "1999",
+    "manufacturer": "Eolith",
+    "name": "hidctch2",
+    "note": "Hidden Catch 2 (pcb ver 3.03) (Kor/Eng) (AT89c52 protected)",
+    "titleReading": "ひどぅんきゃっち2",
+    "manufacturerReading": "eolith"
+  },
+  {
+    "title": "ビートマニア コンプリート ミックス",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "bmcompmx",
+    "note": "beatmania complete MIX (ver JA-B)",
+    "titleReading": "びとまにあこんぷりとみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア フィフスミックス -Time to get down-",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "bm5thmix",
+    "note": "beatmania 5th MIX (ver JA-A)",
+    "titleReading": "びとまにあふぃふすみっくすtimetogetdown",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア フォースミックス -the beat goes on-",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "bm4thmix",
+    "note": "beatmania 4th MIX (ver JA-A)",
+    "titleReading": "びとまにあふぉすみっくすthebeatgoeson",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ファイナルファイトリベンジ",
+    "year": "1999",
+    "manufacturer": "カプコン",
+    "name": "ffreveng",
+    "note": "Final Fight Revenge (JUET 990930 V1.100)",
+    "titleReading": "ふぁいなるふぁいとりべんじ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "フレームガンナー",
+    "year": "1999",
+    "manufacturer": "ギャップス",
+    "name": "flamegun",
+    "note": "Flame Gunner",
+    "titleReading": "ふれむがんな",
+    "manufacturerReading": "ぎゃっぷす"
+  },
+  {
+    "title": "プレヒストリックアイル２ 原始島",
+    "year": "1999",
+    "manufacturer": "夢工房",
+    "name": "preisle2",
+    "note": "Prehistoric Isle 2",
+    "titleReading": "ぷれひすとりっくあいる2げんししま",
+    "manufacturerReading": "ゆめこうぼう"
+  },
+  {
+    "title": "ポップンステージＥＸ",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "popnstex",
+    "note": "Pop'n Stage EX (ver JB-A)",
+    "titleReading": "ぽっぷんすてじex",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ポップンミュージック２",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "popn2",
+    "note": "Pop'n Music 2 (ver JA-A)",
+    "titleReading": "ぽっぷんみゅじっく2",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ポップンミュージック３",
+    "year": "1999",
+    "manufacturer": "コナミ",
+    "name": "popn3",
+    "note": "Pop'n Music 3 (ver JA-A)",
+    "titleReading": "ぽっぷんみゅじっく3",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ミクロマン バトルチャージ",
+    "year": "1999",
+    "manufacturer": "セガ",
+    "name": "micrombc",
+    "note": "Microman Battle Charge (J 990326 V1.000)",
+    "titleReading": "みくろまんばとるちゃじ",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "リアルアンドフェイク フォトＹ２Ｋ",
+    "year": "1999",
+    "manufacturer": "IGS",
+    "name": "photoy2k",
+    "note": "Photo Y2K / Chaoji Bi Yi Bi / Dajia Lai Zhao Cha / Real and Fake (ver. 105)",
+    "titleReading": "りあるあんどふぇいくふぉとy2k",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "ロックン３",
+    "year": "1999",
+    "manufacturer": "ジャレコ",
+    "name": "rockn3",
+    "note": "Rock'n 3 (Japan)",
+    "titleReading": "ろっくん3",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ロックン・トレッド",
+    "year": "1999",
+    "manufacturer": "ジャレコ",
+    "name": "rockn",
+    "note": "Rock'n Tread (Japan)",
+    "titleReading": "ろっくんとれっど",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ロックン・トレッド２",
+    "year": "1999",
+    "manufacturer": "ジャレコ",
+    "name": "rockn2",
+    "note": "Rock'n Tread 2 (Japan)",
+    "titleReading": "ろっくんとれっど2",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ロックンメガセッション",
+    "year": "1999",
+    "manufacturer": "ジャレコ",
+    "name": "rocknms",
+    "note": "Rock'n MegaSession (Japan)",
+    "titleReading": "ろっくんめがせっしょん",
+    "manufacturerReading": "じゃれこ"
+  },
+  {
+    "title": "ロードバーナーズ",
+    "year": "1999",
+    "manufacturer": "アタリゲームズ",
+    "name": "roadburn",
+    "note": "Road Burners (ver 1.04)",
+    "titleReading": "ろどばなず",
+    "manufacturerReading": "あたりげえむず"
+  },
+  {
+    "title": "１on１ ガバメント",
+    "year": "2000",
+    "manufacturer": "ジョルダン",
+    "name": "1on1gov",
+    "note": "1 on 1 Government (Japan)",
+    "titleReading": "1on1がばめんと",
+    "manufacturerReading": "じょるだん"
+  },
+  {
+    "title": "ＴＨＥ ブロックくずし",
+    "year": "2000",
+    "manufacturer": "タムソフト / ディースリー･パブリッシャー",
+    "name": "tblkkuzu",
+    "note": "The Block Kuzushi (Japan)",
+    "titleReading": "theぶろっくくずし",
+    "manufacturerReading": "たむそふと/でぃすりでぃすりぱぶりっしゃ"
+  },
+  {
+    "title": "英雄傳説 -LEGEND OF HEROES-",
+    "year": "2000",
+    "manufacturer": "Limenko",
+    "name": "legendoh",
+    "note": "Legend of Heroes",
+    "titleReading": "えいゆうでんせつlegendofheroes",
+    "manufacturerReading": "limenko"
+  },
+  {
+    "title": "ガツン",
+    "year": "2000",
+    "manufacturer": "光遊社",
+    "name": "gutsn",
+    "note": "Guts'n (Japan)",
+    "titleReading": "がつん",
+    "manufacturerReading": "ひかりゆうしゃ"
+  },
+  {
+    "title": "グレート魔法大作戦",
+    "year": "2000",
+    "manufacturer": "エイティング / ライジング",
+    "name": "dimahoo",
+    "note": "Dimahoo (Euro 000121)",
+    "titleReading": "ぐれとまほうだいさくせん",
+    "manufacturerReading": "えいてぃんぐ/らいじんぐ"
+  },
+  {
+    "title": "グンペイ",
+    "year": "2000",
+    "manufacturer": "バンプレスト",
+    "name": "gunpey",
+    "note": "Gunpey (Japan)",
+    "titleReading": "ぐんぺい",
+    "manufacturerReading": "ばんぷれすと"
+  },
+  {
+    "title": "五月陣戦３ -本格早指し将棋-",
+    "year": "2000",
+    "manufacturer": "セタ",
+    "name": "mayjin3",
+    "note": "Mayjinsen 3",
+    "titleReading": "ごがつじんせん3ほんかくはやざししょうぎ",
+    "manufacturerReading": "せた"
+  },
+  {
+    "title": "サイヴァリア -MEDIUM UNIT-",
+    "year": "2000",
+    "manufacturer": "サクセス",
+    "name": "psyvaria",
+    "note": "Psyvariar -Medium Unit- (V2.02O 2000/02/22 13:00)",
+    "titleReading": "さいゔぁりあmediumunit",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "サイヴァリア リビジョン",
+    "year": "2000",
+    "manufacturer": "サクセス",
+    "name": "psyvarrv",
+    "note": "Psyvariar -Revision- (V2.04J 2000/08/11 22:00)",
+    "titleReading": "さいゔぁりありびじょん",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "サラリーマンチャンプ -たたかうサラリーマン-",
+    "year": "2000",
+    "manufacturer": "サクセス / プライムシステム",
+    "name": "salarymc",
+    "note": "Salary Man Champ (GCA18 VER. JAA)",
+    "titleReading": "さらりまんちゃんぷたたかうさらりまん",
+    "manufacturerReading": "さくせす/ぷらいむしすてむ"
+  },
+  {
+    "title": "上海 ～昇龍再臨～",
+    "year": "2000",
+    "manufacturer": "ワラシ（童）/ アクティビジョン",
+    "name": "shanghss",
+    "note": "Shanghai Shoryu Sairin (V2.03J 2000/05/26 12:45:28)",
+    "titleReading": "しゃんはい~のぼるりゅうさいりん~",
+    "manufacturerReading": "わらしわらべ/あくてぃびじょん"
+  },
+  {
+    "title": "蒼天龍",
+    "year": "2000",
+    "manufacturer": "ワラシ（童）",
+    "name": "soutenry",
+    "note": "Soutenryu (V2.07J 2000/12/14 11:13:02)",
+    "titleReading": "そうてんりゅう",
+    "manufacturerReading": "わらしわらべ"
+  },
+  {
+    "title": "団地でクイズ -奥さん4択ですよ！-",
+    "year": "2000",
+    "manufacturer": "アルトロン",
+    "name": "danchiq",
+    "note": "Danchi de Quiz: Okusan Yontaku Desuyo! (J 001128 V1.200)",
+    "titleReading": "だんちでくいずおくさん4たくですよ",
+    "manufacturerReading": "あるとろん"
+  },
+  {
+    "title": "ドラゴンブレイズ",
+    "year": "2000",
+    "manufacturer": "彩京",
+    "name": "dragnblz",
+    "note": "Dragon Blaze",
+    "titleReading": "どらごんぶれいず",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ビートマニア ｃｏｍｐｌｅｔｅ ＭＩＸ２",
+    "year": "2000",
+    "manufacturer": "コナミ",
+    "name": "bmcompm2",
+    "note": "beatmania complete MIX 2 (ver JA-A)",
+    "titleReading": "びとまにあcompletemix2",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニアfeat. ドリームズ・カム・トゥルー",
+    "year": "2000",
+    "manufacturer": "コナミ",
+    "name": "bmdct",
+    "note": "beatmania featuring Dreams Come True (ver JA-A)",
+    "titleReading": "びとまにあfeatどりむずかむとぅる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア クラブミックス",
+    "year": "2000",
+    "manufacturer": "コナミ",
+    "name": "bmclubmx",
+    "note": "beatmania Club MIX (ver JA-A)",
+    "titleReading": "びとまにあくらぶみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア コアミックス",
+    "year": "2000",
+    "manufacturer": "コナミ",
+    "name": "bmcorerm",
+    "note": "beatmania CORE REMIX (ver JA-A)",
+    "titleReading": "びとまにあこあみっくす",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア ツーディーエックス フォーススタイル",
+    "year": "2000",
+    "manufacturer": "コナミ",
+    "name": "bmiidx4",
+    "note": "beatmania IIDX 4th style (GCA03 JAA)",
+    "titleReading": "びとまにあつでぃえっくすふぉすすたいる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ヘッドパニック -ポリーとサリーの大冒険-",
+    "year": "2000",
+    "manufacturer": "ESD",
+    "name": "hedpanic",
+    "note": "Head Panic (ver. 0117, 17/01/2000)",
+    "titleReading": "へっどぱにっくぽりとさりのだいぼうけん",
+    "manufacturerReading": "esd"
+  },
+  {
+    "title": "マイティ・パン",
+    "year": "2000",
+    "manufacturer": "ミッチェル",
+    "name": "mpang",
+    "note": "Mighty! Pang (Euro 001010)",
+    "titleReading": "まいてぃぱん",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "三国戦紀２ -KNIGHTS OF VALOUR 武将争覇-",
+    "year": "2000",
+    "manufacturer": "IGS",
+    "name": "kov2",
+    "note": "Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)",
+    "titleReading": "みくにせんき2knightsofvalourぶしょうそうは",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "Ｖ-ライナー",
+    "year": "2001",
+    "manufacturer": "ダイナ",
+    "name": "vliner",
+    "note": "V-Liner (v0.7a)",
+    "titleReading": "vらいな",
+    "manufacturerReading": "だいな"
+  },
+  {
+    "title": "形意拳",
+    "year": "2001",
+    "manufacturer": "IGS",
+    "name": "martmast",
+    "note": "Martial Masters / Xing Yi Quan (ver. 104, 102, 102US)",
+    "titleReading": "かたちいけん",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "カプコン バーサス エス・エヌ・ケイ -ミレニアムファイト2000 プロ-",
+    "year": "2001",
+    "manufacturer": "カプコン",
+    "name": "cvsgd",
+    "note": "Capcom Vs. SNK Millennium Fight 2000 Pro (Japan) (GDL-0004)",
+    "titleReading": "かぷこんばさすえすえぬけいみれにあむふぁいと2000ぷろ",
+    "manufacturerReading": "かぷこん"
+  },
+  {
+    "title": "ガンバリッチ",
+    "year": "2001",
+    "manufacturer": "彩京",
+    "name": "gnbarich",
+    "note": "Gunbarich",
+    "titleReading": "がんばりっち",
+    "manufacturerReading": "さいきょう"
+  },
+  {
+    "title": "ザ・クリスタルオブキングス",
+    "year": "2001",
+    "manufacturer": "ブレッツァソフト",
+    "name": "crysking",
+    "note": "The Crystal of Kings",
+    "titleReading": "ざくりすたるおぶきんぐす",
+    "manufacturerReading": "ぶれっつぁそふと"
+  },
+  {
+    "title": "式神の城",
+    "year": "2001",
+    "manufacturer": "アルファ・システム",
+    "name": "shikigam",
+    "note": "Shikigami no Shiro (V2.03J 2001/08/07 18:11)",
+    "titleReading": "しきがみのしろ",
+    "manufacturerReading": "あるふぁしすてむ"
+  },
+  {
+    "title": "戦国伝承２００１",
+    "year": "2001",
+    "manufacturer": "ノイズファクトリー",
+    "name": "sengoku3",
+    "note": "Sengoku 3 / Sengoku Densho 2001 (set 1)",
+    "titleReading": "せんごくでんしょう2001",
+    "manufacturerReading": "のいずふぁくとり"
+  },
+  {
+    "title": "続・おてなみ拝見",
+    "year": "2001",
+    "manufacturer": "サクセス",
+    "name": "zokuoten",
+    "note": "Zoku Otenamihaiken (V2.03J 2001/02/16 16:00)",
+    "titleReading": "ぞくおてなみはいけん",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "ナイトレイド",
+    "year": "2001",
+    "manufacturer": "タクミ",
+    "name": "nightrai",
+    "note": "Night Raid (V2.03J 2001/02/26 17:00)",
+    "titleReading": "ないとれいど",
+    "manufacturerReading": "たくみ"
+  },
+  {
+    "title": "ねんど玉パズル お天気ころりん",
+    "year": "2001",
+    "manufacturer": "タクミ",
+    "name": "otenki",
+    "note": "Otenki Kororin (V2.01J 2001/07/02 10:00)",
+    "titleReading": "ねんどたまぱずるおてんきころりん",
+    "manufacturerReading": "たくみ"
+  },
+  {
+    "title": "パズループ ツー",
+    "year": "2001",
+    "manufacturer": "ミッチェル",
+    "name": "pzloop2",
+    "note": "Puzz Loop 2 (Euro 010302)",
+    "titleReading": "ぱずるぷつ",
+    "manufacturerReading": "みっちぇる"
+  },
+  {
+    "title": "ビートマニア ６ｔｈＭＩＸ -THE UK UNDERGROUND MUSIC-",
+    "year": "2001",
+    "manufacturer": "コナミ",
+    "name": "bm6thmix",
+    "note": "beatmania 6th MIX (ver JA-A)",
+    "titleReading": "びとまにあ6thmixtheukundergroundmusic",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア ７ｔｈＭＩＸ -keepin' evolution-",
+    "year": "2001",
+    "manufacturer": "コナミ",
+    "name": "bm7thmix",
+    "note": "beatmania 7th MIX (ver JA-B)",
+    "titleReading": "びとまにあ7thmixkeepin'evolution",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア  ツーディーエックス シックスススタイル",
+    "year": "2001",
+    "manufacturer": "コナミ",
+    "name": "bmiidx6",
+    "note": "beatmania IIDX 6th style (GCB4U JAB)",
+    "titleReading": "びとまにあつでぃえっくすしっくすすすたいる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "モンスターファームジャンプ",
+    "year": "2001",
+    "manufacturer": "テクモ",
+    "name": "mfjump",
+    "note": "Monster Farm Jump (Japan)",
+    "titleReading": "もんすたふぁむじゃんぷ",
+    "manufacturerReading": "てくも"
+  },
+  {
+    "title": "Ｇストリーム -G2020-",
+    "year": "2002",
+    "manufacturer": "ネクセス / Oriental Soft",
+    "name": "gstream",
+    "note": "G-Stream G2020",
+    "titleReading": "gすとりむg2020",
+    "manufacturerReading": "ねくせす/orientalsoft"
+  },
+  {
+    "title": "上海 ～三国牌闘儀～",
+    "year": "2002",
+    "manufacturer": "ワラシ（童）/ サン電子（サンソフト）",
+    "name": "shangtou",
+    "note": "Shanghai Sangokuhai Tougi (Ver 2.01J 2002/01/18 18:26:58)",
+    "titleReading": "しゃんはい~みくにぱいとうぎ~",
+    "manufacturerReading": "わらしわらべ/さんでんしさんそふと"
+  },
+  {
+    "title": "新豪血寺一族 闘婚  ～Matrimelee～",
+    "year": "2002",
+    "manufacturer": "ノイズファクトリー",
+    "name": "matrim",
+    "note": "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660)",
+    "titleReading": "しんごうけつじいちぞくとうこん~matrimelee~",
+    "manufacturerReading": "のいずふぁくとり"
+  },
+  {
+    "title": "デーモンフロント（魔域戰線）",
+    "year": "2002",
+    "manufacturer": "IGS",
+    "name": "dmnfrnt",
+    "note": "Demon Front / Moyu Zhanxian (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX)",
+    "titleReading": "でもんふろんとまいきせんせん",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "トゥエルブスタッグ",
+    "year": "2002",
+    "manufacturer": "トライアングル･サービス",
+    "name": "xiistag",
+    "note": "XII Stag (V2.01J 2002/6/26 22:27)",
+    "titleReading": "とぅえるぶすたっぐ",
+    "manufacturerReading": "とらいあんぐるとらいあんぐるさびす"
+  },
+  {
+    "title": "ビートマニア ザ ファイナル",
+    "year": "2002",
+    "manufacturer": "コナミ",
+    "name": "bmfinal",
+    "note": "beatmania THE FINAL (ver JA-A)",
+    "titleReading": "びとまにあざふぁいなる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア ツーディーエックス エイススタイル",
+    "year": "2002",
+    "manufacturer": "コナミ",
+    "name": "bmiidx8",
+    "note": "beatmania IIDX 8th style (GCC44 JAA)",
+    "titleReading": "びとまにあつでぃえっくすえいすすたいる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "ビートマニア ツーディーエックス セブンススタイル",
+    "year": "2002",
+    "manufacturer": "コナミ",
+    "name": "bmiidx7",
+    "note": "beatmania IIDX 7th style (GCB44 JAA)",
+    "titleReading": "びとまにあつでぃえっくすせぶんすすたいる",
+    "manufacturerReading": "こなみ"
+  },
+  {
+    "title": "レイジ・オブ・ザ・ドラゴンズ",
+    "year": "2002",
+    "manufacturer": "Evoga / Playmore",
+    "name": "rotd",
+    "note": "Rage of the Dragons (NGM-2640?)",
+    "titleReading": "れいじおぶざどらごんず",
+    "manufacturerReading": "evoga/playmore"
+  },
+  {
+    "title": "臥虎蔵龍 CROUCHING TIGER HIDDEN DRAGON 2003",
+    "year": "2003",
+    "manufacturer": "セガ",
+    "name": "cthd2003",
+    "note": "Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg)",
+    "titleReading": "がとらぞうりゅうcrouchingtigerhiddendragon2003",
+    "manufacturerReading": "せが"
+  },
+  {
+    "title": "くるくるフィーバー",
+    "year": "2003",
+    "manufacturer": "タクミ",
+    "name": "kurufev",
+    "note": "Kurukuru Fever",
+    "titleReading": "くるくるふぃば",
+    "manufacturerReading": "たくみ"
+  },
+  {
+    "title": "ころん",
+    "year": "2003",
+    "manufacturer": "サイバーフロント / マジックポット",
+    "name": "kollon",
+    "note": "Kollon (V2.04JA 2003/11/01 12:00)",
+    "titleReading": "ころん",
+    "manufacturerReading": "さいばふろんと/まじっくぽっと"
+  },
+  {
+    "title": "タワー＆シャフト -アレック ボードンと不愉快な仲間たち-",
+    "year": "2003",
+    "manufacturer": "アルゼ",
+    "name": "twrshaft",
+    "note": "Tower & Shaft",
+    "titleReading": "たわ&しゃふとあれっくぼどんとふゆかいななかまたち",
+    "manufacturerReading": "あるぜ"
+  },
+  {
+    "title": "闘幻狂 -ROAD OF THE SWORD-",
+    "year": "2003",
+    "manufacturer": "IGS",
+    "name": "theglad",
+    "note": "The Gladiator / Shen Jian Fu Mo Lu / Shen Jian Fengyun (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107)",
+    "titleReading": "とうまぼろしきょうroadofthesword",
+    "manufacturerReading": "igs"
+  },
+  {
+    "title": "ドンちゃんパズル 花火でドーン！",
+    "year": "2003",
+    "manufacturer": "タクミ",
+    "name": "doncdoon",
+    "note": "Hanabi de Doon! - Don-chan Puzzle",
+    "titleReading": "どんちゃんぱずるはなびでどん",
+    "manufacturerReading": "たくみ"
+  },
+  {
+    "title": "アクションパズルゲーム “ズー”",
+    "year": "2004",
+    "manufacturer": "サクセス / バディーズ",
+    "name": "zooo",
+    "note": "Zooo (V2.01JA 2004/04/13 12:00)",
+    "titleReading": "あくしょんぱずるげむ“ず”",
+    "manufacturerReading": "さくせす/ばでぃず"
+  },
+  {
+    "title": "大大革命 - DAI-DAI-KAKUMEI -",
+    "year": "2004",
+    "manufacturer": "システム･BIT",
+    "name": "dai2kaku",
+    "note": "Dai-Dai-Kakumei (Japan)",
+    "titleReading": "だいだいかくめいdaidaikakumei",
+    "manufacturerReading": "しすてむしすてむbit"
+  },
+  {
+    "title": "フィーバーサッカー",
+    "year": "2004",
+    "manufacturer": "セイブ開発",
+    "name": "feversoc",
+    "note": "Fever Soccer",
+    "titleReading": "ふぃばさっか",
+    "manufacturerReading": "せいぶかいはつ"
+  },
+  {
+    "title": "おてなみ拝見ファイナル",
+    "year": "2005",
+    "manufacturer": "サクセス",
+    "name": "otenamhf",
+    "note": "Otenami Haiken Final (V2.07JC 2005/04/20 15:36)",
+    "titleReading": "おてなみはいけんふぁいなる",
+    "manufacturerReading": "さくせす"
+  },
+  {
+    "title": "スペクトラル ＶＳ ジェネレーション",
+    "year": "2005",
+    "manufacturer": "アイディアファクトリー",
+    "name": "svg",
+    "note": "S.V.G. - Spectral vs Generation / Sheng Mo Shiji (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201)",
+    "titleReading": "すぺくとらるvsじぇねれしょん",
+    "manufacturerReading": "あいでぃあふぁくとり"
+  },
+  {
+    "title": "キュービーボップ",
+    "year": "不明",
+    "manufacturer": "ホット･ビィ",
+    "name": "cubybop",
+    "note": "Cuby Bop (location test)",
+    "titleReading": "きゅびぼっぷ",
+    "manufacturerReading": "ほっとほっとびぃ"
+  },
+  {
+    "title": "タイムアタッカー",
+    "year": "不明",
+    "manufacturer": "湘南技術研究所",
+    "name": "tattack",
+    "note": "Time Attacker",
+    "titleReading": "たいむあたっか",
+    "manufacturerReading": "しょうなんぎじゅつけんきゅうしょ"
+  },
+  {
+    "title": "チェリーボーナス III",
+    "year": "不明",
+    "manufacturer": "ダイナ",
+    "name": "ncb3",
+    "note": "Cherry Bonus III (ver.1.40, set 1)",
+    "titleReading": "ちぇりぼなすiii",
+    "manufacturerReading": "だいな"
+  },
+  {
+    "title": "メオシス・マジック",
+    "year": "不明",
+    "manufacturer": "スカラベ",
+    "name": "meosism",
+    "note": "Meosis Magic (Japan)",
+    "titleReading": "めおしすまじっく",
+    "manufacturerReading": "すからべ"
   }
 ];
